@@ -1,66 +1,66 @@
-register_semester_code,keluar_semester_code,tahun_lulus,semester,program_studi,jenis_daftar,jumlah_lulusan
-20222,20251,2025,Ganjil,Desain Komunikasi Visual,Pindahan,1
-20211,20251,2025,Ganjil,Manajemen Rekayasa,Peserta didik baru,5
-20211,20251,2025,Ganjil,Teknik Industri,Peserta didik baru,13
-20211,20251,2025,Ganjil,Sistem Informasi,Pindahan,1
-20211,20251,2025,Ganjil,Teknik Komputer,Peserta didik baru,1
-20211,20251,2025,Ganjil,Matematika,Peserta didik baru,3
-20211,20251,2025,Ganjil,Sistem Informasi,Peserta didik baru,9
-20201,20251,2025,Ganjil,Manajemen Rekayasa,Peserta didik baru,2
-20201,20251,2025,Ganjil,Teknik Komputer,Peserta didik baru,1
-20201,20251,2025,Ganjil,Sistem Informasi,Peserta didik baru,5
-20201,20251,2025,Ganjil,Matematika,Peserta didik baru,3
-20191,20251,2025,Ganjil,Sistem Informasi,Peserta didik baru,1
-20191,20251,2025,Ganjil,Teknik Komputer,Peserta didik baru,1
-20191,20251,2025,Ganjil,Manajemen Rekayasa,Peserta didik baru,3
-20191,20251,2025,Ganjil,Teknik Industri,Peserta didik baru,1
-20191,20251,2025,Ganjil,Desain Komunikasi Visual,Peserta didik baru,1
-20241,20242,2024,Genap,Teknik Industri,Pindahan,1
-20221,20242,2024,Genap,Manajemen Rekayasa,Pindahan,1
-20211,20242,2024,Genap,Desain Komunikasi Visual,Peserta didik baru,31
-20211,20242,2024,Genap,Manajemen Rekayasa,Peserta didik baru,16
-20211,20242,2024,Genap,Teknik Industri,Peserta didik baru,2
-20211,20242,2024,Genap,Matematika,Peserta didik baru,13
-20211,20242,2024,Genap,Sistem Informasi,Peserta didik baru,20
-20211,20242,2024,Genap,Teknik Komputer,Peserta didik baru,12
-20201,20242,2024,Genap,Desain Komunikasi Visual,Peserta didik baru,4
-20201,20242,2024,Genap,Sistem Informasi,Peserta didik baru,4
-20201,20242,2024,Genap,Teknik Industri,Peserta didik baru,2
-20201,20242,2024,Genap,Manajemen Rekayasa,Peserta didik baru,2
-20191,20242,2024,Genap,Teknik Komputer,Peserta didik baru,1
-20181,20242,2024,Genap,Teknik Industri,Peserta didik baru,2
-20232,20241,2024,Ganjil,Sistem Informasi,Pindahan,1
-20201,20241,2024,Ganjil,Desain Komunikasi Visual,Peserta didik baru,1
-20201,20241,2024,Ganjil,Matematika,Peserta didik baru,4
-20201,20241,2024,Ganjil,Sistem Informasi,Peserta didik baru,17
-20201,20241,2024,Ganjil,Teknik Industri,Peserta didik baru,18
-20191,20241,2024,Ganjil,Desain Komunikasi Visual,Peserta didik baru,1
-20191,20241,2024,Ganjil,Matematika,Peserta didik baru,2
-20191,20241,2024,Ganjil,Sistem Informasi,Peserta didik baru,2
-20191,20241,2024,Ganjil,Teknik Industri,Peserta didik baru,1
-20181,20241,2024,Ganjil,Sistem Informasi,Peserta didik baru,1
-20201,20232,2023,Genap,Desain Komunikasi Visual,Peserta didik baru,19
-20201,20232,2023,Genap,Teknik Industri,Peserta didik baru,16
-20201,20232,2023,Genap,Manajemen Rekayasa,Peserta didik baru,13
-20201,20232,2023,Genap,Matematika,Peserta didik baru,12
-20201,20232,2023,Genap,Sistem Informasi,Peserta didik baru,8
-20201,20232,2023,Genap,Teknik Komputer,Peserta didik baru,13
-20191,20232,2023,Genap,Manajemen Rekayasa,Peserta didik baru,2
-20191,20232,2023,Genap,Teknik Komputer,Peserta didik baru,3
-20191,20232,2023,Genap,Desain Komunikasi Visual,Peserta didik baru,11
-20181,20232,2023,Genap,Desain Komunikasi Visual,Peserta didik baru,1
-20211,20231,2023,Ganjil,Sistem Informasi,Pindahan,1
-20191,20231,2023,Ganjil,Matematika,Peserta didik baru,9
-20191,20231,2023,Ganjil,Teknik Komputer,Peserta didik baru,13
-20191,20231,2023,Ganjil,Sistem Informasi,Peserta didik baru,11
-20191,20231,2023,Ganjil,Teknik Industri,Peserta didik baru,12
-20191,20231,2023,Ganjil,Manajemen Rekayasa,Peserta didik baru,11
-20181,20231,2023,Ganjil,Matematika,Peserta didik baru,1
-20181,20231,2023,Ganjil,Manajemen Rekayasa,Peserta didik baru,2
-20181,20231,2023,Ganjil,Teknik Industri,Peserta didik baru,3
-20191,20222,2022,Genap,Desain Komunikasi Visual,Peserta didik baru,15
-20181,20222,2022,Genap,Desain Komunikasi Visual,Peserta didik baru,2
-20181,20221,2022,Ganjil,Manajemen Rekayasa,Peserta didik baru,2
-20181,20221,2022,Ganjil,Teknik Komputer,Peserta didik baru,5
-20181,20221,2022,Ganjil,Sistem Informasi,Peserta didik baru,14
-20181,20221,2022,Ganjil,Teknik Industri,Peserta didik baru,10
+register_semester_code,keluar_semester_code,tahun_lulus,program_studi,jenis_daftar,jumlah_lulusan
+20222,20251,2025,Desain Komunikasi Visual,Pindahan,1
+20211,20251,2025,Manajemen Rekayasa,Peserta didik baru,5
+20211,20251,2025,Teknik Industri,Peserta didik baru,13
+20211,20251,2025,Sistem Informasi,Pindahan,1
+20211,20251,2025,Teknik Komputer,Peserta didik baru,1
+20211,20251,2025,Matematika,Peserta didik baru,3
+20211,20251,2025,Sistem Informasi,Peserta didik baru,9
+20201,20251,2025,Manajemen Rekayasa,Peserta didik baru,2
+20201,20251,2025,Teknik Komputer,Peserta didik baru,1
+20201,20251,2025,Sistem Informasi,Peserta didik baru,5
+20201,20251,2025,Matematika,Peserta didik baru,3
+20191,20251,2025,Sistem Informasi,Peserta didik baru,1
+20191,20251,2025,Teknik Komputer,Peserta didik baru,1
+20191,20251,2025,Manajemen Rekayasa,Peserta didik baru,3
+20191,20251,2025,Teknik Industri,Peserta didik baru,1
+20191,20251,2025,Desain Komunikasi Visual,Peserta didik baru,1
+20241,20242,2024,Teknik Industri,Pindahan,1
+20221,20242,2024,Manajemen Rekayasa,Pindahan,1
+20211,20242,2024,Desain Komunikasi Visual,Peserta didik baru,31
+20211,20242,2024,Manajemen Rekayasa,Peserta didik baru,16
+20211,20242,2024,Teknik Industri,Peserta didik baru,2
+20211,20242,2024,Matematika,Peserta didik baru,13
+20211,20242,2024,Sistem Informasi,Peserta didik baru,20
+20211,20242,2024,Teknik Komputer,Peserta didik baru,12
+20201,20242,2024,Desain Komunikasi Visual,Peserta didik baru,4
+20201,20242,2024,Sistem Informasi,Peserta didik baru,4
+20201,20242,2024,Teknik Industri,Peserta didik baru,2
+20201,20242,2024,Manajemen Rekayasa,Peserta didik baru,2
+20191,20242,2024,Teknik Komputer,Peserta didik baru,1
+20181,20242,2024,Teknik Industri,Peserta didik baru,2
+20232,20241,2024,Sistem Informasi,Pindahan,1
+20201,20241,2024,Desain Komunikasi Visual,Peserta didik baru,1
+20201,20241,2024,Matematika,Peserta didik baru,4
+20201,20241,2024,Sistem Informasi,Peserta didik baru,17
+20201,20241,2024,Teknik Industri,Peserta didik baru,18
+20191,20241,2024,Desain Komunikasi Visual,Peserta didik baru,1
+20191,20241,2024,Matematika,Peserta didik baru,2
+20191,20241,2024,Sistem Informasi,Peserta didik baru,2
+20191,20241,2024,Teknik Industri,Peserta didik baru,1
+20181,20241,2024,Sistem Informasi,Peserta didik baru,1
+20201,20232,2023,Desain Komunikasi Visual,Peserta didik baru,19
+20201,20232,2023,Teknik Industri,Peserta didik baru,16
+20201,20232,2023,Manajemen Rekayasa,Peserta didik baru,13
+20201,20232,2023,Matematika,Peserta didik baru,12
+20201,20232,2023,Sistem Informasi,Peserta didik baru,8
+20201,20232,2023,Teknik Komputer,Peserta didik baru,13
+20191,20232,2023,Manajemen Rekayasa,Peserta didik baru,2
+20191,20232,2023,Teknik Komputer,Peserta didik baru,3
+20191,20232,2023,Desain Komunikasi Visual,Peserta didik baru,11
+20181,20232,2023,Desain Komunikasi Visual,Peserta didik baru,1
+20211,20231,2023,Sistem Informasi,Pindahan,1
+20191,20231,2023,Matematika,Peserta didik baru,9
+20191,20231,2023,Teknik Komputer,Peserta didik baru,13
+20191,20231,2023,Sistem Informasi,Peserta didik baru,11
+20191,20231,2023,Teknik Industri,Peserta didik baru,12
+20191,20231,2023,Manajemen Rekayasa,Peserta didik baru,11
+20181,20231,2023,Matematika,Peserta didik baru,1
+20181,20231,2023,Manajemen Rekayasa,Peserta didik baru,2
+20181,20231,2023,Teknik Industri,Peserta didik baru,3
+20191,20222,2022,Desain Komunikasi Visual,Peserta didik baru,15
+20181,20222,2022,Desain Komunikasi Visual,Peserta didik baru,2
+20181,20221,2022,Manajemen Rekayasa,Peserta didik baru,2
+20181,20221,2022,Teknik Komputer,Peserta didik baru,5
+20181,20221,2022,Sistem Informasi,Peserta didik baru,14
+20181,20221,2022,Teknik Industri,Peserta didik baru,10
