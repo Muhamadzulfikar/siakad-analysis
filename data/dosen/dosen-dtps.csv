@@ -1,1309 +1,1309 @@
-,prodi,semester_kelas,year_of_study,matakuliah,name,jenjang_pendidikan
-0,Perdagangan Internasional,20261,2026,Matematika Bisnis,Dely Indah Sari,S2
-1,Bisnis Digital,20261,2026,Manajemen Keuangan,Dely Indah Sari,S2
-2,Bisnis Digital,20261,2026,Statistika Ekonomi dan Bisnis,Dely Indah Sari,S2
-3,Bisnis Digital,20261,2026,Metode Penelitian,Dely Indah Sari,S2
-4,Bisnis Digital,20252,2025,Financial Technology,Dely Indah Sari,S2
-5,Bisnis Digital,20251,2025,Manajemen Keuangan,Dely Indah Sari,S2
-6,Bisnis Digital,20252,2025,Manajemen Operasi,Dely Indah Sari,S2
-7,Bisnis Digital,20242,2024,Manajemen Operasi,Dely Indah Sari,S2
-8,Bisnis Digital,20242,2024,Arsitektur Teknologi,Dely Indah Sari,S2
-9,Bisnis Digital,20241,2024,Statistika Ekonomi dan Bisnis,Dely Indah Sari,S2
-10,Bisnis Digital,20251,2025,Statistika Ekonomi dan Bisnis,Dely Indah Sari,S2
-11,Perdagangan Internasional,20242,2024,Introduction to Information Technology,Dely Indah Sari,S2
-12,Perdagangan Internasional,20251,2025,Business Mathematics,Dely Indah Sari,S2
-13,Perdagangan Internasional,20231,2023,Business Mathematics,Dely Indah Sari,S2
-14,Perdagangan Internasional,20241,2024,Business Mathematics,Dely Indah Sari,S2
-15,Perdagangan Internasional,20232,2023,Matematics of Finance,Dely Indah Sari,S2
-16,Perdagangan Internasional,20252,2025,Matematics of Finance,Dely Indah Sari,S2
-17,Desain Komunikasi Visual,20222,2022,Manajemen Bisnis Desain,Dely Indah Sari,S2
-18,Desain Komunikasi Visual,20232,2023,Manajemen Bisnis Desain,Dely Indah Sari,S2
-19,Desain Komunikasi Visual,20242,2024,Manajemen Bisnis Desain,Dely Indah Sari,S2
-20,Sistem Informasi,20222,2022,Kecakapan Antar Personal,Dely Indah Sari,S2
-21,Sistem Informasi,20221,2022,Perbankan,Dely Indah Sari,S2
-22,Manajemen Rekayasa,20222,2022,Manajemen Sumber Daya Manusia,Dely Indah Sari,S2
-23,Manajemen Rekayasa,20231,2023,Perancangan Organisasi dan Proses Bisnis,Dely Indah Sari,S2
-24,Matematika,20231,2023,Technopreneurship,Dely Indah Sari,S2
-25,Teknik Industri,20241,2024,Praktikum Sistem Basis Data,Dely Indah Sari,S2
-26,Teknik Industri,20241,2024,Sistem Basis Data,Dely Indah Sari,S2
-27,Desain Komunikasi Visual,20232,2023,Teori Media,Hendri Kremer,S2
-28,Desain Komunikasi Visual,20242,2024,Teori Media,Hendri Kremer,S2
-29,Desain Komunikasi Visual,20222,2022,Teori Media,Hendri Kremer,S2
-30,Desain Komunikasi Visual,20241,2024,Bahasa Indonesia,Hendri Kremer,S2
-31,Desain Komunikasi Visual,20231,2023,Bahasa Indonesia,Hendri Kremer,S2
-32,Desain Komunikasi Visual,20222,2022,Kewarganegaraan,Hendri Kremer,S2
-33,Desain Komunikasi Visual,20242,2024,Kewarganegaraan,Hendri Kremer,S2
-34,Desain Komunikasi Visual,20232,2023,Kewarganegaraan,Hendri Kremer,S2
-35,Desain Komunikasi Visual,20221,2022,Bahasa Indonesia,Hendri Kremer,S2
-36,Desain Komunikasi Visual,20221,2022,Proses Komunikasi,Hendri Kremer,S2
-37,Desain Komunikasi Visual,20241,2024,Proses Komunikasi,Hendri Kremer,S2
-38,Desain Komunikasi Visual,20231,2023,Proses Komunikasi,Hendri Kremer,S2
-39,Desain Komunikasi Visual,20221,2022,Pancasila,Hendri Kremer,S2
-40,Desain Komunikasi Visual,20241,2024,Pancasila,Hendri Kremer,S2
-41,Desain Komunikasi Visual,20231,2023,Pancasila,Hendri Kremer,S2
-42,Sistem Informasi,20222,2022,Kewarganegaraan,Hendri Kremer,S2
-43,Sistem Informasi,20242,2024,Kewarganegaraan,Hendri Kremer,S2
-44,Sistem Informasi,20232,2023,Kewarganegaraan,Hendri Kremer,S2
-45,Sistem Informasi,20231,2023,Bahasa Indonesia,Hendri Kremer,S2
-46,Sistem Informasi,20241,2024,Bahasa Indonesia,Hendri Kremer,S2
-47,Sistem Informasi,20231,2023,Pancasila,Hendri Kremer,S2
-48,Sistem Informasi,20241,2024,Pancasila,Hendri Kremer,S2
-49,Teknik Industri,20241,2024,Pancasila,Hendri Kremer,S2
-50,Teknik Industri,20231,2023,Pancasila,Hendri Kremer,S2
-51,Teknik Industri,20241,2024,Bahasa Indonesia,Hendri Kremer,S2
-52,Teknik Industri,20231,2023,Bahasa Indonesia,Hendri Kremer,S2
-53,Sistem Informasi,20261,2026,Algoritma dan Dasar Pemrograman,Refli Noviardi,S2
-54,Teknik Komputer,20261,2026,Keterampilan Komunikasi Profesional,Refli Noviardi,S2
-55,Teknik Komputer,20251,2025,Communication Skill,Refli Noviardi,S2
-56,Teknik Komputer,20231,2023,Communication Skill,Refli Noviardi,S2
-57,Teknik Komputer,20241,2024,Communication Skill,Refli Noviardi,S2
-58,Teknik Komputer,20231,2023,Sistem Operasi,Refli Noviardi,S2
-59,Sistem Informasi,20252,2025,Manajemen Proyek SI,Refli Noviardi,S2
-60,Sistem Informasi,20232,2023,Manajemen Proyek SI,Refli Noviardi,S2
-61,Sistem Informasi,20242,2024,Manajemen Proyek SI,Refli Noviardi,S2
-62,Sistem Informasi,20232,2023,Arsitektur SI/TI Perusahaan,Refli Noviardi,S2
-63,Sistem Informasi,20251,2025,Komputer dan Masyarakat,Refli Noviardi,S2
-64,Sistem Informasi,20241,2024,Komputer dan Masyarakat,Refli Noviardi,S2
-65,Sistem Informasi,20252,2025,Kecakapan Antar Personal,Refli Noviardi,S2
-66,Sistem Informasi,20232,2023,Kecakapan Antar Personal,Refli Noviardi,S2
-67,Sistem Informasi,20242,2024,Kecakapan Antar Personal,Refli Noviardi,S2
-68,Sistem Informasi,20251,2025,Perencanaan Strategis Sistem Informasi,Refli Noviardi,S2
-69,Sistem Informasi,20231,2023,Perencanaan Strategis Sistem Informasi,Refli Noviardi,S2
-70,Sistem Informasi,20241,2024,Perencanaan Strategis Sistem Informasi,Refli Noviardi,S2
-71,Matematika,20261,2026,Matematika Diskrit,Vitri Aprilla Handayani,S2
-72,Matematika,20261,2026,Analisis Runtun Waktu,Vitri Aprilla Handayani,S2
-73,Teknik Komputer,20261,2026,Matematika Diskrit,Vitri Aprilla Handayani,S2
-74,Teknik Komputer,20242,2024,Statistika dan Probabilitas,Vitri Aprilla Handayani,S2
-75,Teknik Komputer,20252,2025,Statistika dan Probabilitas,Vitri Aprilla Handayani,S2
-76,Teknik Komputer,20251,2025,Matematika Diskrit,Vitri Aprilla Handayani,S2
-77,Sistem Informasi,20222,2022,Matematika Diskrit,Vitri Aprilla Handayani,S2
-78,Manajemen Rekayasa,20222,2022,Praktikum Analitik Data,Vitri Aprilla Handayani,S2
-79,Manajemen Rekayasa,20222,2022,Analitik Data,Vitri Aprilla Handayani,S2
-80,Matematika,20231,2023,Pengenalan Komputasi,Vitri Aprilla Handayani,S2
-81,Matematika,20221,2022,Tugas Akhir,Vitri Aprilla Handayani,S2
-82,Matematika,20252,2025,Metode Statistika,Vitri Aprilla Handayani,S2
-83,Matematika,20242,2024,Metode Statistika,Vitri Aprilla Handayani,S2
-84,Matematika,20222,2022,Metode Statistika,Vitri Aprilla Handayani,S2
-85,Matematika,20232,2023,Metode Statistika,Vitri Aprilla Handayani,S2
-86,Matematika,20232,2023,Desain Eksperiman,Vitri Aprilla Handayani,S2
-87,Matematika,20242,2024,Desain Eksperiman,Vitri Aprilla Handayani,S2
-88,Matematika,20252,2025,Desain Eksperiman,Vitri Aprilla Handayani,S2
-89,Matematika,20241,2024,Teknik Sampling,Vitri Aprilla Handayani,S2
-90,Matematika,20231,2023,Teknik Sampling,Vitri Aprilla Handayani,S2
-91,Matematika,20221,2022,Teknik Sampling,Vitri Aprilla Handayani,S2
-92,Matematika,20231,2023,Matematika Diskrit,Vitri Aprilla Handayani,S2
-93,Matematika,20221,2022,Matematika Diskrit,Vitri Aprilla Handayani,S2
-94,Matematika,20241,2024,Matematika Diskrit,Vitri Aprilla Handayani,S2
-95,Matematika,20251,2025,Analisis Perancangan Survey,Vitri Aprilla Handayani,S2
-96,Matematika,20231,2023,Analisis Perancangan Survey,Vitri Aprilla Handayani,S2
-97,Matematika,20251,2025,Analisis Runtun Waktu,Vitri Aprilla Handayani,S2
-98,Matematika,20261,2026,Kalkulus Peubah Banyak,Sabarinsyah,S3
-99,Matematika,20261,2026,Analisis Kompleks,Sabarinsyah,S3
-100,Matematika,20261,2026,Aljabar Linier,Sabarinsyah,S3
-101,Manajemen Rekayasa,20261,2026,Aljabar Linier,Sabarinsyah,S3
-102,Sistem Informasi,20231,2023,Kalkulus,Sabarinsyah,S3
-103,Matematika,20252,2025,Pengantar Persamaan Diferensial,Sabarinsyah,S3
-104,Matematika,20222,2022,Pengantar Persamaan Diferensial,Sabarinsyah,S3
-105,Matematika,20232,2023,Pengantar Persamaan Diferensial,Sabarinsyah,S3
-106,Matematika,20242,2024,Pengantar Persamaan Diferensial,Sabarinsyah,S3
-107,Matematika,20242,2024,Aljabar Linear Elementer,Sabarinsyah,S3
-108,Matematika,20252,2025,Aljabar Linear Elementer,Sabarinsyah,S3
-109,Matematika,20232,2023,Aljabar Linear Elementer,Sabarinsyah,S3
-110,Matematika,20222,2022,Aljabar Linear Elementer,Sabarinsyah,S3
-111,Matematika,20242,2024,Pemodelan Matematika,Sabarinsyah,S3
-112,Matematika,20222,2022,Pemodelan Matematika,Sabarinsyah,S3
-113,Matematika,20252,2025,Pemodelan Matematika,Sabarinsyah,S3
-114,Matematika,20232,2023,Pemodelan Matematika,Sabarinsyah,S3
-115,Matematika,20231,2023,Aljabar Linier,Sabarinsyah,S3
-116,Matematika,20241,2024,Aljabar Linier,Sabarinsyah,S3
-117,Matematika,20251,2025,Aljabar Linier,Sabarinsyah,S3
-118,Matematika,20221,2022,Aljabar Linier,Sabarinsyah,S3
-119,Matematika,20241,2024,Kalkulus Peubah Banyak,Sabarinsyah,S3
-120,Matematika,20251,2025,Kalkulus Peubah Banyak,Sabarinsyah,S3
-121,Matematika,20231,2023,Matematika I,Sabarinsyah,S3
-122,Matematika,20231,2023,Analisis Kompleks,Sabarinsyah,S3
-123,Matematika,20251,2025,Analisis Kompleks,Sabarinsyah,S3
-124,Matematika,20221,2022,Analisis Kompleks,Sabarinsyah,S3
-125,Matematika,20241,2024,Analisis Kompleks,Sabarinsyah,S3
-126,Teknik Industri,20261,2026,Logistik dan Sistem Rantai Pasok,Taufiq Rahman,S2
-127,Teknik Industri,20251,2025,Sistem Rantai Pasok,Taufiq Rahman,S2
-128,Teknik Industri,20231,2023,Sistem Rantai Pasok,Taufiq Rahman,S2
-129,Teknik Industri,20241,2024,Sistem Rantai Pasok,Taufiq Rahman,S2
-130,Teknik Industri,20231,2023,Sistem Persediaan,Taufiq Rahman,S2
-131,Teknik Industri,20251,2025,Sistem Persediaan,Taufiq Rahman,S2
-132,Teknik Industri,20241,2024,Sistem Persediaan,Taufiq Rahman,S2
-133,Teknik Industri,20232,2023,Perencanaan dan Pengendalian Produksi,Taufiq Rahman,S2
-134,Teknik Industri,20252,2025,Perencanaan dan Pengendalian Produksi,Taufiq Rahman,S2
-135,Teknik Industri,20221,2022,Perencanaan dan Pengendalian Produksi,Taufiq Rahman,S2
-136,Teknik Industri,20242,2024,Perencanaan dan Pengendalian Produksi,Taufiq Rahman,S2
-137,Teknik Industri,20222,2022,Perencanaan dan Pengendalian Produksi,Taufiq Rahman,S2
-138,Teknik Industri,20222,2022,Praktikum Perancangan Sistem Terintegrasi,Taufiq Rahman,S2
-139,Teknik Industri,20232,2023,Praktikum Perancangan Sistem Terintegrasi,Taufiq Rahman,S2
-140,Teknik Industri,20231,2023,Rantai Pasok Berkelanjutan,Taufiq Rahman,S2
-141,Teknik Industri,20222,2022,Metodologi Penelitian,Taufiq Rahman,S2
-142,Teknik Industri,20221,2022,Metodologi Penelitian,Taufiq Rahman,S2
-143,Teknik Industri,20222,2022,Sistem Distribusi dan Transportasi,Taufiq Rahman,S2
-144,Teknik Industri,20242,2024,Sistem Distribusi dan Transportasi,Taufiq Rahman,S2
-145,Teknik Industri,20232,2023,Sistem Distribusi dan Transportasi,Taufiq Rahman,S2
-146,Teknik Industri,20221,2022,Statistika Industri,Taufiq Rahman,S2
-147,Teknik Industri,20251,2025,Statistika Industri,Taufiq Rahman,S2
-148,Teknik Industri,20241,2024,Statistika Industri,Taufiq Rahman,S2
-149,Sistem Informasi,20261,2026,Sistem Basis Data,Luki Hernando,S2
-150,Teknik Komputer,20261,2026,Pemrograman Berorientasi Objek,Luki Hernando,S2
-151,Teknik Komputer,20261,2026,Pengantar Teknik Komputer,Luki Hernando,S2
-152,Teknik Komputer,20222,2022,Etika dan Profesi,Luki Hernando,S2
-153,Teknik Komputer,20242,2024,Etika dan Profesi,Luki Hernando,S2
-154,Teknik Komputer,20232,2023,Etika dan Profesi,Luki Hernando,S2
-155,Teknik Komputer,20252,2025,Etika dan Profesi,Luki Hernando,S2
-156,Teknik Komputer,20252,2025,Basis Data,Luki Hernando,S2
-157,Teknik Komputer,20222,2022,Basis Data,Luki Hernando,S2
-158,Teknik Komputer,20232,2023,Basis Data,Luki Hernando,S2
-159,Teknik Komputer,20242,2024,Basis Data,Luki Hernando,S2
-160,Teknik Komputer,20221,2022,Sistem Operasi,Luki Hernando,S2
-161,Teknik Komputer,20251,2025,Pemrograman Berorientasi Objek,Luki Hernando,S2
-162,Teknik Komputer,20221,2022,Pemrograman Berorientasi Objek,Luki Hernando,S2
-163,Teknik Komputer,20231,2023,Pemrograman Berorientasi Objek,Luki Hernando,S2
-164,Teknik Komputer,20241,2024,Pemrograman Berorientasi Objek,Luki Hernando,S2
-165,Teknik Komputer,20221,2022,Pengenalan Teknik Komputer,Luki Hernando,S2
-166,Teknik Komputer,20231,2023,Pengenalan Teknik Komputer,Luki Hernando,S2
-167,Teknik Komputer,20251,2025,Pengenalan Teknik Komputer,Luki Hernando,S2
-168,Teknik Komputer,20241,2024,Pengenalan Teknik Komputer,Luki Hernando,S2
-169,Sistem Informasi,20242,2024,Praktikum Basis Data 2,Luki Hernando,S2
-170,Sistem Informasi,20232,2023,Praktikum Basis Data 2,Luki Hernando,S2
-171,Sistem Informasi,20252,2025,Praktikum Basis Data 2,Luki Hernando,S2
-172,Sistem Informasi,20222,2022,Manusia dan Teknologi,Luki Hernando,S2
-173,Sistem Informasi,20221,2022,Pemrograman Database,Luki Hernando,S2
-174,Sistem Informasi,20221,2022,Praktikum Pemrograman Database,Luki Hernando,S2
-175,Sistem Informasi,20252,2025,Basis Data 2,Luki Hernando,S2
-176,Sistem Informasi,20232,2023,Basis Data 2,Luki Hernando,S2
-177,Sistem Informasi,20242,2024,Basis Data 2,Luki Hernando,S2
-178,Sistem Informasi,20241,2024,Praktikum Basis Data 1,Luki Hernando,S2
-179,Sistem Informasi,20231,2023,Praktikum Basis Data 1,Luki Hernando,S2
-180,Sistem Informasi,20251,2025,Praktikum Basis Data 1,Luki Hernando,S2
-181,Sistem Informasi,20251,2025,Basis Data 1,Luki Hernando,S2
-182,Sistem Informasi,20241,2024,Basis Data 1,Luki Hernando,S2
-183,Sistem Informasi,20231,2023,Basis Data 1,Luki Hernando,S2
-184,Matematika,20231,2023,Pengenalan Komputasi,Luki Hernando,S2
-185,Desain Komunikasi Visual,20222,2022,Pengantar Rekayasa Desain,Moch Sukrisno Mardiyanto,S3
-186,Teknik Komputer,20222,2022,Komputer dan Masyarakat,Moch Sukrisno Mardiyanto,S3
-187,Sistem Informasi,20222,2022,Manajemen Proyek SI,Moch Sukrisno Mardiyanto,S3
-188,Sistem Informasi,20221,2022,Komputer dan Masyarakat,Moch Sukrisno Mardiyanto,S3
-189,Sistem Informasi,20221,2022,Etika Profesi IT,Moch Sukrisno Mardiyanto,S3
-190,Matematika,20221,2022,Pengantar Rekayasa dan Desain,Moch Sukrisno Mardiyanto,S3
-191,Teknik Industri,20221,2022,Pengantar Rekayasa dan Desain,Moch Sukrisno Mardiyanto,S3
-192,Teknik Industri,20261,2026,Proses Manufaktur,Hery Sunarsono,S3
-193,Manajemen Rekayasa,20261,2026,Proses Manufaktur,Hery Sunarsono,S3
-194,Manajemen Rekayasa,20261,2026,Dasar Manajemen Rekayasa,Hery Sunarsono,S3
-195,Manajemen Rekayasa,20222,2022,Perancangan dan Pengembangan Produk,Hery Sunarsono,S3
-196,Manajemen Rekayasa,20232,2023,Perancangan dan Pengembangan Produk,Hery Sunarsono,S3
-197,Manajemen Rekayasa,20252,2025,Perancangan dan Pengembangan Produk,Hery Sunarsono,S3
-198,Manajemen Rekayasa,20242,2024,Perancangan dan Pengembangan Produk,Hery Sunarsono,S3
-199,Manajemen Rekayasa,20242,2024,Material Teknik,Hery Sunarsono,S3
-200,Manajemen Rekayasa,20232,2023,Material Teknik,Hery Sunarsono,S3
-201,Manajemen Rekayasa,20222,2022,Material Teknik,Hery Sunarsono,S3
-202,Manajemen Rekayasa,20252,2025,Material Teknik,Hery Sunarsono,S3
-203,Manajemen Rekayasa,20231,2023,Peramalan Teknologi,Hery Sunarsono,S3
-204,Manajemen Rekayasa,20242,2024,Manajemen Teknologi,Hery Sunarsono,S3
-205,Manajemen Rekayasa,20252,2025,Manajemen Teknologi,Hery Sunarsono,S3
-206,Manajemen Rekayasa,20232,2023,Manajemen Teknologi,Hery Sunarsono,S3
-207,Manajemen Rekayasa,20221,2022,Praktikum Proses Manufaktur,Hery Sunarsono,S3
-208,Manajemen Rekayasa,20231,2023,Praktikum Proses Manufaktur,Hery Sunarsono,S3
-209,Manajemen Rekayasa,20221,2022,Proses Manufaktur,Hery Sunarsono,S3
-210,Manajemen Rekayasa,20231,2023,Proses Manufaktur,Hery Sunarsono,S3
-211,Manajemen Rekayasa,20221,2022,Praktikum Menggambar Teknik,Hery Sunarsono,S3
-212,Manajemen Rekayasa,20221,2022,Menggambar Teknik,Hery Sunarsono,S3
-213,Manajemen Rekayasa,20221,2022,Pengantar Manajemen Rekayasa,Hery Sunarsono,S3
-214,Manajemen Rekayasa,20231,2023,Pengantar Manajemen Rekayasa,Hery Sunarsono,S3
-215,Manajemen Rekayasa,20251,2025,Pengantar Manajemen Rekayasa,Hery Sunarsono,S3
-216,Manajemen Rekayasa,20241,2024,Pengantar Manajemen Rekayasa,Hery Sunarsono,S3
-217,Teknik Industri,20252,2025,Material Teknik,Hery Sunarsono,S3
-218,Teknik Industri,20222,2022,Material Teknik,Hery Sunarsono,S3
-219,Teknik Industri,20232,2023,Material Teknik,Hery Sunarsono,S3
-220,Teknik Industri,20251,2025,Proses Manufaktur,Hery Sunarsono,S3
-221,Teknik Industri,20261,2026,Fisika Dasar I,Yopy Mardiansyah,S2
-222,Teknik Industri,20261,2026,Mekanika Teknik,Yopy Mardiansyah,S2
-223,Teknik Komputer,20242,2024,Fisika Dasar II,Yopy Mardiansyah,S2
-224,Teknik Komputer,20222,2022,Fisika Dasar II,Yopy Mardiansyah,S2
-225,Teknik Komputer,20232,2023,Fisika Dasar II,Yopy Mardiansyah,S2
-226,Teknik Komputer,20221,2022,Fisika Dasar I,Yopy Mardiansyah,S2
-227,Teknik Komputer,20231,2023,Fisika Dasar I,Yopy Mardiansyah,S2
-228,Teknik Komputer,20241,2024,Fisika Dasar I,Yopy Mardiansyah,S2
-229,Manajemen Rekayasa,20242,2024,Fisika Dasar II,Yopy Mardiansyah,S2
-230,Manajemen Rekayasa,20222,2022,Fisika Dasar II,Yopy Mardiansyah,S2
-231,Manajemen Rekayasa,20232,2023,Fisika Dasar II,Yopy Mardiansyah,S2
-232,Manajemen Rekayasa,20222,2022,Praktikum Fisika Dasar,Yopy Mardiansyah,S2
-233,Manajemen Rekayasa,20232,2023,Praktikum Fisika Dasar,Yopy Mardiansyah,S2
-234,Manajemen Rekayasa,20242,2024,Praktikum Fisika Dasar,Yopy Mardiansyah,S2
-235,Manajemen Rekayasa,20221,2022,Fisika Dasar,Yopy Mardiansyah,S2
-236,Manajemen Rekayasa,20231,2023,Fisika Dasar,Yopy Mardiansyah,S2
-237,Manajemen Rekayasa,20251,2025,Fisika Dasar,Yopy Mardiansyah,S2
-238,Matematika,20231,2023,Fisika Dasar I,Yopy Mardiansyah,S2
-239,Matematika,20221,2022,Fisika Dasar I,Yopy Mardiansyah,S2
-240,Matematika,20241,2024,Fisika Dasar I,Yopy Mardiansyah,S2
-241,Matematika,20222,2022,Fisika Dasar II,Yopy Mardiansyah,S2
-242,Matematika,20242,2024,Fisika Dasar II,Yopy Mardiansyah,S2
-243,Matematika,20232,2023,Fisika Dasar II,Yopy Mardiansyah,S2
-244,Matematika,20252,2025,Fisika Dasar II,Yopy Mardiansyah,S2
-245,Teknik Industri,20252,2025,Fisika Dasar II,Yopy Mardiansyah,S2
-246,Teknik Industri,20242,2024,Fisika Dasar II,Yopy Mardiansyah,S2
-247,Teknik Industri,20232,2023,Fisika Dasar II,Yopy Mardiansyah,S2
-248,Teknik Industri,20222,2022,Fisika Dasar II,Yopy Mardiansyah,S2
-249,Teknik Industri,20232,2023,Praktikum Fisika Dasar II,Yopy Mardiansyah,S2
-250,Teknik Industri,20222,2022,Praktikum Fisika Dasar II,Yopy Mardiansyah,S2
-251,Teknik Industri,20242,2024,Praktikum Fisika Dasar II,Yopy Mardiansyah,S2
-252,Teknik Industri,20231,2023,Fisika Dasar I,Yopy Mardiansyah,S2
-253,Teknik Industri,20251,2025,Fisika Dasar I,Yopy Mardiansyah,S2
-254,Teknik Industri,20241,2024,Fisika Dasar I,Yopy Mardiansyah,S2
-255,Teknik Industri,20221,2022,Fisika Dasar I,Yopy Mardiansyah,S2
-256,Teknik Industri,20221,2022,Praktikum Fisika Dasar I,Yopy Mardiansyah,S2
-257,Teknik Industri,20231,2023,Praktikum Fisika Dasar I,Yopy Mardiansyah,S2
-258,Teknik Industri,20241,2024,Praktikum Fisika Dasar I,Yopy Mardiansyah,S2
-259,Teknik Industri,20261,2026,Kimia Dasar I,Sari Rahmiati,S2
-260,Matematika,20261,2026,Kimia Dasar,Sari Rahmiati,S2
-261,Manajemen Rekayasa,20261,2026,Kimia Dasar I,Sari Rahmiati,S2
-262,Perdagangan Internasional,20231,2023,Pancasila,Sari Rahmiati,S2
-263,Teknik Komputer,20231,2023,Bahasa Indonesia,Sari Rahmiati,S2
-264,Manajemen Rekayasa,20251,2025,Bahasa Indonesia,Sari Rahmiati,S2
-265,Manajemen Rekayasa,20231,2023,Bahasa Indonesia,Sari Rahmiati,S2
-266,Manajemen Rekayasa,20241,2024,Bahasa Indonesia,Sari Rahmiati,S2
-267,Manajemen Rekayasa,20231,2023,Pancasila,Sari Rahmiati,S2
-268,Manajemen Rekayasa,20232,2023,Isu Lingkungan,Sari Rahmiati,S2
-269,Manajemen Rekayasa,20252,2025,Kimia Dasar II,Sari Rahmiati,S2
-270,Manajemen Rekayasa,20222,2022,Kimia Dasar II,Sari Rahmiati,S2
-271,Manajemen Rekayasa,20242,2024,Kimia Dasar II,Sari Rahmiati,S2
-272,Manajemen Rekayasa,20232,2023,Kimia Dasar II,Sari Rahmiati,S2
-273,Manajemen Rekayasa,20242,2024,Praktikum Kimia Dasar,Sari Rahmiati,S2
-274,Manajemen Rekayasa,20252,2025,Praktikum Kimia Dasar,Sari Rahmiati,S2
-275,Manajemen Rekayasa,20232,2023,Praktikum Kimia Dasar,Sari Rahmiati,S2
-276,Manajemen Rekayasa,20222,2022,Praktikum Kimia Dasar,Sari Rahmiati,S2
-277,Manajemen Rekayasa,20221,2022,Bahasa Indonesia,Sari Rahmiati,S2
-278,Manajemen Rekayasa,20231,2023,Kimia Dasar,Sari Rahmiati,S2
-279,Manajemen Rekayasa,20221,2022,Kimia Dasar,Sari Rahmiati,S2
-280,Manajemen Rekayasa,20251,2025,Kimia Dasar,Sari Rahmiati,S2
-281,Manajemen Rekayasa,20241,2024,Kimia Dasar,Sari Rahmiati,S2
-282,Matematika,20232,2023,Lingkungan,Sari Rahmiati,S2
-283,Matematika,20221,2022,Bahasa Indonesia,Sari Rahmiati,S2
-284,Teknik Industri,20252,2025,Kimia Dasar II,Sari Rahmiati,S2
-285,Teknik Industri,20242,2024,Kimia Dasar II,Sari Rahmiati,S2
-286,Teknik Industri,20232,2023,Kimia Dasar II,Sari Rahmiati,S2
-287,Teknik Industri,20222,2022,Kimia Dasar II,Sari Rahmiati,S2
-288,Teknik Industri,20231,2023,Bahasa Indonesia,Sari Rahmiati,S2
-289,Teknik Industri,20241,2024,Bahasa Indonesia,Sari Rahmiati,S2
-290,Teknik Industri,20232,2023,Ekologi Industri,Sari Rahmiati,S2
-291,Teknik Industri,20222,2022,Ekologi Industri,Sari Rahmiati,S2
-292,Teknik Industri,20252,2025,Praktikum Kimia Dasar,Sari Rahmiati,S2
-293,Teknik Industri,20222,2022,Praktikum Kimia Dasar,Sari Rahmiati,S2
-294,Teknik Industri,20232,2023,Praktikum Kimia Dasar,Sari Rahmiati,S2
-295,Teknik Industri,20242,2024,Praktikum Kimia Dasar,Sari Rahmiati,S2
-296,Teknik Industri,20221,2022,Bahasa Indonesia,Sari Rahmiati,S2
-297,Teknik Industri,20221,2022,Kimia Dasar I,Sari Rahmiati,S2
-298,Teknik Industri,20251,2025,Kimia Dasar I,Sari Rahmiati,S2
-299,Teknik Industri,20231,2023,Kimia Dasar I,Sari Rahmiati,S2
-300,Teknik Industri,20241,2024,Kimia Dasar I,Sari Rahmiati,S2
-301,Sistem Informasi,20261,2026,Aljabar Linier,Faradiba Jabnabillah,S2
-302,Sistem Informasi,20261,2026,Kalkulus Dasar,Faradiba Jabnabillah,S2
-303,Teknik Komputer,20261,2026,Persamaan Diferensial,Faradiba Jabnabillah,S2
-304,Teknik Komputer,20261,2026,Kalkulus 1,Faradiba Jabnabillah,S2
-305,Teknik Komputer,20222,2022,Kalkulus II,Faradiba Jabnabillah,S2
-306,Teknik Komputer,20252,2025,Kalkulus II,Faradiba Jabnabillah,S2
-307,Teknik Komputer,20242,2024,Kalkulus II,Faradiba Jabnabillah,S2
-308,Teknik Komputer,20241,2024,Matematika Diskrit,Faradiba Jabnabillah,S2
-309,Teknik Komputer,20231,2023,Kalkulus I,Faradiba Jabnabillah,S2
-310,Teknik Komputer,20241,2024,Kalkulus I,Faradiba Jabnabillah,S2
-311,Teknik Komputer,20251,2025,Kalkulus I,Faradiba Jabnabillah,S2
-312,Teknik Komputer,20221,2022,Kalkulus I,Faradiba Jabnabillah,S2
-313,Sistem Informasi,20232,2023,Statistika dan Probabilitas,Faradiba Jabnabillah,S2
-314,Sistem Informasi,20252,2025,Statistika dan Probabilitas,Faradiba Jabnabillah,S2
-315,Sistem Informasi,20252,2025,Matematika Diskrit,Faradiba Jabnabillah,S2
-316,Sistem Informasi,20242,2024,Matematika Diskrit,Faradiba Jabnabillah,S2
-317,Sistem Informasi,20232,2023,Matematika Diskrit,Faradiba Jabnabillah,S2
-318,Sistem Informasi,20241,2024,Aljabar Linier,Faradiba Jabnabillah,S2
-319,Sistem Informasi,20251,2025,Aljabar Linier,Faradiba Jabnabillah,S2
-320,Sistem Informasi,20221,2022,Kalkulus,Faradiba Jabnabillah,S2
-321,Sistem Informasi,20231,2023,Kalkulus,Faradiba Jabnabillah,S2
-322,Sistem Informasi,20241,2024,Kalkulus,Faradiba Jabnabillah,S2
-323,Sistem Informasi,20251,2025,Kalkulus,Faradiba Jabnabillah,S2
-324,Manajemen Rekayasa,20232,2023,Kalkulus II,Faradiba Jabnabillah,S2
-325,Manajemen Rekayasa,20222,2022,Kalkulus II,Faradiba Jabnabillah,S2
-326,Manajemen Rekayasa,20231,2023,Kalkulus I,Faradiba Jabnabillah,S2
-327,Manajemen Rekayasa,20221,2022,Kalkulus I,Faradiba Jabnabillah,S2
-328,Matematika,20222,2022,Matematika II,Faradiba Jabnabillah,S2
-329,Matematika,20231,2023,Kalkulus Peubah Banyak,Faradiba Jabnabillah,S2
-330,Matematika,20221,2022,Matematika I,Faradiba Jabnabillah,S2
-331,Matematika,20231,2023,Matematika I,Faradiba Jabnabillah,S2
-332,Teknik Industri,20222,2022,Kalkulus II,Faradiba Jabnabillah,S2
-333,Teknik Industri,20232,2023,Kalkulus II,Faradiba Jabnabillah,S2
-334,Teknik Industri,20231,2023,Kalkulus I,Faradiba Jabnabillah,S2
-335,Desain Komunikasi Visual,20221,2022,DKV Aplikatif,Rini Amadia,S2
-336,Desain Komunikasi Visual,20252,2025,Tipografi Aplikatif,Ria Sapitri,S2
-337,Desain Komunikasi Visual,20222,2022,Tipografi Aplikatif,Ria Sapitri,S2
-338,Desain Komunikasi Visual,20232,2023,Tipografi Aplikatif,Ria Sapitri,S2
-339,Desain Komunikasi Visual,20242,2024,Tipografi Aplikatif,Ria Sapitri,S2
-340,Desain Komunikasi Visual,20242,2024,Bahasa Rupa,Ria Sapitri,S2
-341,Desain Komunikasi Visual,20232,2023,Bahasa Rupa,Ria Sapitri,S2
-342,Desain Komunikasi Visual,20222,2022,Bahasa Rupa,Ria Sapitri,S2
-343,Desain Komunikasi Visual,20252,2025,Bahasa Rupa,Ria Sapitri,S2
-344,Desain Komunikasi Visual,20232,2023,Proses Kreatif,Ria Sapitri,S2
-345,Desain Komunikasi Visual,20242,2024,Proses Kreatif,Ria Sapitri,S2
-346,Desain Komunikasi Visual,20222,2022,Proses Kreatif,Ria Sapitri,S2
-347,Desain Komunikasi Visual,20261,2026,Tipografi,Ria Sapitri,S2
-348,Desain Komunikasi Visual,20231,2023,Tipografi,Ria Sapitri,S2
-349,Desain Komunikasi Visual,20241,2024,Tipografi,Ria Sapitri,S2
-350,Desain Komunikasi Visual,20221,2022,Tipografi,Ria Sapitri,S2
-351,Desain Komunikasi Visual,20221,2022,Sejarah DKV,Ria Sapitri,S2
-352,Desain Komunikasi Visual,20231,2023,Sejarah DKV,Ria Sapitri,S2
-353,Desain Komunikasi Visual,20251,2025,Sejarah DKV,Ria Sapitri,S2
-354,Desain Komunikasi Visual,20241,2024,Sejarah DKV,Ria Sapitri,S2
-355,Desain Komunikasi Visual,20221,2022,"Seni, Desain dan Lingkungan",Ria Sapitri,S2
-356,Teknik Industri,20261,2026,Rekayasa Sistem Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
-357,Teknik Industri,20251,2025,Rekayasa Sistem Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
-358,Teknik Industri,20231,2023,Rekayasa Sistem Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
-359,Teknik Industri,20241,2024,Rekayasa Sistem Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
-360,Teknik Industri,20252,2025,Keselamatan dan Kesehatan Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
-361,Teknik Industri,20242,2024,Keselamatan dan Kesehatan Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
-362,Teknik Industri,20222,2022,Keselamatan dan Kesehatan Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
-363,Teknik Industri,20232,2023,Keselamatan dan Kesehatan Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
-364,Teknik Industri,20241,2024,Ergonomi Lingkungan,Dinda Okta Dwiyanti Ridwan Gucci,S2
-365,Teknik Industri,20251,2025,Ergonomi Lingkungan,Dinda Okta Dwiyanti Ridwan Gucci,S2
-366,Teknik Industri,20231,2023,Ergonomi Lingkungan,Dinda Okta Dwiyanti Ridwan Gucci,S2
-367,Teknik Industri,20232,2023,Ergonomika,Dinda Okta Dwiyanti Ridwan Gucci,S2
-368,Teknik Industri,20242,2024,Ergonomika,Dinda Okta Dwiyanti Ridwan Gucci,S2
-369,Teknik Industri,20252,2025,Ergonomika,Dinda Okta Dwiyanti Ridwan Gucci,S2
-370,Teknik Industri,20222,2022,Praktikum Perancangan Sistem Terintegrasi,Dinda Okta Dwiyanti Ridwan Gucci,S2
-371,Teknik Industri,20232,2023,Praktikum Perancangan Sistem Terintegrasi,Dinda Okta Dwiyanti Ridwan Gucci,S2
-372,Teknik Industri,20222,2022,Perilaku Organisasi,Dinda Okta Dwiyanti Ridwan Gucci,S2
-373,Teknik Industri,20232,2023,Perilaku Organisasi,Dinda Okta Dwiyanti Ridwan Gucci,S2
-374,Teknik Industri,20242,2024,Perilaku Organisasi,Dinda Okta Dwiyanti Ridwan Gucci,S2
-375,Teknik Industri,20242,2024,Metodologi Penelitian,Dinda Okta Dwiyanti Ridwan Gucci,S2
-376,Teknik Industri,20232,2023,Metodologi Penelitian,Dinda Okta Dwiyanti Ridwan Gucci,S2
-377,Teknik Industri,20231,2023,Analisis Biaya,Dinda Okta Dwiyanti Ridwan Gucci,S2
-378,Teknik Industri,20241,2024,Analisis Biaya,Dinda Okta Dwiyanti Ridwan Gucci,S2
-379,Teknik Industri,20221,2022,Analisis Biaya,Dinda Okta Dwiyanti Ridwan Gucci,S2
-380,Teknik Industri,20222,2022,Ergonomika,Dinda Okta Dwiyanti Ridwan Gucci,S2
-381,Teknik Industri,20221,2022,Ergonomika,Dinda Okta Dwiyanti Ridwan Gucci,S2
-382,Teknik Industri,20251,2025,Pengantar Teknik Industri,Dinda Okta Dwiyanti Ridwan Gucci,S2
-383,Teknik Industri,20241,2024,Pengantar Teknik Industri,Dinda Okta Dwiyanti Ridwan Gucci,S2
-384,Teknik Industri,20221,2022,Pengantar Teknik Industri,Dinda Okta Dwiyanti Ridwan Gucci,S2
-385,Teknik Industri,20231,2023,Pengantar Teknik Industri,Dinda Okta Dwiyanti Ridwan Gucci,S2
-386,Perdagangan Internasional,20232,2023,Statistic,Garry Rusmadi,S2
-387,Matematika,20222,2022,Desain Eksperiman,Garry Rusmadi,S2
-388,Matematika,20221,2022,Ekonometrika,Garry Rusmadi,S2
-389,Matematika,20241,2024,Teknik Sampling,Garry Rusmadi,S2
-390,Matematika,20221,2022,Analisis Perancangan Survey,Garry Rusmadi,S2
-391,Desain Komunikasi Visual,20222,2022,Seminar DKV,Muhammad Adi Sukma Nalendra,S2
-392,Desain Komunikasi Visual,20241,2024,Narasi Visual,Muhammad Adi Sukma Nalendra,S2
-393,Desain Komunikasi Visual,20251,2025,Narasi Visual,Muhammad Adi Sukma Nalendra,S2
-394,Desain Komunikasi Visual,20231,2023,Narasi Visual,Muhammad Adi Sukma Nalendra,S2
-395,Desain Komunikasi Visual,20221,2022,Narasi Visual,Muhammad Adi Sukma Nalendra,S2
-396,Desain Komunikasi Visual,20251,2025,Motion Graphic,Muhammad Adi Sukma Nalendra,S2
-397,Desain Komunikasi Visual,20231,2023,Motion Graphic,Muhammad Adi Sukma Nalendra,S2
-398,Desain Komunikasi Visual,20221,2022,Motion Graphic,Muhammad Adi Sukma Nalendra,S2
-399,Desain Komunikasi Visual,20221,2022,DKV Multimedia 4 (Pra TA DKV),Muhammad Adi Sukma Nalendra,S2
-400,Desain Komunikasi Visual,20221,2022,Kerja Profesi,Muhammad Adi Sukma Nalendra,S2
-401,Desain Komunikasi Visual,20261,2026,Animasi Aplikatif,Muhammad Adi Sukma Nalendra,S2
-402,Desain Komunikasi Visual,20221,2022,Animasi Aplikatif,Muhammad Adi Sukma Nalendra,S2
-403,Desain Komunikasi Visual,20241,2024,Animasi Aplikatif,Muhammad Adi Sukma Nalendra,S2
-404,Desain Komunikasi Visual,20251,2025,Animasi Aplikatif,Muhammad Adi Sukma Nalendra,S2
-405,Desain Komunikasi Visual,20231,2023,Animasi Aplikatif,Muhammad Adi Sukma Nalendra,S2
-406,Desain Komunikasi Visual,20261,2026,Metodologi Desain,Muhammad Adi Sukma Nalendra,S2
-407,Desain Komunikasi Visual,20242,2024,Animasi,Muhammad Adi Sukma Nalendra,S2
-408,Desain Komunikasi Visual,20232,2023,Animasi,Muhammad Adi Sukma Nalendra,S2
-409,Desain Komunikasi Visual,20252,2025,Animasi,Muhammad Adi Sukma Nalendra,S2
-410,Desain Komunikasi Visual,20222,2022,Animasi,Muhammad Adi Sukma Nalendra,S2
-411,Desain Komunikasi Visual,20222,2022,Multimedia Aplikatif,Muhammad Adi Sukma Nalendra,S2
-412,Desain Komunikasi Visual,20242,2024,Multimedia Aplikatif,Muhammad Adi Sukma Nalendra,S2
-413,Desain Komunikasi Visual,20232,2023,Multimedia Aplikatif,Muhammad Adi Sukma Nalendra,S2
-414,Desain Komunikasi Visual,20252,2025,Multimedia Aplikatif,Muhammad Adi Sukma Nalendra,S2
-415,Desain Komunikasi Visual,20242,2024,Ilustrasi,Muhammad Adi Sukma Nalendra,S2
-416,Teknik Komputer,20261,2026,Proyek Rekayasa Teknik Komputer,M.abrar Masril,S2
-417,Teknik Komputer,20261,2026,Embedded Systems,M.abrar Masril,S2
-418,Teknik Komputer,20232,2023,Sistem Mikrokontroller,M.abrar Masril,S2
-419,Teknik Komputer,20222,2022,Sistem Mikrokontroller,M.abrar Masril,S2
-420,Teknik Komputer,20242,2024,Sistem Mikrokontroller,M.abrar Masril,S2
-421,Teknik Komputer,20252,2025,Sistem Mikrokontroller,M.abrar Masril,S2
-422,Teknik Komputer,20252,2025,Pengolahan Citra Digital,M.abrar Masril,S2
-423,Teknik Komputer,20222,2022,Pengolahan Citra Digital,M.abrar Masril,S2
-424,Teknik Komputer,20242,2024,Pengolahan Citra Digital,M.abrar Masril,S2
-425,Teknik Komputer,20232,2023,Pengolahan Citra Digital,M.abrar Masril,S2
-426,Teknik Komputer,20231,2023,Kecerdasan Buatan,M.abrar Masril,S2
-427,Teknik Komputer,20241,2024,Kecerdasan Buatan,M.abrar Masril,S2
-428,Teknik Komputer,20221,2022,Kecerdasan Buatan,M.abrar Masril,S2
-429,Teknik Komputer,20251,2025,Kecerdasan Buatan,M.abrar Masril,S2
-430,Teknik Komputer,20251,2025,Sistem Tertanam,M.abrar Masril,S2
-431,Teknik Komputer,20221,2022,Sistem Tertanam,M.abrar Masril,S2
-432,Teknik Komputer,20231,2023,Sistem Tertanam,M.abrar Masril,S2
-433,Teknik Komputer,20241,2024,Sistem Tertanam,M.abrar Masril,S2
-434,Teknik Komputer,20251,2025,Metode Penelitian,M.abrar Masril,S2
-435,Teknik Komputer,20221,2022,Metode Penelitian,M.abrar Masril,S2
-436,Teknik Komputer,20231,2023,Metode Penelitian,M.abrar Masril,S2
-437,Teknik Komputer,20241,2024,Metode Penelitian,M.abrar Masril,S2
-438,Desain Komunikasi Visual,20222,2022,DKV Multimedia 1,Assaidatul Husna,S2
-439,Desain Komunikasi Visual,20232,2023,DKV Multimedia 1,Assaidatul Husna,S2
-440,Desain Komunikasi Visual,20242,2024,Videografi,Assaidatul Husna,S2
-441,Desain Komunikasi Visual,20242,2024,Fotografi,Assaidatul Husna,S2
-442,Desain Komunikasi Visual,20221,2022,Ilustrasi Aplikatif,Assaidatul Husna,S2
-443,Desain Komunikasi Visual,20231,2023,Ilustrasi Aplikatif,Assaidatul Husna,S2
-444,Desain Komunikasi Visual,20241,2024,Ilustrasi Aplikatif,Assaidatul Husna,S2
-445,Desain Komunikasi Visual,20231,2023,Gambar,Assaidatul Husna,S2
-446,Desain Komunikasi Visual,20241,2024,Gambar,Assaidatul Husna,S2
-447,Desain Komunikasi Visual,20221,2022,DKV Multimedia 2,Assaidatul Husna,S2
-448,Desain Komunikasi Visual,20231,2023,DKV Multimedia 2,Assaidatul Husna,S2
-449,Desain Komunikasi Visual,20232,2023,Portofolio,Assaidatul Husna,S2
-450,Desain Komunikasi Visual,20242,2024,Infografis,Assaidatul Husna,S2
-451,Desain Komunikasi Visual,20222,2022,Ilustrasi,Assaidatul Husna,S2
-452,Desain Komunikasi Visual,20232,2023,Ilustrasi,Assaidatul Husna,S2
-453,Teknik Industri,20222,2022,Analisis dan Perancangan Perusahaan,Nurul Ilmi,S2
-454,Teknik Industri,20232,2023,Analisis dan Perancangan Perusahaan,Nurul Ilmi,S2
-455,Teknik Industri,20221,2022,Analisis dan Perancangan Perusahaan,Nurul Ilmi,S2
-456,Teknik Industri,20221,2022,Riset Operasi Lanjutan,Nurul Ilmi,S2
-457,Teknik Industri,20231,2023,Riset Operasi Lanjutan,Nurul Ilmi,S2
-458,Teknik Industri,20231,2023,Ekonomi Teknik,Nurul Ilmi,S2
-459,Teknik Industri,20221,2022,Ekonomi Teknik,Nurul Ilmi,S2
-460,Teknik Industri,20222,2022,Praktikum Perancangan Sistem Terintegrasi,Nurul Ilmi,S2
-461,Teknik Industri,20232,2023,Praktikum Perancangan Sistem Terintegrasi,Nurul Ilmi,S2
-462,Teknik Industri,20221,2022,Mekanika Teknik,Nurul Ilmi,S2
-463,Teknik Industri,20221,2022,Ergonomika,Nurul Ilmi,S2
-464,Teknik Industri,20222,2022,Riset Operasi I,Nurul Ilmi,S2
-465,Teknik Industri,20232,2023,Riset Operasi I,Nurul Ilmi,S2
-466,Sistem Informasi,20261,2026,Rekayasa Perangkat Lunak,Alhamidi,S2
-467,Sistem Informasi,20261,2026,Etika Profesi dan Profesional,Alhamidi,S2
-468,Sistem Informasi,20261,2026,Konsep Sistem Informasi,Alhamidi,S2
-469,Teknik Komputer,20261,2026,Rekayasa Perangkat Lunak,Alhamidi,S2
-470,Teknik Komputer,20241,2024,Mobile Programming,Alhamidi,S2
-471,Teknik Komputer,20241,2024,Rekayasa Perangkat Lunak,Alhamidi,S2
-472,Teknik Komputer,20251,2025,Rekayasa Perangkat Lunak,Alhamidi,S2
-473,Teknik Komputer,20231,2023,Rekayasa Perangkat Lunak,Alhamidi,S2
-474,Sistem Informasi,20222,2022,Pengantar Pemrograman Mobile,Alhamidi,S2
-475,Sistem Informasi,20232,2023,Pengantar Pemrograman Mobile,Alhamidi,S2
-476,Sistem Informasi,20251,2025,Pengantar Audit Sistem Informasi,Alhamidi,S2
-477,Sistem Informasi,20231,2023,Pengantar Audit Sistem Informasi,Alhamidi,S2
-478,Sistem Informasi,20232,2023,Analisis dan Perancangan Sistem Informasi,Alhamidi,S2
-479,Sistem Informasi,20252,2025,Analisis dan Perancangan Sistem Informasi,Alhamidi,S2
-480,Sistem Informasi,20242,2024,Analisis dan Perancangan Sistem Informasi,Alhamidi,S2
-481,Sistem Informasi,20242,2024,Praktikum Pemrograman Berorientasi Objek,Alhamidi,S2
-482,Sistem Informasi,20232,2023,Praktikum Pemrograman Berorientasi Objek,Alhamidi,S2
-483,Sistem Informasi,20252,2025,Praktikum Pemrograman Berorientasi Objek,Alhamidi,S2
-484,Sistem Informasi,20222,2022,Praktikum Pemrograman Berorientasi Objek,Alhamidi,S2
-485,Sistem Informasi,20252,2025,Dasar Sistem Informasi,Alhamidi,S2
-486,Sistem Informasi,20252,2025,Pemrograman Berorientasi Objek,Alhamidi,S2
-487,Sistem Informasi,20242,2024,Pemrograman Berorientasi Objek,Alhamidi,S2
-488,Sistem Informasi,20232,2023,Pemrograman Berorientasi Objek,Alhamidi,S2
-489,Sistem Informasi,20222,2022,Pemrograman Berorientasi Objek,Alhamidi,S2
-490,Sistem Informasi,20231,2023,Pemrograman Database,Alhamidi,S2
-491,Sistem Informasi,20221,2022,Pemrograman Mobile,Alhamidi,S2
-492,Sistem Informasi,20231,2023,Pemrograman Mobile,Alhamidi,S2
-493,Sistem Informasi,20241,2024,Pemrograman Mobile,Alhamidi,S2
-494,Sistem Informasi,20221,2022,Rekayasa Perangkat Lunak,Alhamidi,S2
-495,Sistem Informasi,20251,2025,Rekayasa Perangkat Lunak,Alhamidi,S2
-496,Sistem Informasi,20231,2023,Rekayasa Perangkat Lunak,Alhamidi,S2
-497,Sistem Informasi,20231,2023,Praktikum Pemrograman Database,Alhamidi,S2
-498,Sistem Informasi,20251,2025,Etika Profesi IT,Alhamidi,S2
-499,Sistem Informasi,20241,2024,Etika Profesi IT,Alhamidi,S2
-500,Sistem Informasi,20221,2022,Dasar Pemrograman,Alhamidi,S2
-501,Sistem Informasi,20221,2022,Praktikum Dasar Pemrograman,Alhamidi,S2
-502,Manajemen Rekayasa,20252,2025,Pemrograman Komputer,Alhamidi,S2
-503,Perdagangan Internasional,20261,2026,Kewarganegaraan,I Made Sondra Wijaya,S3
-504,Perdagangan Internasional,20261,2026,Kepemimpinan Global,I Made Sondra Wijaya,S3
-505,Bisnis Digital,20261,2026,Pengantar Rekayasa dan Desain,I Made Sondra Wijaya,S3
-506,Manajemen Rekayasa,20261,2026,Perancangan Proses Bisnis dan Organisasi,I Made Sondra Wijaya,S3
-507,Bisnis Digital,20252,2025,Kepemimpinan dan Strategi,I Made Sondra Wijaya,S3
-508,Bisnis Digital,20242,2024,Manajemen SDM dan Organisasi,I Made Sondra Wijaya,S3
-509,Perdagangan Internasional,20251,2025,International Human Resource Management,I Made Sondra Wijaya,S3
-510,Perdagangan Internasional,20252,2025,Human Resource Management,I Made Sondra Wijaya,S3
-511,Perdagangan Internasional,20241,2024,Agama,I Made Sondra Wijaya,S3
-512,Desain Komunikasi Visual,20261,2026,Agama,I Made Sondra Wijaya,S3
-513,Desain Komunikasi Visual,20231,2023,Agama,I Made Sondra Wijaya,S3
-514,Teknik Komputer,20221,2022,Agama dan Etika,I Made Sondra Wijaya,S3
-515,Sistem Informasi,20221,2022,Pengantar Audit Sistem Informasi,I Made Sondra Wijaya,S3
-516,Sistem Informasi,20231,2023,Etika Profesi IT,I Made Sondra Wijaya,S3
-517,Manajemen Rekayasa,20242,2024,Pemrograman Komputer,I Made Sondra Wijaya,S3
-518,Manajemen Rekayasa,20232,2023,Pemrograman Komputer,I Made Sondra Wijaya,S3
-519,Manajemen Rekayasa,20222,2022,Pemrograman Komputer,I Made Sondra Wijaya,S3
-520,Manajemen Rekayasa,20231,2023,Ekonomi Manajerial dan Strategi Bisnis,I Made Sondra Wijaya,S3
-521,Manajemen Rekayasa,20241,2024,Ekonomi Manajerial dan Strategi Bisnis,I Made Sondra Wijaya,S3
-522,Manajemen Rekayasa,20251,2025,Ekonomi Manajerial dan Strategi Bisnis,I Made Sondra Wijaya,S3
-523,Manajemen Rekayasa,20222,2022,Praktikum Pemrograman Komputer,I Made Sondra Wijaya,S3
-524,Manajemen Rekayasa,20232,2023,Praktikum Pemrograman Komputer,I Made Sondra Wijaya,S3
-525,Manajemen Rekayasa,20242,2024,Praktikum Pemrograman Komputer,I Made Sondra Wijaya,S3
-526,Manajemen Rekayasa,20252,2025,Manajemen Sumber Daya Manusia,I Made Sondra Wijaya,S3
-527,Manajemen Rekayasa,20221,2022,Manajemen Sumber Daya Manusia,I Made Sondra Wijaya,S3
-528,Manajemen Rekayasa,20232,2023,Manajemen Sumber Daya Manusia,I Made Sondra Wijaya,S3
-529,Manajemen Rekayasa,20242,2024,Kode Etik dan Etika Profesional,I Made Sondra Wijaya,S3
-530,Manajemen Rekayasa,20252,2025,Kode Etik dan Etika Profesional,I Made Sondra Wijaya,S3
-531,Manajemen Rekayasa,20232,2023,Kode Etik dan Etika Profesional,I Made Sondra Wijaya,S3
-532,Manajemen Rekayasa,20251,2025,Perancangan Organisasi dan Proses Bisnis,I Made Sondra Wijaya,S3
-533,Manajemen Rekayasa,20241,2024,Perancangan Organisasi dan Proses Bisnis,I Made Sondra Wijaya,S3
-534,Manajemen Rekayasa,20221,2022,Perancangan Organisasi dan Proses Bisnis,I Made Sondra Wijaya,S3
-535,Manajemen Rekayasa,20231,2023,Wawasan Kemaritiman,I Made Sondra Wijaya,S3
-536,Manajemen Rekayasa,20241,2024,Wawasan Kemaritiman,I Made Sondra Wijaya,S3
-537,Manajemen Rekayasa,20221,2022,Wawasan Kemaritiman,I Made Sondra Wijaya,S3
-538,Manajemen Rekayasa,20251,2025,Wawasan Kemaritiman,I Made Sondra Wijaya,S3
-539,Teknik Industri,20222,2022,Dasar Teknologi Informasi dan Pemrograman,I Made Sondra Wijaya,S3
-540,Teknik Industri,20222,2022,Perilaku Organisasi,I Made Sondra Wijaya,S3
-541,Teknik Industri,20232,2023,Perilaku Organisasi,I Made Sondra Wijaya,S3
-542,Teknik Industri,20231,2023,Analisis Biaya,I Made Sondra Wijaya,S3
-543,Teknik Industri,20241,2024,Analisis Biaya,I Made Sondra Wijaya,S3
-544,Teknik Industri,20222,2022,Praktikum Dasar Teknologi Informasi dan Pemrograman,I Made Sondra Wijaya,S3
-545,Sistem Informasi,20222,2022,Matematika Diskrit,Eko Sulistyono,S2
-546,Manajemen Rekayasa,20242,2024,Kalkulus II,Eko Sulistyono,S2
-547,Manajemen Rekayasa,20231,2023,Aljabar Linier,Eko Sulistyono,S2
-548,Manajemen Rekayasa,20241,2024,Aljabar Linier,Eko Sulistyono,S2
-549,Matematika,20221,2022,Pengenalan Komputasi,Eko Sulistyono,S2
-550,Matematika,20222,2022,Proses Stokastik,Eko Sulistyono,S2
-551,Matematika,20242,2024,Matematika II,Eko Sulistyono,S2
-552,Matematika,20232,2023,Pengantar Optimasi,Eko Sulistyono,S2
-553,Matematika,20222,2022,Simulasi dan Komputasi Matematika,Eko Sulistyono,S2
-554,Matematika,20232,2023,Simulasi dan Komputasi Matematika,Eko Sulistyono,S2
-555,Matematika,20221,2022,Kalkulus Peubah Banyak,Eko Sulistyono,S2
-556,Matematika,20221,2022,Teori Graf,Eko Sulistyono,S2
-557,Matematika,20231,2023,Teori Graf,Eko Sulistyono,S2
-558,Matematika,20241,2024,Teori Graf,Eko Sulistyono,S2
-559,Matematika,20231,2023,Metode Numerik,Eko Sulistyono,S2
-560,Matematika,20221,2022,Metode Numerik,Eko Sulistyono,S2
-561,Matematika,20241,2024,Metode Numerik,Eko Sulistyono,S2
-562,Teknik Industri,20242,2024,Kalkulus II,Eko Sulistyono,S2
-563,Teknik Komputer,20222,2022,Statistika dan Probabilitas,Widya Reza,S2
-564,Teknik Komputer,20232,2023,Statistika dan Probabilitas,Widya Reza,S2
-565,Sistem Informasi,20222,2022,Statistika dan Probabilitas,Widya Reza,S2
-566,Matematika,20222,2022,Statistika Non-parametrik,Widya Reza,S2
-567,Matematika,20232,2023,Statistika Non-parametrik,Widya Reza,S2
-568,Matematika,20232,2023,Statistika Matematika,Widya Reza,S2
-569,Matematika,20222,2022,Statistika Matematika,Widya Reza,S2
-570,Matematika,20231,2023,Ekonometrika,Widya Reza,S2
-571,Matematika,20221,2022,Teori Peluang,Widya Reza,S2
-572,Matematika,20241,2024,Teori Peluang,Widya Reza,S2
-573,Matematika,20231,2023,Teori Peluang,Widya Reza,S2
-574,Matematika,20221,2022,Analisis Regresi,Widya Reza,S2
-575,Matematika,20231,2023,Analisis Regresi,Widya Reza,S2
-576,Matematika,20241,2024,Analisis Regresi,Widya Reza,S2
-577,Matematika,20241,2024,Analisis Runtun Waktu,Widya Reza,S2
-578,Matematika,20221,2022,Analisis Runtun Waktu,Widya Reza,S2
-579,Matematika,20231,2023,Analisis Runtun Waktu,Widya Reza,S2
-580,Teknik Komputer,20261,2026,Kecerdasan Buatan,Deosa Putra Caniago,S2
-581,Teknik Komputer,20261,2026,Organisasi dan Arsitektur Komputer,Deosa Putra Caniago,S2
-582,Teknik Komputer,20261,2026,Proyek Rekayasa Teknik Komputer,Deosa Putra Caniago,S2
-583,Teknik Komputer,20242,2024,Komputer dan Masyarakat,Deosa Putra Caniago,S2
-584,Teknik Komputer,20232,2023,Komputer dan Masyarakat,Deosa Putra Caniago,S2
-585,Teknik Komputer,20222,2022,Komputer dan Masyarakat,Deosa Putra Caniago,S2
-586,Teknik Komputer,20252,2025,Komputer dan Masyarakat,Deosa Putra Caniago,S2
-587,Teknik Komputer,20222,2022,Sistem Digital,Deosa Putra Caniago,S2
-588,Teknik Komputer,20242,2024,Sistem Digital,Deosa Putra Caniago,S2
-589,Teknik Komputer,20232,2023,Sistem Digital,Deosa Putra Caniago,S2
-590,Teknik Komputer,20252,2025,Sistem Digital,Deosa Putra Caniago,S2
-591,Teknik Komputer,20251,2025,Dasar Pemrograman,Deosa Putra Caniago,S2
-592,Teknik Komputer,20222,2022,Dasar Pemrograman,Deosa Putra Caniago,S2
-593,Teknik Komputer,20242,2024,Dasar Pemrograman,Deosa Putra Caniago,S2
-594,Teknik Komputer,20232,2023,Dasar Pemrograman,Deosa Putra Caniago,S2
-595,Teknik Komputer,20252,2025,Dasar Pemrograman,Deosa Putra Caniago,S2
-596,Teknik Komputer,20221,2022,Dasar Robotika,Deosa Putra Caniago,S2
-597,Teknik Komputer,20231,2023,Dasar Robotika,Deosa Putra Caniago,S2
-598,Teknik Komputer,20241,2024,Dasar Robotika,Deosa Putra Caniago,S2
-599,Teknik Komputer,20251,2025,Dasar Robotika,Deosa Putra Caniago,S2
-600,Teknik Komputer,20241,2024,Dasar Rangkaian Listrik,Deosa Putra Caniago,S2
-601,Teknik Komputer,20231,2023,Dasar Rangkaian Listrik,Deosa Putra Caniago,S2
-602,Teknik Komputer,20251,2025,Dasar Rangkaian Listrik,Deosa Putra Caniago,S2
-603,Teknik Komputer,20221,2022,Dasar Rangkaian Listrik,Deosa Putra Caniago,S2
-604,Teknik Komputer,20231,2023,Dasar Elektronika,Deosa Putra Caniago,S2
-605,Teknik Komputer,20221,2022,Dasar Elektronika,Deosa Putra Caniago,S2
-606,Manajemen Rekayasa,20261,2026,Manajemen Proyek,Firman Edi,S2
-607,Manajemen Rekayasa,20261,2026,Estimasi Biaya,Firman Edi,S2
-608,Manajemen Rekayasa,20231,2023,Manajemen Proyek,Firman Edi,S2
-609,Manajemen Rekayasa,20241,2024,Manajemen Proyek,Firman Edi,S2
-610,Manajemen Rekayasa,20221,2022,Manajemen Proyek,Firman Edi,S2
-611,Manajemen Rekayasa,20251,2025,Manajemen Proyek,Firman Edi,S2
-612,Manajemen Rekayasa,20222,2022,Manajemen Teknologi,Firman Edi,S2
-613,Manajemen Rekayasa,20232,2023,Kode Etik dan Etika Profesional,Firman Edi,S2
-614,Manajemen Rekayasa,20241,2024,Estimasi Biaya,Firman Edi,S2
-615,Manajemen Rekayasa,20251,2025,Estimasi Biaya,Firman Edi,S2
-616,Manajemen Rekayasa,20231,2023,Estimasi Biaya,Firman Edi,S2
-617,Manajemen Rekayasa,20252,2025,Analisis Resiko dan Pembiayaan Proyek,Firman Edi,S2
-618,Manajemen Rekayasa,20221,2022,Analisis Resiko dan Pembiayaan Proyek,Firman Edi,S2
-619,Manajemen Rekayasa,20242,2024,Analisis Resiko dan Pembiayaan Proyek,Firman Edi,S2
-620,Manajemen Rekayasa,20222,2022,Analisis Resiko dan Pembiayaan Proyek,Firman Edi,S2
-621,Manajemen Rekayasa,20232,2023,Analisis Resiko dan Pembiayaan Proyek,Firman Edi,S2
-622,Perdagangan Internasional,20242,2024,Marketing,M.y Meinadia Sekarkinanti Aswirawan,S2
-623,Perdagangan Internasional,20232,2023,Marketing,M.y Meinadia Sekarkinanti Aswirawan,S2
-624,Perdagangan Internasional,20232,2023,Writing and Spoken English,M.y Meinadia Sekarkinanti Aswirawan,S2
-625,Perdagangan Internasional,20242,2024,Statistic Multivariat,M.y Meinadia Sekarkinanti Aswirawan,S2
-626,Perdagangan Internasional,20241,2024,Organizational Behavior,M.y Meinadia Sekarkinanti Aswirawan,S2
-627,Perdagangan Internasional,20242,2024,Statistic,M.y Meinadia Sekarkinanti Aswirawan,S2
-628,Perdagangan Internasional,20241,2024,English,M.y Meinadia Sekarkinanti Aswirawan,S2
-629,Perdagangan Internasional,20231,2023,English,M.y Meinadia Sekarkinanti Aswirawan,S2
-630,Perdagangan Internasional,20231,2023,Economics Principles,M.y Meinadia Sekarkinanti Aswirawan,S2
-631,Perdagangan Internasional,20241,2024,Economics Principles,M.y Meinadia Sekarkinanti Aswirawan,S2
-632,Desain Komunikasi Visual,20242,2024,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
-633,Desain Komunikasi Visual,20222,2022,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
-634,Desain Komunikasi Visual,20221,2022,Budaya Rupa,M.y Meinadia Sekarkinanti Aswirawan,S2
-635,Teknik Komputer,20221,2022,Bahasa Indonesia,M.y Meinadia Sekarkinanti Aswirawan,S2
-636,Teknik Komputer,20221,2022,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
-637,Sistem Informasi,20242,2024,Bahasa Inggris 2,M.y Meinadia Sekarkinanti Aswirawan,S2
-638,Sistem Informasi,20222,2022,Bahasa Inggris 2,M.y Meinadia Sekarkinanti Aswirawan,S2
-639,Sistem Informasi,20222,2022,Technoprenuership,M.y Meinadia Sekarkinanti Aswirawan,S2
-640,Sistem Informasi,20221,2022,Bahasa Inggris 1,M.y Meinadia Sekarkinanti Aswirawan,S2
-641,Sistem Informasi,20221,2022,Proses Bisnis,M.y Meinadia Sekarkinanti Aswirawan,S2
-642,Manajemen Rekayasa,20232,2023,Technopreneurship,M.y Meinadia Sekarkinanti Aswirawan,S2
-643,Manajemen Rekayasa,20222,2022,Technopreneurship,M.y Meinadia Sekarkinanti Aswirawan,S2
-644,Matematika,20222,2022,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
-645,Matematika,20242,2024,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
-646,Matematika,20221,2022,Manajemen Bisnis dan SDM,M.y Meinadia Sekarkinanti Aswirawan,S2
-647,Teknik Industri,20231,2023,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
-648,Teknik Industri,20232,2023,Technopreneurship,M.y Meinadia Sekarkinanti Aswirawan,S2
-649,Teknik Industri,20261,2026,Praktikum Menggambar Teknik,Sadiq Ardo Wibowo,S2
-650,Teknik Industri,20261,2026,Menggambar Teknik,Sadiq Ardo Wibowo,S2
-651,Teknik Industri,20232,2023,Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
-652,Teknik Industri,20221,2022,Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
-653,Teknik Industri,20252,2025,Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
-654,Teknik Industri,20222,2022,Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
-655,Teknik Industri,20242,2024,Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
-656,Teknik Industri,20221,2022,Praktikum Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
-657,Teknik Industri,20252,2025,Praktikum Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
-658,Teknik Industri,20242,2024,Praktikum Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
-659,Teknik Industri,20222,2022,Praktikum Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
-660,Teknik Industri,20232,2023,Praktikum Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
-661,Teknik Industri,20231,2023,Rantai Pasok Berkelanjutan,Sadiq Ardo Wibowo,S2
-662,Teknik Industri,20251,2025,Rantai Pasok Berkelanjutan,Sadiq Ardo Wibowo,S2
-663,Teknik Industri,20241,2024,Rantai Pasok Berkelanjutan,Sadiq Ardo Wibowo,S2
-664,Teknik Industri,20222,2022,Perencanaan dan Pengendalian Logistik,Sadiq Ardo Wibowo,S2
-665,Teknik Industri,20221,2022,Praktikum Menggambar Teknik,Sadiq Ardo Wibowo,S2
-666,Teknik Industri,20241,2024,Praktikum Menggambar Teknik,Sadiq Ardo Wibowo,S2
-667,Teknik Industri,20231,2023,Praktikum Menggambar Teknik,Sadiq Ardo Wibowo,S2
-668,Teknik Industri,20251,2025,Praktikum Menggambar Teknik,Sadiq Ardo Wibowo,S2
-669,Teknik Industri,20241,2024,Menggambar Teknik,Sadiq Ardo Wibowo,S2
-670,Teknik Industri,20251,2025,Menggambar Teknik,Sadiq Ardo Wibowo,S2
-671,Teknik Industri,20231,2023,Menggambar Teknik,Sadiq Ardo Wibowo,S2
-672,Teknik Industri,20221,2022,Menggambar Teknik,Sadiq Ardo Wibowo,S2
-673,Perdagangan Internasional,20261,2026,Kewarganegaraan,Hazimah,S2
-674,Perdagangan Internasional,20261,2026,Bahasa Indonesia,Hazimah,S2
-675,Teknik Komputer,20261,2026,Pancasila,Hazimah,S2
-676,Teknik Komputer,20261,2026,Kimia Dasar,Hazimah,S2
-677,Bisnis Digital,20252,2025,Bahasa Indonesia,Hazimah,S2
-678,Bisnis Digital,20242,2024,Bahasa Indonesia,Hazimah,S2
-679,Perdagangan Internasional,20251,2025,Bahasa Indonesia,Hazimah,S2
-680,Perdagangan Internasional,20241,2024,Bahasa Indonesia,Hazimah,S2
-681,Perdagangan Internasional,20251,2025,Pancasila,Hazimah,S2
-682,Perdagangan Internasional,20241,2024,Pancasila,Hazimah,S2
-683,Desain Komunikasi Visual,20251,2025,Pancasila,Hazimah,S2
-684,Teknik Komputer,20252,2025,Kimia Dasar,Hazimah,S2
-685,Teknik Komputer,20222,2022,Kimia Dasar,Hazimah,S2
-686,Teknik Komputer,20242,2024,Kimia Dasar,Hazimah,S2
-687,Teknik Komputer,20232,2023,Kimia Dasar,Hazimah,S2
-688,Teknik Komputer,20222,2022,Kewarganegaraan,Hazimah,S2
-689,Teknik Komputer,20231,2023,Pancasila,Hazimah,S2
-690,Teknik Komputer,20221,2022,Pancasila,Hazimah,S2
-691,Manajemen Rekayasa,20231,2023,Kewarganegaraan,Hazimah,S2
-692,Manajemen Rekayasa,20232,2023,Kewarganegaraan,Hazimah,S2
-693,Manajemen Rekayasa,20232,2023,Pancasila,Hazimah,S2
-694,Matematika,20232,2023,Lingkungan,Hazimah,S2
-695,Matematika,20222,2022,Lingkungan,Hazimah,S2
-696,Matematika,20252,2025,Kewarganegaraan,Hazimah,S2
-697,Matematika,20232,2023,Kewarganegaraan,Hazimah,S2
-698,Matematika,20222,2022,Kewarganegaraan,Hazimah,S2
-699,Matematika,20241,2024,Bahasa Indonesia,Hazimah,S2
-700,Matematika,20231,2023,Pancasila,Hazimah,S2
-701,Matematika,20241,2024,Pancasila,Hazimah,S2
-702,Matematika,20251,2025,Kimia Dasar,Hazimah,S2
-703,Matematika,20231,2023,Kimia Dasar,Hazimah,S2
-704,Matematika,20241,2024,Kimia Dasar,Hazimah,S2
-705,Matematika,20221,2022,Kimia Dasar,Hazimah,S2
-706,Matematika,20221,2022,Pancasila,Hazimah,S2
-707,Teknik Industri,20251,2025,Pancasila,Hazimah,S2
-708,Teknik Industri,20242,2024,Pancasila,Hazimah,S2
-709,Teknik Industri,20222,2022,Pancasila,Hazimah,S2
-710,Teknik Industri,20232,2023,Pancasila,Hazimah,S2
-711,Teknik Industri,20242,2024,Kewarganegaraan,Hazimah,S2
-712,Teknik Industri,20232,2023,Kewarganegaraan,Hazimah,S2
-713,Manajemen Rekayasa,20261,2026,Intelijen Pasar,Aulia Agung Dermawan,S2
-714,Manajemen Rekayasa,20261,2026,Praktikum Riset Pasar dan Pemasaran,Aulia Agung Dermawan,S2
-715,Manajemen Rekayasa,20261,2026,Riset Pasar dan Pemasaran,Aulia Agung Dermawan,S2
-716,Manajemen Rekayasa,20221,2022,Tugas Akhir,Aulia Agung Dermawan,S2
-717,Manajemen Rekayasa,20252,2025,Hukum- Hukum Manajemen Rekayasa,Aulia Agung Dermawan,S2
-718,Manajemen Rekayasa,20242,2024,Hukum- Hukum Manajemen Rekayasa,Aulia Agung Dermawan,S2
-719,Manajemen Rekayasa,20232,2023,Hukum- Hukum Manajemen Rekayasa,Aulia Agung Dermawan,S2
-720,Manajemen Rekayasa,20222,2022,Hukum- Hukum Manajemen Rekayasa,Aulia Agung Dermawan,S2
-721,Manajemen Rekayasa,20232,2023,Praktikum Analitik Data,Aulia Agung Dermawan,S2
-722,Manajemen Rekayasa,20242,2024,Praktikum Analitik Data,Aulia Agung Dermawan,S2
-723,Manajemen Rekayasa,20222,2022,Praktikum Analitik Data,Aulia Agung Dermawan,S2
-724,Manajemen Rekayasa,20252,2025,Praktikum Analitik Data,Aulia Agung Dermawan,S2
-725,Manajemen Rekayasa,20222,2022,Praktikum PMR II,Aulia Agung Dermawan,S2
-726,Manajemen Rekayasa,20231,2023,Strategi Pemasaran,Aulia Agung Dermawan,S2
-727,Manajemen Rekayasa,20251,2025,Strategi Pemasaran,Aulia Agung Dermawan,S2
-728,Manajemen Rekayasa,20241,2024,Strategi Pemasaran,Aulia Agung Dermawan,S2
-729,Manajemen Rekayasa,20232,2023,Perancangan Sistem Rekayasa Terpadu,Aulia Agung Dermawan,S2
-730,Manajemen Rekayasa,20252,2025,Rekayasa Kualitas,Aulia Agung Dermawan,S2
-731,Manajemen Rekayasa,20222,2022,Rekayasa Kualitas,Aulia Agung Dermawan,S2
-732,Manajemen Rekayasa,20252,2025,Analitik Data,Aulia Agung Dermawan,S2
-733,Manajemen Rekayasa,20222,2022,Analitik Data,Aulia Agung Dermawan,S2
-734,Manajemen Rekayasa,20242,2024,Analitik Data,Aulia Agung Dermawan,S2
-735,Manajemen Rekayasa,20232,2023,Analitik Data,Aulia Agung Dermawan,S2
-736,Manajemen Rekayasa,20222,2022,Kerja Praktek Manajemen Rekayasa,Aulia Agung Dermawan,S2
-737,Manajemen Rekayasa,20221,2022,Perancangan Kesehatan dan Keselamatan Kerja,Aulia Agung Dermawan,S2
-738,Manajemen Rekayasa,20222,2022,Manajemen Teknologi,Aulia Agung Dermawan,S2
-739,Manajemen Rekayasa,20221,2022,Riset Pasar,Aulia Agung Dermawan,S2
-740,Manajemen Rekayasa,20241,2024,Riset Pasar,Aulia Agung Dermawan,S2
-741,Manajemen Rekayasa,20251,2025,Riset Pasar,Aulia Agung Dermawan,S2
-742,Manajemen Rekayasa,20231,2023,Riset Pasar,Aulia Agung Dermawan,S2
-743,Manajemen Rekayasa,20231,2023,Praktikum Menggambar Teknik,Aulia Agung Dermawan,S2
-744,Manajemen Rekayasa,20231,2023,Menggambar Teknik,Aulia Agung Dermawan,S2
-745,Manajemen Rekayasa,20241,2024,Praktikum PMR I,Aulia Agung Dermawan,S2
-746,Manajemen Rekayasa,20251,2025,Praktikum PMR I,Aulia Agung Dermawan,S2
-747,Manajemen Rekayasa,20221,2022,Praktikum PMR I,Aulia Agung Dermawan,S2
-748,Teknik Industri,20261,2026,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
-749,Manajemen Rekayasa,20261,2026,Mekanika Teknik,Ansarullah Lawi,S3
-750,Bisnis Digital,20251,2025,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
-751,Desain Komunikasi Visual,20232,2023,Pengantar Rekayasa Desain,Ansarullah Lawi,S3
-752,Desain Komunikasi Visual,20222,2022,Pengantar Rekayasa Desain,Ansarullah Lawi,S3
-753,Desain Komunikasi Visual,20242,2024,Pengantar Rekayasa Desain,Ansarullah Lawi,S3
-754,Desain Komunikasi Visual,20252,2025,Pengantar Rekayasa Desain,Ansarullah Lawi,S3
-755,Manajemen Rekayasa,20232,2023,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
-756,Manajemen Rekayasa,20222,2022,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
-757,Manajemen Rekayasa,20241,2024,Mekanika Teknik,Ansarullah Lawi,S3
-758,Manajemen Rekayasa,20251,2025,Mekanika Teknik,Ansarullah Lawi,S3
-759,Manajemen Rekayasa,20221,2022,Mekanika Teknik,Ansarullah Lawi,S3
-760,Manajemen Rekayasa,20231,2023,Mekanika Teknik,Ansarullah Lawi,S3
-761,Manajemen Rekayasa,20252,2025,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
-762,Manajemen Rekayasa,20232,2023,Technopreneurship,Ansarullah Lawi,S3
-763,Matematika,20241,2024,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
-764,Matematika,20231,2023,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
-765,Teknik Industri,20231,2023,Pengendalian dan Penjaminan Mutu,Ansarullah Lawi,S3
-766,Teknik Industri,20251,2025,Pengendalian dan Penjaminan Mutu,Ansarullah Lawi,S3
-767,Teknik Industri,20221,2022,Pengendalian dan Penjaminan Mutu,Ansarullah Lawi,S3
-768,Teknik Industri,20241,2024,Pengendalian dan Penjaminan Mutu,Ansarullah Lawi,S3
-769,Teknik Industri,20222,2022,Perancangan dan Pengembangan Produk,Ansarullah Lawi,S3
-770,Teknik Industri,20242,2024,Perancangan dan Pengembangan Produk,Ansarullah Lawi,S3
-771,Teknik Industri,20232,2023,Perancangan dan Pengembangan Produk,Ansarullah Lawi,S3
-772,Teknik Industri,20221,2022,Perancangan dan Pengembangan Produk,Ansarullah Lawi,S3
-773,Teknik Industri,20232,2023,Technopreneurship,Ansarullah Lawi,S3
-774,Teknik Industri,20222,2022,Technopreneurship,Ansarullah Lawi,S3
-775,Teknik Industri,20241,2024,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
-776,Teknik Industri,20251,2025,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
-777,Teknik Industri,20231,2023,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
-778,Teknik Industri,20261,2026,Rekayasa Sistem Kerja,M. Ansyar Bora,S3
-779,Manajemen Rekayasa,20261,2026,Perancangan Kesehatan dan Keselamatan Kerja,M. Ansyar Bora,S3
-780,Manajemen Rekayasa,20261,2026,Perancangan Proses Bisnis dan Organisasi,M. Ansyar Bora,S3
-781,Manajemen Rekayasa,20252,2025,Metodologi Penelitian,M. Ansyar Bora,S3
-782,Manajemen Rekayasa,20232,2023,Metodologi Penelitian,M. Ansyar Bora,S3
-783,Manajemen Rekayasa,20242,2024,Metodologi Penelitian,M. Ansyar Bora,S3
-784,Manajemen Rekayasa,20221,2022,Metodologi Penelitian,M. Ansyar Bora,S3
-785,Manajemen Rekayasa,20241,2024,Perancangan Kesehatan dan Keselamatan Kerja,M. Ansyar Bora,S3
-786,Manajemen Rekayasa,20231,2023,Perancangan Kesehatan dan Keselamatan Kerja,M. Ansyar Bora,S3
-787,Manajemen Rekayasa,20251,2025,Perancangan Kesehatan dan Keselamatan Kerja,M. Ansyar Bora,S3
-788,Manajemen Rekayasa,20222,2022,Kode Etik dan Etika Profesional,M. Ansyar Bora,S3
-789,Manajemen Rekayasa,20221,2022,Kode Etik dan Etika Profesional,M. Ansyar Bora,S3
-790,Manajemen Rekayasa,20221,2022,Statistika,M. Ansyar Bora,S3
-791,Teknik Industri,20251,2025,Rekayasa Sistem Kerja,M. Ansyar Bora,S3
-792,Teknik Industri,20231,2023,Rekayasa Sistem Kerja,M. Ansyar Bora,S3
-793,Teknik Industri,20241,2024,Rekayasa Sistem Kerja,M. Ansyar Bora,S3
-794,Teknik Industri,20232,2023,Ergonomika,M. Ansyar Bora,S3
-795,Teknik Industri,20252,2025,Ergonomika,M. Ansyar Bora,S3
-796,Teknik Industri,20242,2024,Ergonomika,M. Ansyar Bora,S3
-797,Teknik Industri,20231,2023,Pengendalian dan Penjaminan Mutu,M. Ansyar Bora,S3
-798,Teknik Industri,20222,2022,Ergonomika,M. Ansyar Bora,S3
-799,Teknik Komputer,20261,2026,Interaksi Manusia dan Komputer,Zainul Munir,S2
-800,Teknik Komputer,20261,2026,Pengantar Rekayasa dan Desain,Zainul Munir,S2
-801,Desain Komunikasi Visual,20221,2022,Pemrograman Web,Zainul Munir,S2
-802,Teknik Komputer,20252,2025,Technopreneuship,Zainul Munir,S2
-803,Teknik Komputer,20232,2023,Technopreneuship,Zainul Munir,S2
-804,Teknik Komputer,20222,2022,Technopreneuship,Zainul Munir,S2
-805,Teknik Komputer,20242,2024,Technopreneuship,Zainul Munir,S2
-806,Teknik Komputer,20252,2025,Pemrograman Web Framework,Zainul Munir,S2
-807,Teknik Komputer,20232,2023,Pemrograman Web Framework,Zainul Munir,S2
-808,Teknik Komputer,20242,2024,Pemrograman Web Framework,Zainul Munir,S2
-809,Teknik Komputer,20222,2022,Pemrograman Web Framework,Zainul Munir,S2
-810,Teknik Komputer,20232,2023,Pengantar Rekayasa dan Desain,Zainul Munir,S2
-811,Teknik Komputer,20222,2022,Pengantar Rekayasa dan Desain,Zainul Munir,S2
-812,Teknik Komputer,20252,2025,Pengantar Rekayasa dan Desain,Zainul Munir,S2
-813,Teknik Komputer,20251,2025,Pengantar Rekayasa dan Desain,Zainul Munir,S2
-814,Teknik Komputer,20242,2024,Pengantar Rekayasa dan Desain,Zainul Munir,S2
-815,Teknik Komputer,20251,2025,Manajemen Proyek,Zainul Munir,S2
-816,Teknik Komputer,20241,2024,Manajemen Proyek,Zainul Munir,S2
-817,Teknik Komputer,20231,2023,Manajemen Proyek,Zainul Munir,S2
-818,Teknik Komputer,20251,2025,Interaksi Manusia dan  Komputer,Zainul Munir,S2
-819,Teknik Komputer,20241,2024,Interaksi Manusia dan  Komputer,Zainul Munir,S2
-820,Teknik Komputer,20231,2023,Interaksi Manusia dan  Komputer,Zainul Munir,S2
-821,Teknik Komputer,20231,2023,Rekayasa Perangkat Lunak,Zainul Munir,S2
-822,Teknik Komputer,20251,2025,Pemrograman Web,Zainul Munir,S2
-823,Teknik Komputer,20221,2022,Pemrograman Web,Zainul Munir,S2
-824,Teknik Komputer,20241,2024,Pemrograman Web,Zainul Munir,S2
-825,Teknik Komputer,20231,2023,Pemrograman Web,Zainul Munir,S2
-826,Sistem Informasi,20231,2023,Rekayasa Perangkat Lunak,Zainul Munir,S2
-827,Matematika,20242,2024,Pasar Modal,Andini Setyo Anggraeni,S2
-828,Matematika,20232,2023,Pasar Modal,Andini Setyo Anggraeni,S2
-829,Matematika,20221,2022,Pemodelan dan Teori Risiko I,Andini Setyo Anggraeni,S2
-830,Matematika,20231,2023,Pemodelan dan Teori Risiko I,Andini Setyo Anggraeni,S2
-831,Matematika,20241,2024,Pemodelan dan Teori Risiko I,Andini Setyo Anggraeni,S2
-832,Matematika,20251,2025,Pengenalan Komputasi,Andini Setyo Anggraeni,S2
-833,Matematika,20222,2022,Proses Stokastik,Andini Setyo Anggraeni,S2
-834,Matematika,20242,2024,Matematika Keuangan,Andini Setyo Anggraeni,S2
-835,Matematika,20222,2022,Matematika Keuangan,Andini Setyo Anggraeni,S2
-836,Matematika,20252,2025,Matematika Keuangan,Andini Setyo Anggraeni,S2
-837,Matematika,20232,2023,Matematika Keuangan,Andini Setyo Anggraeni,S2
-838,Matematika,20232,2023,Math. Aktuaria II,Andini Setyo Anggraeni,S2
-839,Matematika,20252,2025,Math. Aktuaria II,Andini Setyo Anggraeni,S2
-840,Matematika,20242,2024,Math. Aktuaria II,Andini Setyo Anggraeni,S2
-841,Matematika,20222,2022,Math. Aktuaria II,Andini Setyo Anggraeni,S2
-842,Matematika,20251,2025,Teori Suku Bunga,Andini Setyo Anggraeni,S2
-843,Matematika,20231,2023,Teori Suku Bunga,Andini Setyo Anggraeni,S2
-844,Matematika,20221,2022,Teori Suku Bunga,Andini Setyo Anggraeni,S2
-845,Matematika,20241,2024,Teori Suku Bunga,Andini Setyo Anggraeni,S2
-846,Matematika,20221,2022,Math. Aktuaria I,Andini Setyo Anggraeni,S2
-847,Matematika,20241,2024,Math. Aktuaria I,Andini Setyo Anggraeni,S2
-848,Matematika,20251,2025,Math. Aktuaria I,Andini Setyo Anggraeni,S2
-849,Matematika,20231,2023,Math. Aktuaria I,Andini Setyo Anggraeni,S2
-850,Sistem Informasi,20261,2026,Manajemen Resiko Sistem Informasi,Ririt Dwiputri Permatasari,S3
-851,Sistem Informasi,20261,2026,Metode Penelitian,Ririt Dwiputri Permatasari,S3
-852,Sistem Informasi,20232,2023,Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
-853,Sistem Informasi,20252,2025,Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
-854,Sistem Informasi,20222,2022,Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
-855,Sistem Informasi,20242,2024,Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
-856,Sistem Informasi,20251,2025,Pengantar Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
-857,Sistem Informasi,20241,2024,Pengantar Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
-858,Sistem Informasi,20231,2023,Pengantar Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
-859,Sistem Informasi,20222,2022,Analisis dan Perancangan Sistem Informasi,Ririt Dwiputri Permatasari,S3
-860,Sistem Informasi,20252,2025,Manusia dan Teknologi,Ririt Dwiputri Permatasari,S3
-861,Sistem Informasi,20242,2024,Manusia dan Teknologi,Ririt Dwiputri Permatasari,S3
-862,Sistem Informasi,20232,2023,Manusia dan Teknologi,Ririt Dwiputri Permatasari,S3
-863,Sistem Informasi,20241,2024,Manajemen Resiko SI,Ririt Dwiputri Permatasari,S3
-864,Sistem Informasi,20221,2022,Manajemen Resiko SI,Ririt Dwiputri Permatasari,S3
-865,Sistem Informasi,20231,2023,Manajemen Resiko SI,Ririt Dwiputri Permatasari,S3
-866,Sistem Informasi,20251,2025,Manajemen Resiko SI,Ririt Dwiputri Permatasari,S3
-867,Sistem Informasi,20231,2023,Metode Penelitian,Ririt Dwiputri Permatasari,S3
-868,Sistem Informasi,20221,2022,Metode Penelitian,Ririt Dwiputri Permatasari,S3
-869,Sistem Informasi,20251,2025,Metode Penelitian,Ririt Dwiputri Permatasari,S3
-870,Sistem Informasi,20241,2024,Metode Penelitian,Ririt Dwiputri Permatasari,S3
-871,Sistem Informasi,20261,2026,Pemrograman Berbasis Web,Alvendo Wahyu Aranski,S2
-872,Sistem Informasi,20242,2024,Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
-873,Sistem Informasi,20232,2023,Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
-874,Sistem Informasi,20252,2025,Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
-875,Sistem Informasi,20232,2023,Tata Kelola Sistem Informasi,Alvendo Wahyu Aranski,S2
-876,Sistem Informasi,20222,2022,Tata Kelola Sistem Informasi,Alvendo Wahyu Aranski,S2
-877,Sistem Informasi,20242,2024,Tata Kelola Sistem Informasi,Alvendo Wahyu Aranski,S2
-878,Sistem Informasi,20252,2025,Tata Kelola Sistem Informasi,Alvendo Wahyu Aranski,S2
-879,Sistem Informasi,20252,2025,Praktikum Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
-880,Sistem Informasi,20232,2023,Praktikum Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
-881,Sistem Informasi,20242,2024,Praktikum Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
-882,Sistem Informasi,20231,2023,Komputer dan Masyarakat,Alvendo Wahyu Aranski,S2
-883,Sistem Informasi,20231,2023,Pemrograman Web 1,Alvendo Wahyu Aranski,S2
-884,Sistem Informasi,20241,2024,Pemrograman Web 1,Alvendo Wahyu Aranski,S2
-885,Sistem Informasi,20251,2025,Pemrograman Web 1,Alvendo Wahyu Aranski,S2
-886,Sistem Informasi,20241,2024,Pemrograman Database,Alvendo Wahyu Aranski,S2
-887,Sistem Informasi,20221,2022,Multimedia,Alvendo Wahyu Aranski,S2
-888,Sistem Informasi,20241,2024,Praktikum Pemrograman Database,Alvendo Wahyu Aranski,S2
-889,Sistem Informasi,20251,2025,Praktikum Pemrograman Web 1,Alvendo Wahyu Aranski,S2
-890,Sistem Informasi,20241,2024,Praktikum Pemrograman Web 1,Alvendo Wahyu Aranski,S2
-891,Sistem Informasi,20231,2023,Praktikum Pemrograman Web 1,Alvendo Wahyu Aranski,S2
-892,Sistem Informasi,20231,2023,Aplikasi Perkantoran,Alvendo Wahyu Aranski,S2
-893,Sistem Informasi,20221,2022,Aplikasi Perkantoran,Alvendo Wahyu Aranski,S2
-894,Sistem Informasi,20231,2023,Perbankan,Alvendo Wahyu Aranski,S2
-895,Teknik Industri,20232,2023,Dasar Teknologi Informasi dan Pemrograman,Alvendo Wahyu Aranski,S2
-896,Teknik Industri,20251,2025,Praktikum Sistem Basis Data,Alvendo Wahyu Aranski,S2
-897,Teknik Industri,20232,2023,Praktikum Dasar Teknologi Informasi dan Pemrograman,Alvendo Wahyu Aranski,S2
-898,Teknik Industri,20251,2025,Sistem Basis Data,Alvendo Wahyu Aranski,S2
-899,Perdagangan Internasional,20261,2026,Sistem Informasi Bisnis,Muhammad Jufri,S2
-900,Bisnis Digital,20261,2026,Dasar Teknologi Informasi,Muhammad Jufri,S2
-901,Bisnis Digital,20261,2026,Pengantar Bisnis Digital,Muhammad Jufri,S2
-902,Bisnis Digital,20261,2026,Analisis dan Implementasi Bisnis,Muhammad Jufri,S2
-903,Bisnis Digital,20252,2025,Manusia dan Teknologi,Muhammad Jufri,S2
-904,Bisnis Digital,20242,2024,Algoritma dan Pemrograman,Muhammad Jufri,S2
-905,Bisnis Digital,20252,2025,Arsitektur Teknologi,Muhammad Jufri,S2
-906,Bisnis Digital,20251,2025,Dasar Teknologi Informasi,Muhammad Jufri,S2
-907,Bisnis Digital,20241,2024,Dasar Teknologi Informasi,Muhammad Jufri,S2
-908,Bisnis Digital,20241,2024,Pengantar Bisnis Digital,Muhammad Jufri,S2
-909,Bisnis Digital,20251,2025,Pengantar Bisnis Digital,Muhammad Jufri,S2
-910,Perdagangan Internasional,20251,2025,Application Computer Business,Muhammad Jufri,S2
-911,Perdagangan Internasional,20241,2024,Application Computer Business,Muhammad Jufri,S2
-912,Perdagangan Internasional,20252,2025,Introduction to Information Technology,Muhammad Jufri,S2
-913,Perdagangan Internasional,20232,2023,Introduction to Information Technology,Muhammad Jufri,S2
-914,Perdagangan Internasional,20231,2023,Kewarganegaraan,Muhammad Jufri,S2
-915,Teknik Komputer,20232,2023,Kewarganegaraan,Muhammad Jufri,S2
-916,Teknik Komputer,20221,2022,Jaringan Komputer Lanjut,Muhammad Jufri,S2
-917,Sistem Informasi,20222,2022,Arsitektur SI/TI Perusahaan,Muhammad Jufri,S2
-918,Sistem Informasi,20222,2022,Pengantar Bisnis dan Manajemen,Muhammad Jufri,S2
-919,Sistem Informasi,20222,2022,Arsitektur dan Organisasi Komputer,Muhammad Jufri,S2
-920,Sistem Informasi,20232,2023,Technoprenuership,Muhammad Jufri,S2
-921,Sistem Informasi,20221,2022,Pemrograman Web 1,Muhammad Jufri,S2
-922,Sistem Informasi,20221,2022,Jaringan dan Komunikasi Data,Muhammad Jufri,S2
-923,Sistem Informasi,20221,2022,Praktikum Pemrograman Web 1,Muhammad Jufri,S2
-924,Sistem Informasi,20221,2022,Dasar Infrastruktur Teknologi Informasi,Muhammad Jufri,S2
-925,Sistem Informasi,20231,2023,Proses Bisnis,Muhammad Jufri,S2
-926,Sistem Informasi,20241,2024,Proses Bisnis,Muhammad Jufri,S2
-927,Sistem Informasi,20221,2022,Sistem Operasi,Muhammad Jufri,S2
-928,Teknik Industri,20252,2025,Dasar Teknologi Informasi dan Pemrograman,Muhammad Jufri,S2
-929,Teknik Industri,20242,2024,Dasar Teknologi Informasi dan Pemrograman,Muhammad Jufri,S2
-930,Teknik Industri,20231,2023,Analisis dan Perancangan Sistem Informasi,Muhammad Jufri,S2
-931,Teknik Industri,20231,2023,Praktikum Analisis dan Perancangan Sistem Informasi,Muhammad Jufri,S2
-932,Teknik Industri,20242,2024,Praktikum Dasar Teknologi Informasi dan Pemrograman,Muhammad Jufri,S2
-933,Manajemen Rekayasa,20261,2026,Manajemen Operasi dan Rantai Pasok,Dimas Akmarul Putera,S2
-934,Manajemen Rekayasa,20261,2026,Pemodelan Sistem,Dimas Akmarul Putera,S2
-935,Manajemen Rekayasa,20261,2026,Sustainability,Dimas Akmarul Putera,S2
-936,Manajemen Rekayasa,20232,2023,Hukum- Hukum Manajemen Rekayasa,Dimas Akmarul Putera,S2
-937,Manajemen Rekayasa,20222,2022,Hukum- Hukum Manajemen Rekayasa,Dimas Akmarul Putera,S2
-938,Manajemen Rekayasa,20232,2023,Praktikum PMR II,Dimas Akmarul Putera,S2
-939,Manajemen Rekayasa,20222,2022,Praktikum PMR II,Dimas Akmarul Putera,S2
-940,Manajemen Rekayasa,20242,2024,Praktikum PMR II,Dimas Akmarul Putera,S2
-941,Manajemen Rekayasa,20252,2025,Praktikum PMR II,Dimas Akmarul Putera,S2
-942,Manajemen Rekayasa,20241,2024,Perancangan Sistem Rekayasa Terpadu,Dimas Akmarul Putera,S2
-943,Manajemen Rekayasa,20232,2023,Perancangan Sistem Rekayasa Terpadu,Dimas Akmarul Putera,S2
-944,Manajemen Rekayasa,20251,2025,Perancangan Sistem Rekayasa Terpadu,Dimas Akmarul Putera,S2
-945,Manajemen Rekayasa,20242,2024,Perancangan Sistem Rekayasa Terpadu,Dimas Akmarul Putera,S2
-946,Manajemen Rekayasa,20242,2024,Metode Kuantitatif,Dimas Akmarul Putera,S2
-947,Manajemen Rekayasa,20222,2022,Metode Kuantitatif,Dimas Akmarul Putera,S2
-948,Manajemen Rekayasa,20232,2023,Metode Kuantitatif,Dimas Akmarul Putera,S2
-949,Manajemen Rekayasa,20252,2025,Metode Kuantitatif,Dimas Akmarul Putera,S2
-950,Manajemen Rekayasa,20222,2022,Kerja Praktek Manajemen Rekayasa,Dimas Akmarul Putera,S2
-951,Manajemen Rekayasa,20221,2022,Perancangan Kesehatan dan Keselamatan Kerja,Dimas Akmarul Putera,S2
-952,Manajemen Rekayasa,20251,2025,Simulasi dan Pemodelan,Dimas Akmarul Putera,S2
-953,Manajemen Rekayasa,20231,2023,Simulasi dan Pemodelan,Dimas Akmarul Putera,S2
-954,Manajemen Rekayasa,20241,2024,Simulasi dan Pemodelan,Dimas Akmarul Putera,S2
-955,Manajemen Rekayasa,20221,2022,Simulasi dan Pemodelan,Dimas Akmarul Putera,S2
-956,Manajemen Rekayasa,20242,2024,Manajemen Strategi dan Perencanaan,Dimas Akmarul Putera,S2
-957,Manajemen Rekayasa,20221,2022,Manajemen Strategi dan Perencanaan,Dimas Akmarul Putera,S2
-958,Manajemen Rekayasa,20252,2025,Manajemen Strategi dan Perencanaan,Dimas Akmarul Putera,S2
-959,Manajemen Rekayasa,20231,2023,Praktikum PMR I,Dimas Akmarul Putera,S2
-960,Manajemen Rekayasa,20221,2022,Praktikum PMR I,Dimas Akmarul Putera,S2
-961,Perdagangan Internasional,20242,2024,Financial Management II,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
-962,Perdagangan Internasional,20242,2024,Fundamental of International Business,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
-963,Perdagangan Internasional,20232,2023,Fundamental of International Business,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
-964,Perdagangan Internasional,20231,2023,Bisnis Proses dan Operasi,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
-965,Perdagangan Internasional,20241,2024,Bisnis Proses dan Operasi,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
-966,Perdagangan Internasional,20241,2024,Financial Management,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
-967,Manajemen Rekayasa,20232,2023,Manajemen Strategi dan Perencanaan,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
-968,Manajemen Rekayasa,20222,2022,Manajemen Strategi dan Perencanaan,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
-969,Teknik Industri,20222,2022,Technopreneurship,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
-970,Teknik Komputer,20261,2026,Pengolahan Sinyal Digital,Joni Eka Candra,S2
-971,Teknik Komputer,20261,2026,Elektronika,Joni Eka Candra,S2
-972,Teknik Komputer,20252,2025,Organisasi  dan Arsitektur  Komputer,Joni Eka Candra,S2
-973,Teknik Komputer,20232,2023,Organisasi  dan Arsitektur  Komputer,Joni Eka Candra,S2
-974,Teknik Komputer,20242,2024,Organisasi  dan Arsitektur  Komputer,Joni Eka Candra,S2
-975,Teknik Komputer,20222,2022,Organisasi  dan Arsitektur  Komputer,Joni Eka Candra,S2
-976,Teknik Komputer,20242,2024,Elektronika Lanjutan,Joni Eka Candra,S2
-977,Teknik Komputer,20252,2025,Elektronika Lanjutan,Joni Eka Candra,S2
-978,Teknik Komputer,20222,2022,Elektronika Lanjutan,Joni Eka Candra,S2
-979,Teknik Komputer,20232,2023,Elektronika Lanjutan,Joni Eka Candra,S2
-980,Teknik Komputer,20241,2024,Sistem Kontrol,Joni Eka Candra,S2
-981,Teknik Komputer,20251,2025,Sistem Kontrol,Joni Eka Candra,S2
-982,Teknik Komputer,20231,2023,Sistem Kontrol,Joni Eka Candra,S2
-983,Teknik Komputer,20251,2025,Pengolahan Sinyal Digital,Joni Eka Candra,S2
-984,Teknik Komputer,20241,2024,Pengolahan Sinyal Digital,Joni Eka Candra,S2
-985,Teknik Komputer,20231,2023,Pengolahan Sinyal Digital,Joni Eka Candra,S2
-986,Teknik Komputer,20231,2023,Matematika Diskrit,Joni Eka Candra,S2
-987,Teknik Komputer,20251,2025,Dasar Elektronika,Joni Eka Candra,S2
-988,Teknik Komputer,20241,2024,Dasar Elektronika,Joni Eka Candra,S2
-989,Manajemen Rekayasa,20222,2022,Metodologi Penelitian,Reski Septiana,S3
-990,Manajemen Rekayasa,20222,2022,Rekayasa Kualitas,Reski Septiana,S3
-991,Manajemen Rekayasa,20232,2023,Teori Probabilitas,Reski Septiana,S3
-992,Manajemen Rekayasa,20231,2023,Praktikum Menggambar Teknik,Reski Septiana,S3
-993,Manajemen Rekayasa,20231,2023,Menggambar Teknik,Reski Septiana,S3
-994,Teknik Industri,20231,2023,Otomasi Sistem Produksi,Reski Septiana,S3
-995,Teknik Industri,20231,2023,Manajemen Kualitas,Reski Septiana,S3
-996,Teknik Industri,20232,2023,Material Teknik,Reski Septiana,S3
-997,Teknik Industri,20232,2023,Teori Probabilitas,Reski Septiana,S3
-998,Teknik Industri,20222,2022,Teori Probabilitas,Reski Septiana,S3
-999,Teknik Industri,20231,2023,Proses Manufaktur,Reski Septiana,S3
-1000,Bisnis Digital,20261,2026,Kecerdasan Bisnis,Nadia Widari Nasution,S2
-1001,Bisnis Digital,20261,2026,Desain dan Analisis Sistem,Nadia Widari Nasution,S2
-1002,Bisnis Digital,20252,2025,Big Data and Business Analytic,Nadia Widari Nasution,S2
-1003,Bisnis Digital,20252,2025,UI/UX Design,Nadia Widari Nasution,S2
-1004,Sistem Informasi,20242,2024,Statistika dan Probabilitas,Nadia Widari Nasution,S2
-1005,Sistem Informasi,20242,2024,Dasar Sistem Informasi,Nadia Widari Nasution,S2
-1006,Sistem Informasi,20232,2023,Dasar Sistem Informasi,Nadia Widari Nasution,S2
-1007,Sistem Informasi,20222,2022,Dasar Sistem Informasi,Nadia Widari Nasution,S2
-1008,Sistem Informasi,20251,2025,Algoritma dan Struktur Data,Nadia Widari Nasution,S2
-1009,Sistem Informasi,20231,2023,Algoritma dan Struktur Data,Nadia Widari Nasution,S2
-1010,Sistem Informasi,20241,2024,Algoritma dan Struktur Data,Nadia Widari Nasution,S2
-1011,Sistem Informasi,20231,2023,Multimedia,Nadia Widari Nasution,S2
-1012,Sistem Informasi,20251,2025,Dasar Pemrograman,Nadia Widari Nasution,S2
-1013,Sistem Informasi,20231,2023,Dasar Pemrograman,Nadia Widari Nasution,S2
-1014,Sistem Informasi,20241,2024,Dasar Pemrograman,Nadia Widari Nasution,S2
-1015,Sistem Informasi,20241,2024,Aplikasi Perkantoran,Nadia Widari Nasution,S2
-1016,Sistem Informasi,20231,2023,Praktikum Dasar Pemrograman,Nadia Widari Nasution,S2
-1017,Sistem Informasi,20241,2024,Praktikum Dasar Pemrograman,Nadia Widari Nasution,S2
-1018,Sistem Informasi,20251,2025,Praktikum Dasar Pemrograman,Nadia Widari Nasution,S2
-1019,Manajemen Rekayasa,20252,2025,Pemrograman Komputer,Nadia Widari Nasution,S2
-1020,Manajemen Rekayasa,20252,2025,Praktikum Pemrograman Komputer,Nadia Widari Nasution,S2
-1021,Teknik Industri,20251,2025,Sistem Basis Data,Nadia Widari Nasution,S2
-1022,Desain Komunikasi Visual,20252,2025,DKV Multimedia 1,Widiya Lestari Harahap,S2
-1023,Desain Komunikasi Visual,20242,2024,DKV Multimedia 1,Widiya Lestari Harahap,S2
-1024,Desain Komunikasi Visual,20222,2022,DKV Multimedia 1,Widiya Lestari Harahap,S2
-1025,Desain Komunikasi Visual,20232,2023,DKV Multimedia 1,Widiya Lestari Harahap,S2
-1026,Desain Komunikasi Visual,20222,2022,DKV Dasar,Widiya Lestari Harahap,S2
-1027,Desain Komunikasi Visual,20232,2023,DKV Dasar,Widiya Lestari Harahap,S2
-1028,Desain Komunikasi Visual,20252,2025,DKV Dasar,Widiya Lestari Harahap,S2
-1029,Desain Komunikasi Visual,20242,2024,DKV Dasar,Widiya Lestari Harahap,S2
-1030,Desain Komunikasi Visual,20251,2025,DKV Aplikatif,Widiya Lestari Harahap,S2
-1031,Desain Komunikasi Visual,20241,2024,DKV Aplikatif,Widiya Lestari Harahap,S2
-1032,Desain Komunikasi Visual,20231,2023,DKV Aplikatif,Widiya Lestari Harahap,S2
-1033,Desain Komunikasi Visual,20241,2024,Prinsip Desain 2D dan 3D,Widiya Lestari Harahap,S2
-1034,Desain Komunikasi Visual,20261,2026,Prinsip Desain 2D dan 3D,Widiya Lestari Harahap,S2
-1035,Desain Komunikasi Visual,20231,2023,Prinsip Desain 2D dan 3D,Widiya Lestari Harahap,S2
-1036,Desain Komunikasi Visual,20251,2025,Prinsip Desain 2D dan 3D,Widiya Lestari Harahap,S2
-1037,Desain Komunikasi Visual,20251,2025,DKV Multimedia 2,Widiya Lestari Harahap,S2
-1038,Desain Komunikasi Visual,20241,2024,DKV Multimedia 2,Widiya Lestari Harahap,S2
-1039,Desain Komunikasi Visual,20261,2026,DKV Multimedia 2,Widiya Lestari Harahap,S2
-1040,Desain Komunikasi Visual,20231,2023,DKV Multimedia 2,Widiya Lestari Harahap,S2
-1041,Desain Komunikasi Visual,20222,2022,Portofolio,Widiya Lestari Harahap,S2
-1042,Desain Komunikasi Visual,20222,2022,Ilustrasi,Widiya Lestari Harahap,S2
-1043,Desain Komunikasi Visual,20232,2023,Ilustrasi,Widiya Lestari Harahap,S2
-1044,Desain Komunikasi Visual,20242,2024,Ilustrasi,Widiya Lestari Harahap,S2
-1045,Manajemen Rekayasa,20222,2022,Perancangan Sistem Rekayasa Terpadu,Rafi Dio,S2
-1046,Manajemen Rekayasa,20222,2022,Teori Probabilitas,Rafi Dio,S2
-1047,Manajemen Rekayasa,20232,2023,Analitik Data,Rafi Dio,S2
-1048,Manajemen Rekayasa,20231,2023,Statistika,Rafi Dio,S2
-1049,Teknik Industri,20232,2023,Analitika Data,Rafi Dio,S2
-1050,Teknik Industri,20222,2022,Analitika Data,Rafi Dio,S2
-1051,Teknik Industri,20232,2023,Simulasi Sistem,Rafi Dio,S2
-1052,Teknik Industri,20222,2022,Simulasi Sistem,Rafi Dio,S2
-1053,Teknik Industri,20222,2022,Praktikum Perancangan Sistem Terintegrasi,Rafi Dio,S2
-1054,Teknik Industri,20231,2023,Pemodelan Sistem,Rafi Dio,S2
-1055,Teknik Industri,20231,2023,Statistika Industri,Rafi Dio,S2
-1056,Manajemen Rekayasa,20261,2026,Menggambar Teknik,Razan Muhammad Railis,S2
-1057,Manajemen Rekayasa,20261,2026,Praktikum Menggambar Teknik,Razan Muhammad Railis,S2
-1058,Manajemen Rekayasa,20261,2026,Teori Probabilitas,Razan Muhammad Railis,S2
-1059,Manajemen Rekayasa,20261,2026,Ekonomi Manajerial,Razan Muhammad Railis,S2
-1060,Manajemen Rekayasa,20261,2026,Praktikum Proses Manufaktur,Razan Muhammad Railis,S2
-1061,Manajemen Rekayasa,20242,2024,Material Teknik,Razan Muhammad Railis,S2
-1062,Manajemen Rekayasa,20232,2023,Material Teknik,Razan Muhammad Railis,S2
-1063,Manajemen Rekayasa,20252,2025,Material Teknik,Razan Muhammad Railis,S2
-1064,Manajemen Rekayasa,20232,2023,Rekayasa Kualitas,Razan Muhammad Railis,S2
-1065,Manajemen Rekayasa,20252,2025,Manajemen Teknologi,Razan Muhammad Railis,S2
-1066,Manajemen Rekayasa,20241,2024,Praktikum Proses Manufaktur,Razan Muhammad Railis,S2
-1067,Manajemen Rekayasa,20241,2024,Proses Manufaktur,Razan Muhammad Railis,S2
-1068,Manajemen Rekayasa,20251,2025,Praktikum Menggambar Teknik,Razan Muhammad Railis,S2
-1069,Manajemen Rekayasa,20241,2024,Praktikum Menggambar Teknik,Razan Muhammad Railis,S2
-1070,Manajemen Rekayasa,20241,2024,Menggambar Teknik,Razan Muhammad Railis,S2
-1071,Manajemen Rekayasa,20251,2025,Menggambar Teknik,Razan Muhammad Railis,S2
-1072,Teknik Industri,20252,2025,Material Teknik,Razan Muhammad Railis,S2
-1073,Teknik Industri,20242,2024,Material Teknik,Razan Muhammad Railis,S2
-1074,Teknik Industri,20251,2025,Praktikum Proses Manufaktur,Razan Muhammad Railis,S2
-1075,Teknik Industri,20241,2024,Praktikum Proses Manufaktur,Razan Muhammad Railis,S2
-1076,Teknik Industri,20251,2025,Proses Manufaktur,Razan Muhammad Railis,S2
-1077,Teknik Industri,20241,2024,Proses Manufaktur,Razan Muhammad Railis,S2
-1078,Sistem Informasi,20261,2026,UI/UX Design,Rifa'atul Mahmudah Burhan,S2
-1079,Sistem Informasi,20261,2026,Sistem Informasi Manajemen,Rifa'atul Mahmudah Burhan,S2
-1080,Sistem Informasi,20261,2026,Sistem Operasi,Rifa'atul Mahmudah Burhan,S2
-1081,Sistem Informasi,20261,2026,Transformasi Digital,Rifa'atul Mahmudah Burhan,S2
-1082,Sistem Informasi,20232,2023,Enterprise Information System,Rifa'atul Mahmudah Burhan,S2
-1083,Sistem Informasi,20252,2025,Enterprise Information System,Rifa'atul Mahmudah Burhan,S2
-1084,Sistem Informasi,20242,2024,Enterprise Information System,Rifa'atul Mahmudah Burhan,S2
-1085,Sistem Informasi,20252,2025,Arsitektur dan Organisasi Komputer,Rifa'atul Mahmudah Burhan,S2
-1086,Sistem Informasi,20232,2023,Arsitektur dan Organisasi Komputer,Rifa'atul Mahmudah Burhan,S2
-1087,Sistem Informasi,20242,2024,Arsitektur dan Organisasi Komputer,Rifa'atul Mahmudah Burhan,S2
-1088,Sistem Informasi,20251,2025,Multimedia,Rifa'atul Mahmudah Burhan,S2
-1089,Sistem Informasi,20241,2024,Multimedia,Rifa'atul Mahmudah Burhan,S2
-1090,Sistem Informasi,20251,2025,Dasar Infrastruktur Teknologi Informasi,Rifa'atul Mahmudah Burhan,S2
-1091,Sistem Informasi,20241,2024,Dasar Infrastruktur Teknologi Informasi,Rifa'atul Mahmudah Burhan,S2
-1092,Sistem Informasi,20241,2024,Sistem Operasi,Rifa'atul Mahmudah Burhan,S2
-1093,Sistem Informasi,20251,2025,Sistem Operasi,Rifa'atul Mahmudah Burhan,S2
-1094,Sistem Informasi,20241,2024,Sistem Informasi Manajemen,Rifa'atul Mahmudah Burhan,S2
-1095,Sistem Informasi,20251,2025,Sistem Informasi Manajemen,Rifa'atul Mahmudah Burhan,S2
-1096,Bisnis Digital,20241,2024,Pengantar Akutansi,Rizki Fadhel Dwipananda,S2
-1097,Perdagangan Internasional,20241,2024,Akuntansi,Rizki Fadhel Dwipananda,S2
-1098,Perdagangan Internasional,20232,2023,Managerial Economics,Rizki Fadhel Dwipananda,S2
-1099,Perdagangan Internasional,20242,2024,Matematics of Finance,Rizki Fadhel Dwipananda,S2
-1100,Perdagangan Internasional,20232,2023,Management Principles,Rizki Fadhel Dwipananda,S2
-1101,Perdagangan Internasional,20241,2024,Economics Principles,Rizki Fadhel Dwipananda,S2
-1102,Sistem Informasi,20242,2024,Pengantar Bisnis dan Manajemen,Rizki Fadhel Dwipananda,S2
-1103,Sistem Informasi,20232,2023,Pengantar Bisnis dan Manajemen,Rizki Fadhel Dwipananda,S2
-1104,Sistem Informasi,20242,2024,Pengantar Akuntansi,Rizki Fadhel Dwipananda,S2
-1105,Manajemen Rekayasa,20252,2025,Kalkulus II,Nahrul Hayati,S2
-1106,Manajemen Rekayasa,20241,2024,Aljabar Linier,Nahrul Hayati,S2
-1107,Manajemen Rekayasa,20251,2025,Kalkulus I,Nahrul Hayati,S2
-1108,Manajemen Rekayasa,20241,2024,Kalkulus I,Nahrul Hayati,S2
-1109,Matematika,20242,2024,Karir Dalam Matematika,Nahrul Hayati,S2
-1110,Matematika,20252,2025,Karir Dalam Matematika,Nahrul Hayati,S2
-1111,Matematika,20241,2024,Pengenalan Komputasi,Nahrul Hayati,S2
-1112,Matematika,20242,2024,Proses Stokastik,Nahrul Hayati,S2
-1113,Matematika,20252,2025,Proses Stokastik,Nahrul Hayati,S2
-1114,Matematika,20252,2025,Matematika II,Nahrul Hayati,S2
-1115,Matematika,20242,2024,Pengantar Optimasi,Nahrul Hayati,S2
-1116,Matematika,20242,2024,Simulasi dan Komputasi Matematika,Nahrul Hayati,S2
-1117,Matematika,20241,2024,Matematika I,Nahrul Hayati,S2
-1118,Teknik Industri,20251,2025,Matriks dan Ruang Vektor,Nahrul Hayati,S2
-1119,Teknik Industri,20241,2024,Matriks dan Ruang Vektor,Nahrul Hayati,S2
-1120,Teknik Industri,20241,2024,Kalkulus I,Nahrul Hayati,S2
-1121,Manajemen Rekayasa,20261,2026,Praktikum Pemrograman Komputer,Mhd Adi Setiawan Aritonang,S2
-1122,Teknik Komputer,20261,2026,Technopreneuship,Mhd Adi Setiawan Aritonang,S2
-1123,Teknik Komputer,20261,2026,Komunikasi Data,Mhd Adi Setiawan Aritonang,S2
-1124,Teknik Komputer,20252,2025,Keamanan Komputer,Mhd Adi Setiawan Aritonang,S2
-1125,Teknik Komputer,20242,2024,Keamanan Komputer,Mhd Adi Setiawan Aritonang,S2
-1126,Teknik Komputer,20251,2025,Komunikasi Data,Mhd Adi Setiawan Aritonang,S2
-1127,Teknik Komputer,20241,2024,Komunikasi Data,Mhd Adi Setiawan Aritonang,S2
-1128,Teknik Komputer,20252,2025,Jaringan Komputer Dasar,Mhd Adi Setiawan Aritonang,S2
-1129,Teknik Komputer,20242,2024,Jaringan Komputer Dasar,Mhd Adi Setiawan Aritonang,S2
-1130,Teknik Komputer,20241,2024,Jaringan Komputer Lanjut,Mhd Adi Setiawan Aritonang,S2
-1131,Teknik Komputer,20251,2025,Jaringan Komputer Lanjut,Mhd Adi Setiawan Aritonang,S2
-1132,Sistem Informasi,20251,2025,Jaringan dan Komunikasi Data,Mhd Adi Setiawan Aritonang,S2
-1133,Sistem Informasi,20241,2024,Jaringan dan Komunikasi Data,Mhd Adi Setiawan Aritonang,S2
-1134,Teknik Industri,20261,2026,Capstone Design,Elsa Sri Erjuni Rumapea,S2
-1135,Teknik Industri,20261,2026,Otomasi Sistem Produksi,Elsa Sri Erjuni Rumapea,S2
-1136,Teknik Industri,20261,2026,Menggambar Teknik,Elsa Sri Erjuni Rumapea,S2
-1137,Teknik Industri,20251,2025,Otomasi Sistem Produksi,Elsa Sri Erjuni Rumapea,S2
-1138,Teknik Industri,20252,2025,Teori Probabilitas,Elsa Sri Erjuni Rumapea,S2
-1139,Teknik Industri,20252,2025,Perancangan dan Pengembangan Produk,Elsa Sri Erjuni Rumapea,S2
-1140,Teknik Industri,20251,2025,Menggambar Teknik,Elsa Sri Erjuni Rumapea,S2
-1141,Manajemen Rekayasa,20261,2026,Komunikasi Professional,Elsa Putri Pertiwi,S2
-1142,Manajemen Rekayasa,20252,2025,Technopreneurship,Elsa Putri Pertiwi,S2
-1143,Manajemen Rekayasa,20252,2025,Rekayasa Kualitas,Elsa Putri Pertiwi,S2
-1144,Manajemen Rekayasa,20252,2025,Teori Probabilitas,Elsa Putri Pertiwi,S2
-1145,Manajemen Rekayasa,20251,2025,Statistika,Elsa Putri Pertiwi,S2
-1146,Teknik Industri,20252,2025,Technopreneurship,Elsa Putri Pertiwi,S2
-1147,Teknik Industri,20251,2025,Manajemen Kualitas,Siti Nurmaulidina,S2
-1148,Teknik Industri,20242,2024,Analitika Data,Siti Nurmaulidina,S2
-1149,Teknik Industri,20252,2025,Analisis dan Perancangan Perusahaan,Siti Nurmaulidina,S2
-1150,Teknik Industri,20242,2024,Analisis dan Perancangan Perusahaan,Siti Nurmaulidina,S2
-1151,Teknik Industri,20252,2025,Sistem Distribusi dan Transportasi,Siti Nurmaulidina,S2
-1152,Bisnis Digital,20261,2026,Pengantar Ekonomi Digital,Dewi Lestari,S2
-1153,Bisnis Digital,20261,2026,Pengantar Manajemen,Dewi Lestari,S2
-1154,Matematika,20261,2026,Technopreneurship,Dewi Lestari,S2
-1155,Bisnis Digital,20252,2025,Riset Pemasaran,Dewi Lestari,S2
-1156,Bisnis Digital,20242,2024,Kewirausahaan,Dewi Lestari,S2
-1157,Bisnis Digital,20252,2025,Kewirausahaan,Dewi Lestari,S2
-1158,Bisnis Digital,20242,2024,Manajemen Pemasaran,Dewi Lestari,S2
-1159,Bisnis Digital,20251,2025,Pengantar Manajemen,Dewi Lestari,S2
-1160,Bisnis Digital,20251,2025,Pengantar Ekonomi Digital,Dewi Lestari,S2
-1161,Perdagangan Internasional,20252,2025,Technopreneurship,Dewi Lestari,S2
-1162,Perdagangan Internasional,20251,2025,International Business Law,Dewi Lestari,S2
-1163,Desain Komunikasi Visual,20242,2024,Manajemen Bisnis Desain,Dewi Lestari,S2
-1164,Matematika,20251,2025,Technopreneurship,Dewi Lestari,S2
-1165,Teknik Industri,20242,2024,Technopreneurship,Dewi Lestari,S2
-1166,Teknik Industri,20261,2026,Capstone Design,Amirah Nova Khairiyah Pane,S2
-1167,Teknik Industri,20261,2026,Pemodelan Sistem,Amirah Nova Khairiyah Pane,S2
-1168,Teknik Industri,20261,2026,Riset Operasi II,Amirah Nova Khairiyah Pane,S2
-1169,Manajemen Rekayasa,20242,2024,Perancangan Sistem Rekayasa Terpadu,Amirah Nova Khairiyah Pane,S2
-1170,Teknik Industri,20251,2025,Riset Operasi Lanjutan,Amirah Nova Khairiyah Pane,S2
-1171,Teknik Industri,20242,2024,Simulasi Sistem,Amirah Nova Khairiyah Pane,S2
-1172,Teknik Industri,20252,2025,Perencanaan dan Pengendalian Logistik,Amirah Nova Khairiyah Pane,S2
-1173,Teknik Industri,20242,2024,Perencanaan dan Pengendalian Logistik,Amirah Nova Khairiyah Pane,S2
-1174,Teknik Industri,20251,2025,Pemodelan Sistem,Amirah Nova Khairiyah Pane,S2
-1175,Teknik Industri,20252,2025,Riset Operasi I,Amirah Nova Khairiyah Pane,S2
-1176,Teknik Industri,20242,2024,Riset Operasi I,Amirah Nova Khairiyah Pane,S2
-1177,Sistem Informasi,20261,2026,Big Data,Fidya Farasalsabila,S2
-1178,Sistem Informasi,20261,2026,Aplikasi Perkantoran,Fidya Farasalsabila,S2
-1179,Sistem Informasi,20261,2026,Machine Learning,Fidya Farasalsabila,S2
-1180,Teknik Komputer,20251,2025,Sistem Operasi,Fidya Farasalsabila,S2
-1181,Sistem Informasi,20242,2024,Arsitektur SI/TI Perusahaan,Fidya Farasalsabila,S2
-1182,Sistem Informasi,20252,2025,Arsitektur SI/TI Perusahaan,Fidya Farasalsabila,S2
-1183,Sistem Informasi,20252,2025,Technoprenuership,Fidya Farasalsabila,S2
-1184,Sistem Informasi,20242,2024,Technoprenuership,Fidya Farasalsabila,S2
-1185,Sistem Informasi,20251,2025,Aplikasi Perkantoran,Fidya Farasalsabila,S2
-1186,Sistem Informasi,20251,2025,Sistem Informasi Manajemen,Fidya Farasalsabila,S2
-1187,Teknik Industri,20261,2026,Proses Manufaktur,Ibnu Anugrah,S2
-1188,Teknik Industri,20261,2026,Praktikum Proses Manufaktur,Ibnu Anugrah,S2
-1189,Teknik Industri,20261,2026,Mekanika Teknik,Ibnu Anugrah,S2
-1190,Manajemen Rekayasa,20242,2024,Isu Lingkungan,Ibnu Anugrah,S2
-1191,Matematika,20242,2024,Lingkungan,Ibnu Anugrah,S2
-1192,Teknik Industri,20252,2025,Material Teknik,Ibnu Anugrah,S2
-1193,Teknik Industri,20242,2024,Perilaku Organisasi,Ibnu Anugrah,S2
-1194,Teknik Industri,20251,2025,Mekanika Teknik,Ibnu Anugrah,S2
-1195,Teknik Industri,20242,2024,Teori Probabilitas,Ibnu Anugrah,S2
-1196,Teknik Industri,20252,2025,Teori Probabilitas,Ibnu Anugrah,S2
-1197,Teknik Industri,20242,2024,Ekologi Industri,Ibnu Anugrah,S2
-1198,Sistem Informasi,20261,2026,Data Science,Sasa Ani Arnomo,S3
-1199,Sistem Informasi,20261,2026,Pemrograman Aplikasi Bergerak Lanjutan,Sasa Ani Arnomo,S3
-1200,Bisnis Digital,20252,2025,Pemrograman Aplikasi Mobile,Sasa Ani Arnomo,S3
-1201,Desain Komunikasi Visual,20252,2025,Desain Interaktif,Sasa Ani Arnomo,S3
-1202,Desain Komunikasi Visual,20251,2025,Pemrograman Web,Sasa Ani Arnomo,S3
-1203,Teknik Komputer,20242,2024,Technopreneuship,Sasa Ani Arnomo,S3
-1204,Teknik Komputer,20251,2025,Mobile Programming,Sasa Ani Arnomo,S3
-1205,Sistem Informasi,20242,2024,Pengantar Pemrograman Mobile,Sasa Ani Arnomo,S3
-1206,Sistem Informasi,20252,2025,Pengantar Pemrograman Mobile,Sasa Ani Arnomo,S3
-1207,Sistem Informasi,20251,2025,Pemrograman Database,Sasa Ani Arnomo,S3
-1208,Sistem Informasi,20251,2025,Pemrograman Mobile,Sasa Ani Arnomo,S3
-1209,Sistem Informasi,20251,2025,Praktikum Pemrograman Database,Sasa Ani Arnomo,S3
-1210,Perdagangan Internasional,20261,2026,Administrasi Kepabeanan,Roni Adi,S2
-1211,Perdagangan Internasional,20261,2026,Proyek Konsultansi Bisnis,Roni Adi,S2
-1212,Perdagangan Internasional,20261,2026,Ekonomi Biru,Roni Adi,S2
-1213,Perdagangan Internasional,20261,2026,Perdagangan Lintas Batas,Roni Adi,S2
-1214,Perdagangan Internasional,20252,2025,Logistic Management,Roni Adi,S2
-1215,Perdagangan Internasional,20251,2025,Blue Economy,Roni Adi,S2
-1216,Perdagangan Internasional,20251,2025,Export-Import Administration,Roni Adi,S2
-1217,Perdagangan Internasional,20242,2024,Operation Management,Roni Adi,S2
-1218,Perdagangan Internasional,20251,2025,Business Negotiation and Communication,Roni Adi,S2
-1219,Perdagangan Internasional,20242,2024,Taxation,Roni Adi,S2
-1220,Perdagangan Internasional,20252,2025,Fundamental of International Business,Roni Adi,S2
-1221,Perdagangan Internasional,20242,2024,Management Principles,Roni Adi,S2
-1222,Sistem Informasi,20252,2025,Pengantar Akuntansi,Roni Adi,S2
-1223,Sistem Informasi,20251,2025,Perbankan,Roni Adi,S2
-1224,Sistem Informasi,20251,2025,Proses Bisnis,Roni Adi,S2
-1225,Desain Komunikasi Visual,20252,2025,Branding,Tommy Andrea Gunawan,S2
-1226,Desain Komunikasi Visual,20252,2025,Desain Interaktif,Tommy Andrea Gunawan,S2
-1227,Desain Komunikasi Visual,20251,2025,DKV Aplikatif,Tommy Andrea Gunawan,S2
-1228,Desain Komunikasi Visual,20261,2026,DKV Aplikatif,Tommy Andrea Gunawan,S2
-1229,Desain Komunikasi Visual,20251,2025,Pemrograman Web,Tommy Andrea Gunawan,S2
-1230,Desain Komunikasi Visual,20261,2026,Pemrograman Web,Tommy Andrea Gunawan,S2
-1231,Desain Komunikasi Visual,20251,2025,Tipografi,Tommy Andrea Gunawan,S2
-1232,Desain Komunikasi Visual,20252,2025,Game Desain,Tommy Andrea Gunawan,S2
-1233,Perdagangan Internasional,20261,2026,Pengantar Akuntansi,Devina Wistiasari,S2
-1234,Perdagangan Internasional,20261,2026,Komunikasi dan Negosiasi Bisnis,Devina Wistiasari,S2
-1235,Bisnis Digital,20261,2026,Pengantar Akutansi,Devina Wistiasari,S2
-1236,Bisnis Digital,20252,2025,Manajemen Pemasaran,Devina Wistiasari,S2
-1237,Bisnis Digital,20251,2025,Pengantar Akutansi,Devina Wistiasari,S2
-1238,Perdagangan Internasional,20252,2025,International Marketing,Devina Wistiasari,S2
-1239,Perdagangan Internasional,20251,2025,Akuntansi,Devina Wistiasari,S2
-1240,Perdagangan Internasional,20252,2025,Marketing,Devina Wistiasari,S2
-1241,Perdagangan Internasional,20251,2025,International Economics,Devina Wistiasari,S2
-1242,Perdagangan Internasional,20251,2025,Financial Management,Devina Wistiasari,S2
-1243,Perdagangan Internasional,20261,2026,Metodologi Penelitian,M. Irvanni Bahri,S2
-1244,Perdagangan Internasional,20261,2026,Perilaku Organisasi,M. Irvanni Bahri,S2
-1245,Bisnis Digital,20261,2026,Berpikir Desain dan Inovasi,M. Irvanni Bahri,S2
-1246,Perdagangan Internasional,20251,2025,Research Method,M. Irvanni Bahri,S2
-1247,Perdagangan Internasional,20252,2025,Operation Management,M. Irvanni Bahri,S2
-1248,Perdagangan Internasional,20251,2025,Organizational Behavior,M. Irvanni Bahri,S2
-1249,Perdagangan Internasional,20252,2025,Management Principles,M. Irvanni Bahri,S2
-1250,Perdagangan Internasional,20251,2025,Bisnis Proses dan Operasi,M. Irvanni Bahri,S2
-1251,Matematika,20251,2025,Manajemen Bisnis dan SDM,M. Irvanni Bahri,S2
-1252,Matematika,20261,2026,Analisis Regresi,Cinta Rizki Oktarina,S2
-1253,Matematika,20261,2026,Teknik Sampling,Cinta Rizki Oktarina,S2
-1254,Matematika,20261,2026,Teori Peluang,Cinta Rizki Oktarina,S2
-1255,Matematika,20261,2026,Analisis Multivariat,Cinta Rizki Oktarina,S2
-1256,Matematika,20252,2025,Statistika Non-parametrik,Cinta Rizki Oktarina,S2
-1257,Matematika,20252,2025,Statistika Matematika,Cinta Rizki Oktarina,S2
-1258,Matematika,20252,2025,Ekonometrika,Cinta Rizki Oktarina,S2
-1259,Matematika,20261,2026,Simulasi dan Komputasi Matematika,Andro Kurniawan,S2
-1260,Matematika,20261,2026,Teori Graf,Andro Kurniawan,S2
-1261,Matematika,20261,2026,Metode Numerik,Andro Kurniawan,S2
-1262,Matematika,20252,2025,Pengantar Optimasi,Andro Kurniawan,S2
-1263,Matematika,20252,2025,Simulasi dan Komputasi Matematika,Andro Kurniawan,S2
-1264,Desain Komunikasi Visual,20252,2025,Seminar DKV,Dany Kurnia Gunawan,S2
-1265,Desain Komunikasi Visual,20252,2025,Tinjauan DKV,Dany Kurnia Gunawan,S2
-1266,Desain Komunikasi Visual,20252,2025,Proses Kreatif,Dany Kurnia Gunawan,S2
-1267,Desain Komunikasi Visual,20252,2025,Teori Media,Zhilla Zhalila Qurrata A’yun,S2
-1268,Desain Komunikasi Visual,20261,2026,Ilustrasi Aplikatif,Zhilla Zhalila Qurrata A’yun,S2
-1269,Desain Komunikasi Visual,20261,2026,Gambar,Zhilla Zhalila Qurrata A’yun,S2
-1270,Desain Komunikasi Visual,20252,2025,Portofolio,Zhilla Zhalila Qurrata A’yun,S2
-1271,Desain Komunikasi Visual,20252,2025,Ilustrasi,Zhilla Zhalila Qurrata A’yun,S2
-1272,Perdagangan Internasional,20261,2026,Pengantar Perdagangan Internasional,Adelya Rifdah,S2
-1273,Perdagangan Internasional,20261,2026,Manajemen Inovasi Bisnis,Adelya Rifdah,S2
-1274,Perdagangan Internasional,20261,2026,Perjanjian Perdagangan Internasional,Adelya Rifdah,S2
-1275,Perdagangan Internasional,20252,2025,International Trade Policy and Agreement,Adelya Rifdah,S2
-1276,Perdagangan Internasional,20252,2025,Financial Management II,Adelya Rifdah,S2
-1277,Desain Komunikasi Visual,20252,2025,Manajemen Bisnis Desain,Adelya Rifdah,S2
-1278,Teknik Industri,20261,2026,Praktikum Fisika Dasar I,Feri Iskandar,S2
-1279,Manajemen Rekayasa,20261,2026,Fisika Dasar I,Feri Iskandar,S2
-1280,Teknik Komputer,20261,2026,Fisika Dasar 1 (Mekanika dan Gelombang),Feri Iskandar,S2
-1281,Teknik Komputer,20252,2025,Fisika Dasar II,Feri Iskandar,S2
-1282,Manajemen Rekayasa,20252,2025,Fisika Dasar II,Feri Iskandar,S2
-1283,Manajemen Rekayasa,20252,2025,Praktikum Fisika Dasar,Feri Iskandar,S2
-1284,Teknik Industri,20252,2025,Praktikum Fisika Dasar II,Feri Iskandar,S2
-1285,Bisnis Digital,20261,2026,Basis Data,Raynold,S2
-1286,Bisnis Digital,20261,2026,Pemrograman Web,Raynold,S2
-1287,Bisnis Digital,20261,2026,Manajemen Keamanan Data,Raynold,S2
-1288,Bisnis Digital,20252,2025,Algoritma dan Pemrograman,Raynold,S2
-1289,Perdagangan Internasional,20252,2025,Smart Contracts & Trade Automation,Raynold,S2
-1290,Teknik Industri,20252,2025,Dasar Teknologi Informasi dan Pemrograman,Raynold,S2
-1291,Teknik Industri,20252,2025,Praktikum Dasar Teknologi Informasi dan Pemrograman,Raynold,S2
-1292,Perdagangan Internasional,20261,2026,Pengantar Ekonomi,Heri Siswanto,S2
-1293,Perdagangan Internasional,20261,2026,Etika Bisnis,Heri Siswanto,S2
-1294,Perdagangan Internasional,20261,2026,Manajemen Pengambilan Keputusan,Heri Siswanto,S2
-1295,Bisnis Digital,20252,2025,Manajemen SDM dan Organisasi,Heri Siswanto,S2
-1296,Teknik Industri,20261,2026,Pengantar Teknik Industri,I Made Dwika Parama Yudha,S2
-1297,Teknik Industri,20261,2026,Pengendalian dan Penjaminan Mutu,I Made Dwika Parama Yudha,S2
-1298,Teknik Industri,20252,2025,Simulasi Sistem,I Made Dwika Parama Yudha,S2
-1299,Teknik Industri,20252,2025,Perilaku Organisasi,I Made Dwika Parama Yudha,S2
-1300,Teknik Industri,20252,2025,Metodologi Penelitian,I Made Dwika Parama Yudha,S2
-1301,Teknik Industri,20261,2026,Analisis dan Pengendalian Biaya,Rina Agustina,S2
-1302,Teknik Industri,20261,2026,Ekonomi Teknik,Rina Agustina,S2
-1303,Manajemen Rekayasa,20252,2025,Isu Lingkungan,Rina Agustina,S2
-1304,Matematika,20252,2025,Lingkungan,Rina Agustina,S2
-1305,Teknik Industri,20252,2025,Analitika Data,Rina Agustina,S2
-1306,Desain Komunikasi Visual,20261,2026,Metode Penelitian,Meuthia Ramadhani Archam,S2
-1307,Desain Komunikasi Visual,20261,2026,Narasi Visual,Meuthia Ramadhani Archam,S2
+prodi,semester_kelas,year_of_study,matakuliah,name,jenjang_pendidikan
+Perdagangan Internasional,20261,2026,Matematika Bisnis,Dely Indah Sari,S2
+Bisnis Digital,20261,2026,Manajemen Keuangan,Dely Indah Sari,S2
+Bisnis Digital,20261,2026,Statistika Ekonomi dan Bisnis,Dely Indah Sari,S2
+Bisnis Digital,20261,2026,Metode Penelitian,Dely Indah Sari,S2
+Bisnis Digital,20252,2025,Financial Technology,Dely Indah Sari,S2
+Bisnis Digital,20251,2025,Manajemen Keuangan,Dely Indah Sari,S2
+Bisnis Digital,20252,2025,Manajemen Operasi,Dely Indah Sari,S2
+Bisnis Digital,20242,2024,Manajemen Operasi,Dely Indah Sari,S2
+Bisnis Digital,20242,2024,Arsitektur Teknologi,Dely Indah Sari,S2
+Bisnis Digital,20241,2024,Statistika Ekonomi dan Bisnis,Dely Indah Sari,S2
+Bisnis Digital,20251,2025,Statistika Ekonomi dan Bisnis,Dely Indah Sari,S2
+Perdagangan Internasional,20242,2024,Introduction to Information Technology,Dely Indah Sari,S2
+Perdagangan Internasional,20251,2025,Business Mathematics,Dely Indah Sari,S2
+Perdagangan Internasional,20231,2023,Business Mathematics,Dely Indah Sari,S2
+Perdagangan Internasional,20241,2024,Business Mathematics,Dely Indah Sari,S2
+Perdagangan Internasional,20232,2023,Matematics of Finance,Dely Indah Sari,S2
+Perdagangan Internasional,20252,2025,Matematics of Finance,Dely Indah Sari,S2
+Desain Komunikasi Visual,20222,2022,Manajemen Bisnis Desain,Dely Indah Sari,S2
+Desain Komunikasi Visual,20232,2023,Manajemen Bisnis Desain,Dely Indah Sari,S2
+Desain Komunikasi Visual,20242,2024,Manajemen Bisnis Desain,Dely Indah Sari,S2
+Sistem Informasi,20222,2022,Kecakapan Antar Personal,Dely Indah Sari,S2
+Sistem Informasi,20221,2022,Perbankan,Dely Indah Sari,S2
+Manajemen Rekayasa,20222,2022,Manajemen Sumber Daya Manusia,Dely Indah Sari,S2
+Manajemen Rekayasa,20231,2023,Perancangan Organisasi dan Proses Bisnis,Dely Indah Sari,S2
+Matematika,20231,2023,Technopreneurship,Dely Indah Sari,S2
+Teknik Industri,20241,2024,Praktikum Sistem Basis Data,Dely Indah Sari,S2
+Teknik Industri,20241,2024,Sistem Basis Data,Dely Indah Sari,S2
+Desain Komunikasi Visual,20232,2023,Teori Media,Hendri Kremer,S2
+Desain Komunikasi Visual,20242,2024,Teori Media,Hendri Kremer,S2
+Desain Komunikasi Visual,20222,2022,Teori Media,Hendri Kremer,S2
+Desain Komunikasi Visual,20241,2024,Bahasa Indonesia,Hendri Kremer,S2
+Desain Komunikasi Visual,20231,2023,Bahasa Indonesia,Hendri Kremer,S2
+Desain Komunikasi Visual,20222,2022,Kewarganegaraan,Hendri Kremer,S2
+Desain Komunikasi Visual,20242,2024,Kewarganegaraan,Hendri Kremer,S2
+Desain Komunikasi Visual,20232,2023,Kewarganegaraan,Hendri Kremer,S2
+Desain Komunikasi Visual,20221,2022,Bahasa Indonesia,Hendri Kremer,S2
+Desain Komunikasi Visual,20221,2022,Proses Komunikasi,Hendri Kremer,S2
+Desain Komunikasi Visual,20241,2024,Proses Komunikasi,Hendri Kremer,S2
+Desain Komunikasi Visual,20231,2023,Proses Komunikasi,Hendri Kremer,S2
+Desain Komunikasi Visual,20221,2022,Pancasila,Hendri Kremer,S2
+Desain Komunikasi Visual,20241,2024,Pancasila,Hendri Kremer,S2
+Desain Komunikasi Visual,20231,2023,Pancasila,Hendri Kremer,S2
+Sistem Informasi,20222,2022,Kewarganegaraan,Hendri Kremer,S2
+Sistem Informasi,20242,2024,Kewarganegaraan,Hendri Kremer,S2
+Sistem Informasi,20232,2023,Kewarganegaraan,Hendri Kremer,S2
+Sistem Informasi,20231,2023,Bahasa Indonesia,Hendri Kremer,S2
+Sistem Informasi,20241,2024,Bahasa Indonesia,Hendri Kremer,S2
+Sistem Informasi,20231,2023,Pancasila,Hendri Kremer,S2
+Sistem Informasi,20241,2024,Pancasila,Hendri Kremer,S2
+Teknik Industri,20241,2024,Pancasila,Hendri Kremer,S2
+Teknik Industri,20231,2023,Pancasila,Hendri Kremer,S2
+Teknik Industri,20241,2024,Bahasa Indonesia,Hendri Kremer,S2
+Teknik Industri,20231,2023,Bahasa Indonesia,Hendri Kremer,S2
+Sistem Informasi,20261,2026,Algoritma dan Dasar Pemrograman,Refli Noviardi,S2
+Teknik Komputer,20261,2026,Keterampilan Komunikasi Profesional,Refli Noviardi,S2
+Teknik Komputer,20251,2025,Communication Skill,Refli Noviardi,S2
+Teknik Komputer,20231,2023,Communication Skill,Refli Noviardi,S2
+Teknik Komputer,20241,2024,Communication Skill,Refli Noviardi,S2
+Teknik Komputer,20231,2023,Sistem Operasi,Refli Noviardi,S2
+Sistem Informasi,20252,2025,Manajemen Proyek SI,Refli Noviardi,S2
+Sistem Informasi,20232,2023,Manajemen Proyek SI,Refli Noviardi,S2
+Sistem Informasi,20242,2024,Manajemen Proyek SI,Refli Noviardi,S2
+Sistem Informasi,20232,2023,Arsitektur SI/TI Perusahaan,Refli Noviardi,S2
+Sistem Informasi,20251,2025,Komputer dan Masyarakat,Refli Noviardi,S2
+Sistem Informasi,20241,2024,Komputer dan Masyarakat,Refli Noviardi,S2
+Sistem Informasi,20252,2025,Kecakapan Antar Personal,Refli Noviardi,S2
+Sistem Informasi,20232,2023,Kecakapan Antar Personal,Refli Noviardi,S2
+Sistem Informasi,20242,2024,Kecakapan Antar Personal,Refli Noviardi,S2
+Sistem Informasi,20251,2025,Perencanaan Strategis Sistem Informasi,Refli Noviardi,S2
+Sistem Informasi,20231,2023,Perencanaan Strategis Sistem Informasi,Refli Noviardi,S2
+Sistem Informasi,20241,2024,Perencanaan Strategis Sistem Informasi,Refli Noviardi,S2
+Matematika,20261,2026,Matematika Diskrit,Vitri Aprilla Handayani,S2
+Matematika,20261,2026,Analisis Runtun Waktu,Vitri Aprilla Handayani,S2
+Teknik Komputer,20261,2026,Matematika Diskrit,Vitri Aprilla Handayani,S2
+Teknik Komputer,20242,2024,Statistika dan Probabilitas,Vitri Aprilla Handayani,S2
+Teknik Komputer,20252,2025,Statistika dan Probabilitas,Vitri Aprilla Handayani,S2
+Teknik Komputer,20251,2025,Matematika Diskrit,Vitri Aprilla Handayani,S2
+Sistem Informasi,20222,2022,Matematika Diskrit,Vitri Aprilla Handayani,S2
+Manajemen Rekayasa,20222,2022,Praktikum Analitik Data,Vitri Aprilla Handayani,S2
+Manajemen Rekayasa,20222,2022,Analitik Data,Vitri Aprilla Handayani,S2
+Matematika,20231,2023,Pengenalan Komputasi,Vitri Aprilla Handayani,S2
+Matematika,20221,2022,Tugas Akhir,Vitri Aprilla Handayani,S2
+Matematika,20252,2025,Metode Statistika,Vitri Aprilla Handayani,S2
+Matematika,20242,2024,Metode Statistika,Vitri Aprilla Handayani,S2
+Matematika,20222,2022,Metode Statistika,Vitri Aprilla Handayani,S2
+Matematika,20232,2023,Metode Statistika,Vitri Aprilla Handayani,S2
+Matematika,20232,2023,Desain Eksperiman,Vitri Aprilla Handayani,S2
+Matematika,20242,2024,Desain Eksperiman,Vitri Aprilla Handayani,S2
+Matematika,20252,2025,Desain Eksperiman,Vitri Aprilla Handayani,S2
+Matematika,20241,2024,Teknik Sampling,Vitri Aprilla Handayani,S2
+Matematika,20231,2023,Teknik Sampling,Vitri Aprilla Handayani,S2
+Matematika,20221,2022,Teknik Sampling,Vitri Aprilla Handayani,S2
+Matematika,20231,2023,Matematika Diskrit,Vitri Aprilla Handayani,S2
+Matematika,20221,2022,Matematika Diskrit,Vitri Aprilla Handayani,S2
+Matematika,20241,2024,Matematika Diskrit,Vitri Aprilla Handayani,S2
+Matematika,20251,2025,Analisis Perancangan Survey,Vitri Aprilla Handayani,S2
+Matematika,20231,2023,Analisis Perancangan Survey,Vitri Aprilla Handayani,S2
+Matematika,20251,2025,Analisis Runtun Waktu,Vitri Aprilla Handayani,S2
+Matematika,20261,2026,Kalkulus Peubah Banyak,Sabarinsyah,S3
+Matematika,20261,2026,Analisis Kompleks,Sabarinsyah,S3
+Matematika,20261,2026,Aljabar Linier,Sabarinsyah,S3
+Manajemen Rekayasa,20261,2026,Aljabar Linier,Sabarinsyah,S3
+Sistem Informasi,20231,2023,Kalkulus,Sabarinsyah,S3
+Matematika,20252,2025,Pengantar Persamaan Diferensial,Sabarinsyah,S3
+Matematika,20222,2022,Pengantar Persamaan Diferensial,Sabarinsyah,S3
+Matematika,20232,2023,Pengantar Persamaan Diferensial,Sabarinsyah,S3
+Matematika,20242,2024,Pengantar Persamaan Diferensial,Sabarinsyah,S3
+Matematika,20242,2024,Aljabar Linear Elementer,Sabarinsyah,S3
+Matematika,20252,2025,Aljabar Linear Elementer,Sabarinsyah,S3
+Matematika,20232,2023,Aljabar Linear Elementer,Sabarinsyah,S3
+Matematika,20222,2022,Aljabar Linear Elementer,Sabarinsyah,S3
+Matematika,20242,2024,Pemodelan Matematika,Sabarinsyah,S3
+Matematika,20222,2022,Pemodelan Matematika,Sabarinsyah,S3
+Matematika,20252,2025,Pemodelan Matematika,Sabarinsyah,S3
+Matematika,20232,2023,Pemodelan Matematika,Sabarinsyah,S3
+Matematika,20231,2023,Aljabar Linier,Sabarinsyah,S3
+Matematika,20241,2024,Aljabar Linier,Sabarinsyah,S3
+Matematika,20251,2025,Aljabar Linier,Sabarinsyah,S3
+Matematika,20221,2022,Aljabar Linier,Sabarinsyah,S3
+Matematika,20241,2024,Kalkulus Peubah Banyak,Sabarinsyah,S3
+Matematika,20251,2025,Kalkulus Peubah Banyak,Sabarinsyah,S3
+Matematika,20231,2023,Matematika I,Sabarinsyah,S3
+Matematika,20231,2023,Analisis Kompleks,Sabarinsyah,S3
+Matematika,20251,2025,Analisis Kompleks,Sabarinsyah,S3
+Matematika,20221,2022,Analisis Kompleks,Sabarinsyah,S3
+Matematika,20241,2024,Analisis Kompleks,Sabarinsyah,S3
+Teknik Industri,20261,2026,Logistik dan Sistem Rantai Pasok,Taufiq Rahman,S2
+Teknik Industri,20251,2025,Sistem Rantai Pasok,Taufiq Rahman,S2
+Teknik Industri,20231,2023,Sistem Rantai Pasok,Taufiq Rahman,S2
+Teknik Industri,20241,2024,Sistem Rantai Pasok,Taufiq Rahman,S2
+Teknik Industri,20231,2023,Sistem Persediaan,Taufiq Rahman,S2
+Teknik Industri,20251,2025,Sistem Persediaan,Taufiq Rahman,S2
+Teknik Industri,20241,2024,Sistem Persediaan,Taufiq Rahman,S2
+Teknik Industri,20232,2023,Perencanaan dan Pengendalian Produksi,Taufiq Rahman,S2
+Teknik Industri,20252,2025,Perencanaan dan Pengendalian Produksi,Taufiq Rahman,S2
+Teknik Industri,20221,2022,Perencanaan dan Pengendalian Produksi,Taufiq Rahman,S2
+Teknik Industri,20242,2024,Perencanaan dan Pengendalian Produksi,Taufiq Rahman,S2
+Teknik Industri,20222,2022,Perencanaan dan Pengendalian Produksi,Taufiq Rahman,S2
+Teknik Industri,20222,2022,Praktikum Perancangan Sistem Terintegrasi,Taufiq Rahman,S2
+Teknik Industri,20232,2023,Praktikum Perancangan Sistem Terintegrasi,Taufiq Rahman,S2
+Teknik Industri,20231,2023,Rantai Pasok Berkelanjutan,Taufiq Rahman,S2
+Teknik Industri,20222,2022,Metodologi Penelitian,Taufiq Rahman,S2
+Teknik Industri,20221,2022,Metodologi Penelitian,Taufiq Rahman,S2
+Teknik Industri,20222,2022,Sistem Distribusi dan Transportasi,Taufiq Rahman,S2
+Teknik Industri,20242,2024,Sistem Distribusi dan Transportasi,Taufiq Rahman,S2
+Teknik Industri,20232,2023,Sistem Distribusi dan Transportasi,Taufiq Rahman,S2
+Teknik Industri,20221,2022,Statistika Industri,Taufiq Rahman,S2
+Teknik Industri,20251,2025,Statistika Industri,Taufiq Rahman,S2
+Teknik Industri,20241,2024,Statistika Industri,Taufiq Rahman,S2
+Sistem Informasi,20261,2026,Sistem Basis Data,Luki Hernando,S2
+Teknik Komputer,20261,2026,Pemrograman Berorientasi Objek,Luki Hernando,S2
+Teknik Komputer,20261,2026,Pengantar Teknik Komputer,Luki Hernando,S2
+Teknik Komputer,20222,2022,Etika dan Profesi,Luki Hernando,S2
+Teknik Komputer,20242,2024,Etika dan Profesi,Luki Hernando,S2
+Teknik Komputer,20232,2023,Etika dan Profesi,Luki Hernando,S2
+Teknik Komputer,20252,2025,Etika dan Profesi,Luki Hernando,S2
+Teknik Komputer,20252,2025,Basis Data,Luki Hernando,S2
+Teknik Komputer,20222,2022,Basis Data,Luki Hernando,S2
+Teknik Komputer,20232,2023,Basis Data,Luki Hernando,S2
+Teknik Komputer,20242,2024,Basis Data,Luki Hernando,S2
+Teknik Komputer,20221,2022,Sistem Operasi,Luki Hernando,S2
+Teknik Komputer,20251,2025,Pemrograman Berorientasi Objek,Luki Hernando,S2
+Teknik Komputer,20221,2022,Pemrograman Berorientasi Objek,Luki Hernando,S2
+Teknik Komputer,20231,2023,Pemrograman Berorientasi Objek,Luki Hernando,S2
+Teknik Komputer,20241,2024,Pemrograman Berorientasi Objek,Luki Hernando,S2
+Teknik Komputer,20221,2022,Pengenalan Teknik Komputer,Luki Hernando,S2
+Teknik Komputer,20231,2023,Pengenalan Teknik Komputer,Luki Hernando,S2
+Teknik Komputer,20251,2025,Pengenalan Teknik Komputer,Luki Hernando,S2
+Teknik Komputer,20241,2024,Pengenalan Teknik Komputer,Luki Hernando,S2
+Sistem Informasi,20242,2024,Praktikum Basis Data 2,Luki Hernando,S2
+Sistem Informasi,20232,2023,Praktikum Basis Data 2,Luki Hernando,S2
+Sistem Informasi,20252,2025,Praktikum Basis Data 2,Luki Hernando,S2
+Sistem Informasi,20222,2022,Manusia dan Teknologi,Luki Hernando,S2
+Sistem Informasi,20221,2022,Pemrograman Database,Luki Hernando,S2
+Sistem Informasi,20221,2022,Praktikum Pemrograman Database,Luki Hernando,S2
+Sistem Informasi,20252,2025,Basis Data 2,Luki Hernando,S2
+Sistem Informasi,20232,2023,Basis Data 2,Luki Hernando,S2
+Sistem Informasi,20242,2024,Basis Data 2,Luki Hernando,S2
+Sistem Informasi,20241,2024,Praktikum Basis Data 1,Luki Hernando,S2
+Sistem Informasi,20231,2023,Praktikum Basis Data 1,Luki Hernando,S2
+Sistem Informasi,20251,2025,Praktikum Basis Data 1,Luki Hernando,S2
+Sistem Informasi,20251,2025,Basis Data 1,Luki Hernando,S2
+Sistem Informasi,20241,2024,Basis Data 1,Luki Hernando,S2
+Sistem Informasi,20231,2023,Basis Data 1,Luki Hernando,S2
+Matematika,20231,2023,Pengenalan Komputasi,Luki Hernando,S2
+Desain Komunikasi Visual,20222,2022,Pengantar Rekayasa Desain,Moch Sukrisno Mardiyanto,S3
+Teknik Komputer,20222,2022,Komputer dan Masyarakat,Moch Sukrisno Mardiyanto,S3
+Sistem Informasi,20222,2022,Manajemen Proyek SI,Moch Sukrisno Mardiyanto,S3
+Sistem Informasi,20221,2022,Komputer dan Masyarakat,Moch Sukrisno Mardiyanto,S3
+Sistem Informasi,20221,2022,Etika Profesi IT,Moch Sukrisno Mardiyanto,S3
+Matematika,20221,2022,Pengantar Rekayasa dan Desain,Moch Sukrisno Mardiyanto,S3
+Teknik Industri,20221,2022,Pengantar Rekayasa dan Desain,Moch Sukrisno Mardiyanto,S3
+Teknik Industri,20261,2026,Proses Manufaktur,Hery Sunarsono,S3
+Manajemen Rekayasa,20261,2026,Proses Manufaktur,Hery Sunarsono,S3
+Manajemen Rekayasa,20261,2026,Dasar Manajemen Rekayasa,Hery Sunarsono,S3
+Manajemen Rekayasa,20222,2022,Perancangan dan Pengembangan Produk,Hery Sunarsono,S3
+Manajemen Rekayasa,20232,2023,Perancangan dan Pengembangan Produk,Hery Sunarsono,S3
+Manajemen Rekayasa,20252,2025,Perancangan dan Pengembangan Produk,Hery Sunarsono,S3
+Manajemen Rekayasa,20242,2024,Perancangan dan Pengembangan Produk,Hery Sunarsono,S3
+Manajemen Rekayasa,20242,2024,Material Teknik,Hery Sunarsono,S3
+Manajemen Rekayasa,20232,2023,Material Teknik,Hery Sunarsono,S3
+Manajemen Rekayasa,20222,2022,Material Teknik,Hery Sunarsono,S3
+Manajemen Rekayasa,20252,2025,Material Teknik,Hery Sunarsono,S3
+Manajemen Rekayasa,20231,2023,Peramalan Teknologi,Hery Sunarsono,S3
+Manajemen Rekayasa,20242,2024,Manajemen Teknologi,Hery Sunarsono,S3
+Manajemen Rekayasa,20252,2025,Manajemen Teknologi,Hery Sunarsono,S3
+Manajemen Rekayasa,20232,2023,Manajemen Teknologi,Hery Sunarsono,S3
+Manajemen Rekayasa,20221,2022,Praktikum Proses Manufaktur,Hery Sunarsono,S3
+Manajemen Rekayasa,20231,2023,Praktikum Proses Manufaktur,Hery Sunarsono,S3
+Manajemen Rekayasa,20221,2022,Proses Manufaktur,Hery Sunarsono,S3
+Manajemen Rekayasa,20231,2023,Proses Manufaktur,Hery Sunarsono,S3
+Manajemen Rekayasa,20221,2022,Praktikum Menggambar Teknik,Hery Sunarsono,S3
+Manajemen Rekayasa,20221,2022,Menggambar Teknik,Hery Sunarsono,S3
+Manajemen Rekayasa,20221,2022,Pengantar Manajemen Rekayasa,Hery Sunarsono,S3
+Manajemen Rekayasa,20231,2023,Pengantar Manajemen Rekayasa,Hery Sunarsono,S3
+Manajemen Rekayasa,20251,2025,Pengantar Manajemen Rekayasa,Hery Sunarsono,S3
+Manajemen Rekayasa,20241,2024,Pengantar Manajemen Rekayasa,Hery Sunarsono,S3
+Teknik Industri,20252,2025,Material Teknik,Hery Sunarsono,S3
+Teknik Industri,20222,2022,Material Teknik,Hery Sunarsono,S3
+Teknik Industri,20232,2023,Material Teknik,Hery Sunarsono,S3
+Teknik Industri,20251,2025,Proses Manufaktur,Hery Sunarsono,S3
+Teknik Industri,20261,2026,Fisika Dasar I,Yopy Mardiansyah,S2
+Teknik Industri,20261,2026,Mekanika Teknik,Yopy Mardiansyah,S2
+Teknik Komputer,20242,2024,Fisika Dasar II,Yopy Mardiansyah,S2
+Teknik Komputer,20222,2022,Fisika Dasar II,Yopy Mardiansyah,S2
+Teknik Komputer,20232,2023,Fisika Dasar II,Yopy Mardiansyah,S2
+Teknik Komputer,20221,2022,Fisika Dasar I,Yopy Mardiansyah,S2
+Teknik Komputer,20231,2023,Fisika Dasar I,Yopy Mardiansyah,S2
+Teknik Komputer,20241,2024,Fisika Dasar I,Yopy Mardiansyah,S2
+Manajemen Rekayasa,20242,2024,Fisika Dasar II,Yopy Mardiansyah,S2
+Manajemen Rekayasa,20222,2022,Fisika Dasar II,Yopy Mardiansyah,S2
+Manajemen Rekayasa,20232,2023,Fisika Dasar II,Yopy Mardiansyah,S2
+Manajemen Rekayasa,20222,2022,Praktikum Fisika Dasar,Yopy Mardiansyah,S2
+Manajemen Rekayasa,20232,2023,Praktikum Fisika Dasar,Yopy Mardiansyah,S2
+Manajemen Rekayasa,20242,2024,Praktikum Fisika Dasar,Yopy Mardiansyah,S2
+Manajemen Rekayasa,20221,2022,Fisika Dasar,Yopy Mardiansyah,S2
+Manajemen Rekayasa,20231,2023,Fisika Dasar,Yopy Mardiansyah,S2
+Manajemen Rekayasa,20251,2025,Fisika Dasar,Yopy Mardiansyah,S2
+Matematika,20231,2023,Fisika Dasar I,Yopy Mardiansyah,S2
+Matematika,20221,2022,Fisika Dasar I,Yopy Mardiansyah,S2
+Matematika,20241,2024,Fisika Dasar I,Yopy Mardiansyah,S2
+Matematika,20222,2022,Fisika Dasar II,Yopy Mardiansyah,S2
+Matematika,20242,2024,Fisika Dasar II,Yopy Mardiansyah,S2
+Matematika,20232,2023,Fisika Dasar II,Yopy Mardiansyah,S2
+Matematika,20252,2025,Fisika Dasar II,Yopy Mardiansyah,S2
+Teknik Industri,20252,2025,Fisika Dasar II,Yopy Mardiansyah,S2
+Teknik Industri,20242,2024,Fisika Dasar II,Yopy Mardiansyah,S2
+Teknik Industri,20232,2023,Fisika Dasar II,Yopy Mardiansyah,S2
+Teknik Industri,20222,2022,Fisika Dasar II,Yopy Mardiansyah,S2
+Teknik Industri,20232,2023,Praktikum Fisika Dasar II,Yopy Mardiansyah,S2
+Teknik Industri,20222,2022,Praktikum Fisika Dasar II,Yopy Mardiansyah,S2
+Teknik Industri,20242,2024,Praktikum Fisika Dasar II,Yopy Mardiansyah,S2
+Teknik Industri,20231,2023,Fisika Dasar I,Yopy Mardiansyah,S2
+Teknik Industri,20251,2025,Fisika Dasar I,Yopy Mardiansyah,S2
+Teknik Industri,20241,2024,Fisika Dasar I,Yopy Mardiansyah,S2
+Teknik Industri,20221,2022,Fisika Dasar I,Yopy Mardiansyah,S2
+Teknik Industri,20221,2022,Praktikum Fisika Dasar I,Yopy Mardiansyah,S2
+Teknik Industri,20231,2023,Praktikum Fisika Dasar I,Yopy Mardiansyah,S2
+Teknik Industri,20241,2024,Praktikum Fisika Dasar I,Yopy Mardiansyah,S2
+Teknik Industri,20261,2026,Kimia Dasar I,Sari Rahmiati,S2
+Matematika,20261,2026,Kimia Dasar,Sari Rahmiati,S2
+Manajemen Rekayasa,20261,2026,Kimia Dasar I,Sari Rahmiati,S2
+Perdagangan Internasional,20231,2023,Pancasila,Sari Rahmiati,S2
+Teknik Komputer,20231,2023,Bahasa Indonesia,Sari Rahmiati,S2
+Manajemen Rekayasa,20251,2025,Bahasa Indonesia,Sari Rahmiati,S2
+Manajemen Rekayasa,20231,2023,Bahasa Indonesia,Sari Rahmiati,S2
+Manajemen Rekayasa,20241,2024,Bahasa Indonesia,Sari Rahmiati,S2
+Manajemen Rekayasa,20231,2023,Pancasila,Sari Rahmiati,S2
+Manajemen Rekayasa,20232,2023,Isu Lingkungan,Sari Rahmiati,S2
+Manajemen Rekayasa,20252,2025,Kimia Dasar II,Sari Rahmiati,S2
+Manajemen Rekayasa,20222,2022,Kimia Dasar II,Sari Rahmiati,S2
+Manajemen Rekayasa,20242,2024,Kimia Dasar II,Sari Rahmiati,S2
+Manajemen Rekayasa,20232,2023,Kimia Dasar II,Sari Rahmiati,S2
+Manajemen Rekayasa,20242,2024,Praktikum Kimia Dasar,Sari Rahmiati,S2
+Manajemen Rekayasa,20252,2025,Praktikum Kimia Dasar,Sari Rahmiati,S2
+Manajemen Rekayasa,20232,2023,Praktikum Kimia Dasar,Sari Rahmiati,S2
+Manajemen Rekayasa,20222,2022,Praktikum Kimia Dasar,Sari Rahmiati,S2
+Manajemen Rekayasa,20221,2022,Bahasa Indonesia,Sari Rahmiati,S2
+Manajemen Rekayasa,20231,2023,Kimia Dasar,Sari Rahmiati,S2
+Manajemen Rekayasa,20221,2022,Kimia Dasar,Sari Rahmiati,S2
+Manajemen Rekayasa,20251,2025,Kimia Dasar,Sari Rahmiati,S2
+Manajemen Rekayasa,20241,2024,Kimia Dasar,Sari Rahmiati,S2
+Matematika,20232,2023,Lingkungan,Sari Rahmiati,S2
+Matematika,20221,2022,Bahasa Indonesia,Sari Rahmiati,S2
+Teknik Industri,20252,2025,Kimia Dasar II,Sari Rahmiati,S2
+Teknik Industri,20242,2024,Kimia Dasar II,Sari Rahmiati,S2
+Teknik Industri,20232,2023,Kimia Dasar II,Sari Rahmiati,S2
+Teknik Industri,20222,2022,Kimia Dasar II,Sari Rahmiati,S2
+Teknik Industri,20231,2023,Bahasa Indonesia,Sari Rahmiati,S2
+Teknik Industri,20241,2024,Bahasa Indonesia,Sari Rahmiati,S2
+Teknik Industri,20232,2023,Ekologi Industri,Sari Rahmiati,S2
+Teknik Industri,20222,2022,Ekologi Industri,Sari Rahmiati,S2
+Teknik Industri,20252,2025,Praktikum Kimia Dasar,Sari Rahmiati,S2
+Teknik Industri,20222,2022,Praktikum Kimia Dasar,Sari Rahmiati,S2
+Teknik Industri,20232,2023,Praktikum Kimia Dasar,Sari Rahmiati,S2
+Teknik Industri,20242,2024,Praktikum Kimia Dasar,Sari Rahmiati,S2
+Teknik Industri,20221,2022,Bahasa Indonesia,Sari Rahmiati,S2
+Teknik Industri,20221,2022,Kimia Dasar I,Sari Rahmiati,S2
+Teknik Industri,20251,2025,Kimia Dasar I,Sari Rahmiati,S2
+Teknik Industri,20231,2023,Kimia Dasar I,Sari Rahmiati,S2
+Teknik Industri,20241,2024,Kimia Dasar I,Sari Rahmiati,S2
+Sistem Informasi,20261,2026,Aljabar Linier,Faradiba Jabnabillah,S2
+Sistem Informasi,20261,2026,Kalkulus Dasar,Faradiba Jabnabillah,S2
+Teknik Komputer,20261,2026,Persamaan Diferensial,Faradiba Jabnabillah,S2
+Teknik Komputer,20261,2026,Kalkulus 1,Faradiba Jabnabillah,S2
+Teknik Komputer,20222,2022,Kalkulus II,Faradiba Jabnabillah,S2
+Teknik Komputer,20252,2025,Kalkulus II,Faradiba Jabnabillah,S2
+Teknik Komputer,20242,2024,Kalkulus II,Faradiba Jabnabillah,S2
+Teknik Komputer,20241,2024,Matematika Diskrit,Faradiba Jabnabillah,S2
+Teknik Komputer,20231,2023,Kalkulus I,Faradiba Jabnabillah,S2
+Teknik Komputer,20241,2024,Kalkulus I,Faradiba Jabnabillah,S2
+Teknik Komputer,20251,2025,Kalkulus I,Faradiba Jabnabillah,S2
+Teknik Komputer,20221,2022,Kalkulus I,Faradiba Jabnabillah,S2
+Sistem Informasi,20232,2023,Statistika dan Probabilitas,Faradiba Jabnabillah,S2
+Sistem Informasi,20252,2025,Statistika dan Probabilitas,Faradiba Jabnabillah,S2
+Sistem Informasi,20252,2025,Matematika Diskrit,Faradiba Jabnabillah,S2
+Sistem Informasi,20242,2024,Matematika Diskrit,Faradiba Jabnabillah,S2
+Sistem Informasi,20232,2023,Matematika Diskrit,Faradiba Jabnabillah,S2
+Sistem Informasi,20241,2024,Aljabar Linier,Faradiba Jabnabillah,S2
+Sistem Informasi,20251,2025,Aljabar Linier,Faradiba Jabnabillah,S2
+Sistem Informasi,20221,2022,Kalkulus,Faradiba Jabnabillah,S2
+Sistem Informasi,20231,2023,Kalkulus,Faradiba Jabnabillah,S2
+Sistem Informasi,20241,2024,Kalkulus,Faradiba Jabnabillah,S2
+Sistem Informasi,20251,2025,Kalkulus,Faradiba Jabnabillah,S2
+Manajemen Rekayasa,20232,2023,Kalkulus II,Faradiba Jabnabillah,S2
+Manajemen Rekayasa,20222,2022,Kalkulus II,Faradiba Jabnabillah,S2
+Manajemen Rekayasa,20231,2023,Kalkulus I,Faradiba Jabnabillah,S2
+Manajemen Rekayasa,20221,2022,Kalkulus I,Faradiba Jabnabillah,S2
+Matematika,20222,2022,Matematika II,Faradiba Jabnabillah,S2
+Matematika,20231,2023,Kalkulus Peubah Banyak,Faradiba Jabnabillah,S2
+Matematika,20221,2022,Matematika I,Faradiba Jabnabillah,S2
+Matematika,20231,2023,Matematika I,Faradiba Jabnabillah,S2
+Teknik Industri,20222,2022,Kalkulus II,Faradiba Jabnabillah,S2
+Teknik Industri,20232,2023,Kalkulus II,Faradiba Jabnabillah,S2
+Teknik Industri,20231,2023,Kalkulus I,Faradiba Jabnabillah,S2
+Desain Komunikasi Visual,20221,2022,DKV Aplikatif,Rini Amadia,S2
+Desain Komunikasi Visual,20252,2025,Tipografi Aplikatif,Ria Sapitri,S2
+Desain Komunikasi Visual,20222,2022,Tipografi Aplikatif,Ria Sapitri,S2
+Desain Komunikasi Visual,20232,2023,Tipografi Aplikatif,Ria Sapitri,S2
+Desain Komunikasi Visual,20242,2024,Tipografi Aplikatif,Ria Sapitri,S2
+Desain Komunikasi Visual,20242,2024,Bahasa Rupa,Ria Sapitri,S2
+Desain Komunikasi Visual,20232,2023,Bahasa Rupa,Ria Sapitri,S2
+Desain Komunikasi Visual,20222,2022,Bahasa Rupa,Ria Sapitri,S2
+Desain Komunikasi Visual,20252,2025,Bahasa Rupa,Ria Sapitri,S2
+Desain Komunikasi Visual,20232,2023,Proses Kreatif,Ria Sapitri,S2
+Desain Komunikasi Visual,20242,2024,Proses Kreatif,Ria Sapitri,S2
+Desain Komunikasi Visual,20222,2022,Proses Kreatif,Ria Sapitri,S2
+Desain Komunikasi Visual,20261,2026,Tipografi,Ria Sapitri,S2
+Desain Komunikasi Visual,20231,2023,Tipografi,Ria Sapitri,S2
+Desain Komunikasi Visual,20241,2024,Tipografi,Ria Sapitri,S2
+Desain Komunikasi Visual,20221,2022,Tipografi,Ria Sapitri,S2
+Desain Komunikasi Visual,20221,2022,Sejarah DKV,Ria Sapitri,S2
+Desain Komunikasi Visual,20231,2023,Sejarah DKV,Ria Sapitri,S2
+Desain Komunikasi Visual,20251,2025,Sejarah DKV,Ria Sapitri,S2
+Desain Komunikasi Visual,20241,2024,Sejarah DKV,Ria Sapitri,S2
+Desain Komunikasi Visual,20221,2022,"Seni, Desain dan Lingkungan",Ria Sapitri,S2
+Teknik Industri,20261,2026,Rekayasa Sistem Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20251,2025,Rekayasa Sistem Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20231,2023,Rekayasa Sistem Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20241,2024,Rekayasa Sistem Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20252,2025,Keselamatan dan Kesehatan Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20242,2024,Keselamatan dan Kesehatan Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20222,2022,Keselamatan dan Kesehatan Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20232,2023,Keselamatan dan Kesehatan Kerja,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20241,2024,Ergonomi Lingkungan,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20251,2025,Ergonomi Lingkungan,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20231,2023,Ergonomi Lingkungan,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20232,2023,Ergonomika,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20242,2024,Ergonomika,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20252,2025,Ergonomika,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20222,2022,Praktikum Perancangan Sistem Terintegrasi,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20232,2023,Praktikum Perancangan Sistem Terintegrasi,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20222,2022,Perilaku Organisasi,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20232,2023,Perilaku Organisasi,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20242,2024,Perilaku Organisasi,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20242,2024,Metodologi Penelitian,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20232,2023,Metodologi Penelitian,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20231,2023,Analisis Biaya,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20241,2024,Analisis Biaya,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20221,2022,Analisis Biaya,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20222,2022,Ergonomika,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20221,2022,Ergonomika,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20251,2025,Pengantar Teknik Industri,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20241,2024,Pengantar Teknik Industri,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20221,2022,Pengantar Teknik Industri,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Teknik Industri,20231,2023,Pengantar Teknik Industri,Dinda Okta Dwiyanti Ridwan Gucci,S2
+Perdagangan Internasional,20232,2023,Statistic,Garry Rusmadi,S2
+Matematika,20222,2022,Desain Eksperiman,Garry Rusmadi,S2
+Matematika,20221,2022,Ekonometrika,Garry Rusmadi,S2
+Matematika,20241,2024,Teknik Sampling,Garry Rusmadi,S2
+Matematika,20221,2022,Analisis Perancangan Survey,Garry Rusmadi,S2
+Desain Komunikasi Visual,20222,2022,Seminar DKV,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20241,2024,Narasi Visual,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20251,2025,Narasi Visual,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20231,2023,Narasi Visual,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20221,2022,Narasi Visual,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20251,2025,Motion Graphic,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20231,2023,Motion Graphic,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20221,2022,Motion Graphic,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20221,2022,DKV Multimedia 4 (Pra TA DKV),Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20221,2022,Kerja Profesi,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20261,2026,Animasi Aplikatif,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20221,2022,Animasi Aplikatif,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20241,2024,Animasi Aplikatif,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20251,2025,Animasi Aplikatif,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20231,2023,Animasi Aplikatif,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20261,2026,Metodologi Desain,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20242,2024,Animasi,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20232,2023,Animasi,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20252,2025,Animasi,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20222,2022,Animasi,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20222,2022,Multimedia Aplikatif,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20242,2024,Multimedia Aplikatif,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20232,2023,Multimedia Aplikatif,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20252,2025,Multimedia Aplikatif,Muhammad Adi Sukma Nalendra,S2
+Desain Komunikasi Visual,20242,2024,Ilustrasi,Muhammad Adi Sukma Nalendra,S2
+Teknik Komputer,20261,2026,Proyek Rekayasa Teknik Komputer,M.abrar Masril,S2
+Teknik Komputer,20261,2026,Embedded Systems,M.abrar Masril,S2
+Teknik Komputer,20232,2023,Sistem Mikrokontroller,M.abrar Masril,S2
+Teknik Komputer,20222,2022,Sistem Mikrokontroller,M.abrar Masril,S2
+Teknik Komputer,20242,2024,Sistem Mikrokontroller,M.abrar Masril,S2
+Teknik Komputer,20252,2025,Sistem Mikrokontroller,M.abrar Masril,S2
+Teknik Komputer,20252,2025,Pengolahan Citra Digital,M.abrar Masril,S2
+Teknik Komputer,20222,2022,Pengolahan Citra Digital,M.abrar Masril,S2
+Teknik Komputer,20242,2024,Pengolahan Citra Digital,M.abrar Masril,S2
+Teknik Komputer,20232,2023,Pengolahan Citra Digital,M.abrar Masril,S2
+Teknik Komputer,20231,2023,Kecerdasan Buatan,M.abrar Masril,S2
+Teknik Komputer,20241,2024,Kecerdasan Buatan,M.abrar Masril,S2
+Teknik Komputer,20221,2022,Kecerdasan Buatan,M.abrar Masril,S2
+Teknik Komputer,20251,2025,Kecerdasan Buatan,M.abrar Masril,S2
+Teknik Komputer,20251,2025,Sistem Tertanam,M.abrar Masril,S2
+Teknik Komputer,20221,2022,Sistem Tertanam,M.abrar Masril,S2
+Teknik Komputer,20231,2023,Sistem Tertanam,M.abrar Masril,S2
+Teknik Komputer,20241,2024,Sistem Tertanam,M.abrar Masril,S2
+Teknik Komputer,20251,2025,Metode Penelitian,M.abrar Masril,S2
+Teknik Komputer,20221,2022,Metode Penelitian,M.abrar Masril,S2
+Teknik Komputer,20231,2023,Metode Penelitian,M.abrar Masril,S2
+Teknik Komputer,20241,2024,Metode Penelitian,M.abrar Masril,S2
+Desain Komunikasi Visual,20222,2022,DKV Multimedia 1,Assaidatul Husna,S2
+Desain Komunikasi Visual,20232,2023,DKV Multimedia 1,Assaidatul Husna,S2
+Desain Komunikasi Visual,20242,2024,Videografi,Assaidatul Husna,S2
+Desain Komunikasi Visual,20242,2024,Fotografi,Assaidatul Husna,S2
+Desain Komunikasi Visual,20221,2022,Ilustrasi Aplikatif,Assaidatul Husna,S2
+Desain Komunikasi Visual,20231,2023,Ilustrasi Aplikatif,Assaidatul Husna,S2
+Desain Komunikasi Visual,20241,2024,Ilustrasi Aplikatif,Assaidatul Husna,S2
+Desain Komunikasi Visual,20231,2023,Gambar,Assaidatul Husna,S2
+Desain Komunikasi Visual,20241,2024,Gambar,Assaidatul Husna,S2
+Desain Komunikasi Visual,20221,2022,DKV Multimedia 2,Assaidatul Husna,S2
+Desain Komunikasi Visual,20231,2023,DKV Multimedia 2,Assaidatul Husna,S2
+Desain Komunikasi Visual,20232,2023,Portofolio,Assaidatul Husna,S2
+Desain Komunikasi Visual,20242,2024,Infografis,Assaidatul Husna,S2
+Desain Komunikasi Visual,20222,2022,Ilustrasi,Assaidatul Husna,S2
+Desain Komunikasi Visual,20232,2023,Ilustrasi,Assaidatul Husna,S2
+Teknik Industri,20222,2022,Analisis dan Perancangan Perusahaan,Nurul Ilmi,S2
+Teknik Industri,20232,2023,Analisis dan Perancangan Perusahaan,Nurul Ilmi,S2
+Teknik Industri,20221,2022,Analisis dan Perancangan Perusahaan,Nurul Ilmi,S2
+Teknik Industri,20221,2022,Riset Operasi Lanjutan,Nurul Ilmi,S2
+Teknik Industri,20231,2023,Riset Operasi Lanjutan,Nurul Ilmi,S2
+Teknik Industri,20231,2023,Ekonomi Teknik,Nurul Ilmi,S2
+Teknik Industri,20221,2022,Ekonomi Teknik,Nurul Ilmi,S2
+Teknik Industri,20222,2022,Praktikum Perancangan Sistem Terintegrasi,Nurul Ilmi,S2
+Teknik Industri,20232,2023,Praktikum Perancangan Sistem Terintegrasi,Nurul Ilmi,S2
+Teknik Industri,20221,2022,Mekanika Teknik,Nurul Ilmi,S2
+Teknik Industri,20221,2022,Ergonomika,Nurul Ilmi,S2
+Teknik Industri,20222,2022,Riset Operasi I,Nurul Ilmi,S2
+Teknik Industri,20232,2023,Riset Operasi I,Nurul Ilmi,S2
+Sistem Informasi,20261,2026,Rekayasa Perangkat Lunak,Alhamidi,S2
+Sistem Informasi,20261,2026,Etika Profesi dan Profesional,Alhamidi,S2
+Sistem Informasi,20261,2026,Konsep Sistem Informasi,Alhamidi,S2
+Teknik Komputer,20261,2026,Rekayasa Perangkat Lunak,Alhamidi,S2
+Teknik Komputer,20241,2024,Mobile Programming,Alhamidi,S2
+Teknik Komputer,20241,2024,Rekayasa Perangkat Lunak,Alhamidi,S2
+Teknik Komputer,20251,2025,Rekayasa Perangkat Lunak,Alhamidi,S2
+Teknik Komputer,20231,2023,Rekayasa Perangkat Lunak,Alhamidi,S2
+Sistem Informasi,20222,2022,Pengantar Pemrograman Mobile,Alhamidi,S2
+Sistem Informasi,20232,2023,Pengantar Pemrograman Mobile,Alhamidi,S2
+Sistem Informasi,20251,2025,Pengantar Audit Sistem Informasi,Alhamidi,S2
+Sistem Informasi,20231,2023,Pengantar Audit Sistem Informasi,Alhamidi,S2
+Sistem Informasi,20232,2023,Analisis dan Perancangan Sistem Informasi,Alhamidi,S2
+Sistem Informasi,20252,2025,Analisis dan Perancangan Sistem Informasi,Alhamidi,S2
+Sistem Informasi,20242,2024,Analisis dan Perancangan Sistem Informasi,Alhamidi,S2
+Sistem Informasi,20242,2024,Praktikum Pemrograman Berorientasi Objek,Alhamidi,S2
+Sistem Informasi,20232,2023,Praktikum Pemrograman Berorientasi Objek,Alhamidi,S2
+Sistem Informasi,20252,2025,Praktikum Pemrograman Berorientasi Objek,Alhamidi,S2
+Sistem Informasi,20222,2022,Praktikum Pemrograman Berorientasi Objek,Alhamidi,S2
+Sistem Informasi,20252,2025,Dasar Sistem Informasi,Alhamidi,S2
+Sistem Informasi,20252,2025,Pemrograman Berorientasi Objek,Alhamidi,S2
+Sistem Informasi,20242,2024,Pemrograman Berorientasi Objek,Alhamidi,S2
+Sistem Informasi,20232,2023,Pemrograman Berorientasi Objek,Alhamidi,S2
+Sistem Informasi,20222,2022,Pemrograman Berorientasi Objek,Alhamidi,S2
+Sistem Informasi,20231,2023,Pemrograman Database,Alhamidi,S2
+Sistem Informasi,20221,2022,Pemrograman Mobile,Alhamidi,S2
+Sistem Informasi,20231,2023,Pemrograman Mobile,Alhamidi,S2
+Sistem Informasi,20241,2024,Pemrograman Mobile,Alhamidi,S2
+Sistem Informasi,20221,2022,Rekayasa Perangkat Lunak,Alhamidi,S2
+Sistem Informasi,20251,2025,Rekayasa Perangkat Lunak,Alhamidi,S2
+Sistem Informasi,20231,2023,Rekayasa Perangkat Lunak,Alhamidi,S2
+Sistem Informasi,20231,2023,Praktikum Pemrograman Database,Alhamidi,S2
+Sistem Informasi,20251,2025,Etika Profesi IT,Alhamidi,S2
+Sistem Informasi,20241,2024,Etika Profesi IT,Alhamidi,S2
+Sistem Informasi,20221,2022,Dasar Pemrograman,Alhamidi,S2
+Sistem Informasi,20221,2022,Praktikum Dasar Pemrograman,Alhamidi,S2
+Manajemen Rekayasa,20252,2025,Pemrograman Komputer,Alhamidi,S2
+Perdagangan Internasional,20261,2026,Kewarganegaraan,I Made Sondra Wijaya,S3
+Perdagangan Internasional,20261,2026,Kepemimpinan Global,I Made Sondra Wijaya,S3
+Bisnis Digital,20261,2026,Pengantar Rekayasa dan Desain,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20261,2026,Perancangan Proses Bisnis dan Organisasi,I Made Sondra Wijaya,S3
+Bisnis Digital,20252,2025,Kepemimpinan dan Strategi,I Made Sondra Wijaya,S3
+Bisnis Digital,20242,2024,Manajemen SDM dan Organisasi,I Made Sondra Wijaya,S3
+Perdagangan Internasional,20251,2025,International Human Resource Management,I Made Sondra Wijaya,S3
+Perdagangan Internasional,20252,2025,Human Resource Management,I Made Sondra Wijaya,S3
+Perdagangan Internasional,20241,2024,Agama,I Made Sondra Wijaya,S3
+Desain Komunikasi Visual,20261,2026,Agama,I Made Sondra Wijaya,S3
+Desain Komunikasi Visual,20231,2023,Agama,I Made Sondra Wijaya,S3
+Teknik Komputer,20221,2022,Agama dan Etika,I Made Sondra Wijaya,S3
+Sistem Informasi,20221,2022,Pengantar Audit Sistem Informasi,I Made Sondra Wijaya,S3
+Sistem Informasi,20231,2023,Etika Profesi IT,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20242,2024,Pemrograman Komputer,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20232,2023,Pemrograman Komputer,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20222,2022,Pemrograman Komputer,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20231,2023,Ekonomi Manajerial dan Strategi Bisnis,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20241,2024,Ekonomi Manajerial dan Strategi Bisnis,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20251,2025,Ekonomi Manajerial dan Strategi Bisnis,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20222,2022,Praktikum Pemrograman Komputer,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20232,2023,Praktikum Pemrograman Komputer,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20242,2024,Praktikum Pemrograman Komputer,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20252,2025,Manajemen Sumber Daya Manusia,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20221,2022,Manajemen Sumber Daya Manusia,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20232,2023,Manajemen Sumber Daya Manusia,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20242,2024,Kode Etik dan Etika Profesional,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20252,2025,Kode Etik dan Etika Profesional,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20232,2023,Kode Etik dan Etika Profesional,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20251,2025,Perancangan Organisasi dan Proses Bisnis,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20241,2024,Perancangan Organisasi dan Proses Bisnis,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20221,2022,Perancangan Organisasi dan Proses Bisnis,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20231,2023,Wawasan Kemaritiman,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20241,2024,Wawasan Kemaritiman,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20221,2022,Wawasan Kemaritiman,I Made Sondra Wijaya,S3
+Manajemen Rekayasa,20251,2025,Wawasan Kemaritiman,I Made Sondra Wijaya,S3
+Teknik Industri,20222,2022,Dasar Teknologi Informasi dan Pemrograman,I Made Sondra Wijaya,S3
+Teknik Industri,20222,2022,Perilaku Organisasi,I Made Sondra Wijaya,S3
+Teknik Industri,20232,2023,Perilaku Organisasi,I Made Sondra Wijaya,S3
+Teknik Industri,20231,2023,Analisis Biaya,I Made Sondra Wijaya,S3
+Teknik Industri,20241,2024,Analisis Biaya,I Made Sondra Wijaya,S3
+Teknik Industri,20222,2022,Praktikum Dasar Teknologi Informasi dan Pemrograman,I Made Sondra Wijaya,S3
+Sistem Informasi,20222,2022,Matematika Diskrit,Eko Sulistyono,S2
+Manajemen Rekayasa,20242,2024,Kalkulus II,Eko Sulistyono,S2
+Manajemen Rekayasa,20231,2023,Aljabar Linier,Eko Sulistyono,S2
+Manajemen Rekayasa,20241,2024,Aljabar Linier,Eko Sulistyono,S2
+Matematika,20221,2022,Pengenalan Komputasi,Eko Sulistyono,S2
+Matematika,20222,2022,Proses Stokastik,Eko Sulistyono,S2
+Matematika,20242,2024,Matematika II,Eko Sulistyono,S2
+Matematika,20232,2023,Pengantar Optimasi,Eko Sulistyono,S2
+Matematika,20222,2022,Simulasi dan Komputasi Matematika,Eko Sulistyono,S2
+Matematika,20232,2023,Simulasi dan Komputasi Matematika,Eko Sulistyono,S2
+Matematika,20221,2022,Kalkulus Peubah Banyak,Eko Sulistyono,S2
+Matematika,20221,2022,Teori Graf,Eko Sulistyono,S2
+Matematika,20231,2023,Teori Graf,Eko Sulistyono,S2
+Matematika,20241,2024,Teori Graf,Eko Sulistyono,S2
+Matematika,20231,2023,Metode Numerik,Eko Sulistyono,S2
+Matematika,20221,2022,Metode Numerik,Eko Sulistyono,S2
+Matematika,20241,2024,Metode Numerik,Eko Sulistyono,S2
+Teknik Industri,20242,2024,Kalkulus II,Eko Sulistyono,S2
+Teknik Komputer,20222,2022,Statistika dan Probabilitas,Widya Reza,S2
+Teknik Komputer,20232,2023,Statistika dan Probabilitas,Widya Reza,S2
+Sistem Informasi,20222,2022,Statistika dan Probabilitas,Widya Reza,S2
+Matematika,20222,2022,Statistika Non-parametrik,Widya Reza,S2
+Matematika,20232,2023,Statistika Non-parametrik,Widya Reza,S2
+Matematika,20232,2023,Statistika Matematika,Widya Reza,S2
+Matematika,20222,2022,Statistika Matematika,Widya Reza,S2
+Matematika,20231,2023,Ekonometrika,Widya Reza,S2
+Matematika,20221,2022,Teori Peluang,Widya Reza,S2
+Matematika,20241,2024,Teori Peluang,Widya Reza,S2
+Matematika,20231,2023,Teori Peluang,Widya Reza,S2
+Matematika,20221,2022,Analisis Regresi,Widya Reza,S2
+Matematika,20231,2023,Analisis Regresi,Widya Reza,S2
+Matematika,20241,2024,Analisis Regresi,Widya Reza,S2
+Matematika,20241,2024,Analisis Runtun Waktu,Widya Reza,S2
+Matematika,20221,2022,Analisis Runtun Waktu,Widya Reza,S2
+Matematika,20231,2023,Analisis Runtun Waktu,Widya Reza,S2
+Teknik Komputer,20261,2026,Kecerdasan Buatan,Deosa Putra Caniago,S2
+Teknik Komputer,20261,2026,Organisasi dan Arsitektur Komputer,Deosa Putra Caniago,S2
+Teknik Komputer,20261,2026,Proyek Rekayasa Teknik Komputer,Deosa Putra Caniago,S2
+Teknik Komputer,20242,2024,Komputer dan Masyarakat,Deosa Putra Caniago,S2
+Teknik Komputer,20232,2023,Komputer dan Masyarakat,Deosa Putra Caniago,S2
+Teknik Komputer,20222,2022,Komputer dan Masyarakat,Deosa Putra Caniago,S2
+Teknik Komputer,20252,2025,Komputer dan Masyarakat,Deosa Putra Caniago,S2
+Teknik Komputer,20222,2022,Sistem Digital,Deosa Putra Caniago,S2
+Teknik Komputer,20242,2024,Sistem Digital,Deosa Putra Caniago,S2
+Teknik Komputer,20232,2023,Sistem Digital,Deosa Putra Caniago,S2
+Teknik Komputer,20252,2025,Sistem Digital,Deosa Putra Caniago,S2
+Teknik Komputer,20251,2025,Dasar Pemrograman,Deosa Putra Caniago,S2
+Teknik Komputer,20222,2022,Dasar Pemrograman,Deosa Putra Caniago,S2
+Teknik Komputer,20242,2024,Dasar Pemrograman,Deosa Putra Caniago,S2
+Teknik Komputer,20232,2023,Dasar Pemrograman,Deosa Putra Caniago,S2
+Teknik Komputer,20252,2025,Dasar Pemrograman,Deosa Putra Caniago,S2
+Teknik Komputer,20221,2022,Dasar Robotika,Deosa Putra Caniago,S2
+Teknik Komputer,20231,2023,Dasar Robotika,Deosa Putra Caniago,S2
+Teknik Komputer,20241,2024,Dasar Robotika,Deosa Putra Caniago,S2
+Teknik Komputer,20251,2025,Dasar Robotika,Deosa Putra Caniago,S2
+Teknik Komputer,20241,2024,Dasar Rangkaian Listrik,Deosa Putra Caniago,S2
+Teknik Komputer,20231,2023,Dasar Rangkaian Listrik,Deosa Putra Caniago,S2
+Teknik Komputer,20251,2025,Dasar Rangkaian Listrik,Deosa Putra Caniago,S2
+Teknik Komputer,20221,2022,Dasar Rangkaian Listrik,Deosa Putra Caniago,S2
+Teknik Komputer,20231,2023,Dasar Elektronika,Deosa Putra Caniago,S2
+Teknik Komputer,20221,2022,Dasar Elektronika,Deosa Putra Caniago,S2
+Manajemen Rekayasa,20261,2026,Manajemen Proyek,Firman Edi,S2
+Manajemen Rekayasa,20261,2026,Estimasi Biaya,Firman Edi,S2
+Manajemen Rekayasa,20231,2023,Manajemen Proyek,Firman Edi,S2
+Manajemen Rekayasa,20241,2024,Manajemen Proyek,Firman Edi,S2
+Manajemen Rekayasa,20221,2022,Manajemen Proyek,Firman Edi,S2
+Manajemen Rekayasa,20251,2025,Manajemen Proyek,Firman Edi,S2
+Manajemen Rekayasa,20222,2022,Manajemen Teknologi,Firman Edi,S2
+Manajemen Rekayasa,20232,2023,Kode Etik dan Etika Profesional,Firman Edi,S2
+Manajemen Rekayasa,20241,2024,Estimasi Biaya,Firman Edi,S2
+Manajemen Rekayasa,20251,2025,Estimasi Biaya,Firman Edi,S2
+Manajemen Rekayasa,20231,2023,Estimasi Biaya,Firman Edi,S2
+Manajemen Rekayasa,20252,2025,Analisis Resiko dan Pembiayaan Proyek,Firman Edi,S2
+Manajemen Rekayasa,20221,2022,Analisis Resiko dan Pembiayaan Proyek,Firman Edi,S2
+Manajemen Rekayasa,20242,2024,Analisis Resiko dan Pembiayaan Proyek,Firman Edi,S2
+Manajemen Rekayasa,20222,2022,Analisis Resiko dan Pembiayaan Proyek,Firman Edi,S2
+Manajemen Rekayasa,20232,2023,Analisis Resiko dan Pembiayaan Proyek,Firman Edi,S2
+Perdagangan Internasional,20242,2024,Marketing,M.y Meinadia Sekarkinanti Aswirawan,S2
+Perdagangan Internasional,20232,2023,Marketing,M.y Meinadia Sekarkinanti Aswirawan,S2
+Perdagangan Internasional,20232,2023,Writing and Spoken English,M.y Meinadia Sekarkinanti Aswirawan,S2
+Perdagangan Internasional,20242,2024,Statistic Multivariat,M.y Meinadia Sekarkinanti Aswirawan,S2
+Perdagangan Internasional,20241,2024,Organizational Behavior,M.y Meinadia Sekarkinanti Aswirawan,S2
+Perdagangan Internasional,20242,2024,Statistic,M.y Meinadia Sekarkinanti Aswirawan,S2
+Perdagangan Internasional,20241,2024,English,M.y Meinadia Sekarkinanti Aswirawan,S2
+Perdagangan Internasional,20231,2023,English,M.y Meinadia Sekarkinanti Aswirawan,S2
+Perdagangan Internasional,20231,2023,Economics Principles,M.y Meinadia Sekarkinanti Aswirawan,S2
+Perdagangan Internasional,20241,2024,Economics Principles,M.y Meinadia Sekarkinanti Aswirawan,S2
+Desain Komunikasi Visual,20242,2024,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
+Desain Komunikasi Visual,20222,2022,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
+Desain Komunikasi Visual,20221,2022,Budaya Rupa,M.y Meinadia Sekarkinanti Aswirawan,S2
+Teknik Komputer,20221,2022,Bahasa Indonesia,M.y Meinadia Sekarkinanti Aswirawan,S2
+Teknik Komputer,20221,2022,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
+Sistem Informasi,20242,2024,Bahasa Inggris 2,M.y Meinadia Sekarkinanti Aswirawan,S2
+Sistem Informasi,20222,2022,Bahasa Inggris 2,M.y Meinadia Sekarkinanti Aswirawan,S2
+Sistem Informasi,20222,2022,Technoprenuership,M.y Meinadia Sekarkinanti Aswirawan,S2
+Sistem Informasi,20221,2022,Bahasa Inggris 1,M.y Meinadia Sekarkinanti Aswirawan,S2
+Sistem Informasi,20221,2022,Proses Bisnis,M.y Meinadia Sekarkinanti Aswirawan,S2
+Manajemen Rekayasa,20232,2023,Technopreneurship,M.y Meinadia Sekarkinanti Aswirawan,S2
+Manajemen Rekayasa,20222,2022,Technopreneurship,M.y Meinadia Sekarkinanti Aswirawan,S2
+Matematika,20222,2022,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
+Matematika,20242,2024,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
+Matematika,20221,2022,Manajemen Bisnis dan SDM,M.y Meinadia Sekarkinanti Aswirawan,S2
+Teknik Industri,20231,2023,Bahasa Inggris,M.y Meinadia Sekarkinanti Aswirawan,S2
+Teknik Industri,20232,2023,Technopreneurship,M.y Meinadia Sekarkinanti Aswirawan,S2
+Teknik Industri,20261,2026,Praktikum Menggambar Teknik,Sadiq Ardo Wibowo,S2
+Teknik Industri,20261,2026,Menggambar Teknik,Sadiq Ardo Wibowo,S2
+Teknik Industri,20232,2023,Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
+Teknik Industri,20221,2022,Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
+Teknik Industri,20252,2025,Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
+Teknik Industri,20222,2022,Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
+Teknik Industri,20242,2024,Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
+Teknik Industri,20221,2022,Praktikum Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
+Teknik Industri,20252,2025,Praktikum Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
+Teknik Industri,20242,2024,Praktikum Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
+Teknik Industri,20222,2022,Praktikum Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
+Teknik Industri,20232,2023,Praktikum Perancangan Fasilitas,Sadiq Ardo Wibowo,S2
+Teknik Industri,20231,2023,Rantai Pasok Berkelanjutan,Sadiq Ardo Wibowo,S2
+Teknik Industri,20251,2025,Rantai Pasok Berkelanjutan,Sadiq Ardo Wibowo,S2
+Teknik Industri,20241,2024,Rantai Pasok Berkelanjutan,Sadiq Ardo Wibowo,S2
+Teknik Industri,20222,2022,Perencanaan dan Pengendalian Logistik,Sadiq Ardo Wibowo,S2
+Teknik Industri,20221,2022,Praktikum Menggambar Teknik,Sadiq Ardo Wibowo,S2
+Teknik Industri,20241,2024,Praktikum Menggambar Teknik,Sadiq Ardo Wibowo,S2
+Teknik Industri,20231,2023,Praktikum Menggambar Teknik,Sadiq Ardo Wibowo,S2
+Teknik Industri,20251,2025,Praktikum Menggambar Teknik,Sadiq Ardo Wibowo,S2
+Teknik Industri,20241,2024,Menggambar Teknik,Sadiq Ardo Wibowo,S2
+Teknik Industri,20251,2025,Menggambar Teknik,Sadiq Ardo Wibowo,S2
+Teknik Industri,20231,2023,Menggambar Teknik,Sadiq Ardo Wibowo,S2
+Teknik Industri,20221,2022,Menggambar Teknik,Sadiq Ardo Wibowo,S2
+Perdagangan Internasional,20261,2026,Kewarganegaraan,Hazimah,S2
+Perdagangan Internasional,20261,2026,Bahasa Indonesia,Hazimah,S2
+Teknik Komputer,20261,2026,Pancasila,Hazimah,S2
+Teknik Komputer,20261,2026,Kimia Dasar,Hazimah,S2
+Bisnis Digital,20252,2025,Bahasa Indonesia,Hazimah,S2
+Bisnis Digital,20242,2024,Bahasa Indonesia,Hazimah,S2
+Perdagangan Internasional,20251,2025,Bahasa Indonesia,Hazimah,S2
+Perdagangan Internasional,20241,2024,Bahasa Indonesia,Hazimah,S2
+Perdagangan Internasional,20251,2025,Pancasila,Hazimah,S2
+Perdagangan Internasional,20241,2024,Pancasila,Hazimah,S2
+Desain Komunikasi Visual,20251,2025,Pancasila,Hazimah,S2
+Teknik Komputer,20252,2025,Kimia Dasar,Hazimah,S2
+Teknik Komputer,20222,2022,Kimia Dasar,Hazimah,S2
+Teknik Komputer,20242,2024,Kimia Dasar,Hazimah,S2
+Teknik Komputer,20232,2023,Kimia Dasar,Hazimah,S2
+Teknik Komputer,20222,2022,Kewarganegaraan,Hazimah,S2
+Teknik Komputer,20231,2023,Pancasila,Hazimah,S2
+Teknik Komputer,20221,2022,Pancasila,Hazimah,S2
+Manajemen Rekayasa,20231,2023,Kewarganegaraan,Hazimah,S2
+Manajemen Rekayasa,20232,2023,Kewarganegaraan,Hazimah,S2
+Manajemen Rekayasa,20232,2023,Pancasila,Hazimah,S2
+Matematika,20232,2023,Lingkungan,Hazimah,S2
+Matematika,20222,2022,Lingkungan,Hazimah,S2
+Matematika,20252,2025,Kewarganegaraan,Hazimah,S2
+Matematika,20232,2023,Kewarganegaraan,Hazimah,S2
+Matematika,20222,2022,Kewarganegaraan,Hazimah,S2
+Matematika,20241,2024,Bahasa Indonesia,Hazimah,S2
+Matematika,20231,2023,Pancasila,Hazimah,S2
+Matematika,20241,2024,Pancasila,Hazimah,S2
+Matematika,20251,2025,Kimia Dasar,Hazimah,S2
+Matematika,20231,2023,Kimia Dasar,Hazimah,S2
+Matematika,20241,2024,Kimia Dasar,Hazimah,S2
+Matematika,20221,2022,Kimia Dasar,Hazimah,S2
+Matematika,20221,2022,Pancasila,Hazimah,S2
+Teknik Industri,20251,2025,Pancasila,Hazimah,S2
+Teknik Industri,20242,2024,Pancasila,Hazimah,S2
+Teknik Industri,20222,2022,Pancasila,Hazimah,S2
+Teknik Industri,20232,2023,Pancasila,Hazimah,S2
+Teknik Industri,20242,2024,Kewarganegaraan,Hazimah,S2
+Teknik Industri,20232,2023,Kewarganegaraan,Hazimah,S2
+Manajemen Rekayasa,20261,2026,Intelijen Pasar,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20261,2026,Praktikum Riset Pasar dan Pemasaran,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20261,2026,Riset Pasar dan Pemasaran,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20221,2022,Tugas Akhir,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20252,2025,Hukum- Hukum Manajemen Rekayasa,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20242,2024,Hukum- Hukum Manajemen Rekayasa,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20232,2023,Hukum- Hukum Manajemen Rekayasa,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20222,2022,Hukum- Hukum Manajemen Rekayasa,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20232,2023,Praktikum Analitik Data,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20242,2024,Praktikum Analitik Data,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20222,2022,Praktikum Analitik Data,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20252,2025,Praktikum Analitik Data,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20222,2022,Praktikum PMR II,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20231,2023,Strategi Pemasaran,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20251,2025,Strategi Pemasaran,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20241,2024,Strategi Pemasaran,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20232,2023,Perancangan Sistem Rekayasa Terpadu,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20252,2025,Rekayasa Kualitas,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20222,2022,Rekayasa Kualitas,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20252,2025,Analitik Data,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20222,2022,Analitik Data,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20242,2024,Analitik Data,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20232,2023,Analitik Data,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20222,2022,Kerja Praktek Manajemen Rekayasa,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20221,2022,Perancangan Kesehatan dan Keselamatan Kerja,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20222,2022,Manajemen Teknologi,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20221,2022,Riset Pasar,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20241,2024,Riset Pasar,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20251,2025,Riset Pasar,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20231,2023,Riset Pasar,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20231,2023,Praktikum Menggambar Teknik,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20231,2023,Menggambar Teknik,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20241,2024,Praktikum PMR I,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20251,2025,Praktikum PMR I,Aulia Agung Dermawan,S2
+Manajemen Rekayasa,20221,2022,Praktikum PMR I,Aulia Agung Dermawan,S2
+Teknik Industri,20261,2026,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
+Manajemen Rekayasa,20261,2026,Mekanika Teknik,Ansarullah Lawi,S3
+Bisnis Digital,20251,2025,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
+Desain Komunikasi Visual,20232,2023,Pengantar Rekayasa Desain,Ansarullah Lawi,S3
+Desain Komunikasi Visual,20222,2022,Pengantar Rekayasa Desain,Ansarullah Lawi,S3
+Desain Komunikasi Visual,20242,2024,Pengantar Rekayasa Desain,Ansarullah Lawi,S3
+Desain Komunikasi Visual,20252,2025,Pengantar Rekayasa Desain,Ansarullah Lawi,S3
+Manajemen Rekayasa,20232,2023,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
+Manajemen Rekayasa,20222,2022,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
+Manajemen Rekayasa,20241,2024,Mekanika Teknik,Ansarullah Lawi,S3
+Manajemen Rekayasa,20251,2025,Mekanika Teknik,Ansarullah Lawi,S3
+Manajemen Rekayasa,20221,2022,Mekanika Teknik,Ansarullah Lawi,S3
+Manajemen Rekayasa,20231,2023,Mekanika Teknik,Ansarullah Lawi,S3
+Manajemen Rekayasa,20252,2025,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
+Manajemen Rekayasa,20232,2023,Technopreneurship,Ansarullah Lawi,S3
+Matematika,20241,2024,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
+Matematika,20231,2023,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
+Teknik Industri,20231,2023,Pengendalian dan Penjaminan Mutu,Ansarullah Lawi,S3
+Teknik Industri,20251,2025,Pengendalian dan Penjaminan Mutu,Ansarullah Lawi,S3
+Teknik Industri,20221,2022,Pengendalian dan Penjaminan Mutu,Ansarullah Lawi,S3
+Teknik Industri,20241,2024,Pengendalian dan Penjaminan Mutu,Ansarullah Lawi,S3
+Teknik Industri,20222,2022,Perancangan dan Pengembangan Produk,Ansarullah Lawi,S3
+Teknik Industri,20242,2024,Perancangan dan Pengembangan Produk,Ansarullah Lawi,S3
+Teknik Industri,20232,2023,Perancangan dan Pengembangan Produk,Ansarullah Lawi,S3
+Teknik Industri,20221,2022,Perancangan dan Pengembangan Produk,Ansarullah Lawi,S3
+Teknik Industri,20232,2023,Technopreneurship,Ansarullah Lawi,S3
+Teknik Industri,20222,2022,Technopreneurship,Ansarullah Lawi,S3
+Teknik Industri,20241,2024,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
+Teknik Industri,20251,2025,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
+Teknik Industri,20231,2023,Pengantar Rekayasa dan Desain,Ansarullah Lawi,S3
+Teknik Industri,20261,2026,Rekayasa Sistem Kerja,M. Ansyar Bora,S3
+Manajemen Rekayasa,20261,2026,Perancangan Kesehatan dan Keselamatan Kerja,M. Ansyar Bora,S3
+Manajemen Rekayasa,20261,2026,Perancangan Proses Bisnis dan Organisasi,M. Ansyar Bora,S3
+Manajemen Rekayasa,20252,2025,Metodologi Penelitian,M. Ansyar Bora,S3
+Manajemen Rekayasa,20232,2023,Metodologi Penelitian,M. Ansyar Bora,S3
+Manajemen Rekayasa,20242,2024,Metodologi Penelitian,M. Ansyar Bora,S3
+Manajemen Rekayasa,20221,2022,Metodologi Penelitian,M. Ansyar Bora,S3
+Manajemen Rekayasa,20241,2024,Perancangan Kesehatan dan Keselamatan Kerja,M. Ansyar Bora,S3
+Manajemen Rekayasa,20231,2023,Perancangan Kesehatan dan Keselamatan Kerja,M. Ansyar Bora,S3
+Manajemen Rekayasa,20251,2025,Perancangan Kesehatan dan Keselamatan Kerja,M. Ansyar Bora,S3
+Manajemen Rekayasa,20222,2022,Kode Etik dan Etika Profesional,M. Ansyar Bora,S3
+Manajemen Rekayasa,20221,2022,Kode Etik dan Etika Profesional,M. Ansyar Bora,S3
+Manajemen Rekayasa,20221,2022,Statistika,M. Ansyar Bora,S3
+Teknik Industri,20251,2025,Rekayasa Sistem Kerja,M. Ansyar Bora,S3
+Teknik Industri,20231,2023,Rekayasa Sistem Kerja,M. Ansyar Bora,S3
+Teknik Industri,20241,2024,Rekayasa Sistem Kerja,M. Ansyar Bora,S3
+Teknik Industri,20232,2023,Ergonomika,M. Ansyar Bora,S3
+Teknik Industri,20252,2025,Ergonomika,M. Ansyar Bora,S3
+Teknik Industri,20242,2024,Ergonomika,M. Ansyar Bora,S3
+Teknik Industri,20231,2023,Pengendalian dan Penjaminan Mutu,M. Ansyar Bora,S3
+Teknik Industri,20222,2022,Ergonomika,M. Ansyar Bora,S3
+Teknik Komputer,20261,2026,Interaksi Manusia dan Komputer,Zainul Munir,S2
+Teknik Komputer,20261,2026,Pengantar Rekayasa dan Desain,Zainul Munir,S2
+Desain Komunikasi Visual,20221,2022,Pemrograman Web,Zainul Munir,S2
+Teknik Komputer,20252,2025,Technopreneuship,Zainul Munir,S2
+Teknik Komputer,20232,2023,Technopreneuship,Zainul Munir,S2
+Teknik Komputer,20222,2022,Technopreneuship,Zainul Munir,S2
+Teknik Komputer,20242,2024,Technopreneuship,Zainul Munir,S2
+Teknik Komputer,20252,2025,Pemrograman Web Framework,Zainul Munir,S2
+Teknik Komputer,20232,2023,Pemrograman Web Framework,Zainul Munir,S2
+Teknik Komputer,20242,2024,Pemrograman Web Framework,Zainul Munir,S2
+Teknik Komputer,20222,2022,Pemrograman Web Framework,Zainul Munir,S2
+Teknik Komputer,20232,2023,Pengantar Rekayasa dan Desain,Zainul Munir,S2
+Teknik Komputer,20222,2022,Pengantar Rekayasa dan Desain,Zainul Munir,S2
+Teknik Komputer,20252,2025,Pengantar Rekayasa dan Desain,Zainul Munir,S2
+Teknik Komputer,20251,2025,Pengantar Rekayasa dan Desain,Zainul Munir,S2
+Teknik Komputer,20242,2024,Pengantar Rekayasa dan Desain,Zainul Munir,S2
+Teknik Komputer,20251,2025,Manajemen Proyek,Zainul Munir,S2
+Teknik Komputer,20241,2024,Manajemen Proyek,Zainul Munir,S2
+Teknik Komputer,20231,2023,Manajemen Proyek,Zainul Munir,S2
+Teknik Komputer,20251,2025,Interaksi Manusia dan  Komputer,Zainul Munir,S2
+Teknik Komputer,20241,2024,Interaksi Manusia dan  Komputer,Zainul Munir,S2
+Teknik Komputer,20231,2023,Interaksi Manusia dan  Komputer,Zainul Munir,S2
+Teknik Komputer,20231,2023,Rekayasa Perangkat Lunak,Zainul Munir,S2
+Teknik Komputer,20251,2025,Pemrograman Web,Zainul Munir,S2
+Teknik Komputer,20221,2022,Pemrograman Web,Zainul Munir,S2
+Teknik Komputer,20241,2024,Pemrograman Web,Zainul Munir,S2
+Teknik Komputer,20231,2023,Pemrograman Web,Zainul Munir,S2
+Sistem Informasi,20231,2023,Rekayasa Perangkat Lunak,Zainul Munir,S2
+Matematika,20242,2024,Pasar Modal,Andini Setyo Anggraeni,S2
+Matematika,20232,2023,Pasar Modal,Andini Setyo Anggraeni,S2
+Matematika,20221,2022,Pemodelan dan Teori Risiko I,Andini Setyo Anggraeni,S2
+Matematika,20231,2023,Pemodelan dan Teori Risiko I,Andini Setyo Anggraeni,S2
+Matematika,20241,2024,Pemodelan dan Teori Risiko I,Andini Setyo Anggraeni,S2
+Matematika,20251,2025,Pengenalan Komputasi,Andini Setyo Anggraeni,S2
+Matematika,20222,2022,Proses Stokastik,Andini Setyo Anggraeni,S2
+Matematika,20242,2024,Matematika Keuangan,Andini Setyo Anggraeni,S2
+Matematika,20222,2022,Matematika Keuangan,Andini Setyo Anggraeni,S2
+Matematika,20252,2025,Matematika Keuangan,Andini Setyo Anggraeni,S2
+Matematika,20232,2023,Matematika Keuangan,Andini Setyo Anggraeni,S2
+Matematika,20232,2023,Math. Aktuaria II,Andini Setyo Anggraeni,S2
+Matematika,20252,2025,Math. Aktuaria II,Andini Setyo Anggraeni,S2
+Matematika,20242,2024,Math. Aktuaria II,Andini Setyo Anggraeni,S2
+Matematika,20222,2022,Math. Aktuaria II,Andini Setyo Anggraeni,S2
+Matematika,20251,2025,Teori Suku Bunga,Andini Setyo Anggraeni,S2
+Matematika,20231,2023,Teori Suku Bunga,Andini Setyo Anggraeni,S2
+Matematika,20221,2022,Teori Suku Bunga,Andini Setyo Anggraeni,S2
+Matematika,20241,2024,Teori Suku Bunga,Andini Setyo Anggraeni,S2
+Matematika,20221,2022,Math. Aktuaria I,Andini Setyo Anggraeni,S2
+Matematika,20241,2024,Math. Aktuaria I,Andini Setyo Anggraeni,S2
+Matematika,20251,2025,Math. Aktuaria I,Andini Setyo Anggraeni,S2
+Matematika,20231,2023,Math. Aktuaria I,Andini Setyo Anggraeni,S2
+Sistem Informasi,20261,2026,Manajemen Resiko Sistem Informasi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20261,2026,Metode Penelitian,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20232,2023,Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20252,2025,Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20222,2022,Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20242,2024,Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20251,2025,Pengantar Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20241,2024,Pengantar Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20231,2023,Pengantar Audit Sistem Informasi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20222,2022,Analisis dan Perancangan Sistem Informasi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20252,2025,Manusia dan Teknologi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20242,2024,Manusia dan Teknologi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20232,2023,Manusia dan Teknologi,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20241,2024,Manajemen Resiko SI,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20221,2022,Manajemen Resiko SI,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20231,2023,Manajemen Resiko SI,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20251,2025,Manajemen Resiko SI,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20231,2023,Metode Penelitian,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20221,2022,Metode Penelitian,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20251,2025,Metode Penelitian,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20241,2024,Metode Penelitian,Ririt Dwiputri Permatasari,S3
+Sistem Informasi,20261,2026,Pemrograman Berbasis Web,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20242,2024,Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20232,2023,Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20252,2025,Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20232,2023,Tata Kelola Sistem Informasi,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20222,2022,Tata Kelola Sistem Informasi,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20242,2024,Tata Kelola Sistem Informasi,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20252,2025,Tata Kelola Sistem Informasi,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20252,2025,Praktikum Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20232,2023,Praktikum Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20242,2024,Praktikum Pemrograman WEB 2,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20231,2023,Komputer dan Masyarakat,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20231,2023,Pemrograman Web 1,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20241,2024,Pemrograman Web 1,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20251,2025,Pemrograman Web 1,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20241,2024,Pemrograman Database,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20221,2022,Multimedia,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20241,2024,Praktikum Pemrograman Database,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20251,2025,Praktikum Pemrograman Web 1,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20241,2024,Praktikum Pemrograman Web 1,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20231,2023,Praktikum Pemrograman Web 1,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20231,2023,Aplikasi Perkantoran,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20221,2022,Aplikasi Perkantoran,Alvendo Wahyu Aranski,S2
+Sistem Informasi,20231,2023,Perbankan,Alvendo Wahyu Aranski,S2
+Teknik Industri,20232,2023,Dasar Teknologi Informasi dan Pemrograman,Alvendo Wahyu Aranski,S2
+Teknik Industri,20251,2025,Praktikum Sistem Basis Data,Alvendo Wahyu Aranski,S2
+Teknik Industri,20232,2023,Praktikum Dasar Teknologi Informasi dan Pemrograman,Alvendo Wahyu Aranski,S2
+Teknik Industri,20251,2025,Sistem Basis Data,Alvendo Wahyu Aranski,S2
+Perdagangan Internasional,20261,2026,Sistem Informasi Bisnis,Muhammad Jufri,S2
+Bisnis Digital,20261,2026,Dasar Teknologi Informasi,Muhammad Jufri,S2
+Bisnis Digital,20261,2026,Pengantar Bisnis Digital,Muhammad Jufri,S2
+Bisnis Digital,20261,2026,Analisis dan Implementasi Bisnis,Muhammad Jufri,S2
+Bisnis Digital,20252,2025,Manusia dan Teknologi,Muhammad Jufri,S2
+Bisnis Digital,20242,2024,Algoritma dan Pemrograman,Muhammad Jufri,S2
+Bisnis Digital,20252,2025,Arsitektur Teknologi,Muhammad Jufri,S2
+Bisnis Digital,20251,2025,Dasar Teknologi Informasi,Muhammad Jufri,S2
+Bisnis Digital,20241,2024,Dasar Teknologi Informasi,Muhammad Jufri,S2
+Bisnis Digital,20241,2024,Pengantar Bisnis Digital,Muhammad Jufri,S2
+Bisnis Digital,20251,2025,Pengantar Bisnis Digital,Muhammad Jufri,S2
+Perdagangan Internasional,20251,2025,Application Computer Business,Muhammad Jufri,S2
+Perdagangan Internasional,20241,2024,Application Computer Business,Muhammad Jufri,S2
+Perdagangan Internasional,20252,2025,Introduction to Information Technology,Muhammad Jufri,S2
+Perdagangan Internasional,20232,2023,Introduction to Information Technology,Muhammad Jufri,S2
+Perdagangan Internasional,20231,2023,Kewarganegaraan,Muhammad Jufri,S2
+Teknik Komputer,20232,2023,Kewarganegaraan,Muhammad Jufri,S2
+Teknik Komputer,20221,2022,Jaringan Komputer Lanjut,Muhammad Jufri,S2
+Sistem Informasi,20222,2022,Arsitektur SI/TI Perusahaan,Muhammad Jufri,S2
+Sistem Informasi,20222,2022,Pengantar Bisnis dan Manajemen,Muhammad Jufri,S2
+Sistem Informasi,20222,2022,Arsitektur dan Organisasi Komputer,Muhammad Jufri,S2
+Sistem Informasi,20232,2023,Technoprenuership,Muhammad Jufri,S2
+Sistem Informasi,20221,2022,Pemrograman Web 1,Muhammad Jufri,S2
+Sistem Informasi,20221,2022,Jaringan dan Komunikasi Data,Muhammad Jufri,S2
+Sistem Informasi,20221,2022,Praktikum Pemrograman Web 1,Muhammad Jufri,S2
+Sistem Informasi,20221,2022,Dasar Infrastruktur Teknologi Informasi,Muhammad Jufri,S2
+Sistem Informasi,20231,2023,Proses Bisnis,Muhammad Jufri,S2
+Sistem Informasi,20241,2024,Proses Bisnis,Muhammad Jufri,S2
+Sistem Informasi,20221,2022,Sistem Operasi,Muhammad Jufri,S2
+Teknik Industri,20252,2025,Dasar Teknologi Informasi dan Pemrograman,Muhammad Jufri,S2
+Teknik Industri,20242,2024,Dasar Teknologi Informasi dan Pemrograman,Muhammad Jufri,S2
+Teknik Industri,20231,2023,Analisis dan Perancangan Sistem Informasi,Muhammad Jufri,S2
+Teknik Industri,20231,2023,Praktikum Analisis dan Perancangan Sistem Informasi,Muhammad Jufri,S2
+Teknik Industri,20242,2024,Praktikum Dasar Teknologi Informasi dan Pemrograman,Muhammad Jufri,S2
+Manajemen Rekayasa,20261,2026,Manajemen Operasi dan Rantai Pasok,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20261,2026,Pemodelan Sistem,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20261,2026,Sustainability,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20232,2023,Hukum- Hukum Manajemen Rekayasa,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20222,2022,Hukum- Hukum Manajemen Rekayasa,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20232,2023,Praktikum PMR II,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20222,2022,Praktikum PMR II,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20242,2024,Praktikum PMR II,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20252,2025,Praktikum PMR II,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20241,2024,Perancangan Sistem Rekayasa Terpadu,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20232,2023,Perancangan Sistem Rekayasa Terpadu,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20251,2025,Perancangan Sistem Rekayasa Terpadu,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20242,2024,Perancangan Sistem Rekayasa Terpadu,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20242,2024,Metode Kuantitatif,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20222,2022,Metode Kuantitatif,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20232,2023,Metode Kuantitatif,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20252,2025,Metode Kuantitatif,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20222,2022,Kerja Praktek Manajemen Rekayasa,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20221,2022,Perancangan Kesehatan dan Keselamatan Kerja,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20251,2025,Simulasi dan Pemodelan,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20231,2023,Simulasi dan Pemodelan,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20241,2024,Simulasi dan Pemodelan,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20221,2022,Simulasi dan Pemodelan,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20242,2024,Manajemen Strategi dan Perencanaan,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20221,2022,Manajemen Strategi dan Perencanaan,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20252,2025,Manajemen Strategi dan Perencanaan,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20231,2023,Praktikum PMR I,Dimas Akmarul Putera,S2
+Manajemen Rekayasa,20221,2022,Praktikum PMR I,Dimas Akmarul Putera,S2
+Perdagangan Internasional,20242,2024,Financial Management II,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
+Perdagangan Internasional,20242,2024,Fundamental of International Business,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
+Perdagangan Internasional,20232,2023,Fundamental of International Business,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
+Perdagangan Internasional,20231,2023,Bisnis Proses dan Operasi,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
+Perdagangan Internasional,20241,2024,Bisnis Proses dan Operasi,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
+Perdagangan Internasional,20241,2024,Financial Management,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
+Manajemen Rekayasa,20232,2023,Manajemen Strategi dan Perencanaan,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
+Manajemen Rekayasa,20222,2022,Manajemen Strategi dan Perencanaan,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
+Teknik Industri,20222,2022,Technopreneurship,"Prof. Dr. Drs. Syukri Lukman, M.sc",S3
+Teknik Komputer,20261,2026,Pengolahan Sinyal Digital,Joni Eka Candra,S2
+Teknik Komputer,20261,2026,Elektronika,Joni Eka Candra,S2
+Teknik Komputer,20252,2025,Organisasi  dan Arsitektur  Komputer,Joni Eka Candra,S2
+Teknik Komputer,20232,2023,Organisasi  dan Arsitektur  Komputer,Joni Eka Candra,S2
+Teknik Komputer,20242,2024,Organisasi  dan Arsitektur  Komputer,Joni Eka Candra,S2
+Teknik Komputer,20222,2022,Organisasi  dan Arsitektur  Komputer,Joni Eka Candra,S2
+Teknik Komputer,20242,2024,Elektronika Lanjutan,Joni Eka Candra,S2
+Teknik Komputer,20252,2025,Elektronika Lanjutan,Joni Eka Candra,S2
+Teknik Komputer,20222,2022,Elektronika Lanjutan,Joni Eka Candra,S2
+Teknik Komputer,20232,2023,Elektronika Lanjutan,Joni Eka Candra,S2
+Teknik Komputer,20241,2024,Sistem Kontrol,Joni Eka Candra,S2
+Teknik Komputer,20251,2025,Sistem Kontrol,Joni Eka Candra,S2
+Teknik Komputer,20231,2023,Sistem Kontrol,Joni Eka Candra,S2
+Teknik Komputer,20251,2025,Pengolahan Sinyal Digital,Joni Eka Candra,S2
+Teknik Komputer,20241,2024,Pengolahan Sinyal Digital,Joni Eka Candra,S2
+Teknik Komputer,20231,2023,Pengolahan Sinyal Digital,Joni Eka Candra,S2
+Teknik Komputer,20231,2023,Matematika Diskrit,Joni Eka Candra,S2
+Teknik Komputer,20251,2025,Dasar Elektronika,Joni Eka Candra,S2
+Teknik Komputer,20241,2024,Dasar Elektronika,Joni Eka Candra,S2
+Manajemen Rekayasa,20222,2022,Metodologi Penelitian,Reski Septiana,S3
+Manajemen Rekayasa,20222,2022,Rekayasa Kualitas,Reski Septiana,S3
+Manajemen Rekayasa,20232,2023,Teori Probabilitas,Reski Septiana,S3
+Manajemen Rekayasa,20231,2023,Praktikum Menggambar Teknik,Reski Septiana,S3
+Manajemen Rekayasa,20231,2023,Menggambar Teknik,Reski Septiana,S3
+Teknik Industri,20231,2023,Otomasi Sistem Produksi,Reski Septiana,S3
+Teknik Industri,20231,2023,Manajemen Kualitas,Reski Septiana,S3
+Teknik Industri,20232,2023,Material Teknik,Reski Septiana,S3
+Teknik Industri,20232,2023,Teori Probabilitas,Reski Septiana,S3
+Teknik Industri,20222,2022,Teori Probabilitas,Reski Septiana,S3
+Teknik Industri,20231,2023,Proses Manufaktur,Reski Septiana,S3
+Bisnis Digital,20261,2026,Kecerdasan Bisnis,Nadia Widari Nasution,S2
+Bisnis Digital,20261,2026,Desain dan Analisis Sistem,Nadia Widari Nasution,S2
+Bisnis Digital,20252,2025,Big Data and Business Analytic,Nadia Widari Nasution,S2
+Bisnis Digital,20252,2025,UI/UX Design,Nadia Widari Nasution,S2
+Sistem Informasi,20242,2024,Statistika dan Probabilitas,Nadia Widari Nasution,S2
+Sistem Informasi,20242,2024,Dasar Sistem Informasi,Nadia Widari Nasution,S2
+Sistem Informasi,20232,2023,Dasar Sistem Informasi,Nadia Widari Nasution,S2
+Sistem Informasi,20222,2022,Dasar Sistem Informasi,Nadia Widari Nasution,S2
+Sistem Informasi,20251,2025,Algoritma dan Struktur Data,Nadia Widari Nasution,S2
+Sistem Informasi,20231,2023,Algoritma dan Struktur Data,Nadia Widari Nasution,S2
+Sistem Informasi,20241,2024,Algoritma dan Struktur Data,Nadia Widari Nasution,S2
+Sistem Informasi,20231,2023,Multimedia,Nadia Widari Nasution,S2
+Sistem Informasi,20251,2025,Dasar Pemrograman,Nadia Widari Nasution,S2
+Sistem Informasi,20231,2023,Dasar Pemrograman,Nadia Widari Nasution,S2
+Sistem Informasi,20241,2024,Dasar Pemrograman,Nadia Widari Nasution,S2
+Sistem Informasi,20241,2024,Aplikasi Perkantoran,Nadia Widari Nasution,S2
+Sistem Informasi,20231,2023,Praktikum Dasar Pemrograman,Nadia Widari Nasution,S2
+Sistem Informasi,20241,2024,Praktikum Dasar Pemrograman,Nadia Widari Nasution,S2
+Sistem Informasi,20251,2025,Praktikum Dasar Pemrograman,Nadia Widari Nasution,S2
+Manajemen Rekayasa,20252,2025,Pemrograman Komputer,Nadia Widari Nasution,S2
+Manajemen Rekayasa,20252,2025,Praktikum Pemrograman Komputer,Nadia Widari Nasution,S2
+Teknik Industri,20251,2025,Sistem Basis Data,Nadia Widari Nasution,S2
+Desain Komunikasi Visual,20252,2025,DKV Multimedia 1,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20242,2024,DKV Multimedia 1,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20222,2022,DKV Multimedia 1,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20232,2023,DKV Multimedia 1,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20222,2022,DKV Dasar,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20232,2023,DKV Dasar,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20252,2025,DKV Dasar,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20242,2024,DKV Dasar,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20251,2025,DKV Aplikatif,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20241,2024,DKV Aplikatif,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20231,2023,DKV Aplikatif,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20241,2024,Prinsip Desain 2D dan 3D,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20261,2026,Prinsip Desain 2D dan 3D,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20231,2023,Prinsip Desain 2D dan 3D,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20251,2025,Prinsip Desain 2D dan 3D,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20251,2025,DKV Multimedia 2,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20241,2024,DKV Multimedia 2,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20261,2026,DKV Multimedia 2,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20231,2023,DKV Multimedia 2,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20222,2022,Portofolio,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20222,2022,Ilustrasi,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20232,2023,Ilustrasi,Widiya Lestari Harahap,S2
+Desain Komunikasi Visual,20242,2024,Ilustrasi,Widiya Lestari Harahap,S2
+Manajemen Rekayasa,20222,2022,Perancangan Sistem Rekayasa Terpadu,Rafi Dio,S2
+Manajemen Rekayasa,20222,2022,Teori Probabilitas,Rafi Dio,S2
+Manajemen Rekayasa,20232,2023,Analitik Data,Rafi Dio,S2
+Manajemen Rekayasa,20231,2023,Statistika,Rafi Dio,S2
+Teknik Industri,20232,2023,Analitika Data,Rafi Dio,S2
+Teknik Industri,20222,2022,Analitika Data,Rafi Dio,S2
+Teknik Industri,20232,2023,Simulasi Sistem,Rafi Dio,S2
+Teknik Industri,20222,2022,Simulasi Sistem,Rafi Dio,S2
+Teknik Industri,20222,2022,Praktikum Perancangan Sistem Terintegrasi,Rafi Dio,S2
+Teknik Industri,20231,2023,Pemodelan Sistem,Rafi Dio,S2
+Teknik Industri,20231,2023,Statistika Industri,Rafi Dio,S2
+Manajemen Rekayasa,20261,2026,Menggambar Teknik,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20261,2026,Praktikum Menggambar Teknik,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20261,2026,Teori Probabilitas,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20261,2026,Ekonomi Manajerial,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20261,2026,Praktikum Proses Manufaktur,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20242,2024,Material Teknik,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20232,2023,Material Teknik,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20252,2025,Material Teknik,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20232,2023,Rekayasa Kualitas,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20252,2025,Manajemen Teknologi,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20241,2024,Praktikum Proses Manufaktur,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20241,2024,Proses Manufaktur,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20251,2025,Praktikum Menggambar Teknik,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20241,2024,Praktikum Menggambar Teknik,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20241,2024,Menggambar Teknik,Razan Muhammad Railis,S2
+Manajemen Rekayasa,20251,2025,Menggambar Teknik,Razan Muhammad Railis,S2
+Teknik Industri,20252,2025,Material Teknik,Razan Muhammad Railis,S2
+Teknik Industri,20242,2024,Material Teknik,Razan Muhammad Railis,S2
+Teknik Industri,20251,2025,Praktikum Proses Manufaktur,Razan Muhammad Railis,S2
+Teknik Industri,20241,2024,Praktikum Proses Manufaktur,Razan Muhammad Railis,S2
+Teknik Industri,20251,2025,Proses Manufaktur,Razan Muhammad Railis,S2
+Teknik Industri,20241,2024,Proses Manufaktur,Razan Muhammad Railis,S2
+Sistem Informasi,20261,2026,UI/UX Design,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20261,2026,Sistem Informasi Manajemen,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20261,2026,Sistem Operasi,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20261,2026,Transformasi Digital,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20232,2023,Enterprise Information System,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20252,2025,Enterprise Information System,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20242,2024,Enterprise Information System,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20252,2025,Arsitektur dan Organisasi Komputer,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20232,2023,Arsitektur dan Organisasi Komputer,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20242,2024,Arsitektur dan Organisasi Komputer,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20251,2025,Multimedia,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20241,2024,Multimedia,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20251,2025,Dasar Infrastruktur Teknologi Informasi,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20241,2024,Dasar Infrastruktur Teknologi Informasi,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20241,2024,Sistem Operasi,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20251,2025,Sistem Operasi,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20241,2024,Sistem Informasi Manajemen,Rifa'atul Mahmudah Burhan,S2
+Sistem Informasi,20251,2025,Sistem Informasi Manajemen,Rifa'atul Mahmudah Burhan,S2
+Bisnis Digital,20241,2024,Pengantar Akutansi,Rizki Fadhel Dwipananda,S2
+Perdagangan Internasional,20241,2024,Akuntansi,Rizki Fadhel Dwipananda,S2
+Perdagangan Internasional,20232,2023,Managerial Economics,Rizki Fadhel Dwipananda,S2
+Perdagangan Internasional,20242,2024,Matematics of Finance,Rizki Fadhel Dwipananda,S2
+Perdagangan Internasional,20232,2023,Management Principles,Rizki Fadhel Dwipananda,S2
+Perdagangan Internasional,20241,2024,Economics Principles,Rizki Fadhel Dwipananda,S2
+Sistem Informasi,20242,2024,Pengantar Bisnis dan Manajemen,Rizki Fadhel Dwipananda,S2
+Sistem Informasi,20232,2023,Pengantar Bisnis dan Manajemen,Rizki Fadhel Dwipananda,S2
+Sistem Informasi,20242,2024,Pengantar Akuntansi,Rizki Fadhel Dwipananda,S2
+Manajemen Rekayasa,20252,2025,Kalkulus II,Nahrul Hayati,S2
+Manajemen Rekayasa,20241,2024,Aljabar Linier,Nahrul Hayati,S2
+Manajemen Rekayasa,20251,2025,Kalkulus I,Nahrul Hayati,S2
+Manajemen Rekayasa,20241,2024,Kalkulus I,Nahrul Hayati,S2
+Matematika,20242,2024,Karir Dalam Matematika,Nahrul Hayati,S2
+Matematika,20252,2025,Karir Dalam Matematika,Nahrul Hayati,S2
+Matematika,20241,2024,Pengenalan Komputasi,Nahrul Hayati,S2
+Matematika,20242,2024,Proses Stokastik,Nahrul Hayati,S2
+Matematika,20252,2025,Proses Stokastik,Nahrul Hayati,S2
+Matematika,20252,2025,Matematika II,Nahrul Hayati,S2
+Matematika,20242,2024,Pengantar Optimasi,Nahrul Hayati,S2
+Matematika,20242,2024,Simulasi dan Komputasi Matematika,Nahrul Hayati,S2
+Matematika,20241,2024,Matematika I,Nahrul Hayati,S2
+Teknik Industri,20251,2025,Matriks dan Ruang Vektor,Nahrul Hayati,S2
+Teknik Industri,20241,2024,Matriks dan Ruang Vektor,Nahrul Hayati,S2
+Teknik Industri,20241,2024,Kalkulus I,Nahrul Hayati,S2
+Manajemen Rekayasa,20261,2026,Praktikum Pemrograman Komputer,Mhd Adi Setiawan Aritonang,S2
+Teknik Komputer,20261,2026,Technopreneuship,Mhd Adi Setiawan Aritonang,S2
+Teknik Komputer,20261,2026,Komunikasi Data,Mhd Adi Setiawan Aritonang,S2
+Teknik Komputer,20252,2025,Keamanan Komputer,Mhd Adi Setiawan Aritonang,S2
+Teknik Komputer,20242,2024,Keamanan Komputer,Mhd Adi Setiawan Aritonang,S2
+Teknik Komputer,20251,2025,Komunikasi Data,Mhd Adi Setiawan Aritonang,S2
+Teknik Komputer,20241,2024,Komunikasi Data,Mhd Adi Setiawan Aritonang,S2
+Teknik Komputer,20252,2025,Jaringan Komputer Dasar,Mhd Adi Setiawan Aritonang,S2
+Teknik Komputer,20242,2024,Jaringan Komputer Dasar,Mhd Adi Setiawan Aritonang,S2
+Teknik Komputer,20241,2024,Jaringan Komputer Lanjut,Mhd Adi Setiawan Aritonang,S2
+Teknik Komputer,20251,2025,Jaringan Komputer Lanjut,Mhd Adi Setiawan Aritonang,S2
+Sistem Informasi,20251,2025,Jaringan dan Komunikasi Data,Mhd Adi Setiawan Aritonang,S2
+Sistem Informasi,20241,2024,Jaringan dan Komunikasi Data,Mhd Adi Setiawan Aritonang,S2
+Teknik Industri,20261,2026,Capstone Design,Elsa Sri Erjuni Rumapea,S2
+Teknik Industri,20261,2026,Otomasi Sistem Produksi,Elsa Sri Erjuni Rumapea,S2
+Teknik Industri,20261,2026,Menggambar Teknik,Elsa Sri Erjuni Rumapea,S2
+Teknik Industri,20251,2025,Otomasi Sistem Produksi,Elsa Sri Erjuni Rumapea,S2
+Teknik Industri,20252,2025,Teori Probabilitas,Elsa Sri Erjuni Rumapea,S2
+Teknik Industri,20252,2025,Perancangan dan Pengembangan Produk,Elsa Sri Erjuni Rumapea,S2
+Teknik Industri,20251,2025,Menggambar Teknik,Elsa Sri Erjuni Rumapea,S2
+Manajemen Rekayasa,20261,2026,Komunikasi Professional,Elsa Putri Pertiwi,S2
+Manajemen Rekayasa,20252,2025,Technopreneurship,Elsa Putri Pertiwi,S2
+Manajemen Rekayasa,20252,2025,Rekayasa Kualitas,Elsa Putri Pertiwi,S2
+Manajemen Rekayasa,20252,2025,Teori Probabilitas,Elsa Putri Pertiwi,S2
+Manajemen Rekayasa,20251,2025,Statistika,Elsa Putri Pertiwi,S2
+Teknik Industri,20252,2025,Technopreneurship,Elsa Putri Pertiwi,S2
+Teknik Industri,20251,2025,Manajemen Kualitas,Siti Nurmaulidina,S2
+Teknik Industri,20242,2024,Analitika Data,Siti Nurmaulidina,S2
+Teknik Industri,20252,2025,Analisis dan Perancangan Perusahaan,Siti Nurmaulidina,S2
+Teknik Industri,20242,2024,Analisis dan Perancangan Perusahaan,Siti Nurmaulidina,S2
+Teknik Industri,20252,2025,Sistem Distribusi dan Transportasi,Siti Nurmaulidina,S2
+Bisnis Digital,20261,2026,Pengantar Ekonomi Digital,Dewi Lestari,S2
+Bisnis Digital,20261,2026,Pengantar Manajemen,Dewi Lestari,S2
+Matematika,20261,2026,Technopreneurship,Dewi Lestari,S2
+Bisnis Digital,20252,2025,Riset Pemasaran,Dewi Lestari,S2
+Bisnis Digital,20242,2024,Kewirausahaan,Dewi Lestari,S2
+Bisnis Digital,20252,2025,Kewirausahaan,Dewi Lestari,S2
+Bisnis Digital,20242,2024,Manajemen Pemasaran,Dewi Lestari,S2
+Bisnis Digital,20251,2025,Pengantar Manajemen,Dewi Lestari,S2
+Bisnis Digital,20251,2025,Pengantar Ekonomi Digital,Dewi Lestari,S2
+Perdagangan Internasional,20252,2025,Technopreneurship,Dewi Lestari,S2
+Perdagangan Internasional,20251,2025,International Business Law,Dewi Lestari,S2
+Desain Komunikasi Visual,20242,2024,Manajemen Bisnis Desain,Dewi Lestari,S2
+Matematika,20251,2025,Technopreneurship,Dewi Lestari,S2
+Teknik Industri,20242,2024,Technopreneurship,Dewi Lestari,S2
+Teknik Industri,20261,2026,Capstone Design,Amirah Nova Khairiyah Pane,S2
+Teknik Industri,20261,2026,Pemodelan Sistem,Amirah Nova Khairiyah Pane,S2
+Teknik Industri,20261,2026,Riset Operasi II,Amirah Nova Khairiyah Pane,S2
+Manajemen Rekayasa,20242,2024,Perancangan Sistem Rekayasa Terpadu,Amirah Nova Khairiyah Pane,S2
+Teknik Industri,20251,2025,Riset Operasi Lanjutan,Amirah Nova Khairiyah Pane,S2
+Teknik Industri,20242,2024,Simulasi Sistem,Amirah Nova Khairiyah Pane,S2
+Teknik Industri,20252,2025,Perencanaan dan Pengendalian Logistik,Amirah Nova Khairiyah Pane,S2
+Teknik Industri,20242,2024,Perencanaan dan Pengendalian Logistik,Amirah Nova Khairiyah Pane,S2
+Teknik Industri,20251,2025,Pemodelan Sistem,Amirah Nova Khairiyah Pane,S2
+Teknik Industri,20252,2025,Riset Operasi I,Amirah Nova Khairiyah Pane,S2
+Teknik Industri,20242,2024,Riset Operasi I,Amirah Nova Khairiyah Pane,S2
+Sistem Informasi,20261,2026,Big Data,Fidya Farasalsabila,S2
+Sistem Informasi,20261,2026,Aplikasi Perkantoran,Fidya Farasalsabila,S2
+Sistem Informasi,20261,2026,Machine Learning,Fidya Farasalsabila,S2
+Teknik Komputer,20251,2025,Sistem Operasi,Fidya Farasalsabila,S2
+Sistem Informasi,20242,2024,Arsitektur SI/TI Perusahaan,Fidya Farasalsabila,S2
+Sistem Informasi,20252,2025,Arsitektur SI/TI Perusahaan,Fidya Farasalsabila,S2
+Sistem Informasi,20252,2025,Technoprenuership,Fidya Farasalsabila,S2
+Sistem Informasi,20242,2024,Technoprenuership,Fidya Farasalsabila,S2
+Sistem Informasi,20251,2025,Aplikasi Perkantoran,Fidya Farasalsabila,S2
+Sistem Informasi,20251,2025,Sistem Informasi Manajemen,Fidya Farasalsabila,S2
+Teknik Industri,20261,2026,Proses Manufaktur,Ibnu Anugrah,S2
+Teknik Industri,20261,2026,Praktikum Proses Manufaktur,Ibnu Anugrah,S2
+Teknik Industri,20261,2026,Mekanika Teknik,Ibnu Anugrah,S2
+Manajemen Rekayasa,20242,2024,Isu Lingkungan,Ibnu Anugrah,S2
+Matematika,20242,2024,Lingkungan,Ibnu Anugrah,S2
+Teknik Industri,20252,2025,Material Teknik,Ibnu Anugrah,S2
+Teknik Industri,20242,2024,Perilaku Organisasi,Ibnu Anugrah,S2
+Teknik Industri,20251,2025,Mekanika Teknik,Ibnu Anugrah,S2
+Teknik Industri,20242,2024,Teori Probabilitas,Ibnu Anugrah,S2
+Teknik Industri,20252,2025,Teori Probabilitas,Ibnu Anugrah,S2
+Teknik Industri,20242,2024,Ekologi Industri,Ibnu Anugrah,S2
+Sistem Informasi,20261,2026,Data Science,Sasa Ani Arnomo,S3
+Sistem Informasi,20261,2026,Pemrograman Aplikasi Bergerak Lanjutan,Sasa Ani Arnomo,S3
+Bisnis Digital,20252,2025,Pemrograman Aplikasi Mobile,Sasa Ani Arnomo,S3
+Desain Komunikasi Visual,20252,2025,Desain Interaktif,Sasa Ani Arnomo,S3
+Desain Komunikasi Visual,20251,2025,Pemrograman Web,Sasa Ani Arnomo,S3
+Teknik Komputer,20242,2024,Technopreneuship,Sasa Ani Arnomo,S3
+Teknik Komputer,20251,2025,Mobile Programming,Sasa Ani Arnomo,S3
+Sistem Informasi,20242,2024,Pengantar Pemrograman Mobile,Sasa Ani Arnomo,S3
+Sistem Informasi,20252,2025,Pengantar Pemrograman Mobile,Sasa Ani Arnomo,S3
+Sistem Informasi,20251,2025,Pemrograman Database,Sasa Ani Arnomo,S3
+Sistem Informasi,20251,2025,Pemrograman Mobile,Sasa Ani Arnomo,S3
+Sistem Informasi,20251,2025,Praktikum Pemrograman Database,Sasa Ani Arnomo,S3
+Perdagangan Internasional,20261,2026,Administrasi Kepabeanan,Roni Adi,S2
+Perdagangan Internasional,20261,2026,Proyek Konsultansi Bisnis,Roni Adi,S2
+Perdagangan Internasional,20261,2026,Ekonomi Biru,Roni Adi,S2
+Perdagangan Internasional,20261,2026,Perdagangan Lintas Batas,Roni Adi,S2
+Perdagangan Internasional,20252,2025,Logistic Management,Roni Adi,S2
+Perdagangan Internasional,20251,2025,Blue Economy,Roni Adi,S2
+Perdagangan Internasional,20251,2025,Export-Import Administration,Roni Adi,S2
+Perdagangan Internasional,20242,2024,Operation Management,Roni Adi,S2
+Perdagangan Internasional,20251,2025,Business Negotiation and Communication,Roni Adi,S2
+Perdagangan Internasional,20242,2024,Taxation,Roni Adi,S2
+Perdagangan Internasional,20252,2025,Fundamental of International Business,Roni Adi,S2
+Perdagangan Internasional,20242,2024,Management Principles,Roni Adi,S2
+Sistem Informasi,20252,2025,Pengantar Akuntansi,Roni Adi,S2
+Sistem Informasi,20251,2025,Perbankan,Roni Adi,S2
+Sistem Informasi,20251,2025,Proses Bisnis,Roni Adi,S2
+Desain Komunikasi Visual,20252,2025,Branding,Tommy Andrea Gunawan,S2
+Desain Komunikasi Visual,20252,2025,Desain Interaktif,Tommy Andrea Gunawan,S2
+Desain Komunikasi Visual,20251,2025,DKV Aplikatif,Tommy Andrea Gunawan,S2
+Desain Komunikasi Visual,20261,2026,DKV Aplikatif,Tommy Andrea Gunawan,S2
+Desain Komunikasi Visual,20251,2025,Pemrograman Web,Tommy Andrea Gunawan,S2
+Desain Komunikasi Visual,20261,2026,Pemrograman Web,Tommy Andrea Gunawan,S2
+Desain Komunikasi Visual,20251,2025,Tipografi,Tommy Andrea Gunawan,S2
+Desain Komunikasi Visual,20252,2025,Game Desain,Tommy Andrea Gunawan,S2
+Perdagangan Internasional,20261,2026,Pengantar Akuntansi,Devina Wistiasari,S2
+Perdagangan Internasional,20261,2026,Komunikasi dan Negosiasi Bisnis,Devina Wistiasari,S2
+Bisnis Digital,20261,2026,Pengantar Akutansi,Devina Wistiasari,S2
+Bisnis Digital,20252,2025,Manajemen Pemasaran,Devina Wistiasari,S2
+Bisnis Digital,20251,2025,Pengantar Akutansi,Devina Wistiasari,S2
+Perdagangan Internasional,20252,2025,International Marketing,Devina Wistiasari,S2
+Perdagangan Internasional,20251,2025,Akuntansi,Devina Wistiasari,S2
+Perdagangan Internasional,20252,2025,Marketing,Devina Wistiasari,S2
+Perdagangan Internasional,20251,2025,International Economics,Devina Wistiasari,S2
+Perdagangan Internasional,20251,2025,Financial Management,Devina Wistiasari,S2
+Perdagangan Internasional,20261,2026,Metodologi Penelitian,M. Irvanni Bahri,S2
+Perdagangan Internasional,20261,2026,Perilaku Organisasi,M. Irvanni Bahri,S2
+Bisnis Digital,20261,2026,Berpikir Desain dan Inovasi,M. Irvanni Bahri,S2
+Perdagangan Internasional,20251,2025,Research Method,M. Irvanni Bahri,S2
+Perdagangan Internasional,20252,2025,Operation Management,M. Irvanni Bahri,S2
+Perdagangan Internasional,20251,2025,Organizational Behavior,M. Irvanni Bahri,S2
+Perdagangan Internasional,20252,2025,Management Principles,M. Irvanni Bahri,S2
+Perdagangan Internasional,20251,2025,Bisnis Proses dan Operasi,M. Irvanni Bahri,S2
+Matematika,20251,2025,Manajemen Bisnis dan SDM,M. Irvanni Bahri,S2
+Matematika,20261,2026,Analisis Regresi,Cinta Rizki Oktarina,S2
+Matematika,20261,2026,Teknik Sampling,Cinta Rizki Oktarina,S2
+Matematika,20261,2026,Teori Peluang,Cinta Rizki Oktarina,S2
+Matematika,20261,2026,Analisis Multivariat,Cinta Rizki Oktarina,S2
+Matematika,20252,2025,Statistika Non-parametrik,Cinta Rizki Oktarina,S2
+Matematika,20252,2025,Statistika Matematika,Cinta Rizki Oktarina,S2
+Matematika,20252,2025,Ekonometrika,Cinta Rizki Oktarina,S2
+Matematika,20261,2026,Simulasi dan Komputasi Matematika,Andro Kurniawan,S2
+Matematika,20261,2026,Teori Graf,Andro Kurniawan,S2
+Matematika,20261,2026,Metode Numerik,Andro Kurniawan,S2
+Matematika,20252,2025,Pengantar Optimasi,Andro Kurniawan,S2
+Matematika,20252,2025,Simulasi dan Komputasi Matematika,Andro Kurniawan,S2
+Desain Komunikasi Visual,20252,2025,Seminar DKV,Dany Kurnia Gunawan,S2
+Desain Komunikasi Visual,20252,2025,Tinjauan DKV,Dany Kurnia Gunawan,S2
+Desain Komunikasi Visual,20252,2025,Proses Kreatif,Dany Kurnia Gunawan,S2
+Desain Komunikasi Visual,20252,2025,Teori Media,Zhilla Zhalila Qurrata A’yun,S2
+Desain Komunikasi Visual,20261,2026,Ilustrasi Aplikatif,Zhilla Zhalila Qurrata A’yun,S2
+Desain Komunikasi Visual,20261,2026,Gambar,Zhilla Zhalila Qurrata A’yun,S2
+Desain Komunikasi Visual,20252,2025,Portofolio,Zhilla Zhalila Qurrata A’yun,S2
+Desain Komunikasi Visual,20252,2025,Ilustrasi,Zhilla Zhalila Qurrata A’yun,S2
+Perdagangan Internasional,20261,2026,Pengantar Perdagangan Internasional,Adelya Rifdah,S2
+Perdagangan Internasional,20261,2026,Manajemen Inovasi Bisnis,Adelya Rifdah,S2
+Perdagangan Internasional,20261,2026,Perjanjian Perdagangan Internasional,Adelya Rifdah,S2
+Perdagangan Internasional,20252,2025,International Trade Policy and Agreement,Adelya Rifdah,S2
+Perdagangan Internasional,20252,2025,Financial Management II,Adelya Rifdah,S2
+Desain Komunikasi Visual,20252,2025,Manajemen Bisnis Desain,Adelya Rifdah,S2
+Teknik Industri,20261,2026,Praktikum Fisika Dasar I,Feri Iskandar,S2
+Manajemen Rekayasa,20261,2026,Fisika Dasar I,Feri Iskandar,S2
+Teknik Komputer,20261,2026,Fisika Dasar 1 (Mekanika dan Gelombang),Feri Iskandar,S2
+Teknik Komputer,20252,2025,Fisika Dasar II,Feri Iskandar,S2
+Manajemen Rekayasa,20252,2025,Fisika Dasar II,Feri Iskandar,S2
+Manajemen Rekayasa,20252,2025,Praktikum Fisika Dasar,Feri Iskandar,S2
+Teknik Industri,20252,2025,Praktikum Fisika Dasar II,Feri Iskandar,S2
+Bisnis Digital,20261,2026,Basis Data,Raynold,S2
+Bisnis Digital,20261,2026,Pemrograman Web,Raynold,S2
+Bisnis Digital,20261,2026,Manajemen Keamanan Data,Raynold,S2
+Bisnis Digital,20252,2025,Algoritma dan Pemrograman,Raynold,S2
+Perdagangan Internasional,20252,2025,Smart Contracts & Trade Automation,Raynold,S2
+Teknik Industri,20252,2025,Dasar Teknologi Informasi dan Pemrograman,Raynold,S2
+Teknik Industri,20252,2025,Praktikum Dasar Teknologi Informasi dan Pemrograman,Raynold,S2
+Perdagangan Internasional,20261,2026,Pengantar Ekonomi,Heri Siswanto,S2
+Perdagangan Internasional,20261,2026,Etika Bisnis,Heri Siswanto,S2
+Perdagangan Internasional,20261,2026,Manajemen Pengambilan Keputusan,Heri Siswanto,S2
+Bisnis Digital,20252,2025,Manajemen SDM dan Organisasi,Heri Siswanto,S2
+Teknik Industri,20261,2026,Pengantar Teknik Industri,I Made Dwika Parama Yudha,S2
+Teknik Industri,20261,2026,Pengendalian dan Penjaminan Mutu,I Made Dwika Parama Yudha,S2
+Teknik Industri,20252,2025,Simulasi Sistem,I Made Dwika Parama Yudha,S2
+Teknik Industri,20252,2025,Perilaku Organisasi,I Made Dwika Parama Yudha,S2
+Teknik Industri,20252,2025,Metodologi Penelitian,I Made Dwika Parama Yudha,S2
+Teknik Industri,20261,2026,Analisis dan Pengendalian Biaya,Rina Agustina,S2
+Teknik Industri,20261,2026,Ekonomi Teknik,Rina Agustina,S2
+Manajemen Rekayasa,20252,2025,Isu Lingkungan,Rina Agustina,S2
+Matematika,20252,2025,Lingkungan,Rina Agustina,S2
+Teknik Industri,20252,2025,Analitika Data,Rina Agustina,S2
+Desain Komunikasi Visual,20261,2026,Metode Penelitian,Meuthia Ramadhani Archam,S2
+Desain Komunikasi Visual,20261,2026,Narasi Visual,Meuthia Ramadhani Archam,S2
