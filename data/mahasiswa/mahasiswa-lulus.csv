@@ -1,67 +1,427 @@
-register_semester_code,keluar_semester_code,tahun_lulus,program_studi,jenis_daftar,jumlah_lulusan
-20222,20251,2025,Desain Komunikasi Visual,Pindahan,1
-20211,20251,2025,Desain Komunikasi Visual,Peserta didik baru,6
-20211,20251,2025,Sistem Informasi,Peserta didik baru,9
-20211,20251,2025,Matematika,Peserta didik baru,3
-20211,20251,2025,Teknik Komputer,Peserta didik baru,1
-20211,20251,2025,Sistem Informasi,Pindahan,1
-20211,20251,2025,Teknik Industri,Peserta didik baru,13
-20211,20251,2025,Manajemen Rekayasa,Peserta didik baru,5
-20201,20251,2025,Manajemen Rekayasa,Peserta didik baru,2
-20201,20251,2025,Matematika,Peserta didik baru,3
-20201,20251,2025,Sistem Informasi,Peserta didik baru,5
-20201,20251,2025,Teknik Komputer,Peserta didik baru,1
-20191,20251,2025,Manajemen Rekayasa,Peserta didik baru,3
-20191,20251,2025,Desain Komunikasi Visual,Peserta didik baru,2
-20191,20251,2025,Teknik Industri,Peserta didik baru,1
-20191,20251,2025,Teknik Komputer,Peserta didik baru,1
-20191,20251,2025,Sistem Informasi,Peserta didik baru,1
-20241,20242,2024,Teknik Industri,Pindahan,1
-20221,20242,2024,Manajemen Rekayasa,Pindahan,1
-20211,20242,2024,Manajemen Rekayasa,Peserta didik baru,16
-20211,20242,2024,Teknik Komputer,Peserta didik baru,12
-20211,20242,2024,Sistem Informasi,Peserta didik baru,20
-20211,20242,2024,Matematika,Peserta didik baru,13
-20211,20242,2024,Desain Komunikasi Visual,Peserta didik baru,31
-20211,20242,2024,Teknik Industri,Peserta didik baru,2
-20201,20242,2024,Teknik Industri,Peserta didik baru,2
-20201,20242,2024,Manajemen Rekayasa,Peserta didik baru,2
-20201,20242,2024,Sistem Informasi,Peserta didik baru,4
-20201,20242,2024,Desain Komunikasi Visual,Peserta didik baru,4
-20191,20242,2024,Teknik Komputer,Peserta didik baru,1
-20181,20242,2024,Teknik Industri,Peserta didik baru,2
-20232,20241,2024,Sistem Informasi,Pindahan,1
-20201,20241,2024,Sistem Informasi,Peserta didik baru,17
-20201,20241,2024,Matematika,Peserta didik baru,4
-20201,20241,2024,Teknik Industri,Peserta didik baru,18
-20201,20241,2024,Desain Komunikasi Visual,Peserta didik baru,1
-20191,20241,2024,Desain Komunikasi Visual,Peserta didik baru,1
-20191,20241,2024,Matematika,Peserta didik baru,2
-20191,20241,2024,Sistem Informasi,Peserta didik baru,2
-20191,20241,2024,Teknik Industri,Peserta didik baru,1
-20181,20241,2024,Sistem Informasi,Peserta didik baru,1
-20201,20232,2023,Teknik Industri,Peserta didik baru,16
-20201,20232,2023,Manajemen Rekayasa,Peserta didik baru,13
-20201,20232,2023,Sistem Informasi,Peserta didik baru,8
-20201,20232,2023,Teknik Komputer,Peserta didik baru,13
-20201,20232,2023,Desain Komunikasi Visual,Peserta didik baru,19
-20201,20232,2023,Matematika,Peserta didik baru,12
-20191,20232,2023,Teknik Komputer,Peserta didik baru,3
-20191,20232,2023,Desain Komunikasi Visual,Peserta didik baru,11
-20191,20232,2023,Manajemen Rekayasa,Peserta didik baru,2
-20181,20232,2023,Desain Komunikasi Visual,Peserta didik baru,1
-20211,20231,2023,Sistem Informasi,Pindahan,1
-20191,20231,2023,Matematika,Peserta didik baru,9
-20191,20231,2023,Manajemen Rekayasa,Peserta didik baru,11
-20191,20231,2023,Teknik Industri,Peserta didik baru,12
-20191,20231,2023,Sistem Informasi,Peserta didik baru,11
-20191,20231,2023,Teknik Komputer,Peserta didik baru,13
-20181,20231,2023,Matematika,Peserta didik baru,1
-20181,20231,2023,Manajemen Rekayasa,Peserta didik baru,2
-20181,20231,2023,Teknik Industri,Peserta didik baru,3
-20191,20222,2022,Desain Komunikasi Visual,Peserta didik baru,15
-20181,20222,2022,Desain Komunikasi Visual,Peserta didik baru,2
-20181,20221,2022,Teknik Industri,Peserta didik baru,10
-20181,20221,2022,Sistem Informasi,Peserta didik baru,14
-20181,20221,2022,Teknik Komputer,Peserta didik baru,5
-20181,20221,2022,Manajemen Rekayasa,Peserta didik baru,2
+register_semester_code,keluar_semester_code,nim,tahun_lulus,program_studi,jenis_daftar
+20181,20221,1811009,2022,Teknik Industri,Peserta didik baru
+20181,20221,1811012,2022,Teknik Industri,Peserta didik baru
+20181,20221,1811003,2022,Teknik Industri,Peserta didik baru
+20181,20221,1811016,2022,Teknik Industri,Peserta didik baru
+20181,20221,1811014,2022,Teknik Industri,Peserta didik baru
+20181,20221,1811001,2022,Teknik Industri,Peserta didik baru
+20181,20221,1812001,2022,Manajemen Rekayasa,Peserta didik baru
+20181,20221,1812007,2022,Manajemen Rekayasa,Peserta didik baru
+20181,20221,1811004,2022,Teknik Industri,Peserta didik baru
+20181,20221,1811008,2022,Teknik Industri,Peserta didik baru
+20181,20221,1811002,2022,Teknik Industri,Peserta didik baru
+20181,20221,1811007,2022,Teknik Industri,Peserta didik baru
+20181,20221,1822006,2022,Teknik Komputer,Peserta didik baru
+20181,20221,1822013,2022,Teknik Komputer,Peserta didik baru
+20181,20221,1821007,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1821004,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1822014,2022,Teknik Komputer,Peserta didik baru
+20181,20221,1822007,2022,Teknik Komputer,Peserta didik baru
+20181,20221,1821001,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1821003,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1821005,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1821002,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1821006,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1822012,2022,Teknik Komputer,Peserta didik baru
+20181,20221,1821010,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1821013,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1821009,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1821008,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1821014,2022,Sistem Informasi,Peserta didik baru
+20181,20221,1821015,2022,Sistem Informasi,Peserta didik baru
+20181,20231,1811005,2023,Teknik Industri,Peserta didik baru
+20191,20231,1912014,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1912005,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1911014,2023,Teknik Industri,Peserta didik baru
+20191,20231,1911016,2023,Teknik Industri,Peserta didik baru
+20191,20231,1911005,2023,Teknik Industri,Peserta didik baru
+20181,20231,1811013,2023,Teknik Industri,Peserta didik baru
+20191,20231,1912018,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1911026,2023,Teknik Industri,Peserta didik baru
+20191,20231,1911011,2023,Teknik Industri,Peserta didik baru
+20181,20231,1811011,2023,Teknik Industri,Peserta didik baru
+20181,20231,1812005,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1912007,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1911015,2023,Teknik Industri,Peserta didik baru
+20191,20231,1911034,2023,Teknik Industri,Peserta didik baru
+20191,20231,1911025,2023,Teknik Industri,Peserta didik baru
+20191,20231,1911032,2023,Teknik Industri,Peserta didik baru
+20191,20231,1911033,2023,Teknik Industri,Peserta didik baru
+20191,20231,1911022,2023,Teknik Industri,Peserta didik baru
+20181,20231,1812008,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1912027,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1912002,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1912010,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1912021,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1912016,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1912004,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1912012,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20231,1921003,2023,Sistem Informasi,Peserta didik baru
+20191,20231,1921004,2023,Sistem Informasi,Peserta didik baru
+20191,20231,1921005,2023,Sistem Informasi,Peserta didik baru
+20191,20231,1921006,2023,Sistem Informasi,Peserta didik baru
+20191,20231,1921007,2023,Sistem Informasi,Peserta didik baru
+20191,20231,1921011,2023,Sistem Informasi,Peserta didik baru
+20191,20231,1921015,2023,Sistem Informasi,Peserta didik baru
+20191,20231,1921019,2023,Sistem Informasi,Peserta didik baru
+20191,20231,1921020,2023,Sistem Informasi,Peserta didik baru
+20191,20231,1921021,2023,Sistem Informasi,Peserta didik baru
+20191,20231,1921022,2023,Sistem Informasi,Peserta didik baru
+20211,20231,2121039,2023,Sistem Informasi,Pindahan
+20191,20231,1922001,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922004,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922023,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922009,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922013,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922003,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922010,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922032,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922027,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922017,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922015,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922014,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1922011,2023,Teknik Komputer,Peserta didik baru
+20191,20231,1924013,2023,Matematika,Peserta didik baru
+20191,20231,1924011,2023,Matematika,Peserta didik baru
+20191,20231,1924009,2023,Matematika,Peserta didik baru
+20191,20231,1924007,2023,Matematika,Peserta didik baru
+20181,20231,1824001,2023,Matematika,Peserta didik baru
+20191,20231,1924014,2023,Matematika,Peserta didik baru
+20191,20231,1924003,2023,Matematika,Peserta didik baru
+20191,20231,1924010,2023,Matematika,Peserta didik baru
+20191,20231,1924008,2023,Matematika,Peserta didik baru
+20191,20231,1924006,2023,Matematika,Peserta didik baru
+20181,20221,1821011,2022,Sistem Informasi,Peserta didik baru
+20181,20222,1823011,2022,Desain Komunikasi Visual,Peserta didik baru
+20181,20222,1823020,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923002,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923003,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923004,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923011,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923017,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923024,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923029,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923032,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923038,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923041,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923050,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923053,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923054,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923057,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20222,1923059,2022,Desain Komunikasi Visual,Peserta didik baru
+20191,20231,1911012,2023,Teknik Industri,Peserta didik baru
+20201,20232,2011011,2023,Teknik Industri,Peserta didik baru
+20201,20232,2011019,2023,Teknik Industri,Peserta didik baru
+20201,20232,2012002,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2012006,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2012026,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2011039,2023,Teknik Industri,Peserta didik baru
+20201,20232,2012035,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2011041,2023,Teknik Industri,Peserta didik baru
+20201,20232,2011034,2023,Teknik Industri,Peserta didik baru
+20201,20232,2011060,2023,Teknik Industri,Peserta didik baru
+20201,20232,2011040,2023,Teknik Industri,Peserta didik baru
+20201,20232,2012037,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2012025,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2011063,2023,Teknik Industri,Peserta didik baru
+20201,20232,2012031,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2012008,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2012040,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2012036,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2012038,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20232,1912006,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2011043,2023,Teknik Industri,Peserta didik baru
+20201,20232,2011032,2023,Teknik Industri,Peserta didik baru
+20201,20232,2011038,2023,Teknik Industri,Peserta didik baru
+20201,20232,2012044,2023,Manajemen Rekayasa,Peserta didik baru
+20191,20232,1912020,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2011010,2023,Teknik Industri,Peserta didik baru
+20201,20232,2011012,2023,Teknik Industri,Peserta didik baru
+20201,20232,2011008,2023,Teknik Industri,Peserta didik baru
+20201,20232,2011024,2023,Teknik Industri,Peserta didik baru
+20201,20232,2012011,2023,Manajemen Rekayasa,Peserta didik baru
+20201,20232,2011044,2023,Teknik Industri,Peserta didik baru
+20201,20232,2021023,2023,Sistem Informasi,Peserta didik baru
+20201,20232,2021055,2023,Sistem Informasi,Peserta didik baru
+20201,20232,2021022,2023,Sistem Informasi,Peserta didik baru
+20201,20232,2021040,2023,Sistem Informasi,Peserta didik baru
+20201,20232,2021024,2023,Sistem Informasi,Peserta didik baru
+20201,20232,2021068,2023,Sistem Informasi,Peserta didik baru
+20201,20232,2021056,2023,Sistem Informasi,Peserta didik baru
+20201,20232,2021015,2023,Sistem Informasi,Peserta didik baru
+20201,20232,2022027,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022017,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022009,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022029,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022023,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022012,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022014,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022002,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022030,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022010,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022013,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022008,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2022015,2023,Teknik Komputer,Peserta didik baru
+20191,20232,1922021,2023,Teknik Komputer,Peserta didik baru
+20191,20232,1922007,2023,Teknik Komputer,Peserta didik baru
+20191,20232,1922008,2023,Teknik Komputer,Peserta didik baru
+20201,20232,2024010,2023,Matematika,Peserta didik baru
+20201,20232,2024011,2023,Matematika,Peserta didik baru
+20201,20232,2024037,2023,Matematika,Peserta didik baru
+20201,20232,2024006,2023,Matematika,Peserta didik baru
+20201,20232,2024013,2023,Matematika,Peserta didik baru
+20201,20232,2024023,2023,Matematika,Peserta didik baru
+20201,20232,2024034,2023,Matematika,Peserta didik baru
+20201,20232,2024008,2023,Matematika,Peserta didik baru
+20201,20232,2024015,2023,Matematika,Peserta didik baru
+20201,20232,2024021,2023,Matematika,Peserta didik baru
+20201,20232,2024026,2023,Matematika,Peserta didik baru
+20201,20232,2024028,2023,Matematika,Peserta didik baru
+20181,20232,1823006,2023,Desain Komunikasi Visual,Peserta didik baru
+20191,20232,1923005,2023,Desain Komunikasi Visual,Peserta didik baru
+20191,20232,1923007,2023,Desain Komunikasi Visual,Peserta didik baru
+20191,20232,1923015,2023,Desain Komunikasi Visual,Peserta didik baru
+20191,20232,1923019,2023,Desain Komunikasi Visual,Peserta didik baru
+20191,20232,1923027,2023,Desain Komunikasi Visual,Peserta didik baru
+20191,20232,1923028,2023,Desain Komunikasi Visual,Peserta didik baru
+20191,20232,1923034,2023,Desain Komunikasi Visual,Peserta didik baru
+20191,20232,1923035,2023,Desain Komunikasi Visual,Peserta didik baru
+20191,20232,1923037,2023,Desain Komunikasi Visual,Peserta didik baru
+20191,20232,1923052,2023,Desain Komunikasi Visual,Peserta didik baru
+20191,20232,1923060,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023003,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023004,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023005,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023012,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023017,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023019,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023020,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023025,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023033,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023035,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023038,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023040,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023045,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023046,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023050,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023052,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023057,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023060,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20232,2023063,2023,Desain Komunikasi Visual,Peserta didik baru
+20201,20241,2011020,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011023,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011057,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011054,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011006,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011025,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011056,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011031,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011022,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011017,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011055,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011036,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011018,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011051,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011045,2024,Teknik Industri,Peserta didik baru
+20191,20241,1911028,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011007,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011028,2024,Teknik Industri,Peserta didik baru
+20201,20241,2011027,2024,Teknik Industri,Peserta didik baru
+20201,20241,2021058,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021031,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021027,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021046,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021033,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021007,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021035,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021013,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021025,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021075,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021049,2024,Sistem Informasi,Peserta didik baru
+20181,20241,1821012,2024,Sistem Informasi,Peserta didik baru
+20191,20241,1921014,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021003,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021017,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021076,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021038,2024,Sistem Informasi,Peserta didik baru
+20191,20241,1921023,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2021018,2024,Sistem Informasi,Peserta didik baru
+20201,20241,2024002,2024,Matematika,Peserta didik baru
+20201,20241,2024032,2024,Matematika,Peserta didik baru
+20201,20241,2024035,2024,Matematika,Peserta didik baru
+20201,20241,2024024,2024,Matematika,Peserta didik baru
+20191,20241,1924001,2024,Matematika,Peserta didik baru
+20191,20241,1924015,2024,Matematika,Peserta didik baru
+20201,20241,2023065,2024,Desain Komunikasi Visual,Peserta didik baru
+20191,20241,1923030,2024,Desain Komunikasi Visual,Peserta didik baru
+20201,20241,2021071,2024,Sistem Informasi,Peserta didik baru
+20232,20241,2321054,2024,Sistem Informasi,Pindahan
+20181,20242,1811006,2024,Teknik Industri,Peserta didik baru
+20211,20242,2112032,2024,Manajemen Rekayasa,Peserta didik baru
+20201,20242,2012033,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2111001,2024,Teknik Industri,Peserta didik baru
+20211,20242,2112023,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112025,2024,Manajemen Rekayasa,Peserta didik baru
+20221,20242,2212050,2024,Manajemen Rekayasa,Pindahan
+20191,20242,1922016,2024,Teknik Komputer,Peserta didik baru
+20201,20242,2021006,2024,Sistem Informasi,Peserta didik baru
+20201,20242,2021019,2024,Sistem Informasi,Peserta didik baru
+20201,20242,2023027,2024,Desain Komunikasi Visual,Peserta didik baru
+20201,20242,2023031,2024,Desain Komunikasi Visual,Peserta didik baru
+20201,20242,2023043,2024,Desain Komunikasi Visual,Peserta didik baru
+20201,20242,2021052,2024,Sistem Informasi,Peserta didik baru
+20201,20242,2023064,2024,Desain Komunikasi Visual,Peserta didik baru
+20201,20242,2021066,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2123001,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2124001,2024,Matematika,Peserta didik baru
+20211,20242,2123003,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2121002,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2123004,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123005,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123006,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123007,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2121006,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2122003,2024,Teknik Komputer,Peserta didik baru
+20211,20242,2123010,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123013,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2121007,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2123015,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2121008,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2123017,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123018,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123021,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2124004,2024,Matematika,Peserta didik baru
+20211,20242,2124005,2024,Matematika,Peserta didik baru
+20211,20242,2121015,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2121017,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2121018,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2123028,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123029,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123030,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2121021,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2123032,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2124010,2024,Matematika,Peserta didik baru
+20211,20242,2123037,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2122012,2024,Teknik Komputer,Peserta didik baru
+20211,20242,2124011,2024,Matematika,Peserta didik baru
+20211,20242,2122013,2024,Teknik Komputer,Peserta didik baru
+20211,20242,2122015,2024,Teknik Komputer,Peserta didik baru
+20211,20242,2122017,2024,Teknik Komputer,Peserta didik baru
+20211,20242,2122018,2024,Teknik Komputer,Peserta didik baru
+20211,20242,2123045,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123046,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2124012,2024,Matematika,Peserta didik baru
+20211,20242,2122019,2024,Teknik Komputer,Peserta didik baru
+20211,20242,2121031,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2123047,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2121033,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2124014,2024,Matematika,Peserta didik baru
+20211,20242,2121035,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2124017,2024,Matematika,Peserta didik baru
+20211,20242,2123049,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2121037,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2123051,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123052,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2121040,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2121042,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2124018,2024,Matematika,Peserta didik baru
+20211,20242,2122021,2024,Teknik Komputer,Peserta didik baru
+20211,20242,2123054,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2121045,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2123058,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2121046,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2123059,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123060,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2122024,2024,Teknik Komputer,Peserta didik baru
+20211,20242,2123062,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123063,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2123066,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2124019,2024,Matematika,Peserta didik baru
+20211,20242,2123069,2024,Desain Komunikasi Visual,Peserta didik baru
+20211,20242,2121051,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2121052,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2121053,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2124021,2024,Matematika,Peserta didik baru
+20211,20242,2124022,2024,Matematika,Peserta didik baru
+20211,20242,2122030,2024,Teknik Komputer,Peserta didik baru
+20211,20242,2121058,2024,Sistem Informasi,Peserta didik baru
+20211,20242,2124023,2024,Matematika,Peserta didik baru
+20211,20242,2122033,2024,Teknik Komputer,Peserta didik baru
+20211,20242,2122031,2024,Teknik Komputer,Peserta didik baru
+20181,20242,1811015,2024,Teknik Industri,Peserta didik baru
+20201,20242,2011014,2024,Teknik Industri,Peserta didik baru
+20201,20242,2012030,2024,Manajemen Rekayasa,Peserta didik baru
+20201,20242,2011059,2024,Teknik Industri,Peserta didik baru
+20211,20242,2112001,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112004,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112007,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112008,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112013,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112015,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112016,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112019,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112021,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112027,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112031,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2112034,2024,Manajemen Rekayasa,Peserta didik baru
+20211,20242,2111067,2024,Teknik Industri,Peserta didik baru
+20241,20242,2411069,2024,Teknik Industri,Pindahan
+20211,20242,2112037,2024,Manajemen Rekayasa,Peserta didik baru
+20191,20251,1921010,2025,Sistem Informasi,Peserta didik baru
+20191,20251,1922028,2025,Teknik Komputer,Peserta didik baru
+20201,20251,2022001,2025,Teknik Komputer,Peserta didik baru
+20201,20251,2021009,2025,Sistem Informasi,Peserta didik baru
+20201,20251,2021029,2025,Sistem Informasi,Peserta didik baru
+20201,20251,2021030,2025,Sistem Informasi,Peserta didik baru
+20201,20251,2024017,2025,Matematika,Peserta didik baru
+20201,20251,2021057,2025,Sistem Informasi,Peserta didik baru
+20201,20251,2024022,2025,Matematika,Peserta didik baru
+20201,20251,2021074,2025,Sistem Informasi,Peserta didik baru
+20201,20251,2024038,2025,Matematika,Peserta didik baru
+20211,20251,2121003,2025,Sistem Informasi,Peserta didik baru
+20211,20251,2121004,2025,Sistem Informasi,Peserta didik baru
+20211,20251,2121005,2025,Sistem Informasi,Peserta didik baru
+20211,20251,2124003,2025,Matematika,Peserta didik baru
+20211,20251,2121016,2025,Sistem Informasi,Peserta didik baru
+20211,20251,2124008,2025,Matematika,Peserta didik baru
+20211,20251,2121024,2025,Sistem Informasi,Peserta didik baru
+20211,20251,2121030,2025,Sistem Informasi,Peserta didik baru
+20211,20251,2124016,2025,Matematika,Peserta didik baru
+20211,20251,2122026,2025,Teknik Komputer,Peserta didik baru
+20211,20251,2121047,2025,Sistem Informasi,Peserta didik baru
+20211,20251,2121054,2025,Sistem Informasi,Peserta didik baru
+20211,20251,2121059,2025,Sistem Informasi,Peserta didik baru
+20211,20251,2121060,2025,Sistem Informasi,Pindahan
+20222,20251,2223105,2025,Desain Komunikasi Visual,Pindahan
+20191,20251,1923013,2025,Desain Komunikasi Visual,Peserta didik baru
+20191,20251,1912003,2025,Manajemen Rekayasa,Peserta didik baru
+20191,20251,1912009,2025,Manajemen Rekayasa,Peserta didik baru
+20191,20251,1912023,2025,Manajemen Rekayasa,Peserta didik baru
+20191,20251,1911035,2025,Teknik Industri,Peserta didik baru
+20201,20251,2012001,2025,Manajemen Rekayasa,Peserta didik baru
+20201,20251,2012043,2025,Manajemen Rekayasa,Peserta didik baru
+20211,20251,2111002,2025,Teknik Industri,Peserta didik baru
+20211,20251,2111009,2025,Teknik Industri,Peserta didik baru
+20211,20251,2111014,2025,Teknik Industri,Peserta didik baru
+20211,20251,2111025,2025,Teknik Industri,Peserta didik baru
+20211,20251,2112014,2025,Manajemen Rekayasa,Peserta didik baru
+20211,20251,2111030,2025,Teknik Industri,Peserta didik baru
+20211,20251,2111034,2025,Teknik Industri,Peserta didik baru
+20211,20251,2111035,2025,Teknik Industri,Peserta didik baru
+20211,20251,2111036,2025,Teknik Industri,Peserta didik baru
+20211,20251,2112020,2025,Manajemen Rekayasa,Peserta didik baru
+20211,20251,2112024,2025,Manajemen Rekayasa,Peserta didik baru
+20211,20251,2111054,2025,Teknik Industri,Peserta didik baru
+20211,20251,2112028,2025,Manajemen Rekayasa,Peserta didik baru
+20211,20251,2112029,2025,Manajemen Rekayasa,Peserta didik baru
+20211,20251,2111058,2025,Teknik Industri,Peserta didik baru
+20211,20251,2111059,2025,Teknik Industri,Peserta didik baru
+20211,20251,2111064,2025,Teknik Industri,Peserta didik baru
+20211,20251,2111066,2025,Teknik Industri,Peserta didik baru
+20191,20251,1923048,2025,Desain Komunikasi Visual,Peserta didik baru
+20211,20251,2123024,2025,Desain Komunikasi Visual,Peserta didik baru
+20211,20251,2123025,2025,Desain Komunikasi Visual,Peserta didik baru
+20211,20251,2123027,2025,Desain Komunikasi Visual,Peserta didik baru
+20211,20251,2123042,2025,Desain Komunikasi Visual,Peserta didik baru
+20211,20251,2123043,2025,Desain Komunikasi Visual,Peserta didik baru
+20211,20251,2123053,2025,Desain Komunikasi Visual,Peserta didik baru
