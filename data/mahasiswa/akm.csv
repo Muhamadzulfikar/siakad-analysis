@@ -1,4 +1,3523 @@
 semester_code,year_of_study,nim,program_study,status
+20181,2018,1822006,Teknik Komputer,Aktif
+20181,2018,1823010,Desain Komunikasi Visual,Aktif
+20181,2018,1823018,Desain Komunikasi Visual,Aktif
+20181,2018,1823024,Desain Komunikasi Visual,Aktif
+20181,2018,1823021,Desain Komunikasi Visual,Aktif
+20181,2018,1823027,Desain Komunikasi Visual,Aktif
+20181,2018,1823003,Desain Komunikasi Visual,Aktif
+20181,2018,1811009,Teknik Industri,Aktif
+20181,2018,1823026,Desain Komunikasi Visual,Aktif
+20181,2018,1823002,Desain Komunikasi Visual,Aktif
+20181,2018,1811011,Teknik Industri,Aktif
+20181,2018,1823004,Desain Komunikasi Visual,Aktif
+20181,2018,1811012,Teknik Industri,Aktif
+20181,2018,1823020,Desain Komunikasi Visual,Aktif
+20181,2018,1823022,Desain Komunikasi Visual,Aktif
+20181,2018,1823009,Desain Komunikasi Visual,Aktif
+20181,2018,1823011,Desain Komunikasi Visual,Aktif
+20181,2018,1811003,Teknik Industri,Aktif
+20181,2018,1811017,Teknik Industri,Aktif
+20181,2018,1811006,Teknik Industri,Aktif
+20181,2018,1823019,Desain Komunikasi Visual,Aktif
+20181,2018,1823001,Desain Komunikasi Visual,Aktif
+20181,2018,1823016,Desain Komunikasi Visual,Aktif
+20181,2018,1822013,Teknik Komputer,Aktif
+20181,2018,1823007,Desain Komunikasi Visual,Aktif
+20181,2018,1823013,Desain Komunikasi Visual,Aktif
+20181,2018,1823008,Desain Komunikasi Visual,Aktif
+20181,2018,1823005,Desain Komunikasi Visual,Aktif
+20181,2018,1823025,Desain Komunikasi Visual,Aktif
+20181,2018,1823012,Desain Komunikasi Visual,Aktif
+20181,2018,1811010,Teknik Industri,Aktif
+20181,2018,1823014,Desain Komunikasi Visual,Aktif
+20181,2018,1823006,Desain Komunikasi Visual,Aktif
+20181,2018,1823017,Desain Komunikasi Visual,Aktif
+20181,2018,1823028,Desain Komunikasi Visual,Aktif
+20181,2018,1811016,Teknik Industri,Aktif
+20181,2018,1823015,Desain Komunikasi Visual,Aktif
+20181,2018,1811014,Teknik Industri,Aktif
+20181,2018,1821007,Sistem Informasi,Aktif
+20181,2018,1821012,Sistem Informasi,Aktif
+20181,2018,1824002,Matematika,Aktif
+20181,2018,1822001,Teknik Komputer,Aktif
+20181,2018,1812004,Manajemen Rekayasa,Aktif
+20181,2018,1821004,Sistem Informasi,Aktif
+20181,2018,1811001,Teknik Industri,Aktif
+20181,2018,1811015,Teknik Industri,Aktif
+20181,2018,1811013,Teknik Industri,Aktif
+20181,2018,1824001,Matematika,Aktif
+20181,2018,1812001,Manajemen Rekayasa,Aktif
+20181,2018,1822014,Teknik Komputer,Aktif
+20181,2018,1812002,Manajemen Rekayasa,Aktif
+20181,2018,1812007,Manajemen Rekayasa,Aktif
+20181,2018,1811018,Teknik Industri,Aktif
+20181,2018,1822011,Teknik Komputer,Aktif
+20181,2018,1811004,Teknik Industri,Aktif
+20181,2018,1822007,Teknik Komputer,Aktif
+20181,2018,1812005,Manajemen Rekayasa,Aktif
+20181,2018,1821001,Sistem Informasi,Aktif
+20181,2018,1821003,Sistem Informasi,Aktif
+20181,2018,1811005,Teknik Industri,Aktif
+20181,2018,1822002,Teknik Komputer,Aktif
+20181,2018,1822008,Teknik Komputer,Aktif
+20181,2018,1821005,Sistem Informasi,Aktif
+20181,2018,1822003,Teknik Komputer,Aktif
+20181,2018,1812008,Manajemen Rekayasa,Aktif
+20181,2018,1821002,Sistem Informasi,Aktif
+20181,2018,1821006,Sistem Informasi,Aktif
+20181,2018,1811008,Teknik Industri,Aktif
+20181,2018,1822004,Teknik Komputer,Aktif
+20181,2018,1811002,Teknik Industri,Aktif
+20181,2018,1811007,Teknik Industri,Aktif
+20181,2018,1822012,Teknik Komputer,Aktif
+20181,2018,1821010,Sistem Informasi,Aktif
+20181,2018,1821013,Sistem Informasi,Aktif
+20181,2018,1821009,Sistem Informasi,Aktif
+20181,2018,1821008,Sistem Informasi,Aktif
+20181,2018,1821014,Sistem Informasi,Aktif
+20181,2018,1821011,Sistem Informasi,Aktif
+20181,2018,1821015,Sistem Informasi,Aktif
+20182,2018,1822006,Teknik Komputer,Aktif
+20182,2018,1823010,Desain Komunikasi Visual,Aktif
+20182,2018,1823018,Desain Komunikasi Visual,Aktif
+20182,2018,1823024,Desain Komunikasi Visual,Aktif
+20182,2018,1823021,Desain Komunikasi Visual,Aktif
+20182,2018,1823027,Desain Komunikasi Visual,Aktif
+20182,2018,1823003,Desain Komunikasi Visual,Aktif
+20182,2018,1811009,Teknik Industri,Aktif
+20182,2018,1823026,Desain Komunikasi Visual,Aktif
+20182,2018,1823002,Desain Komunikasi Visual,nonaktif
+20182,2018,1811011,Teknik Industri,Aktif
+20182,2018,1823004,Desain Komunikasi Visual,Aktif
+20182,2018,1811012,Teknik Industri,Aktif
+20182,2018,1823020,Desain Komunikasi Visual,Aktif
+20182,2018,1823022,Desain Komunikasi Visual,Aktif
+20182,2018,1823009,Desain Komunikasi Visual,Aktif
+20182,2018,1823011,Desain Komunikasi Visual,Aktif
+20182,2018,1811003,Teknik Industri,Aktif
+20182,2018,1811017,Teknik Industri,Aktif
+20182,2018,1811006,Teknik Industri,Aktif
+20182,2018,1823019,Desain Komunikasi Visual,Aktif
+20182,2018,1823001,Desain Komunikasi Visual,Aktif
+20182,2018,1823016,Desain Komunikasi Visual,Aktif
+20182,2018,1822013,Teknik Komputer,Aktif
+20182,2018,1823007,Desain Komunikasi Visual,Aktif
+20182,2018,1823013,Desain Komunikasi Visual,Aktif
+20182,2018,1823008,Desain Komunikasi Visual,Aktif
+20182,2018,1823005,Desain Komunikasi Visual,Aktif
+20182,2018,1823025,Desain Komunikasi Visual,Aktif
+20182,2018,1823012,Desain Komunikasi Visual,Aktif
+20182,2018,1811010,Teknik Industri,nonaktif
+20182,2018,1823014,Desain Komunikasi Visual,Aktif
+20182,2018,1823006,Desain Komunikasi Visual,Aktif
+20182,2018,1823017,Desain Komunikasi Visual,Aktif
+20182,2018,1823028,Desain Komunikasi Visual,Aktif
+20182,2018,1811016,Teknik Industri,Aktif
+20182,2018,1823015,Desain Komunikasi Visual,Aktif
+20182,2018,1811014,Teknik Industri,Aktif
+20182,2018,1821007,Sistem Informasi,Aktif
+20182,2018,1821012,Sistem Informasi,Aktif
+20182,2018,1824002,Matematika,Aktif
+20182,2018,1822001,Teknik Komputer,Aktif
+20182,2018,1812004,Manajemen Rekayasa,Aktif
+20182,2018,1821004,Sistem Informasi,Aktif
+20182,2018,1811001,Teknik Industri,Aktif
+20182,2018,1811015,Teknik Industri,Aktif
+20182,2018,1811013,Teknik Industri,Aktif
+20182,2018,1824001,Matematika,nonaktif
+20182,2018,1812001,Manajemen Rekayasa,Aktif
+20182,2018,1822014,Teknik Komputer,Aktif
+20182,2018,1812002,Manajemen Rekayasa,Aktif
+20182,2018,1812007,Manajemen Rekayasa,Aktif
+20182,2018,1811018,Teknik Industri,nonaktif
+20182,2018,1822011,Teknik Komputer,Aktif
+20182,2018,1811004,Teknik Industri,Aktif
+20182,2018,1822007,Teknik Komputer,Aktif
+20182,2018,1812005,Manajemen Rekayasa,Aktif
+20182,2018,1821001,Sistem Informasi,Aktif
+20182,2018,1821003,Sistem Informasi,Aktif
+20182,2018,1811005,Teknik Industri,Aktif
+20182,2018,1822002,Teknik Komputer,Aktif
+20182,2018,1822008,Teknik Komputer,Aktif
+20182,2018,1821005,Sistem Informasi,Aktif
+20182,2018,1822003,Teknik Komputer,Aktif
+20182,2018,1812008,Manajemen Rekayasa,Aktif
+20182,2018,1821002,Sistem Informasi,Aktif
+20182,2018,1821006,Sistem Informasi,Aktif
+20182,2018,1811008,Teknik Industri,Aktif
+20182,2018,1822004,Teknik Komputer,Aktif
+20182,2018,1811002,Teknik Industri,Aktif
+20182,2018,1811007,Teknik Industri,Aktif
+20182,2018,1822012,Teknik Komputer,Aktif
+20182,2018,1821010,Sistem Informasi,Aktif
+20182,2018,1821013,Sistem Informasi,Aktif
+20182,2018,1821009,Sistem Informasi,Aktif
+20182,2018,1821008,Sistem Informasi,Aktif
+20182,2018,1821014,Sistem Informasi,Aktif
+20182,2018,1821011,Sistem Informasi,Aktif
+20182,2018,1821015,Sistem Informasi,Aktif
+20191,2019,1822006,Teknik Komputer,Aktif
+20191,2019,1823010,Desain Komunikasi Visual,Aktif
+20191,2019,1823018,Desain Komunikasi Visual,Aktif
+20191,2019,1823024,Desain Komunikasi Visual,Aktif
+20191,2019,1823021,Desain Komunikasi Visual,Aktif
+20191,2019,1823027,Desain Komunikasi Visual,Aktif
+20191,2019,1823003,Desain Komunikasi Visual,Aktif
+20191,2019,1811009,Teknik Industri,Aktif
+20191,2019,1823026,Desain Komunikasi Visual,Aktif
+20191,2019,1823002,Desain Komunikasi Visual,nonaktif
+20191,2019,1811011,Teknik Industri,Aktif
+20191,2019,1823004,Desain Komunikasi Visual,Aktif
+20191,2019,1811012,Teknik Industri,Aktif
+20191,2019,1823020,Desain Komunikasi Visual,Aktif
+20191,2019,1823022,Desain Komunikasi Visual,Aktif
+20191,2019,1823009,Desain Komunikasi Visual,Aktif
+20191,2019,1823011,Desain Komunikasi Visual,Aktif
+20191,2019,1811003,Teknik Industri,Aktif
+20191,2019,1811017,Teknik Industri,nonaktif
+20191,2019,1811006,Teknik Industri,Aktif
+20191,2019,1823019,Desain Komunikasi Visual,Aktif
+20191,2019,1823001,Desain Komunikasi Visual,Aktif
+20191,2019,1823016,Desain Komunikasi Visual,Aktif
+20191,2019,1822013,Teknik Komputer,Aktif
+20191,2019,1823007,Desain Komunikasi Visual,Aktif
+20191,2019,1823013,Desain Komunikasi Visual,nonaktif
+20191,2019,1823008,Desain Komunikasi Visual,Aktif
+20191,2019,1823005,Desain Komunikasi Visual,Aktif
+20191,2019,1823025,Desain Komunikasi Visual,Aktif
+20191,2019,1823012,Desain Komunikasi Visual,Aktif
+20191,2019,1811010,Teknik Industri,nonaktif
+20191,2019,1823014,Desain Komunikasi Visual,Aktif
+20191,2019,1823006,Desain Komunikasi Visual,Aktif
+20191,2019,1823017,Desain Komunikasi Visual,Aktif
+20191,2019,1823028,Desain Komunikasi Visual,nonaktif
+20191,2019,1811016,Teknik Industri,Aktif
+20191,2019,1823015,Desain Komunikasi Visual,Aktif
+20191,2019,1811014,Teknik Industri,Aktif
+20191,2019,1821007,Sistem Informasi,Aktif
+20191,2019,1821012,Sistem Informasi,nonaktif
+20191,2019,1824002,Matematika,Aktif
+20191,2019,1822001,Teknik Komputer,Aktif
+20191,2019,1812004,Manajemen Rekayasa,nonaktif
+20191,2019,1821004,Sistem Informasi,Aktif
+20191,2019,1811001,Teknik Industri,Aktif
+20191,2019,1811015,Teknik Industri,Aktif
+20191,2019,1811013,Teknik Industri,Aktif
+20191,2019,1824001,Matematika,Aktif
+20191,2019,1812001,Manajemen Rekayasa,Aktif
+20191,2019,1822014,Teknik Komputer,Aktif
+20191,2019,1812002,Manajemen Rekayasa,Aktif
+20191,2019,1812007,Manajemen Rekayasa,Aktif
+20191,2019,1811018,Teknik Industri,nonaktif
+20191,2019,1822011,Teknik Komputer,Aktif
+20191,2019,1811004,Teknik Industri,Aktif
+20191,2019,1822007,Teknik Komputer,Aktif
+20191,2019,1812005,Manajemen Rekayasa,Aktif
+20191,2019,1821001,Sistem Informasi,Aktif
+20191,2019,1821003,Sistem Informasi,Aktif
+20191,2019,1811005,Teknik Industri,Aktif
+20191,2019,1822002,Teknik Komputer,Aktif
+20191,2019,1822008,Teknik Komputer,nonaktif
+20191,2019,1821005,Sistem Informasi,Aktif
+20191,2019,1822003,Teknik Komputer,Aktif
+20191,2019,1812008,Manajemen Rekayasa,Aktif
+20191,2019,1821002,Sistem Informasi,Aktif
+20191,2019,1821006,Sistem Informasi,Aktif
+20191,2019,1811008,Teknik Industri,Aktif
+20191,2019,1822004,Teknik Komputer,Aktif
+20191,2019,1811002,Teknik Industri,Aktif
+20191,2019,1811007,Teknik Industri,Aktif
+20191,2019,1822012,Teknik Komputer,Aktif
+20191,2019,1821010,Sistem Informasi,Aktif
+20191,2019,1821013,Sistem Informasi,Aktif
+20191,2019,1821009,Sistem Informasi,Aktif
+20191,2019,1821008,Sistem Informasi,Aktif
+20191,2019,1821014,Sistem Informasi,Aktif
+20191,2019,1821011,Sistem Informasi,Aktif
+20191,2019,1821015,Sistem Informasi,Aktif
+20191,2019,1921001,Sistem Informasi,Aktif
+20191,2019,1912029,Manajemen Rekayasa,Aktif
+20191,2019,1924001,Matematika,Aktif
+20191,2019,1924002,Matematika,Aktif
+20191,2019,1922001,Teknik Komputer,Aktif
+20191,2019,1922002,Teknik Komputer,Aktif
+20191,2019,1922003,Teknik Komputer,Aktif
+20191,2019,1922004,Teknik Komputer,Aktif
+20191,2019,1922005,Teknik Komputer,Aktif
+20191,2019,1911002,Teknik Industri,Aktif
+20191,2019,1922006,Teknik Komputer,Aktif
+20191,2019,1922007,Teknik Komputer,Aktif
+20191,2019,1911003,Teknik Industri,Aktif
+20191,2019,1911004,Teknik Industri,Aktif
+20191,2019,1923001,Desain Komunikasi Visual,Aktif
+20191,2019,1923002,Desain Komunikasi Visual,Aktif
+20191,2019,1923003,Desain Komunikasi Visual,Aktif
+20191,2019,1923004,Desain Komunikasi Visual,Aktif
+20191,2019,1922008,Teknik Komputer,Aktif
+20191,2019,1923005,Desain Komunikasi Visual,Aktif
+20191,2019,1923006,Desain Komunikasi Visual,Aktif
+20191,2019,1923007,Desain Komunikasi Visual,Aktif
+20191,2019,1923008,Desain Komunikasi Visual,Aktif
+20191,2019,1912001,Manajemen Rekayasa,Aktif
+20191,2019,1912002,Manajemen Rekayasa,Aktif
+20191,2019,1912003,Manajemen Rekayasa,Aktif
+20191,2019,1912004,Manajemen Rekayasa,Aktif
+20191,2019,1912005,Manajemen Rekayasa,Aktif
+20191,2019,1912006,Manajemen Rekayasa,Aktif
+20191,2019,1912007,Manajemen Rekayasa,Aktif
+20191,2019,1924003,Matematika,Aktif
+20191,2019,1924004,Matematika,Aktif
+20191,2019,1924005,Matematika,Aktif
+20191,2019,1922009,Teknik Komputer,Aktif
+20191,2019,1921002,Sistem Informasi,Aktif
+20191,2019,1921003,Sistem Informasi,Aktif
+20191,2019,1921004,Sistem Informasi,Aktif
+20191,2019,1921005,Sistem Informasi,Aktif
+20191,2019,1912008,Manajemen Rekayasa,Aktif
+20191,2019,1922010,Teknik Komputer,Aktif
+20191,2019,1924006,Matematika,Aktif
+20191,2019,1924007,Matematika,Aktif
+20191,2019,1923009,Desain Komunikasi Visual,Aktif
+20191,2019,1923010,Desain Komunikasi Visual,Aktif
+20191,2019,1923011,Desain Komunikasi Visual,Aktif
+20191,2019,1912009,Manajemen Rekayasa,Aktif
+20191,2019,1912010,Manajemen Rekayasa,Aktif
+20191,2019,1923012,Desain Komunikasi Visual,Aktif
+20191,2019,1923013,Desain Komunikasi Visual,Aktif
+20191,2019,1921006,Sistem Informasi,Aktif
+20191,2019,1911005,Teknik Industri,Aktif
+20191,2019,1911006,Teknik Industri,Aktif
+20191,2019,1911007,Teknik Industri,Aktif
+20191,2019,1911008,Teknik Industri,Aktif
+20191,2019,1911009,Teknik Industri,Aktif
+20191,2019,1923014,Desain Komunikasi Visual,Aktif
+20191,2019,1922011,Teknik Komputer,Aktif
+20191,2019,1922012,Teknik Komputer,Aktif
+20191,2019,1911010,Teknik Industri,Aktif
+20191,2019,1912011,Manajemen Rekayasa,Aktif
+20191,2019,1911011,Teknik Industri,Aktif
+20191,2019,1911012,Teknik Industri,Aktif
+20191,2019,1911013,Teknik Industri,Aktif
+20191,2019,1911014,Teknik Industri,Aktif
+20191,2019,1912012,Manajemen Rekayasa,Aktif
+20191,2019,1923015,Desain Komunikasi Visual,Aktif
+20191,2019,1923016,Desain Komunikasi Visual,Aktif
+20191,2019,1923017,Desain Komunikasi Visual,Aktif
+20191,2019,1911015,Teknik Industri,Aktif
+20191,2019,1912013,Manajemen Rekayasa,Aktif
+20191,2019,1921007,Sistem Informasi,Aktif
+20191,2019,1921008,Sistem Informasi,Aktif
+20191,2019,1923018,Desain Komunikasi Visual,Aktif
+20191,2019,1924008,Matematika,Aktif
+20191,2019,1924009,Matematika,Aktif
+20191,2019,1921009,Sistem Informasi,Aktif
+20191,2019,1912014,Manajemen Rekayasa,Aktif
+20191,2019,1912015,Manajemen Rekayasa,Aktif
+20191,2019,1912016,Manajemen Rekayasa,Aktif
+20191,2019,1923019,Desain Komunikasi Visual,Aktif
+20191,2019,1923020,Desain Komunikasi Visual,Aktif
+20191,2019,1923021,Desain Komunikasi Visual,Aktif
+20191,2019,1922013,Teknik Komputer,Aktif
+20191,2019,1912017,Manajemen Rekayasa,Aktif
+20191,2019,1922014,Teknik Komputer,Aktif
+20191,2019,1922015,Teknik Komputer,Aktif
+20191,2019,1911016,Teknik Industri,Aktif
+20191,2019,1922016,Teknik Komputer,Aktif
+20191,2019,1922017,Teknik Komputer,Aktif
+20191,2019,1921010,Sistem Informasi,Aktif
+20191,2019,1911017,Teknik Industri,Aktif
+20191,2019,1911018,Teknik Industri,Aktif
+20191,2019,1911019,Teknik Industri,Aktif
+20191,2019,1924010,Matematika,Aktif
+20191,2019,1912018,Manajemen Rekayasa,Aktif
+20191,2019,1923022,Desain Komunikasi Visual,Aktif
+20191,2019,1923023,Desain Komunikasi Visual,Aktif
+20191,2019,1921011,Sistem Informasi,Aktif
+20191,2019,1923024,Desain Komunikasi Visual,Aktif
+20191,2019,1923025,Desain Komunikasi Visual,Aktif
+20191,2019,1922018,Teknik Komputer,Aktif
+20191,2019,1924011,Matematika,Aktif
+20191,2019,1922019,Teknik Komputer,Aktif
+20191,2019,1922020,Teknik Komputer,Aktif
+20191,2019,1922021,Teknik Komputer,Aktif
+20191,2019,1912019,Manajemen Rekayasa,Aktif
+20191,2019,1922022,Teknik Komputer,Aktif
+20191,2019,1921012,Sistem Informasi,Aktif
+20191,2019,1911020,Teknik Industri,Aktif
+20191,2019,1911021,Teknik Industri,Aktif
+20191,2019,1911022,Teknik Industri,Aktif
+20191,2019,1911023,Teknik Industri,nonaktif
+20191,2019,1911024,Teknik Industri,Aktif
+20191,2019,1911025,Teknik Industri,Aktif
+20191,2019,1911026,Teknik Industri,Aktif
+20191,2019,1911027,Teknik Industri,Aktif
+20191,2019,1911028,Teknik Industri,Aktif
+20191,2019,1911029,Teknik Industri,Aktif
+20191,2019,1911030,Teknik Industri,Aktif
+20191,2019,1911031,Teknik Industri,Aktif
+20191,2019,1911032,Teknik Industri,Aktif
+20191,2019,1911033,Teknik Industri,Aktif
+20191,2019,1923026,Desain Komunikasi Visual,Aktif
+20191,2019,1922023,Teknik Komputer,Aktif
+20191,2019,1923027,Desain Komunikasi Visual,Aktif
+20191,2019,1923028,Desain Komunikasi Visual,Aktif
+20191,2019,1923029,Desain Komunikasi Visual,Aktif
+20191,2019,1923030,Desain Komunikasi Visual,Aktif
+20191,2019,1923031,Desain Komunikasi Visual,Aktif
+20191,2019,1912020,Manajemen Rekayasa,Aktif
+20191,2019,1912021,Manajemen Rekayasa,Aktif
+20191,2019,1912022,Manajemen Rekayasa,Aktif
+20191,2019,1912023,Manajemen Rekayasa,Aktif
+20191,2019,1912024,Manajemen Rekayasa,Aktif
+20191,2019,1921013,Sistem Informasi,Aktif
+20191,2019,1921014,Sistem Informasi,Aktif
+20191,2019,1921015,Sistem Informasi,Aktif
+20191,2019,1921016,Sistem Informasi,Aktif
+20191,2019,1921017,Sistem Informasi,Aktif
+20191,2019,1921018,Sistem Informasi,Aktif
+20191,2019,1921019,Sistem Informasi,Aktif
+20191,2019,1921020,Sistem Informasi,Aktif
+20191,2019,1912025,Manajemen Rekayasa,Aktif
+20191,2019,1923032,Desain Komunikasi Visual,Aktif
+20191,2019,1921021,Sistem Informasi,Aktif
+20191,2019,1924012,Matematika,Aktif
+20191,2019,1924013,Matematika,Aktif
+20191,2019,1924014,Matematika,Aktif
+20191,2019,1924015,Matematika,Aktif
+20191,2019,1911037,Teknik Industri,Aktif
+20191,2019,1922025,Teknik Komputer,Aktif
+20191,2019,1922026,Teknik Komputer,Aktif
+20191,2019,1922027,Teknik Komputer,Aktif
+20191,2019,1922028,Teknik Komputer,Aktif
+20191,2019,1923061,Desain Komunikasi Visual,Aktif
+20191,2019,1922030,Teknik Komputer,Aktif
+20191,2019,1911034,Teknik Industri,Aktif
+20191,2019,1911035,Teknik Industri,Aktif
+20191,2019,1923033,Desain Komunikasi Visual,Aktif
+20191,2019,1923034,Desain Komunikasi Visual,Aktif
+20191,2019,1921022,Sistem Informasi,Aktif
+20191,2019,1923035,Desain Komunikasi Visual,Aktif
+20191,2019,1923036,Desain Komunikasi Visual,Aktif
+20191,2019,1923037,Desain Komunikasi Visual,Aktif
+20191,2019,1923038,Desain Komunikasi Visual,Aktif
+20191,2019,1923039,Desain Komunikasi Visual,Aktif
+20191,2019,1923040,Desain Komunikasi Visual,Aktif
+20191,2019,1923041,Desain Komunikasi Visual,Aktif
+20191,2019,1923042,Desain Komunikasi Visual,Aktif
+20191,2019,1923043,Desain Komunikasi Visual,Aktif
+20191,2019,1923044,Desain Komunikasi Visual,Aktif
+20191,2019,1923045,Desain Komunikasi Visual,Aktif
+20191,2019,1923046,Desain Komunikasi Visual,Aktif
+20191,2019,1923047,Desain Komunikasi Visual,Aktif
+20191,2019,1923048,Desain Komunikasi Visual,Aktif
+20191,2019,1923049,Desain Komunikasi Visual,Aktif
+20191,2019,1923050,Desain Komunikasi Visual,Aktif
+20191,2019,1923051,Desain Komunikasi Visual,Aktif
+20191,2019,1923052,Desain Komunikasi Visual,Aktif
+20191,2019,1923053,Desain Komunikasi Visual,Aktif
+20191,2019,1923054,Desain Komunikasi Visual,Aktif
+20191,2019,1923055,Desain Komunikasi Visual,Aktif
+20191,2019,1923056,Desain Komunikasi Visual,Aktif
+20191,2019,1923057,Desain Komunikasi Visual,Aktif
+20191,2019,1923058,Desain Komunikasi Visual,Aktif
+20191,2019,1923059,Desain Komunikasi Visual,Aktif
+20191,2019,1912027,Manajemen Rekayasa,Aktif
+20191,2019,1912028,Manajemen Rekayasa,Aktif
+20191,2019,1921023,Sistem Informasi,Aktif
+20191,2019,1911036,Teknik Industri,Aktif
+20191,2019,1923060,Desain Komunikasi Visual,Aktif
+20191,2019,1922031,Teknik Komputer,Aktif
+20191,2019,1922032,Teknik Komputer,Aktif
+20191,2019,1911038,Teknik Industri,Aktif
+20191,2019,1911039,Teknik Industri,Aktif
+20191,2019,1922033,Teknik Komputer,Aktif
+20192,2019,1822006,Teknik Komputer,Aktif
+20192,2019,1823010,Desain Komunikasi Visual,nonaktif
+20192,2019,1823018,Desain Komunikasi Visual,Aktif
+20192,2019,1823024,Desain Komunikasi Visual,Aktif
+20192,2019,1823021,Desain Komunikasi Visual,Aktif
+20192,2019,1823027,Desain Komunikasi Visual,Aktif
+20192,2019,1823003,Desain Komunikasi Visual,Aktif
+20192,2019,1811009,Teknik Industri,Aktif
+20192,2019,1823026,Desain Komunikasi Visual,nonaktif
+20192,2019,1823002,Desain Komunikasi Visual,nonaktif
+20192,2019,1811011,Teknik Industri,Aktif
+20192,2019,1823004,Desain Komunikasi Visual,Aktif
+20192,2019,1811012,Teknik Industri,Aktif
+20192,2019,1823020,Desain Komunikasi Visual,Aktif
+20192,2019,1823022,Desain Komunikasi Visual,Aktif
+20192,2019,1823009,Desain Komunikasi Visual,Aktif
+20192,2019,1823011,Desain Komunikasi Visual,Aktif
+20192,2019,1811003,Teknik Industri,Aktif
+20192,2019,1811017,Teknik Industri,nonaktif
+20192,2019,1811006,Teknik Industri,Aktif
+20192,2019,1823019,Desain Komunikasi Visual,Aktif
+20192,2019,1823001,Desain Komunikasi Visual,Aktif
+20192,2019,1823016,Desain Komunikasi Visual,Aktif
+20192,2019,1822013,Teknik Komputer,Aktif
+20192,2019,1823007,Desain Komunikasi Visual,nonaktif
+20192,2019,1823013,Desain Komunikasi Visual,nonaktif
+20192,2019,1823008,Desain Komunikasi Visual,Aktif
+20192,2019,1823005,Desain Komunikasi Visual,Aktif
+20192,2019,1823025,Desain Komunikasi Visual,Aktif
+20192,2019,1823012,Desain Komunikasi Visual,Aktif
+20192,2019,1811010,Teknik Industri,nonaktif
+20192,2019,1823014,Desain Komunikasi Visual,Aktif
+20192,2019,1823006,Desain Komunikasi Visual,Aktif
+20192,2019,1823017,Desain Komunikasi Visual,Aktif
+20192,2019,1823028,Desain Komunikasi Visual,nonaktif
+20192,2019,1811016,Teknik Industri,Aktif
+20192,2019,1823015,Desain Komunikasi Visual,Aktif
+20192,2019,1811014,Teknik Industri,Aktif
+20192,2019,1821007,Sistem Informasi,Aktif
+20192,2019,1821012,Sistem Informasi,Aktif
+20192,2019,1824002,Matematika,Aktif
+20192,2019,1822001,Teknik Komputer,Aktif
+20192,2019,1812004,Manajemen Rekayasa,nonaktif
+20192,2019,1821004,Sistem Informasi,Aktif
+20192,2019,1811001,Teknik Industri,Aktif
+20192,2019,1811015,Teknik Industri,Aktif
+20192,2019,1811013,Teknik Industri,Aktif
+20192,2019,1824001,Matematika,Aktif
+20192,2019,1812001,Manajemen Rekayasa,Aktif
+20192,2019,1822014,Teknik Komputer,Aktif
+20192,2019,1812002,Manajemen Rekayasa,Aktif
+20192,2019,1812007,Manajemen Rekayasa,Aktif
+20192,2019,1811018,Teknik Industri,nonaktif
+20192,2019,1822011,Teknik Komputer,Aktif
+20192,2019,1811004,Teknik Industri,Aktif
+20192,2019,1822007,Teknik Komputer,Aktif
+20192,2019,1812005,Manajemen Rekayasa,Aktif
+20192,2019,1821001,Sistem Informasi,Aktif
+20192,2019,1821003,Sistem Informasi,Aktif
+20192,2019,1811005,Teknik Industri,Aktif
+20192,2019,1822002,Teknik Komputer,Aktif
+20192,2019,1822008,Teknik Komputer,nonaktif
+20192,2019,1821005,Sistem Informasi,Aktif
+20192,2019,1822003,Teknik Komputer,Aktif
+20192,2019,1812008,Manajemen Rekayasa,Aktif
+20192,2019,1821002,Sistem Informasi,Aktif
+20192,2019,1821006,Sistem Informasi,Aktif
+20192,2019,1811008,Teknik Industri,Aktif
+20192,2019,1822004,Teknik Komputer,Aktif
+20192,2019,1811002,Teknik Industri,Aktif
+20192,2019,1811007,Teknik Industri,Aktif
+20192,2019,1822012,Teknik Komputer,Aktif
+20192,2019,1821010,Sistem Informasi,Aktif
+20192,2019,1821013,Sistem Informasi,Aktif
+20192,2019,1821009,Sistem Informasi,Aktif
+20192,2019,1821008,Sistem Informasi,Aktif
+20192,2019,1821014,Sistem Informasi,Aktif
+20192,2019,1821011,Sistem Informasi,Aktif
+20192,2019,1821015,Sistem Informasi,Aktif
+20192,2019,1921001,Sistem Informasi,Aktif
+20192,2019,1912029,Manajemen Rekayasa,Aktif
+20192,2019,1924001,Matematika,Aktif
+20192,2019,1924002,Matematika,Aktif
+20192,2019,1922001,Teknik Komputer,Aktif
+20192,2019,1922002,Teknik Komputer,Aktif
+20192,2019,1922003,Teknik Komputer,Aktif
+20192,2019,1922004,Teknik Komputer,Aktif
+20192,2019,1922005,Teknik Komputer,Aktif
+20192,2019,1911002,Teknik Industri,Aktif
+20192,2019,1922006,Teknik Komputer,Aktif
+20192,2019,1922007,Teknik Komputer,Aktif
+20192,2019,1911003,Teknik Industri,nonaktif
+20192,2019,1911004,Teknik Industri,Aktif
+20192,2019,1923001,Desain Komunikasi Visual,Aktif
+20192,2019,1923002,Desain Komunikasi Visual,Aktif
+20192,2019,1923003,Desain Komunikasi Visual,Aktif
+20192,2019,1923004,Desain Komunikasi Visual,Aktif
+20192,2019,1922008,Teknik Komputer,Aktif
+20192,2019,1923005,Desain Komunikasi Visual,Aktif
+20192,2019,1923006,Desain Komunikasi Visual,Aktif
+20192,2019,1923007,Desain Komunikasi Visual,Aktif
+20192,2019,1923008,Desain Komunikasi Visual,Aktif
+20192,2019,1912001,Manajemen Rekayasa,Aktif
+20192,2019,1912002,Manajemen Rekayasa,Aktif
+20192,2019,1912003,Manajemen Rekayasa,Aktif
+20192,2019,1912004,Manajemen Rekayasa,Aktif
+20192,2019,1912005,Manajemen Rekayasa,Aktif
+20192,2019,1912006,Manajemen Rekayasa,Aktif
+20192,2019,1912007,Manajemen Rekayasa,Aktif
+20192,2019,1924003,Matematika,Aktif
+20192,2019,1924004,Matematika,Aktif
+20192,2019,1924005,Matematika,Aktif
+20192,2019,1922009,Teknik Komputer,Aktif
+20192,2019,1921002,Sistem Informasi,nonaktif
+20192,2019,1921003,Sistem Informasi,Aktif
+20192,2019,1921004,Sistem Informasi,Aktif
+20192,2019,1921005,Sistem Informasi,Aktif
+20192,2019,1912008,Manajemen Rekayasa,nonaktif
+20192,2019,1922010,Teknik Komputer,Aktif
+20192,2019,1924006,Matematika,Aktif
+20192,2019,1924007,Matematika,Aktif
+20192,2019,1923009,Desain Komunikasi Visual,Aktif
+20192,2019,1923010,Desain Komunikasi Visual,Aktif
+20192,2019,1923011,Desain Komunikasi Visual,Aktif
+20192,2019,1912009,Manajemen Rekayasa,Aktif
+20192,2019,1912010,Manajemen Rekayasa,Aktif
+20192,2019,1923012,Desain Komunikasi Visual,Aktif
+20192,2019,1923013,Desain Komunikasi Visual,Aktif
+20192,2019,1921006,Sistem Informasi,Aktif
+20192,2019,1911005,Teknik Industri,Aktif
+20192,2019,1911006,Teknik Industri,Aktif
+20192,2019,1911007,Teknik Industri,Aktif
+20192,2019,1911008,Teknik Industri,Aktif
+20192,2019,1911009,Teknik Industri,nonaktif
+20192,2019,1923014,Desain Komunikasi Visual,Aktif
+20192,2019,1922011,Teknik Komputer,Aktif
+20192,2019,1922012,Teknik Komputer,nonaktif
+20192,2019,1911010,Teknik Industri,Aktif
+20192,2019,1912011,Manajemen Rekayasa,nonaktif
+20192,2019,1911011,Teknik Industri,Aktif
+20192,2019,1911012,Teknik Industri,Aktif
+20192,2019,1911013,Teknik Industri,nonaktif
+20192,2019,1911014,Teknik Industri,Aktif
+20192,2019,1912012,Manajemen Rekayasa,Aktif
+20192,2019,1923015,Desain Komunikasi Visual,Aktif
+20192,2019,1923016,Desain Komunikasi Visual,nonaktif
+20192,2019,1923017,Desain Komunikasi Visual,Aktif
+20192,2019,1911015,Teknik Industri,Aktif
+20192,2019,1912013,Manajemen Rekayasa,Aktif
+20192,2019,1921007,Sistem Informasi,Aktif
+20192,2019,1921008,Sistem Informasi,Aktif
+20192,2019,1923018,Desain Komunikasi Visual,Aktif
+20192,2019,1924008,Matematika,Aktif
+20192,2019,1924009,Matematika,Aktif
+20192,2019,1921009,Sistem Informasi,Aktif
+20192,2019,1912014,Manajemen Rekayasa,Aktif
+20192,2019,1912015,Manajemen Rekayasa,nonaktif
+20192,2019,1912016,Manajemen Rekayasa,Aktif
+20192,2019,1923019,Desain Komunikasi Visual,Aktif
+20192,2019,1923020,Desain Komunikasi Visual,Aktif
+20192,2019,1923021,Desain Komunikasi Visual,Aktif
+20192,2019,1922013,Teknik Komputer,Aktif
+20192,2019,1912017,Manajemen Rekayasa,nonaktif
+20192,2019,1922014,Teknik Komputer,Aktif
+20192,2019,1922015,Teknik Komputer,Aktif
+20192,2019,1911016,Teknik Industri,Aktif
+20192,2019,1922016,Teknik Komputer,Aktif
+20192,2019,1922017,Teknik Komputer,Aktif
+20192,2019,1921010,Sistem Informasi,Aktif
+20192,2019,1911017,Teknik Industri,Aktif
+20192,2019,1911018,Teknik Industri,Aktif
+20192,2019,1911019,Teknik Industri,Aktif
+20192,2019,1924010,Matematika,Aktif
+20192,2019,1912018,Manajemen Rekayasa,Aktif
+20192,2019,1923022,Desain Komunikasi Visual,nonaktif
+20192,2019,1923023,Desain Komunikasi Visual,Aktif
+20192,2019,1921011,Sistem Informasi,Aktif
+20192,2019,1923024,Desain Komunikasi Visual,Aktif
+20192,2019,1923025,Desain Komunikasi Visual,Aktif
+20192,2019,1922018,Teknik Komputer,Aktif
+20192,2019,1924011,Matematika,Aktif
+20192,2019,1922019,Teknik Komputer,Aktif
+20192,2019,1922020,Teknik Komputer,Aktif
+20192,2019,1922021,Teknik Komputer,Aktif
+20192,2019,1912019,Manajemen Rekayasa,Aktif
+20192,2019,1922022,Teknik Komputer,Aktif
+20192,2019,1921012,Sistem Informasi,Aktif
+20192,2019,1911020,Teknik Industri,nonaktif
+20192,2019,1911021,Teknik Industri,Aktif
+20192,2019,1911022,Teknik Industri,Aktif
+20192,2019,1911023,Teknik Industri,nonaktif
+20192,2019,1911024,Teknik Industri,Aktif
+20192,2019,1911025,Teknik Industri,Aktif
+20192,2019,1911026,Teknik Industri,Aktif
+20192,2019,1911027,Teknik Industri,Aktif
+20192,2019,1911028,Teknik Industri,Aktif
+20192,2019,1911029,Teknik Industri,Aktif
+20192,2019,1911030,Teknik Industri,Aktif
+20192,2019,1911031,Teknik Industri,nonaktif
+20192,2019,1911032,Teknik Industri,Aktif
+20192,2019,1911033,Teknik Industri,Aktif
+20192,2019,1923026,Desain Komunikasi Visual,nonaktif
+20192,2019,1922023,Teknik Komputer,Aktif
+20192,2019,1923027,Desain Komunikasi Visual,Aktif
+20192,2019,1923028,Desain Komunikasi Visual,Aktif
+20192,2019,1923029,Desain Komunikasi Visual,Aktif
+20192,2019,1923030,Desain Komunikasi Visual,Aktif
+20192,2019,1923031,Desain Komunikasi Visual,Aktif
+20192,2019,1912020,Manajemen Rekayasa,Aktif
+20192,2019,1912021,Manajemen Rekayasa,Aktif
+20192,2019,1912022,Manajemen Rekayasa,Aktif
+20192,2019,1912023,Manajemen Rekayasa,Aktif
+20192,2019,1912024,Manajemen Rekayasa,Aktif
+20192,2019,1921013,Sistem Informasi,Aktif
+20192,2019,1921014,Sistem Informasi,Aktif
+20192,2019,1921015,Sistem Informasi,Aktif
+20192,2019,1921016,Sistem Informasi,Aktif
+20192,2019,1921017,Sistem Informasi,Aktif
+20192,2019,1921018,Sistem Informasi,Aktif
+20192,2019,1921019,Sistem Informasi,Aktif
+20192,2019,1921020,Sistem Informasi,Aktif
+20192,2019,1912025,Manajemen Rekayasa,Aktif
+20192,2019,1923032,Desain Komunikasi Visual,Aktif
+20192,2019,1921021,Sistem Informasi,Aktif
+20192,2019,1924012,Matematika,nonaktif
+20192,2019,1924013,Matematika,Aktif
+20192,2019,1924014,Matematika,Aktif
+20192,2019,1924015,Matematika,Aktif
+20192,2019,1911037,Teknik Industri,nonaktif
+20192,2019,1922025,Teknik Komputer,Aktif
+20192,2019,1922026,Teknik Komputer,Aktif
+20192,2019,1922027,Teknik Komputer,Aktif
+20192,2019,1922028,Teknik Komputer,Aktif
+20192,2019,1923061,Desain Komunikasi Visual,Aktif
+20192,2019,1922030,Teknik Komputer,Aktif
+20192,2019,1911034,Teknik Industri,Aktif
+20192,2019,1911035,Teknik Industri,Aktif
+20192,2019,1923033,Desain Komunikasi Visual,Aktif
+20192,2019,1923034,Desain Komunikasi Visual,Aktif
+20192,2019,1921022,Sistem Informasi,Aktif
+20192,2019,1923035,Desain Komunikasi Visual,nonaktif
+20192,2019,1923036,Desain Komunikasi Visual,Aktif
+20192,2019,1923037,Desain Komunikasi Visual,Aktif
+20192,2019,1923038,Desain Komunikasi Visual,Aktif
+20192,2019,1923039,Desain Komunikasi Visual,Aktif
+20192,2019,1923040,Desain Komunikasi Visual,Aktif
+20192,2019,1923041,Desain Komunikasi Visual,Aktif
+20192,2019,1923042,Desain Komunikasi Visual,Aktif
+20192,2019,1923043,Desain Komunikasi Visual,Aktif
+20192,2019,1923044,Desain Komunikasi Visual,nonaktif
+20192,2019,1923045,Desain Komunikasi Visual,nonaktif
+20192,2019,1923046,Desain Komunikasi Visual,Aktif
+20192,2019,1923047,Desain Komunikasi Visual,Aktif
+20192,2019,1923048,Desain Komunikasi Visual,Aktif
+20192,2019,1923049,Desain Komunikasi Visual,Aktif
+20192,2019,1923050,Desain Komunikasi Visual,Aktif
+20192,2019,1923051,Desain Komunikasi Visual,Aktif
+20192,2019,1923052,Desain Komunikasi Visual,Aktif
+20192,2019,1923053,Desain Komunikasi Visual,Aktif
+20192,2019,1923054,Desain Komunikasi Visual,Aktif
+20192,2019,1923055,Desain Komunikasi Visual,Aktif
+20192,2019,1923056,Desain Komunikasi Visual,nonaktif
+20192,2019,1923057,Desain Komunikasi Visual,Aktif
+20192,2019,1923058,Desain Komunikasi Visual,Aktif
+20192,2019,1923059,Desain Komunikasi Visual,Aktif
+20192,2019,1912027,Manajemen Rekayasa,Aktif
+20192,2019,1912028,Manajemen Rekayasa,Aktif
+20192,2019,1921023,Sistem Informasi,Aktif
+20192,2019,1911036,Teknik Industri,Aktif
+20192,2019,1923060,Desain Komunikasi Visual,Aktif
+20192,2019,1922031,Teknik Komputer,Aktif
+20192,2019,1922032,Teknik Komputer,Aktif
+20192,2019,1911038,Teknik Industri,Aktif
+20192,2019,1911039,Teknik Industri,nonaktif
+20192,2019,1922033,Teknik Komputer,Aktif
+20201,2020,1822006,Teknik Komputer,Aktif
+20201,2020,1823010,Desain Komunikasi Visual,nonaktif
+20201,2020,1823018,Desain Komunikasi Visual,Aktif
+20201,2020,1823024,Desain Komunikasi Visual,nonaktif
+20201,2020,1823021,Desain Komunikasi Visual,Aktif
+20201,2020,1823027,Desain Komunikasi Visual,Aktif
+20201,2020,1823003,Desain Komunikasi Visual,Aktif
+20201,2020,1811009,Teknik Industri,Aktif
+20201,2020,1823026,Desain Komunikasi Visual,nonaktif
+20201,2020,1823002,Desain Komunikasi Visual,nonaktif
+20201,2020,1811011,Teknik Industri,Aktif
+20201,2020,1823004,Desain Komunikasi Visual,Aktif
+20201,2020,1811012,Teknik Industri,Aktif
+20201,2020,1823020,Desain Komunikasi Visual,Aktif
+20201,2020,1823022,Desain Komunikasi Visual,nonaktif
+20201,2020,1823009,Desain Komunikasi Visual,Aktif
+20201,2020,1823011,Desain Komunikasi Visual,Aktif
+20201,2020,1811003,Teknik Industri,Aktif
+20201,2020,1811017,Teknik Industri,nonaktif
+20201,2020,1811006,Teknik Industri,Aktif
+20201,2020,1823019,Desain Komunikasi Visual,Aktif
+20201,2020,1823001,Desain Komunikasi Visual,Aktif
+20201,2020,1823016,Desain Komunikasi Visual,Aktif
+20201,2020,1822013,Teknik Komputer,Aktif
+20201,2020,1823007,Desain Komunikasi Visual,nonaktif
+20201,2020,1823013,Desain Komunikasi Visual,nonaktif
+20201,2020,1823008,Desain Komunikasi Visual,Aktif
+20201,2020,1823005,Desain Komunikasi Visual,nonaktif
+20201,2020,1823025,Desain Komunikasi Visual,Aktif
+20201,2020,1823012,Desain Komunikasi Visual,Aktif
+20201,2020,1811010,Teknik Industri,nonaktif
+20201,2020,1823014,Desain Komunikasi Visual,Aktif
+20201,2020,1823006,Desain Komunikasi Visual,nonaktif
+20201,2020,1823017,Desain Komunikasi Visual,Aktif
+20201,2020,1823028,Desain Komunikasi Visual,nonaktif
+20201,2020,1811016,Teknik Industri,Aktif
+20201,2020,1823015,Desain Komunikasi Visual,Aktif
+20201,2020,1811014,Teknik Industri,Aktif
+20201,2020,1821007,Sistem Informasi,Aktif
+20201,2020,1821012,Sistem Informasi,Aktif
+20201,2020,1824002,Matematika,Aktif
+20201,2020,1822001,Teknik Komputer,Aktif
+20201,2020,1812004,Manajemen Rekayasa,nonaktif
+20201,2020,1821004,Sistem Informasi,Aktif
+20201,2020,1811001,Teknik Industri,Aktif
+20201,2020,1811015,Teknik Industri,Aktif
+20201,2020,1811013,Teknik Industri,Aktif
+20201,2020,1824001,Matematika,Aktif
+20201,2020,1812001,Manajemen Rekayasa,Aktif
+20201,2020,1822014,Teknik Komputer,Aktif
+20201,2020,1812002,Manajemen Rekayasa,Aktif
+20201,2020,1812007,Manajemen Rekayasa,Aktif
+20201,2020,1811018,Teknik Industri,nonaktif
+20201,2020,1822011,Teknik Komputer,Aktif
+20201,2020,1811004,Teknik Industri,Aktif
+20201,2020,1822007,Teknik Komputer,Aktif
+20201,2020,1812005,Manajemen Rekayasa,Aktif
+20201,2020,1821001,Sistem Informasi,Aktif
+20201,2020,1821003,Sistem Informasi,Aktif
+20201,2020,1811005,Teknik Industri,Aktif
+20201,2020,1822002,Teknik Komputer,Aktif
+20201,2020,1822008,Teknik Komputer,nonaktif
+20201,2020,1821005,Sistem Informasi,Aktif
+20201,2020,1822003,Teknik Komputer,Aktif
+20201,2020,1812008,Manajemen Rekayasa,Aktif
+20201,2020,1821002,Sistem Informasi,Aktif
+20201,2020,1821006,Sistem Informasi,Aktif
+20201,2020,1811008,Teknik Industri,Aktif
+20201,2020,1822004,Teknik Komputer,Aktif
+20201,2020,1811002,Teknik Industri,Aktif
+20201,2020,1811007,Teknik Industri,Aktif
+20201,2020,1822012,Teknik Komputer,Aktif
+20201,2020,1821010,Sistem Informasi,Aktif
+20201,2020,1821013,Sistem Informasi,Aktif
+20201,2020,1821009,Sistem Informasi,Aktif
+20201,2020,1821008,Sistem Informasi,Aktif
+20201,2020,1821014,Sistem Informasi,Aktif
+20201,2020,1821011,Sistem Informasi,Aktif
+20201,2020,1821015,Sistem Informasi,Aktif
+20201,2020,1921001,Sistem Informasi,Aktif
+20201,2020,1912029,Manajemen Rekayasa,Aktif
+20201,2020,1924001,Matematika,Aktif
+20201,2020,1924002,Matematika,Aktif
+20201,2020,1922001,Teknik Komputer,Aktif
+20201,2020,1922002,Teknik Komputer,Aktif
+20201,2020,1922003,Teknik Komputer,Aktif
+20201,2020,1922004,Teknik Komputer,Aktif
+20201,2020,1922005,Teknik Komputer,Aktif
+20201,2020,1911002,Teknik Industri,Aktif
+20201,2020,1922006,Teknik Komputer,nonaktif
+20201,2020,1922007,Teknik Komputer,Aktif
+20201,2020,1911003,Teknik Industri,nonaktif
+20201,2020,1911004,Teknik Industri,Aktif
+20201,2020,1923001,Desain Komunikasi Visual,Aktif
+20201,2020,1923002,Desain Komunikasi Visual,Aktif
+20201,2020,1923003,Desain Komunikasi Visual,Aktif
+20201,2020,1923004,Desain Komunikasi Visual,Aktif
+20201,2020,1922008,Teknik Komputer,Aktif
+20201,2020,1923005,Desain Komunikasi Visual,Aktif
+20201,2020,1923006,Desain Komunikasi Visual,Aktif
+20201,2020,1923007,Desain Komunikasi Visual,Aktif
+20201,2020,1923008,Desain Komunikasi Visual,Aktif
+20201,2020,1912001,Manajemen Rekayasa,Aktif
+20201,2020,1912002,Manajemen Rekayasa,Aktif
+20201,2020,1912003,Manajemen Rekayasa,Aktif
+20201,2020,1912004,Manajemen Rekayasa,Aktif
+20201,2020,1912005,Manajemen Rekayasa,Aktif
+20201,2020,1912006,Manajemen Rekayasa,Aktif
+20201,2020,1912007,Manajemen Rekayasa,Aktif
+20201,2020,1924003,Matematika,Aktif
+20201,2020,1924004,Matematika,Aktif
+20201,2020,1924005,Matematika,Aktif
+20201,2020,1922009,Teknik Komputer,Aktif
+20201,2020,1921002,Sistem Informasi,nonaktif
+20201,2020,1921003,Sistem Informasi,Aktif
+20201,2020,1921004,Sistem Informasi,Aktif
+20201,2020,1921005,Sistem Informasi,Aktif
+20201,2020,1912008,Manajemen Rekayasa,nonaktif
+20201,2020,1922010,Teknik Komputer,Aktif
+20201,2020,1924006,Matematika,Aktif
+20201,2020,1924007,Matematika,Aktif
+20201,2020,1923009,Desain Komunikasi Visual,Aktif
+20201,2020,1923010,Desain Komunikasi Visual,Aktif
+20201,2020,1923011,Desain Komunikasi Visual,Aktif
+20201,2020,1912009,Manajemen Rekayasa,Aktif
+20201,2020,1912010,Manajemen Rekayasa,Aktif
+20201,2020,1923012,Desain Komunikasi Visual,Aktif
+20201,2020,1923013,Desain Komunikasi Visual,Aktif
+20201,2020,1921006,Sistem Informasi,Aktif
+20201,2020,1911005,Teknik Industri,Aktif
+20201,2020,1911006,Teknik Industri,Aktif
+20201,2020,1911007,Teknik Industri,nonaktif
+20201,2020,1911008,Teknik Industri,Aktif
+20201,2020,1911009,Teknik Industri,nonaktif
+20201,2020,1923014,Desain Komunikasi Visual,nonaktif
+20201,2020,1922011,Teknik Komputer,Aktif
+20201,2020,1922012,Teknik Komputer,nonaktif
+20201,2020,1911010,Teknik Industri,Aktif
+20201,2020,1912011,Manajemen Rekayasa,nonaktif
+20201,2020,1911011,Teknik Industri,Aktif
+20201,2020,1911012,Teknik Industri,Aktif
+20201,2020,1911013,Teknik Industri,nonaktif
+20201,2020,1911014,Teknik Industri,Aktif
+20201,2020,1912012,Manajemen Rekayasa,Aktif
+20201,2020,1923015,Desain Komunikasi Visual,Aktif
+20201,2020,1923016,Desain Komunikasi Visual,nonaktif
+20201,2020,1923017,Desain Komunikasi Visual,Aktif
+20201,2020,1911015,Teknik Industri,Aktif
+20201,2020,1912013,Manajemen Rekayasa,Aktif
+20201,2020,1921007,Sistem Informasi,Aktif
+20201,2020,1921008,Sistem Informasi,nonaktif
+20201,2020,1923018,Desain Komunikasi Visual,Aktif
+20201,2020,1924008,Matematika,Aktif
+20201,2020,1924009,Matematika,Aktif
+20201,2020,1921009,Sistem Informasi,Aktif
+20201,2020,1912014,Manajemen Rekayasa,Aktif
+20201,2020,1912015,Manajemen Rekayasa,nonaktif
+20201,2020,1912016,Manajemen Rekayasa,Aktif
+20201,2020,1923019,Desain Komunikasi Visual,Aktif
+20201,2020,1923020,Desain Komunikasi Visual,nonaktif
+20201,2020,1923021,Desain Komunikasi Visual,Aktif
+20201,2020,1922013,Teknik Komputer,Aktif
+20201,2020,1912017,Manajemen Rekayasa,nonaktif
+20201,2020,1922014,Teknik Komputer,Aktif
+20201,2020,1922015,Teknik Komputer,Aktif
+20201,2020,1911016,Teknik Industri,Aktif
+20201,2020,1922016,Teknik Komputer,Aktif
+20201,2020,1922017,Teknik Komputer,Aktif
+20201,2020,1921010,Sistem Informasi,Aktif
+20201,2020,1911017,Teknik Industri,Aktif
+20201,2020,1911018,Teknik Industri,Aktif
+20201,2020,1911019,Teknik Industri,Aktif
+20201,2020,1924010,Matematika,Aktif
+20201,2020,1912018,Manajemen Rekayasa,Aktif
+20201,2020,1923022,Desain Komunikasi Visual,nonaktif
+20201,2020,1923023,Desain Komunikasi Visual,Aktif
+20201,2020,1921011,Sistem Informasi,Aktif
+20201,2020,1923024,Desain Komunikasi Visual,Aktif
+20201,2020,1923025,Desain Komunikasi Visual,nonaktif
+20201,2020,1922018,Teknik Komputer,Aktif
+20201,2020,1924011,Matematika,Aktif
+20201,2020,1922019,Teknik Komputer,Aktif
+20201,2020,1922020,Teknik Komputer,Aktif
+20201,2020,1922021,Teknik Komputer,Aktif
+20201,2020,1912019,Manajemen Rekayasa,nonaktif
+20201,2020,1922022,Teknik Komputer,Aktif
+20201,2020,1921012,Sistem Informasi,Aktif
+20201,2020,1911020,Teknik Industri,nonaktif
+20201,2020,1911021,Teknik Industri,Aktif
+20201,2020,1911022,Teknik Industri,Aktif
+20201,2020,1911023,Teknik Industri,nonaktif
+20201,2020,1911024,Teknik Industri,nonaktif
+20201,2020,1911025,Teknik Industri,Aktif
+20201,2020,1911026,Teknik Industri,Aktif
+20201,2020,1911027,Teknik Industri,Aktif
+20201,2020,1911028,Teknik Industri,Aktif
+20201,2020,1911029,Teknik Industri,Aktif
+20201,2020,1911030,Teknik Industri,Aktif
+20201,2020,1911031,Teknik Industri,nonaktif
+20201,2020,1911032,Teknik Industri,Aktif
+20201,2020,1911033,Teknik Industri,Aktif
+20201,2020,1923026,Desain Komunikasi Visual,nonaktif
+20201,2020,1922023,Teknik Komputer,Aktif
+20201,2020,1923027,Desain Komunikasi Visual,Aktif
+20201,2020,1923028,Desain Komunikasi Visual,Aktif
+20201,2020,1923029,Desain Komunikasi Visual,Aktif
+20201,2020,1923030,Desain Komunikasi Visual,Aktif
+20201,2020,1923031,Desain Komunikasi Visual,Aktif
+20201,2020,1912020,Manajemen Rekayasa,Aktif
+20201,2020,1912021,Manajemen Rekayasa,Aktif
+20201,2020,1912022,Manajemen Rekayasa,nonaktif
+20201,2020,1912023,Manajemen Rekayasa,Aktif
+20201,2020,1912024,Manajemen Rekayasa,Aktif
+20201,2020,1921013,Sistem Informasi,Aktif
+20201,2020,1921014,Sistem Informasi,Aktif
+20201,2020,1921015,Sistem Informasi,Aktif
+20201,2020,1921016,Sistem Informasi,Aktif
+20201,2020,1921017,Sistem Informasi,Aktif
+20201,2020,1921018,Sistem Informasi,nonaktif
+20201,2020,1921019,Sistem Informasi,Aktif
+20201,2020,1921020,Sistem Informasi,Aktif
+20201,2020,1912025,Manajemen Rekayasa,Aktif
+20201,2020,1923032,Desain Komunikasi Visual,Aktif
+20201,2020,1921021,Sistem Informasi,Aktif
+20201,2020,1924012,Matematika,nonaktif
+20201,2020,1924013,Matematika,Aktif
+20201,2020,1924014,Matematika,Aktif
+20201,2020,1924015,Matematika,Aktif
+20201,2020,1911037,Teknik Industri,nonaktif
+20201,2020,1922025,Teknik Komputer,Aktif
+20201,2020,1922026,Teknik Komputer,nonaktif
+20201,2020,1922027,Teknik Komputer,Aktif
+20201,2020,1922028,Teknik Komputer,Aktif
+20201,2020,1923061,Desain Komunikasi Visual,Aktif
+20201,2020,1922030,Teknik Komputer,Aktif
+20201,2020,1911034,Teknik Industri,Aktif
+20201,2020,1911035,Teknik Industri,Aktif
+20201,2020,1923033,Desain Komunikasi Visual,Aktif
+20201,2020,1923034,Desain Komunikasi Visual,Aktif
+20201,2020,1921022,Sistem Informasi,Aktif
+20201,2020,1923035,Desain Komunikasi Visual,Aktif
+20201,2020,1923036,Desain Komunikasi Visual,Aktif
+20201,2020,1923037,Desain Komunikasi Visual,Aktif
+20201,2020,1923038,Desain Komunikasi Visual,Aktif
+20201,2020,1923039,Desain Komunikasi Visual,nonaktif
+20201,2020,1923040,Desain Komunikasi Visual,Aktif
+20201,2020,1923041,Desain Komunikasi Visual,Aktif
+20201,2020,1923042,Desain Komunikasi Visual,Aktif
+20201,2020,1923043,Desain Komunikasi Visual,nonaktif
+20201,2020,1923044,Desain Komunikasi Visual,nonaktif
+20201,2020,1923045,Desain Komunikasi Visual,nonaktif
+20201,2020,1923046,Desain Komunikasi Visual,Aktif
+20201,2020,1923047,Desain Komunikasi Visual,Aktif
+20201,2020,1923048,Desain Komunikasi Visual,Aktif
+20201,2020,1923049,Desain Komunikasi Visual,Aktif
+20201,2020,1923050,Desain Komunikasi Visual,Aktif
+20201,2020,1923051,Desain Komunikasi Visual,Aktif
+20201,2020,1923052,Desain Komunikasi Visual,Aktif
+20201,2020,1923053,Desain Komunikasi Visual,Aktif
+20201,2020,1923054,Desain Komunikasi Visual,Aktif
+20201,2020,1923055,Desain Komunikasi Visual,Aktif
+20201,2020,1923056,Desain Komunikasi Visual,nonaktif
+20201,2020,1923057,Desain Komunikasi Visual,Aktif
+20201,2020,1923058,Desain Komunikasi Visual,nonaktif
+20201,2020,1923059,Desain Komunikasi Visual,Aktif
+20201,2020,1912027,Manajemen Rekayasa,Aktif
+20201,2020,1912028,Manajemen Rekayasa,Aktif
+20201,2020,1921023,Sistem Informasi,Aktif
+20201,2020,1911036,Teknik Industri,Aktif
+20201,2020,1923060,Desain Komunikasi Visual,Aktif
+20201,2020,1922031,Teknik Komputer,nonaktif
+20201,2020,1922032,Teknik Komputer,Aktif
+20201,2020,1911038,Teknik Industri,Aktif
+20201,2020,1911039,Teknik Industri,nonaktif
+20201,2020,1922033,Teknik Komputer,Aktif
+20201,2020,2011052,Teknik Industri,Aktif
+20201,2020,2022001,Teknik Komputer,Aktif
+20201,2020,2022002,Teknik Komputer,Aktif
+20201,2020,2021001,Sistem Informasi,Aktif
+20201,2020,2023002,Desain Komunikasi Visual,Aktif
+20201,2020,2022003,Teknik Komputer,Aktif
+20201,2020,2023003,Desain Komunikasi Visual,Aktif
+20201,2020,2021002,Sistem Informasi,Aktif
+20201,2020,2021003,Sistem Informasi,Aktif
+20201,2020,2023004,Desain Komunikasi Visual,Aktif
+20201,2020,2011002,Teknik Industri,Aktif
+20201,2020,2023005,Desain Komunikasi Visual,Aktif
+20201,2020,2021005,Sistem Informasi,Aktif
+20201,2020,2021006,Sistem Informasi,Aktif
+20201,2020,2012001,Manajemen Rekayasa,Aktif
+20201,2020,2024001,Matematika,Aktif
+20201,2020,2012002,Manajemen Rekayasa,Aktif
+20201,2020,2011003,Teknik Industri,Aktif
+20201,2020,2021007,Sistem Informasi,Aktif
+20201,2020,2023007,Desain Komunikasi Visual,Aktif
+20201,2020,2023008,Desain Komunikasi Visual,Aktif
+20201,2020,2023009,Desain Komunikasi Visual,Aktif
+20201,2020,2021008,Sistem Informasi,Aktif
+20201,2020,2023010,Desain Komunikasi Visual,nonaktif
+20201,2020,2021009,Sistem Informasi,Aktif
+20201,2020,2022004,Teknik Komputer,Aktif
+20201,2020,2012033,Manajemen Rekayasa,Aktif
+20201,2020,2023059,Desain Komunikasi Visual,Aktif
+20201,2020,2021012,Sistem Informasi,Aktif
+20201,2020,2012003,Manajemen Rekayasa,Aktif
+20201,2020,2021013,Sistem Informasi,Aktif
+20201,2020,2023011,Desain Komunikasi Visual,Aktif
+20201,2020,2021014,Sistem Informasi,Aktif
+20201,2020,2023012,Desain Komunikasi Visual,Aktif
+20201,2020,2023013,Desain Komunikasi Visual,Aktif
+20201,2020,2024002,Matematika,Aktif
+20201,2020,2023014,Desain Komunikasi Visual,Aktif
+20201,2020,2011004,Teknik Industri,Aktif
+20201,2020,2011005,Teknik Industri,Aktif
+20201,2020,2024003,Matematika,Aktif
+20201,2020,2024004,Matematika,Aktif
+20201,2020,2023015,Desain Komunikasi Visual,Aktif
+20201,2020,2023016,Desain Komunikasi Visual,Aktif
+20201,2020,2011006,Teknik Industri,Aktif
+20201,2020,2023017,Desain Komunikasi Visual,Aktif
+20201,2020,2011007,Teknik Industri,Aktif
+20201,2020,2012004,Manajemen Rekayasa,Aktif
+20201,2020,2021015,Sistem Informasi,Aktif
+20201,2020,2021016,Sistem Informasi,Aktif
+20201,2020,2011008,Teknik Industri,Aktif
+20201,2020,2021017,Sistem Informasi,Aktif
+20201,2020,2021018,Sistem Informasi,Aktif
+20201,2020,2012005,Manajemen Rekayasa,Aktif
+20201,2020,2011009,Teknik Industri,Aktif
+20201,2020,2011010,Teknik Industri,Aktif
+20201,2020,2021019,Sistem Informasi,Aktif
+20201,2020,2012006,Manajemen Rekayasa,Aktif
+20201,2020,2023018,Desain Komunikasi Visual,Aktif
+20201,2020,2023019,Desain Komunikasi Visual,Aktif
+20201,2020,2021020,Sistem Informasi,Aktif
+20201,2020,2023020,Desain Komunikasi Visual,Aktif
+20201,2020,2021021,Sistem Informasi,Aktif
+20201,2020,2021022,Sistem Informasi,Aktif
+20201,2020,2012007,Manajemen Rekayasa,Aktif
+20201,2020,2021023,Sistem Informasi,Aktif
+20201,2020,2022005,Teknik Komputer,Aktif
+20201,2020,2021024,Sistem Informasi,Aktif
+20201,2020,2024018,Matematika,Aktif
+20201,2020,2021025,Sistem Informasi,Aktif
+20201,2020,2011011,Teknik Industri,Aktif
+20201,2020,2021026,Sistem Informasi,Aktif
+20201,2020,2023022,Desain Komunikasi Visual,Aktif
+20201,2020,2023023,Desain Komunikasi Visual,Aktif
+20201,2020,2012008,Manajemen Rekayasa,Aktif
+20201,2020,2023024,Desain Komunikasi Visual,nonaktif
+20201,2020,2023025,Desain Komunikasi Visual,Aktif
+20201,2020,2023026,Desain Komunikasi Visual,Aktif
+20201,2020,2023027,Desain Komunikasi Visual,Aktif
+20201,2020,2024005,Matematika,Aktif
+20201,2020,2011012,Teknik Industri,Aktif
+20201,2020,2022006,Teknik Komputer,Aktif
+20201,2020,2024006,Matematika,Aktif
+20201,2020,2022007,Teknik Komputer,Aktif
+20201,2020,2021027,Sistem Informasi,Aktif
+20201,2020,2022008,Teknik Komputer,Aktif
+20201,2020,2023028,Desain Komunikasi Visual,Aktif
+20201,2020,2022009,Teknik Komputer,Aktif
+20201,2020,2023029,Desain Komunikasi Visual,Aktif
+20201,2020,2011014,Teknik Industri,Aktif
+20201,2020,2021028,Sistem Informasi,Aktif
+20201,2020,2021029,Sistem Informasi,Aktif
+20201,2020,2023030,Desain Komunikasi Visual,Aktif
+20201,2020,2023031,Desain Komunikasi Visual,Aktif
+20201,2020,2011015,Teknik Industri,Aktif
+20201,2020,2011016,Teknik Industri,Aktif
+20201,2020,2022010,Teknik Komputer,Aktif
+20201,2020,2012009,Manajemen Rekayasa,Aktif
+20201,2020,2011017,Teknik Industri,Aktif
+20201,2020,2021030,Sistem Informasi,Aktif
+20201,2020,2021031,Sistem Informasi,Aktif
+20201,2020,2021032,Sistem Informasi,Aktif
+20201,2020,2021033,Sistem Informasi,Aktif
+20201,2020,2012010,Manajemen Rekayasa,Aktif
+20201,2020,2022011,Teknik Komputer,Aktif
+20201,2020,2011018,Teknik Industri,Aktif
+20201,2020,2021034,Sistem Informasi,Aktif
+20201,2020,2011019,Teknik Industri,Aktif
+20201,2020,2022012,Teknik Komputer,Aktif
+20201,2020,2011020,Teknik Industri,Aktif
+20201,2020,2011044,Teknik Industri,Aktif
+20201,2020,2021035,Sistem Informasi,Aktif
+20201,2020,2023032,Desain Komunikasi Visual,Aktif
+20201,2020,2023033,Desain Komunikasi Visual,Aktif
+20201,2020,2011022,Teknik Industri,Aktif
+20201,2020,2022013,Teknik Komputer,Aktif
+20201,2020,2024008,Matematika,Aktif
+20201,2020,2012011,Manajemen Rekayasa,Aktif
+20201,2020,2011023,Teknik Industri,Aktif
+20201,2020,2022014,Teknik Komputer,Aktif
+20201,2020,2023034,Desain Komunikasi Visual,Aktif
+20201,2020,2011024,Teknik Industri,Aktif
+20201,2020,2021036,Sistem Informasi,Aktif
+20201,2020,2011025,Teknik Industri,Aktif
+20201,2020,2023035,Desain Komunikasi Visual,Aktif
+20201,2020,2011026,Teknik Industri,Aktif
+20201,2020,2012014,Manajemen Rekayasa,Aktif
+20201,2020,2012015,Manajemen Rekayasa,Aktif
+20201,2020,2022015,Teknik Komputer,Aktif
+20201,2020,2023036,Desain Komunikasi Visual,Aktif
+20201,2020,2023037,Desain Komunikasi Visual,nonaktif
+20201,2020,2023038,Desain Komunikasi Visual,Aktif
+20201,2020,2021037,Sistem Informasi,Aktif
+20201,2020,2023039,Desain Komunikasi Visual,Aktif
+20201,2020,2011027,Teknik Industri,Aktif
+20201,2020,2023040,Desain Komunikasi Visual,Aktif
+20201,2020,2011028,Teknik Industri,Aktif
+20201,2020,2021038,Sistem Informasi,Aktif
+20201,2020,2011045,Teknik Industri,Aktif
+20201,2020,2012016,Manajemen Rekayasa,Aktif
+20201,2020,2011029,Teknik Industri,Aktif
+20201,2020,2023072,Desain Komunikasi Visual,Aktif
+20201,2020,2021040,Sistem Informasi,Aktif
+20201,2020,2021041,Sistem Informasi,Aktif
+20201,2020,2023052,Desain Komunikasi Visual,Aktif
+20201,2020,2024010,Matematika,Aktif
+20201,2020,2021042,Sistem Informasi,Aktif
+20201,2020,2021044,Sistem Informasi,Aktif
+20201,2020,2024011,Matematika,Aktif
+20201,2020,2023041,Desain Komunikasi Visual,Aktif
+20201,2020,2023042,Desain Komunikasi Visual,Aktif
+20201,2020,2012018,Manajemen Rekayasa,Aktif
+20201,2020,2021045,Sistem Informasi,Aktif
+20201,2020,2021046,Sistem Informasi,Aktif
+20201,2020,2012019,Manajemen Rekayasa,Aktif
+20201,2020,2021047,Sistem Informasi,Aktif
+20201,2020,2024012,Matematika,Aktif
+20201,2020,2012030,Manajemen Rekayasa,Aktif
+20201,2020,2021049,Sistem Informasi,Aktif
+20201,2020,2023043,Desain Komunikasi Visual,Aktif
+20201,2020,2012020,Manajemen Rekayasa,Aktif
+20201,2020,2011030,Teknik Industri,Aktif
+20201,2020,2021050,Sistem Informasi,Aktif
+20201,2020,2021051,Sistem Informasi,Aktif
+20201,2020,2011031,Teknik Industri,Aktif
+20201,2020,2023044,Desain Komunikasi Visual,Aktif
+20201,2020,2024013,Matematika,Aktif
+20201,2020,2022017,Teknik Komputer,Aktif
+20201,2020,2023045,Desain Komunikasi Visual,Aktif
+20201,2020,2021052,Sistem Informasi,Aktif
+20201,2020,2011032,Teknik Industri,Aktif
+20201,2020,2012021,Manajemen Rekayasa,Aktif
+20201,2020,2023046,Desain Komunikasi Visual,Aktif
+20201,2020,2011033,Teknik Industri,Aktif
+20201,2020,2021053,Sistem Informasi,Aktif
+20201,2020,2024014,Matematika,Aktif
+20201,2020,2022018,Teknik Komputer,Aktif
+20201,2020,2024015,Matematika,Aktif
+20201,2020,2023054,Desain Komunikasi Visual,Aktif
+20201,2020,2023047,Desain Komunikasi Visual,Aktif
+20201,2020,2021055,Sistem Informasi,Aktif
+20201,2020,2024016,Matematika,Aktif
+20201,2020,2023049,Desain Komunikasi Visual,Aktif
+20201,2020,2011034,Teknik Industri,Aktif
+20201,2020,2012023,Manajemen Rekayasa,Aktif
+20201,2020,2012024,Manajemen Rekayasa,Aktif
+20201,2020,2012025,Manajemen Rekayasa,Aktif
+20201,2020,2011035,Teknik Industri,Aktif
+20201,2020,2022019,Teknik Komputer,Aktif
+20201,2020,2024017,Matematika,Aktif
+20201,2020,2012026,Manajemen Rekayasa,Aktif
+20201,2020,2011036,Teknik Industri,Aktif
+20201,2020,2011037,Teknik Industri,Aktif
+20201,2020,2022020,Teknik Komputer,Aktif
+20201,2020,2023050,Desain Komunikasi Visual,Aktif
+20201,2020,2024019,Matematika,Aktif
+20201,2020,2021056,Sistem Informasi,Aktif
+20201,2020,2021057,Sistem Informasi,Aktif
+20201,2020,2023051,Desain Komunikasi Visual,Aktif
+20201,2020,2012027,Manajemen Rekayasa,Aktif
+20201,2020,2012028,Manajemen Rekayasa,Aktif
+20201,2020,2011038,Teknik Industri,Aktif
+20201,2020,2012029,Manajemen Rekayasa,Aktif
+20201,2020,2022023,Teknik Komputer,Aktif
+20201,2020,2011039,Teknik Industri,Aktif
+20201,2020,2023053,Desain Komunikasi Visual,Aktif
+20201,2020,2021058,Sistem Informasi,Aktif
+20201,2020,2011040,Teknik Industri,Aktif
+20201,2020,2023055,Desain Komunikasi Visual,Aktif
+20201,2020,2023056,Desain Komunikasi Visual,Aktif
+20201,2020,2021059,Sistem Informasi,Aktif
+20201,2020,2012031,Manajemen Rekayasa,Aktif
+20201,2020,2012032,Manajemen Rekayasa,Aktif
+20201,2020,2011041,Teknik Industri,Aktif
+20201,2020,2012044,Manajemen Rekayasa,Aktif
+20201,2020,2011042,Teknik Industri,Aktif
+20201,2020,2023057,Desain Komunikasi Visual,Aktif
+20201,2020,2023058,Desain Komunikasi Visual,Aktif
+20201,2020,2021061,Sistem Informasi,Aktif
+20201,2020,2021062,Sistem Informasi,Aktif
+20201,2020,2011043,Teknik Industri,Aktif
+20201,2020,2012034,Manajemen Rekayasa,Aktif
+20201,2020,2012035,Manajemen Rekayasa,Aktif
+20201,2020,2022024,Teknik Komputer,Aktif
+20201,2020,2012036,Manajemen Rekayasa,Aktif
+20201,2020,2023060,Desain Komunikasi Visual,Aktif
+20201,2020,2023061,Desain Komunikasi Visual,Aktif
+20201,2020,2022025,Teknik Komputer,Aktif
+20201,2020,2023062,Desain Komunikasi Visual,Aktif
+20201,2020,2012037,Manajemen Rekayasa,Aktif
+20201,2020,2024020,Matematika,Aktif
+20201,2020,2024021,Matematika,Aktif
+20201,2020,2023063,Desain Komunikasi Visual,Aktif
+20201,2020,2012038,Manajemen Rekayasa,Aktif
+20201,2020,2024022,Matematika,Aktif
+20201,2020,2024023,Matematika,Aktif
+20201,2020,2024024,Matematika,Aktif
+20201,2020,2024025,Matematika,nonaktif
+20201,2020,2024026,Matematika,Aktif
+20201,2020,2012039,Manajemen Rekayasa,Aktif
+20201,2020,2011048,Teknik Industri,Aktif
+20201,2020,2012040,Manajemen Rekayasa,Aktif
+20201,2020,2024027,Matematika,Aktif
+20201,2020,2011050,Teknik Industri,Aktif
+20201,2020,2021063,Sistem Informasi,Aktif
+20201,2020,2021064,Sistem Informasi,Aktif
+20201,2020,2011051,Teknik Industri,Aktif
+20201,2020,2023064,Desain Komunikasi Visual,Aktif
+20201,2020,2021065,Sistem Informasi,Aktif
+20201,2020,2021066,Sistem Informasi,Aktif
+20201,2020,2011053,Teknik Industri,Aktif
+20201,2020,2011054,Teknik Industri,Aktif
+20201,2020,2012041,Manajemen Rekayasa,Aktif
+20201,2020,2011055,Teknik Industri,Aktif
+20201,2020,2023065,Desain Komunikasi Visual,Aktif
+20201,2020,2012042,Manajemen Rekayasa,Aktif
+20201,2020,2021067,Sistem Informasi,Aktif
+20201,2020,2011056,Teknik Industri,Aktif
+20201,2020,2011057,Teknik Industri,Aktif
+20201,2020,2024028,Matematika,Aktif
+20201,2020,2012043,Manajemen Rekayasa,Aktif
+20201,2020,2024035,Matematika,Aktif
+20201,2020,2023071,Desain Komunikasi Visual,Aktif
+20201,2020,2022026,Teknik Komputer,Aktif
+20201,2020,2024031,Matematika,Aktif
+20201,2020,2022027,Teknik Komputer,Aktif
+20201,2020,2021068,Sistem Informasi,Aktif
+20201,2020,2022028,Teknik Komputer,Aktif
+20201,2020,2023066,Desain Komunikasi Visual,Aktif
+20201,2020,2021069,Sistem Informasi,Aktif
+20201,2020,2011058,Teknik Industri,Aktif
+20201,2020,2011059,Teknik Industri,Aktif
+20201,2020,2011060,Teknik Industri,Aktif
+20201,2020,2011061,Teknik Industri,Aktif
+20201,2020,2024032,Matematika,Aktif
+20201,2020,2021071,Sistem Informasi,Aktif
+20201,2020,2024033,Matematika,Aktif
+20201,2020,2024034,Matematika,Aktif
+20201,2020,2023067,Desain Komunikasi Visual,Aktif
+20201,2020,2023068,Desain Komunikasi Visual,Aktif
+20201,2020,2021072,Sistem Informasi,Aktif
+20201,2020,2021073,Sistem Informasi,Aktif
+20201,2020,2012045,Manajemen Rekayasa,Aktif
+20201,2020,2011062,Teknik Industri,Aktif
+20201,2020,2011063,Teknik Industri,Aktif
+20201,2020,2022029,Teknik Komputer,Aktif
+20201,2020,2022030,Teknik Komputer,Aktif
+20201,2020,2021074,Sistem Informasi,Aktif
+20201,2020,2022031,Teknik Komputer,Aktif
+20201,2020,2024036,Matematika,nonaktif
+20201,2020,2011064,Teknik Industri,Aktif
+20201,2020,2023069,Desain Komunikasi Visual,Aktif
+20201,2020,2023070,Desain Komunikasi Visual,Aktif
+20201,2020,2024037,Matematika,Aktif
+20201,2020,2021075,Sistem Informasi,Aktif
+20201,2020,2021076,Sistem Informasi,Aktif
+20201,2020,2022032,Teknik Komputer,Aktif
+20201,2020,2024038,Matematika,Aktif
+20201,2020,2011065,Teknik Industri,Aktif
+20202,2020,1822006,Teknik Komputer,Aktif
+20202,2020,1823010,Desain Komunikasi Visual,nonaktif
+20202,2020,1823018,Desain Komunikasi Visual,Aktif
+20202,2020,1823024,Desain Komunikasi Visual,nonaktif
+20202,2020,1823021,Desain Komunikasi Visual,Aktif
+20202,2020,1823027,Desain Komunikasi Visual,Aktif
+20202,2020,1823003,Desain Komunikasi Visual,Aktif
+20202,2020,1811009,Teknik Industri,Aktif
+20202,2020,1823026,Desain Komunikasi Visual,nonaktif
+20202,2020,1811011,Teknik Industri,Aktif
+20202,2020,1823004,Desain Komunikasi Visual,Aktif
+20202,2020,1811012,Teknik Industri,Aktif
+20202,2020,1823020,Desain Komunikasi Visual,Aktif
+20202,2020,1823022,Desain Komunikasi Visual,nonaktif
+20202,2020,1823009,Desain Komunikasi Visual,Aktif
+20202,2020,1823011,Desain Komunikasi Visual,Aktif
+20202,2020,1811003,Teknik Industri,Aktif
+20202,2020,1811017,Teknik Industri,nonaktif
+20202,2020,1811006,Teknik Industri,Aktif
+20202,2020,1823019,Desain Komunikasi Visual,Aktif
+20202,2020,1823001,Desain Komunikasi Visual,Aktif
+20202,2020,1823016,Desain Komunikasi Visual,Aktif
+20202,2020,1822013,Teknik Komputer,Aktif
+20202,2020,1823007,Desain Komunikasi Visual,nonaktif
+20202,2020,1823013,Desain Komunikasi Visual,nonaktif
+20202,2020,1823008,Desain Komunikasi Visual,Aktif
+20202,2020,1823005,Desain Komunikasi Visual,nonaktif
+20202,2020,1823025,Desain Komunikasi Visual,Aktif
+20202,2020,1823012,Desain Komunikasi Visual,Aktif
+20202,2020,1811010,Teknik Industri,nonaktif
+20202,2020,1823014,Desain Komunikasi Visual,Aktif
+20202,2020,1823006,Desain Komunikasi Visual,Aktif
+20202,2020,1823017,Desain Komunikasi Visual,Aktif
+20202,2020,1811016,Teknik Industri,Aktif
+20202,2020,1823015,Desain Komunikasi Visual,Aktif
+20202,2020,1811014,Teknik Industri,Aktif
+20202,2020,1821007,Sistem Informasi,Aktif
+20202,2020,1821012,Sistem Informasi,Aktif
+20202,2020,1824002,Matematika,Aktif
+20202,2020,1822001,Teknik Komputer,Aktif
+20202,2020,1812004,Manajemen Rekayasa,nonaktif
+20202,2020,1821004,Sistem Informasi,Aktif
+20202,2020,1811001,Teknik Industri,Aktif
+20202,2020,1811015,Teknik Industri,Aktif
+20202,2020,1811013,Teknik Industri,Aktif
+20202,2020,1824001,Matematika,Aktif
+20202,2020,1812001,Manajemen Rekayasa,Aktif
+20202,2020,1822014,Teknik Komputer,Aktif
+20202,2020,1812002,Manajemen Rekayasa,Aktif
+20202,2020,1812007,Manajemen Rekayasa,Aktif
+20202,2020,1822011,Teknik Komputer,Aktif
+20202,2020,1811004,Teknik Industri,Aktif
+20202,2020,1822007,Teknik Komputer,Aktif
+20202,2020,1812005,Manajemen Rekayasa,Aktif
+20202,2020,1821001,Sistem Informasi,Aktif
+20202,2020,1821003,Sistem Informasi,Aktif
+20202,2020,1811005,Teknik Industri,Aktif
+20202,2020,1822002,Teknik Komputer,Aktif
+20202,2020,1822008,Teknik Komputer,nonaktif
+20202,2020,1821005,Sistem Informasi,Aktif
+20202,2020,1822003,Teknik Komputer,Aktif
+20202,2020,1812008,Manajemen Rekayasa,Aktif
+20202,2020,1821002,Sistem Informasi,Aktif
+20202,2020,1821006,Sistem Informasi,Aktif
+20202,2020,1811008,Teknik Industri,Aktif
+20202,2020,1822004,Teknik Komputer,Aktif
+20202,2020,1811002,Teknik Industri,Aktif
+20202,2020,1811007,Teknik Industri,Aktif
+20202,2020,1822012,Teknik Komputer,Aktif
+20202,2020,1821010,Sistem Informasi,Aktif
+20202,2020,1821013,Sistem Informasi,Aktif
+20202,2020,1821009,Sistem Informasi,Aktif
+20202,2020,1821008,Sistem Informasi,Aktif
+20202,2020,1821014,Sistem Informasi,Aktif
+20202,2020,1821011,Sistem Informasi,Aktif
+20202,2020,1821015,Sistem Informasi,Aktif
+20202,2020,1921001,Sistem Informasi,Aktif
+20202,2020,1912029,Manajemen Rekayasa,Aktif
+20202,2020,1924001,Matematika,Aktif
+20202,2020,1924002,Matematika,Aktif
+20202,2020,1922001,Teknik Komputer,Aktif
+20202,2020,1922002,Teknik Komputer,Aktif
+20202,2020,1922003,Teknik Komputer,Aktif
+20202,2020,1922004,Teknik Komputer,Aktif
+20202,2020,1922005,Teknik Komputer,Aktif
+20202,2020,1911002,Teknik Industri,Aktif
+20202,2020,1922006,Teknik Komputer,nonaktif
+20202,2020,1922007,Teknik Komputer,cuti
+20202,2020,1911003,Teknik Industri,nonaktif
+20202,2020,1911004,Teknik Industri,Aktif
+20202,2020,1923001,Desain Komunikasi Visual,Aktif
+20202,2020,1923002,Desain Komunikasi Visual,Aktif
+20202,2020,1923003,Desain Komunikasi Visual,Aktif
+20202,2020,1923004,Desain Komunikasi Visual,Aktif
+20202,2020,1922008,Teknik Komputer,Aktif
+20202,2020,1923005,Desain Komunikasi Visual,Aktif
+20202,2020,1923006,Desain Komunikasi Visual,Aktif
+20202,2020,1923007,Desain Komunikasi Visual,Aktif
+20202,2020,1923008,Desain Komunikasi Visual,Aktif
+20202,2020,1912001,Manajemen Rekayasa,Aktif
+20202,2020,1912002,Manajemen Rekayasa,Aktif
+20202,2020,1912003,Manajemen Rekayasa,Aktif
+20202,2020,1912004,Manajemen Rekayasa,Aktif
+20202,2020,1912005,Manajemen Rekayasa,Aktif
+20202,2020,1912006,Manajemen Rekayasa,cuti
+20202,2020,1912007,Manajemen Rekayasa,Aktif
+20202,2020,1924003,Matematika,Aktif
+20202,2020,1924004,Matematika,Aktif
+20202,2020,1924005,Matematika,Aktif
+20202,2020,1922009,Teknik Komputer,Aktif
+20202,2020,1921002,Sistem Informasi,nonaktif
+20202,2020,1921003,Sistem Informasi,Aktif
+20202,2020,1921004,Sistem Informasi,Aktif
+20202,2020,1921005,Sistem Informasi,Aktif
+20202,2020,1912008,Manajemen Rekayasa,nonaktif
+20202,2020,1922010,Teknik Komputer,Aktif
+20202,2020,1924006,Matematika,Aktif
+20202,2020,1924007,Matematika,Aktif
+20202,2020,1923009,Desain Komunikasi Visual,nonaktif
+20202,2020,1923010,Desain Komunikasi Visual,Aktif
+20202,2020,1923011,Desain Komunikasi Visual,Aktif
+20202,2020,1912009,Manajemen Rekayasa,cuti
+20202,2020,1912010,Manajemen Rekayasa,Aktif
+20202,2020,1923012,Desain Komunikasi Visual,Aktif
+20202,2020,1923013,Desain Komunikasi Visual,Aktif
+20202,2020,1921006,Sistem Informasi,Aktif
+20202,2020,1911005,Teknik Industri,Aktif
+20202,2020,1911006,Teknik Industri,Aktif
+20202,2020,1911007,Teknik Industri,nonaktif
+20202,2020,1911008,Teknik Industri,Aktif
+20202,2020,1911009,Teknik Industri,nonaktif
+20202,2020,1923014,Desain Komunikasi Visual,nonaktif
+20202,2020,1922011,Teknik Komputer,Aktif
+20202,2020,1922012,Teknik Komputer,nonaktif
+20202,2020,1911010,Teknik Industri,Aktif
+20202,2020,1912011,Manajemen Rekayasa,nonaktif
+20202,2020,1911011,Teknik Industri,Aktif
+20202,2020,1911012,Teknik Industri,Aktif
+20202,2020,1911013,Teknik Industri,nonaktif
+20202,2020,1911014,Teknik Industri,Aktif
+20202,2020,1912012,Manajemen Rekayasa,Aktif
+20202,2020,1923015,Desain Komunikasi Visual,Aktif
+20202,2020,1923016,Desain Komunikasi Visual,nonaktif
+20202,2020,1923017,Desain Komunikasi Visual,Aktif
+20202,2020,1911015,Teknik Industri,Aktif
+20202,2020,1912013,Manajemen Rekayasa,Aktif
+20202,2020,1921007,Sistem Informasi,Aktif
+20202,2020,1921008,Sistem Informasi,nonaktif
+20202,2020,1923018,Desain Komunikasi Visual,Aktif
+20202,2020,1924008,Matematika,Aktif
+20202,2020,1924009,Matematika,Aktif
+20202,2020,1921009,Sistem Informasi,nonaktif
+20202,2020,1912014,Manajemen Rekayasa,Aktif
+20202,2020,1912015,Manajemen Rekayasa,nonaktif
+20202,2020,1912016,Manajemen Rekayasa,Aktif
+20202,2020,1923019,Desain Komunikasi Visual,Aktif
+20202,2020,1923020,Desain Komunikasi Visual,nonaktif
+20202,2020,1923021,Desain Komunikasi Visual,Aktif
+20202,2020,1922013,Teknik Komputer,Aktif
+20202,2020,1912017,Manajemen Rekayasa,nonaktif
+20202,2020,1922014,Teknik Komputer,Aktif
+20202,2020,1922015,Teknik Komputer,Aktif
+20202,2020,1911016,Teknik Industri,Aktif
+20202,2020,1922016,Teknik Komputer,Aktif
+20202,2020,1922017,Teknik Komputer,Aktif
+20202,2020,1921010,Sistem Informasi,Aktif
+20202,2020,1911017,Teknik Industri,Aktif
+20202,2020,1911018,Teknik Industri,Aktif
+20202,2020,1911019,Teknik Industri,nonaktif
+20202,2020,1924010,Matematika,Aktif
+20202,2020,1912018,Manajemen Rekayasa,Aktif
+20202,2020,1923022,Desain Komunikasi Visual,nonaktif
+20202,2020,1923023,Desain Komunikasi Visual,Aktif
+20202,2020,1921011,Sistem Informasi,Aktif
+20202,2020,1923024,Desain Komunikasi Visual,Aktif
+20202,2020,1923025,Desain Komunikasi Visual,nonaktif
+20202,2020,1922018,Teknik Komputer,Aktif
+20202,2020,1924011,Matematika,Aktif
+20202,2020,1922019,Teknik Komputer,Aktif
+20202,2020,1922020,Teknik Komputer,Aktif
+20202,2020,1922021,Teknik Komputer,Aktif
+20202,2020,1912019,Manajemen Rekayasa,nonaktif
+20202,2020,1922022,Teknik Komputer,Aktif
+20202,2020,1921012,Sistem Informasi,Aktif
+20202,2020,1911020,Teknik Industri,nonaktif
+20202,2020,1911021,Teknik Industri,Aktif
+20202,2020,1911022,Teknik Industri,Aktif
+20202,2020,1911023,Teknik Industri,nonaktif
+20202,2020,1911024,Teknik Industri,nonaktif
+20202,2020,1911025,Teknik Industri,Aktif
+20202,2020,1911026,Teknik Industri,Aktif
+20202,2020,1911027,Teknik Industri,Aktif
+20202,2020,1911028,Teknik Industri,Aktif
+20202,2020,1911029,Teknik Industri,Aktif
+20202,2020,1911030,Teknik Industri,Aktif
+20202,2020,1911031,Teknik Industri,nonaktif
+20202,2020,1911032,Teknik Industri,Aktif
+20202,2020,1911033,Teknik Industri,Aktif
+20202,2020,1923026,Desain Komunikasi Visual,nonaktif
+20202,2020,1922023,Teknik Komputer,Aktif
+20202,2020,1923027,Desain Komunikasi Visual,Aktif
+20202,2020,1923028,Desain Komunikasi Visual,Aktif
+20202,2020,1923029,Desain Komunikasi Visual,Aktif
+20202,2020,1923030,Desain Komunikasi Visual,Aktif
+20202,2020,1923031,Desain Komunikasi Visual,Aktif
+20202,2020,1912020,Manajemen Rekayasa,Aktif
+20202,2020,1912021,Manajemen Rekayasa,Aktif
+20202,2020,1912022,Manajemen Rekayasa,Aktif
+20202,2020,1912023,Manajemen Rekayasa,Aktif
+20202,2020,1912024,Manajemen Rekayasa,Aktif
+20202,2020,1921013,Sistem Informasi,Aktif
+20202,2020,1921014,Sistem Informasi,Aktif
+20202,2020,1921015,Sistem Informasi,Aktif
+20202,2020,1921016,Sistem Informasi,Aktif
+20202,2020,1921017,Sistem Informasi,Aktif
+20202,2020,1921018,Sistem Informasi,nonaktif
+20202,2020,1921019,Sistem Informasi,Aktif
+20202,2020,1921020,Sistem Informasi,Aktif
+20202,2020,1912025,Manajemen Rekayasa,Aktif
+20202,2020,1923032,Desain Komunikasi Visual,Aktif
+20202,2020,1921021,Sistem Informasi,Aktif
+20202,2020,1924012,Matematika,nonaktif
+20202,2020,1924013,Matematika,Aktif
+20202,2020,1924014,Matematika,Aktif
+20202,2020,1924015,Matematika,Aktif
+20202,2020,1911037,Teknik Industri,nonaktif
+20202,2020,1922025,Teknik Komputer,Aktif
+20202,2020,1922026,Teknik Komputer,nonaktif
+20202,2020,1922027,Teknik Komputer,Aktif
+20202,2020,1922028,Teknik Komputer,Aktif
+20202,2020,1923061,Desain Komunikasi Visual,nonaktif
+20202,2020,1922030,Teknik Komputer,nonaktif
+20202,2020,1911034,Teknik Industri,Aktif
+20202,2020,1911035,Teknik Industri,Aktif
+20202,2020,1923033,Desain Komunikasi Visual,Aktif
+20202,2020,1923034,Desain Komunikasi Visual,Aktif
+20202,2020,1921022,Sistem Informasi,Aktif
+20202,2020,1923035,Desain Komunikasi Visual,Aktif
+20202,2020,1923036,Desain Komunikasi Visual,nonaktif
+20202,2020,1923037,Desain Komunikasi Visual,Aktif
+20202,2020,1923038,Desain Komunikasi Visual,Aktif
+20202,2020,1923039,Desain Komunikasi Visual,nonaktif
+20202,2020,1923040,Desain Komunikasi Visual,Aktif
+20202,2020,1923041,Desain Komunikasi Visual,Aktif
+20202,2020,1923042,Desain Komunikasi Visual,Aktif
+20202,2020,1923043,Desain Komunikasi Visual,nonaktif
+20202,2020,1923044,Desain Komunikasi Visual,nonaktif
+20202,2020,1923045,Desain Komunikasi Visual,nonaktif
+20202,2020,1923046,Desain Komunikasi Visual,nonaktif
+20202,2020,1923047,Desain Komunikasi Visual,Aktif
+20202,2020,1923048,Desain Komunikasi Visual,Aktif
+20202,2020,1923049,Desain Komunikasi Visual,Aktif
+20202,2020,1923050,Desain Komunikasi Visual,Aktif
+20202,2020,1923051,Desain Komunikasi Visual,Aktif
+20202,2020,1923052,Desain Komunikasi Visual,Aktif
+20202,2020,1923053,Desain Komunikasi Visual,Aktif
+20202,2020,1923054,Desain Komunikasi Visual,Aktif
+20202,2020,1923055,Desain Komunikasi Visual,Aktif
+20202,2020,1923056,Desain Komunikasi Visual,nonaktif
+20202,2020,1923057,Desain Komunikasi Visual,Aktif
+20202,2020,1923058,Desain Komunikasi Visual,nonaktif
+20202,2020,1923059,Desain Komunikasi Visual,Aktif
+20202,2020,1912027,Manajemen Rekayasa,Aktif
+20202,2020,1912028,Manajemen Rekayasa,nonaktif
+20202,2020,1921023,Sistem Informasi,Aktif
+20202,2020,1911036,Teknik Industri,Aktif
+20202,2020,1923060,Desain Komunikasi Visual,Aktif
+20202,2020,1922031,Teknik Komputer,nonaktif
+20202,2020,1922032,Teknik Komputer,Aktif
+20202,2020,1911038,Teknik Industri,Aktif
+20202,2020,1911039,Teknik Industri,nonaktif
+20202,2020,1922033,Teknik Komputer,Aktif
+20202,2020,2011052,Teknik Industri,Aktif
+20202,2020,2022001,Teknik Komputer,Aktif
+20202,2020,2022002,Teknik Komputer,Aktif
+20202,2020,2021001,Sistem Informasi,Aktif
+20202,2020,2023002,Desain Komunikasi Visual,Aktif
+20202,2020,2022003,Teknik Komputer,Aktif
+20202,2020,2023003,Desain Komunikasi Visual,Aktif
+20202,2020,2021002,Sistem Informasi,Aktif
+20202,2020,2021003,Sistem Informasi,Aktif
+20202,2020,2023004,Desain Komunikasi Visual,Aktif
+20202,2020,2011002,Teknik Industri,Aktif
+20202,2020,2023005,Desain Komunikasi Visual,Aktif
+20202,2020,2021005,Sistem Informasi,Aktif
+20202,2020,2021006,Sistem Informasi,Aktif
+20202,2020,2012001,Manajemen Rekayasa,Aktif
+20202,2020,2024001,Matematika,nonaktif
+20202,2020,2012002,Manajemen Rekayasa,Aktif
+20202,2020,2011003,Teknik Industri,Aktif
+20202,2020,2021007,Sistem Informasi,Aktif
+20202,2020,2023007,Desain Komunikasi Visual,Aktif
+20202,2020,2023008,Desain Komunikasi Visual,Aktif
+20202,2020,2023009,Desain Komunikasi Visual,Aktif
+20202,2020,2021008,Sistem Informasi,Aktif
+20202,2020,2023010,Desain Komunikasi Visual,nonaktif
+20202,2020,2021009,Sistem Informasi,Aktif
+20202,2020,2022004,Teknik Komputer,nonaktif
+20202,2020,2012033,Manajemen Rekayasa,Aktif
+20202,2020,2023059,Desain Komunikasi Visual,Aktif
+20202,2020,2021012,Sistem Informasi,nonaktif
+20202,2020,2012003,Manajemen Rekayasa,Aktif
+20202,2020,2021013,Sistem Informasi,Aktif
+20202,2020,2023011,Desain Komunikasi Visual,Aktif
+20202,2020,2021014,Sistem Informasi,Aktif
+20202,2020,2023012,Desain Komunikasi Visual,Aktif
+20202,2020,2023013,Desain Komunikasi Visual,nonaktif
+20202,2020,2024002,Matematika,Aktif
+20202,2020,2023014,Desain Komunikasi Visual,Aktif
+20202,2020,2011004,Teknik Industri,Aktif
+20202,2020,2011005,Teknik Industri,nonaktif
+20202,2020,2024003,Matematika,Aktif
+20202,2020,2024004,Matematika,nonaktif
+20202,2020,2023015,Desain Komunikasi Visual,Aktif
+20202,2020,2023016,Desain Komunikasi Visual,nonaktif
+20202,2020,2011006,Teknik Industri,Aktif
+20202,2020,2023017,Desain Komunikasi Visual,Aktif
+20202,2020,2011007,Teknik Industri,Aktif
+20202,2020,2012004,Manajemen Rekayasa,Aktif
+20202,2020,2021015,Sistem Informasi,Aktif
+20202,2020,2021016,Sistem Informasi,Aktif
+20202,2020,2011008,Teknik Industri,Aktif
+20202,2020,2021017,Sistem Informasi,Aktif
+20202,2020,2021018,Sistem Informasi,Aktif
+20202,2020,2012005,Manajemen Rekayasa,Aktif
+20202,2020,2011009,Teknik Industri,Aktif
+20202,2020,2011010,Teknik Industri,Aktif
+20202,2020,2021019,Sistem Informasi,Aktif
+20202,2020,2012006,Manajemen Rekayasa,Aktif
+20202,2020,2023018,Desain Komunikasi Visual,Aktif
+20202,2020,2023019,Desain Komunikasi Visual,Aktif
+20202,2020,2021020,Sistem Informasi,Aktif
+20202,2020,2023020,Desain Komunikasi Visual,Aktif
+20202,2020,2021021,Sistem Informasi,Aktif
+20202,2020,2021022,Sistem Informasi,Aktif
+20202,2020,2012007,Manajemen Rekayasa,Aktif
+20202,2020,2021023,Sistem Informasi,Aktif
+20202,2020,2022005,Teknik Komputer,Aktif
+20202,2020,2021024,Sistem Informasi,Aktif
+20202,2020,2024018,Matematika,Aktif
+20202,2020,2021025,Sistem Informasi,Aktif
+20202,2020,2011011,Teknik Industri,Aktif
+20202,2020,2021026,Sistem Informasi,nonaktif
+20202,2020,2023022,Desain Komunikasi Visual,Aktif
+20202,2020,2023023,Desain Komunikasi Visual,Aktif
+20202,2020,2012008,Manajemen Rekayasa,Aktif
+20202,2020,2023025,Desain Komunikasi Visual,Aktif
+20202,2020,2023026,Desain Komunikasi Visual,Aktif
+20202,2020,2023027,Desain Komunikasi Visual,Aktif
+20202,2020,2024005,Matematika,Aktif
+20202,2020,2011012,Teknik Industri,Aktif
+20202,2020,2022006,Teknik Komputer,Aktif
+20202,2020,2024006,Matematika,Aktif
+20202,2020,2022007,Teknik Komputer,Aktif
+20202,2020,2021027,Sistem Informasi,Aktif
+20202,2020,2022008,Teknik Komputer,Aktif
+20202,2020,2023028,Desain Komunikasi Visual,Aktif
+20202,2020,2022009,Teknik Komputer,Aktif
+20202,2020,2023029,Desain Komunikasi Visual,nonaktif
+20202,2020,2011014,Teknik Industri,Aktif
+20202,2020,2021028,Sistem Informasi,Aktif
+20202,2020,2021029,Sistem Informasi,Aktif
+20202,2020,2023030,Desain Komunikasi Visual,nonaktif
+20202,2020,2023031,Desain Komunikasi Visual,Aktif
+20202,2020,2011015,Teknik Industri,nonaktif
+20202,2020,2011016,Teknik Industri,nonaktif
+20202,2020,2022010,Teknik Komputer,Aktif
+20202,2020,2012009,Manajemen Rekayasa,Aktif
+20202,2020,2011017,Teknik Industri,Aktif
+20202,2020,2021030,Sistem Informasi,Aktif
+20202,2020,2021031,Sistem Informasi,Aktif
+20202,2020,2021032,Sistem Informasi,Aktif
+20202,2020,2021033,Sistem Informasi,Aktif
+20202,2020,2012010,Manajemen Rekayasa,Aktif
+20202,2020,2022011,Teknik Komputer,nonaktif
+20202,2020,2011018,Teknik Industri,Aktif
+20202,2020,2021034,Sistem Informasi,nonaktif
+20202,2020,2011019,Teknik Industri,Aktif
+20202,2020,2022012,Teknik Komputer,Aktif
+20202,2020,2011020,Teknik Industri,Aktif
+20202,2020,2011044,Teknik Industri,Aktif
+20202,2020,2021035,Sistem Informasi,Aktif
+20202,2020,2023032,Desain Komunikasi Visual,nonaktif
+20202,2020,2023033,Desain Komunikasi Visual,Aktif
+20202,2020,2011022,Teknik Industri,Aktif
+20202,2020,2022013,Teknik Komputer,Aktif
+20202,2020,2024008,Matematika,Aktif
+20202,2020,2012011,Manajemen Rekayasa,Aktif
+20202,2020,2011023,Teknik Industri,Aktif
+20202,2020,2022014,Teknik Komputer,Aktif
+20202,2020,2023034,Desain Komunikasi Visual,Aktif
+20202,2020,2011024,Teknik Industri,Aktif
+20202,2020,2021036,Sistem Informasi,Aktif
+20202,2020,2011025,Teknik Industri,Aktif
+20202,2020,2023035,Desain Komunikasi Visual,Aktif
+20202,2020,2011026,Teknik Industri,cuti
+20202,2020,2012014,Manajemen Rekayasa,Aktif
+20202,2020,2012015,Manajemen Rekayasa,Aktif
+20202,2020,2022015,Teknik Komputer,Aktif
+20202,2020,2023036,Desain Komunikasi Visual,nonaktif
+20202,2020,2023038,Desain Komunikasi Visual,Aktif
+20202,2020,2021037,Sistem Informasi,Aktif
+20202,2020,2023039,Desain Komunikasi Visual,Aktif
+20202,2020,2011027,Teknik Industri,Aktif
+20202,2020,2023040,Desain Komunikasi Visual,Aktif
+20202,2020,2011028,Teknik Industri,Aktif
+20202,2020,2021038,Sistem Informasi,Aktif
+20202,2020,2011045,Teknik Industri,Aktif
+20202,2020,2012016,Manajemen Rekayasa,Aktif
+20202,2020,2011029,Teknik Industri,Aktif
+20202,2020,2023072,Desain Komunikasi Visual,Aktif
+20202,2020,2021040,Sistem Informasi,Aktif
+20202,2020,2021041,Sistem Informasi,Aktif
+20202,2020,2023052,Desain Komunikasi Visual,Aktif
+20202,2020,2024010,Matematika,Aktif
+20202,2020,2021042,Sistem Informasi,Aktif
+20202,2020,2021044,Sistem Informasi,Aktif
+20202,2020,2024011,Matematika,Aktif
+20202,2020,2023041,Desain Komunikasi Visual,Aktif
+20202,2020,2023042,Desain Komunikasi Visual,nonaktif
+20202,2020,2012018,Manajemen Rekayasa,Aktif
+20202,2020,2021045,Sistem Informasi,Aktif
+20202,2020,2021046,Sistem Informasi,Aktif
+20202,2020,2012019,Manajemen Rekayasa,Aktif
+20202,2020,2021047,Sistem Informasi,Aktif
+20202,2020,2024012,Matematika,Aktif
+20202,2020,2012030,Manajemen Rekayasa,Aktif
+20202,2020,2021049,Sistem Informasi,Aktif
+20202,2020,2023043,Desain Komunikasi Visual,Aktif
+20202,2020,2012020,Manajemen Rekayasa,nonaktif
+20202,2020,2011030,Teknik Industri,nonaktif
+20202,2020,2021050,Sistem Informasi,Aktif
+20202,2020,2021051,Sistem Informasi,Aktif
+20202,2020,2011031,Teknik Industri,Aktif
+20202,2020,2023044,Desain Komunikasi Visual,nonaktif
+20202,2020,2024013,Matematika,Aktif
+20202,2020,2022017,Teknik Komputer,Aktif
+20202,2020,2023045,Desain Komunikasi Visual,Aktif
+20202,2020,2021052,Sistem Informasi,Aktif
+20202,2020,2011032,Teknik Industri,Aktif
+20202,2020,2012021,Manajemen Rekayasa,Aktif
+20202,2020,2023046,Desain Komunikasi Visual,Aktif
+20202,2020,2011033,Teknik Industri,nonaktif
+20202,2020,2021053,Sistem Informasi,Aktif
+20202,2020,2024014,Matematika,Aktif
+20202,2020,2022018,Teknik Komputer,Aktif
+20202,2020,2024015,Matematika,Aktif
+20202,2020,2023054,Desain Komunikasi Visual,Aktif
+20202,2020,2023047,Desain Komunikasi Visual,nonaktif
+20202,2020,2021055,Sistem Informasi,Aktif
+20202,2020,2024016,Matematika,Aktif
+20202,2020,2023049,Desain Komunikasi Visual,Aktif
+20202,2020,2011034,Teknik Industri,Aktif
+20202,2020,2012023,Manajemen Rekayasa,Aktif
+20202,2020,2012024,Manajemen Rekayasa,nonaktif
+20202,2020,2012025,Manajemen Rekayasa,Aktif
+20202,2020,2011035,Teknik Industri,Aktif
+20202,2020,2022019,Teknik Komputer,Aktif
+20202,2020,2024017,Matematika,Aktif
+20202,2020,2012026,Manajemen Rekayasa,Aktif
+20202,2020,2011036,Teknik Industri,Aktif
+20202,2020,2011037,Teknik Industri,Aktif
+20202,2020,2022020,Teknik Komputer,nonaktif
+20202,2020,2023050,Desain Komunikasi Visual,Aktif
+20202,2020,2024019,Matematika,Aktif
+20202,2020,2021056,Sistem Informasi,Aktif
+20202,2020,2021057,Sistem Informasi,Aktif
+20202,2020,2023051,Desain Komunikasi Visual,nonaktif
+20202,2020,2012027,Manajemen Rekayasa,Aktif
+20202,2020,2012028,Manajemen Rekayasa,nonaktif
+20202,2020,2011038,Teknik Industri,Aktif
+20202,2020,2012029,Manajemen Rekayasa,nonaktif
+20202,2020,2022023,Teknik Komputer,Aktif
+20202,2020,2011039,Teknik Industri,Aktif
+20202,2020,2023053,Desain Komunikasi Visual,Aktif
+20202,2020,2021058,Sistem Informasi,Aktif
+20202,2020,2011040,Teknik Industri,Aktif
+20202,2020,2023055,Desain Komunikasi Visual,Aktif
+20202,2020,2023056,Desain Komunikasi Visual,nonaktif
+20202,2020,2021059,Sistem Informasi,Aktif
+20202,2020,2012031,Manajemen Rekayasa,Aktif
+20202,2020,2012032,Manajemen Rekayasa,Aktif
+20202,2020,2011041,Teknik Industri,Aktif
+20202,2020,2012044,Manajemen Rekayasa,Aktif
+20202,2020,2011042,Teknik Industri,Aktif
+20202,2020,2023057,Desain Komunikasi Visual,Aktif
+20202,2020,2023058,Desain Komunikasi Visual,Aktif
+20202,2020,2021061,Sistem Informasi,nonaktif
+20202,2020,2021062,Sistem Informasi,Aktif
+20202,2020,2011043,Teknik Industri,Aktif
+20202,2020,2012034,Manajemen Rekayasa,Aktif
+20202,2020,2012035,Manajemen Rekayasa,Aktif
+20202,2020,2022024,Teknik Komputer,Aktif
+20202,2020,2012036,Manajemen Rekayasa,Aktif
+20202,2020,2023060,Desain Komunikasi Visual,Aktif
+20202,2020,2023061,Desain Komunikasi Visual,Aktif
+20202,2020,2022025,Teknik Komputer,nonaktif
+20202,2020,2023062,Desain Komunikasi Visual,nonaktif
+20202,2020,2012037,Manajemen Rekayasa,Aktif
+20202,2020,2024020,Matematika,Aktif
+20202,2020,2024021,Matematika,Aktif
+20202,2020,2023063,Desain Komunikasi Visual,Aktif
+20202,2020,2012038,Manajemen Rekayasa,Aktif
+20202,2020,2024022,Matematika,Aktif
+20202,2020,2024023,Matematika,Aktif
+20202,2020,2024024,Matematika,Aktif
+20202,2020,2024025,Matematika,nonaktif
+20202,2020,2024026,Matematika,Aktif
+20202,2020,2012039,Manajemen Rekayasa,Aktif
+20202,2020,2011048,Teknik Industri,Aktif
+20202,2020,2012040,Manajemen Rekayasa,Aktif
+20202,2020,2024027,Matematika,nonaktif
+20202,2020,2011050,Teknik Industri,nonaktif
+20202,2020,2021063,Sistem Informasi,nonaktif
+20202,2020,2021064,Sistem Informasi,Aktif
+20202,2020,2011051,Teknik Industri,Aktif
+20202,2020,2023064,Desain Komunikasi Visual,Aktif
+20202,2020,2021065,Sistem Informasi,Aktif
+20202,2020,2021066,Sistem Informasi,Aktif
+20202,2020,2011053,Teknik Industri,Aktif
+20202,2020,2011054,Teknik Industri,Aktif
+20202,2020,2012041,Manajemen Rekayasa,nonaktif
+20202,2020,2011055,Teknik Industri,Aktif
+20202,2020,2023065,Desain Komunikasi Visual,Aktif
+20202,2020,2012042,Manajemen Rekayasa,Aktif
+20202,2020,2021067,Sistem Informasi,Aktif
+20202,2020,2011056,Teknik Industri,Aktif
+20202,2020,2011057,Teknik Industri,Aktif
+20202,2020,2024028,Matematika,Aktif
+20202,2020,2012043,Manajemen Rekayasa,Aktif
+20202,2020,2024035,Matematika,Aktif
+20202,2020,2023071,Desain Komunikasi Visual,Aktif
+20202,2020,2022026,Teknik Komputer,Aktif
+20202,2020,2024031,Matematika,nonaktif
+20202,2020,2022027,Teknik Komputer,Aktif
+20202,2020,2021068,Sistem Informasi,Aktif
+20202,2020,2022028,Teknik Komputer,Aktif
+20202,2020,2023066,Desain Komunikasi Visual,nonaktif
+20202,2020,2021069,Sistem Informasi,Aktif
+20202,2020,2011058,Teknik Industri,Aktif
+20202,2020,2011059,Teknik Industri,Aktif
+20202,2020,2011060,Teknik Industri,Aktif
+20202,2020,2011061,Teknik Industri,Aktif
+20202,2020,2024032,Matematika,Aktif
+20202,2020,2021071,Sistem Informasi,Aktif
+20202,2020,2024033,Matematika,Aktif
+20202,2020,2024034,Matematika,Aktif
+20202,2020,2023067,Desain Komunikasi Visual,Aktif
+20202,2020,2023068,Desain Komunikasi Visual,Aktif
+20202,2020,2021072,Sistem Informasi,nonaktif
+20202,2020,2021073,Sistem Informasi,nonaktif
+20202,2020,2012045,Manajemen Rekayasa,nonaktif
+20202,2020,2011062,Teknik Industri,nonaktif
+20202,2020,2011063,Teknik Industri,Aktif
+20202,2020,2022029,Teknik Komputer,Aktif
+20202,2020,2022030,Teknik Komputer,Aktif
+20202,2020,2021074,Sistem Informasi,Aktif
+20202,2020,2022031,Teknik Komputer,Aktif
+20202,2020,2024036,Matematika,nonaktif
+20202,2020,2011064,Teknik Industri,Aktif
+20202,2020,2023069,Desain Komunikasi Visual,nonaktif
+20202,2020,2023070,Desain Komunikasi Visual,Aktif
+20202,2020,2024037,Matematika,Aktif
+20202,2020,2021075,Sistem Informasi,Aktif
+20202,2020,2021076,Sistem Informasi,Aktif
+20202,2020,2022032,Teknik Komputer,nonaktif
+20202,2020,2024038,Matematika,Aktif
+20202,2020,2011065,Teknik Industri,nonaktif
+20211,2021,1822006,Teknik Komputer,Aktif
+20211,2021,1823010,Desain Komunikasi Visual,nonaktif
+20211,2021,1823018,Desain Komunikasi Visual,Aktif
+20211,2021,1823024,Desain Komunikasi Visual,nonaktif
+20211,2021,1823021,Desain Komunikasi Visual,Aktif
+20211,2021,1823027,Desain Komunikasi Visual,Aktif
+20211,2021,1823003,Desain Komunikasi Visual,Aktif
+20211,2021,1811009,Teknik Industri,Aktif
+20211,2021,1823026,Desain Komunikasi Visual,nonaktif
+20211,2021,1811011,Teknik Industri,Aktif
+20211,2021,1823004,Desain Komunikasi Visual,Aktif
+20211,2021,1811012,Teknik Industri,Aktif
+20211,2021,1823020,Desain Komunikasi Visual,Aktif
+20211,2021,1823022,Desain Komunikasi Visual,nonaktif
+20211,2021,1823009,Desain Komunikasi Visual,Aktif
+20211,2021,1823011,Desain Komunikasi Visual,Aktif
+20211,2021,1811003,Teknik Industri,Aktif
+20211,2021,1811006,Teknik Industri,Aktif
+20211,2021,1823019,Desain Komunikasi Visual,Aktif
+20211,2021,1823001,Desain Komunikasi Visual,Aktif
+20211,2021,1823016,Desain Komunikasi Visual,Aktif
+20211,2021,1822013,Teknik Komputer,Aktif
+20211,2021,1823008,Desain Komunikasi Visual,Aktif
+20211,2021,1823005,Desain Komunikasi Visual,nonaktif
+20211,2021,1823025,Desain Komunikasi Visual,Aktif
+20211,2021,1823012,Desain Komunikasi Visual,Aktif
+20211,2021,1823014,Desain Komunikasi Visual,Aktif
+20211,2021,1823006,Desain Komunikasi Visual,Aktif
+20211,2021,1823017,Desain Komunikasi Visual,nonaktif
+20211,2021,1811016,Teknik Industri,Aktif
+20211,2021,1823015,Desain Komunikasi Visual,Aktif
+20211,2021,1811014,Teknik Industri,Aktif
+20211,2021,1821007,Sistem Informasi,Aktif
+20211,2021,1821012,Sistem Informasi,Aktif
+20211,2021,1824002,Matematika,Aktif
+20211,2021,1822001,Teknik Komputer,Aktif
+20211,2021,1812004,Manajemen Rekayasa,nonaktif
+20211,2021,1821004,Sistem Informasi,Aktif
+20211,2021,1811001,Teknik Industri,Aktif
+20211,2021,1811015,Teknik Industri,Aktif
+20211,2021,1811013,Teknik Industri,Aktif
+20211,2021,1824001,Matematika,Aktif
+20211,2021,1812001,Manajemen Rekayasa,Aktif
+20211,2021,1822014,Teknik Komputer,Aktif
+20211,2021,1812002,Manajemen Rekayasa,nonaktif
+20211,2021,1812007,Manajemen Rekayasa,Aktif
+20211,2021,1822011,Teknik Komputer,Aktif
+20211,2021,1811004,Teknik Industri,Aktif
+20211,2021,1822007,Teknik Komputer,Aktif
+20211,2021,1812005,Manajemen Rekayasa,Aktif
+20211,2021,1821001,Sistem Informasi,Aktif
+20211,2021,1821003,Sistem Informasi,Aktif
+20211,2021,1811005,Teknik Industri,Aktif
+20211,2021,1822002,Teknik Komputer,Aktif
+20211,2021,1821005,Sistem Informasi,Aktif
+20211,2021,1822003,Teknik Komputer,Aktif
+20211,2021,1812008,Manajemen Rekayasa,Aktif
+20211,2021,1821002,Sistem Informasi,Aktif
+20211,2021,1821006,Sistem Informasi,Aktif
+20211,2021,1811008,Teknik Industri,Aktif
+20211,2021,1822004,Teknik Komputer,Aktif
+20211,2021,1811002,Teknik Industri,Aktif
+20211,2021,1811007,Teknik Industri,Aktif
+20211,2021,1822012,Teknik Komputer,Aktif
+20211,2021,1821010,Sistem Informasi,Aktif
+20211,2021,1821013,Sistem Informasi,Aktif
+20211,2021,1821009,Sistem Informasi,Aktif
+20211,2021,1821008,Sistem Informasi,Aktif
+20211,2021,1821014,Sistem Informasi,Aktif
+20211,2021,1821011,Sistem Informasi,Aktif
+20211,2021,1821015,Sistem Informasi,Aktif
+20211,2021,1921001,Sistem Informasi,nonaktif
+20211,2021,1912029,Manajemen Rekayasa,Aktif
+20211,2021,1924001,Matematika,Aktif
+20211,2021,1924002,Matematika,Aktif
+20211,2021,1922001,Teknik Komputer,Aktif
+20211,2021,1922002,Teknik Komputer,Aktif
+20211,2021,1922003,Teknik Komputer,Aktif
+20211,2021,1922004,Teknik Komputer,Aktif
+20211,2021,1922005,Teknik Komputer,Aktif
+20211,2021,1911002,Teknik Industri,Aktif
+20211,2021,1922006,Teknik Komputer,nonaktif
+20211,2021,1922007,Teknik Komputer,Aktif
+20211,2021,1911003,Teknik Industri,nonaktif
+20211,2021,1911004,Teknik Industri,Aktif
+20211,2021,1923001,Desain Komunikasi Visual,Aktif
+20211,2021,1923002,Desain Komunikasi Visual,Aktif
+20211,2021,1923003,Desain Komunikasi Visual,Aktif
+20211,2021,1923004,Desain Komunikasi Visual,Aktif
+20211,2021,1922008,Teknik Komputer,Aktif
+20211,2021,1923005,Desain Komunikasi Visual,Aktif
+20211,2021,1923006,Desain Komunikasi Visual,Aktif
+20211,2021,1923007,Desain Komunikasi Visual,Aktif
+20211,2021,1923008,Desain Komunikasi Visual,Aktif
+20211,2021,1912001,Manajemen Rekayasa,Aktif
+20211,2021,1912002,Manajemen Rekayasa,Aktif
+20211,2021,1912003,Manajemen Rekayasa,Aktif
+20211,2021,1912004,Manajemen Rekayasa,Aktif
+20211,2021,1912005,Manajemen Rekayasa,Aktif
+20211,2021,1912006,Manajemen Rekayasa,Aktif
+20211,2021,1912007,Manajemen Rekayasa,Aktif
+20211,2021,1924003,Matematika,Aktif
+20211,2021,1924004,Matematika,nonaktif
+20211,2021,1924005,Matematika,Aktif
+20211,2021,1922009,Teknik Komputer,Aktif
+20211,2021,1921002,Sistem Informasi,nonaktif
+20211,2021,1921003,Sistem Informasi,Aktif
+20211,2021,1921004,Sistem Informasi,Aktif
+20211,2021,1921005,Sistem Informasi,Aktif
+20211,2021,1912008,Manajemen Rekayasa,nonaktif
+20211,2021,1922010,Teknik Komputer,Aktif
+20211,2021,1924006,Matematika,Aktif
+20211,2021,1924007,Matematika,Aktif
+20211,2021,1923009,Desain Komunikasi Visual,nonaktif
+20211,2021,1923010,Desain Komunikasi Visual,Aktif
+20211,2021,1923011,Desain Komunikasi Visual,Aktif
+20211,2021,1912009,Manajemen Rekayasa,Aktif
+20211,2021,1912010,Manajemen Rekayasa,Aktif
+20211,2021,1923012,Desain Komunikasi Visual,Aktif
+20211,2021,1923013,Desain Komunikasi Visual,Aktif
+20211,2021,1921006,Sistem Informasi,Aktif
+20211,2021,1911005,Teknik Industri,Aktif
+20211,2021,1911006,Teknik Industri,Aktif
+20211,2021,1911007,Teknik Industri,nonaktif
+20211,2021,1911008,Teknik Industri,Aktif
+20211,2021,1911009,Teknik Industri,nonaktif
+20211,2021,1923014,Desain Komunikasi Visual,nonaktif
+20211,2021,1922011,Teknik Komputer,Aktif
+20211,2021,1922012,Teknik Komputer,nonaktif
+20211,2021,1911010,Teknik Industri,Aktif
+20211,2021,1912011,Manajemen Rekayasa,nonaktif
+20211,2021,1911011,Teknik Industri,Aktif
+20211,2021,1911012,Teknik Industri,Aktif
+20211,2021,1911013,Teknik Industri,nonaktif
+20211,2021,1911014,Teknik Industri,Aktif
+20211,2021,1912012,Manajemen Rekayasa,Aktif
+20211,2021,1923015,Desain Komunikasi Visual,Aktif
+20211,2021,1923016,Desain Komunikasi Visual,nonaktif
+20211,2021,1923017,Desain Komunikasi Visual,Aktif
+20211,2021,1911015,Teknik Industri,Aktif
+20211,2021,1912013,Manajemen Rekayasa,Aktif
+20211,2021,1921007,Sistem Informasi,Aktif
+20211,2021,1921008,Sistem Informasi,nonaktif
+20211,2021,1923018,Desain Komunikasi Visual,Aktif
+20211,2021,1924008,Matematika,Aktif
+20211,2021,1924009,Matematika,Aktif
+20211,2021,1921009,Sistem Informasi,nonaktif
+20211,2021,1912014,Manajemen Rekayasa,Aktif
+20211,2021,1912015,Manajemen Rekayasa,nonaktif
+20211,2021,1912016,Manajemen Rekayasa,Aktif
+20211,2021,1923019,Desain Komunikasi Visual,Aktif
+20211,2021,1923020,Desain Komunikasi Visual,nonaktif
+20211,2021,1923021,Desain Komunikasi Visual,Aktif
+20211,2021,1922013,Teknik Komputer,Aktif
+20211,2021,1912017,Manajemen Rekayasa,nonaktif
+20211,2021,1922014,Teknik Komputer,Aktif
+20211,2021,1922015,Teknik Komputer,Aktif
+20211,2021,1911016,Teknik Industri,Aktif
+20211,2021,1922016,Teknik Komputer,Aktif
+20211,2021,1922017,Teknik Komputer,Aktif
+20211,2021,1921010,Sistem Informasi,Aktif
+20211,2021,1911017,Teknik Industri,Aktif
+20211,2021,1911018,Teknik Industri,Aktif
+20211,2021,1911019,Teknik Industri,nonaktif
+20211,2021,1924010,Matematika,Aktif
+20211,2021,1912018,Manajemen Rekayasa,Aktif
+20211,2021,1923022,Desain Komunikasi Visual,nonaktif
+20211,2021,1923023,Desain Komunikasi Visual,Aktif
+20211,2021,1921011,Sistem Informasi,Aktif
+20211,2021,1923024,Desain Komunikasi Visual,Aktif
+20211,2021,1923025,Desain Komunikasi Visual,nonaktif
+20211,2021,1922018,Teknik Komputer,Aktif
+20211,2021,1924011,Matematika,Aktif
+20211,2021,1922019,Teknik Komputer,Aktif
+20211,2021,1922020,Teknik Komputer,Aktif
+20211,2021,1922021,Teknik Komputer,Aktif
+20211,2021,1912019,Manajemen Rekayasa,nonaktif
+20211,2021,1922022,Teknik Komputer,Aktif
+20211,2021,1921012,Sistem Informasi,Aktif
+20211,2021,1911020,Teknik Industri,nonaktif
+20211,2021,1911021,Teknik Industri,Aktif
+20211,2021,1911022,Teknik Industri,Aktif
+20211,2021,1911023,Teknik Industri,nonaktif
+20211,2021,1911024,Teknik Industri,nonaktif
+20211,2021,1911025,Teknik Industri,Aktif
+20211,2021,1911026,Teknik Industri,Aktif
+20211,2021,1911027,Teknik Industri,Aktif
+20211,2021,1911028,Teknik Industri,Aktif
+20211,2021,1911029,Teknik Industri,nonaktif
+20211,2021,1911030,Teknik Industri,nonaktif
+20211,2021,1911031,Teknik Industri,nonaktif
+20211,2021,1911032,Teknik Industri,Aktif
+20211,2021,1911033,Teknik Industri,Aktif
+20211,2021,1923026,Desain Komunikasi Visual,nonaktif
+20211,2021,1922023,Teknik Komputer,Aktif
+20211,2021,1923027,Desain Komunikasi Visual,Aktif
+20211,2021,1923028,Desain Komunikasi Visual,Aktif
+20211,2021,1923029,Desain Komunikasi Visual,Aktif
+20211,2021,1923030,Desain Komunikasi Visual,Aktif
+20211,2021,1923031,Desain Komunikasi Visual,Aktif
+20211,2021,1912020,Manajemen Rekayasa,Aktif
+20211,2021,1912021,Manajemen Rekayasa,Aktif
+20211,2021,1912022,Manajemen Rekayasa,nonaktif
+20211,2021,1912023,Manajemen Rekayasa,Aktif
+20211,2021,1912024,Manajemen Rekayasa,cuti
+20211,2021,1921013,Sistem Informasi,Aktif
+20211,2021,1921014,Sistem Informasi,Aktif
+20211,2021,1921015,Sistem Informasi,Aktif
+20211,2021,1921016,Sistem Informasi,Aktif
+20211,2021,1921017,Sistem Informasi,cuti
+20211,2021,1921018,Sistem Informasi,nonaktif
+20211,2021,1921019,Sistem Informasi,Aktif
+20211,2021,1921020,Sistem Informasi,Aktif
+20211,2021,1912025,Manajemen Rekayasa,Aktif
+20211,2021,1923032,Desain Komunikasi Visual,Aktif
+20211,2021,1921021,Sistem Informasi,Aktif
+20211,2021,1924012,Matematika,nonaktif
+20211,2021,1924013,Matematika,Aktif
+20211,2021,1924014,Matematika,Aktif
+20211,2021,1924015,Matematika,Aktif
+20211,2021,1911037,Teknik Industri,nonaktif
+20211,2021,1922025,Teknik Komputer,Aktif
+20211,2021,1922026,Teknik Komputer,nonaktif
+20211,2021,1922027,Teknik Komputer,Aktif
+20211,2021,1922028,Teknik Komputer,Aktif
+20211,2021,1923061,Desain Komunikasi Visual,nonaktif
+20211,2021,1922030,Teknik Komputer,nonaktif
+20211,2021,1911034,Teknik Industri,Aktif
+20211,2021,1911035,Teknik Industri,Aktif
+20211,2021,1923033,Desain Komunikasi Visual,nonaktif
+20211,2021,1923034,Desain Komunikasi Visual,Aktif
+20211,2021,1921022,Sistem Informasi,Aktif
+20211,2021,1923035,Desain Komunikasi Visual,Aktif
+20211,2021,1923036,Desain Komunikasi Visual,nonaktif
+20211,2021,1923037,Desain Komunikasi Visual,Aktif
+20211,2021,1923038,Desain Komunikasi Visual,Aktif
+20211,2021,1923039,Desain Komunikasi Visual,nonaktif
+20211,2021,1923040,Desain Komunikasi Visual,Aktif
+20211,2021,1923041,Desain Komunikasi Visual,Aktif
+20211,2021,1923042,Desain Komunikasi Visual,Aktif
+20211,2021,1923043,Desain Komunikasi Visual,nonaktif
+20211,2021,1923044,Desain Komunikasi Visual,nonaktif
+20211,2021,1923045,Desain Komunikasi Visual,nonaktif
+20211,2021,1923046,Desain Komunikasi Visual,nonaktif
+20211,2021,1923047,Desain Komunikasi Visual,Aktif
+20211,2021,1923048,Desain Komunikasi Visual,Aktif
+20211,2021,1923049,Desain Komunikasi Visual,Aktif
+20211,2021,1923050,Desain Komunikasi Visual,Aktif
+20211,2021,1923051,Desain Komunikasi Visual,Aktif
+20211,2021,1923052,Desain Komunikasi Visual,Aktif
+20211,2021,1923053,Desain Komunikasi Visual,Aktif
+20211,2021,1923054,Desain Komunikasi Visual,Aktif
+20211,2021,1923055,Desain Komunikasi Visual,nonaktif
+20211,2021,1923056,Desain Komunikasi Visual,nonaktif
+20211,2021,1923057,Desain Komunikasi Visual,Aktif
+20211,2021,1923058,Desain Komunikasi Visual,nonaktif
+20211,2021,1923059,Desain Komunikasi Visual,Aktif
+20211,2021,1912027,Manajemen Rekayasa,Aktif
+20211,2021,1912028,Manajemen Rekayasa,Aktif
+20211,2021,1921023,Sistem Informasi,Aktif
+20211,2021,1911036,Teknik Industri,Aktif
+20211,2021,1923060,Desain Komunikasi Visual,Aktif
+20211,2021,1922031,Teknik Komputer,nonaktif
+20211,2021,1922032,Teknik Komputer,Aktif
+20211,2021,1911038,Teknik Industri,Aktif
+20211,2021,1911039,Teknik Industri,nonaktif
+20211,2021,1922033,Teknik Komputer,Aktif
+20211,2021,2011052,Teknik Industri,Aktif
+20211,2021,2022001,Teknik Komputer,Aktif
+20211,2021,2022002,Teknik Komputer,Aktif
+20211,2021,2021001,Sistem Informasi,Aktif
+20211,2021,2023002,Desain Komunikasi Visual,Aktif
+20211,2021,2022003,Teknik Komputer,Aktif
+20211,2021,2023003,Desain Komunikasi Visual,Aktif
+20211,2021,2021002,Sistem Informasi,Aktif
+20211,2021,2021003,Sistem Informasi,Aktif
+20211,2021,2023004,Desain Komunikasi Visual,Aktif
+20211,2021,2011002,Teknik Industri,Aktif
+20211,2021,2023005,Desain Komunikasi Visual,Aktif
+20211,2021,2021005,Sistem Informasi,Aktif
+20211,2021,2021006,Sistem Informasi,Aktif
+20211,2021,2012001,Manajemen Rekayasa,cuti
+20211,2021,2024001,Matematika,nonaktif
+20211,2021,2012002,Manajemen Rekayasa,Aktif
+20211,2021,2011003,Teknik Industri,Aktif
+20211,2021,2021007,Sistem Informasi,Aktif
+20211,2021,2023007,Desain Komunikasi Visual,Aktif
+20211,2021,2023008,Desain Komunikasi Visual,Aktif
+20211,2021,2023009,Desain Komunikasi Visual,cuti
+20211,2021,2021008,Sistem Informasi,Aktif
+20211,2021,2023010,Desain Komunikasi Visual,nonaktif
+20211,2021,2021009,Sistem Informasi,Aktif
+20211,2021,2022004,Teknik Komputer,nonaktif
+20211,2021,2012033,Manajemen Rekayasa,Aktif
+20211,2021,2023059,Desain Komunikasi Visual,Aktif
+20211,2021,2021012,Sistem Informasi,nonaktif
+20211,2021,2012003,Manajemen Rekayasa,nonaktif
+20211,2021,2021013,Sistem Informasi,Aktif
+20211,2021,2023011,Desain Komunikasi Visual,Aktif
+20211,2021,2021014,Sistem Informasi,Aktif
+20211,2021,2023012,Desain Komunikasi Visual,Aktif
+20211,2021,2023013,Desain Komunikasi Visual,nonaktif
+20211,2021,2024002,Matematika,Aktif
+20211,2021,2023014,Desain Komunikasi Visual,Aktif
+20211,2021,2011004,Teknik Industri,Aktif
+20211,2021,2011005,Teknik Industri,nonaktif
+20211,2021,2024003,Matematika,nonaktif
+20211,2021,2024004,Matematika,nonaktif
+20211,2021,2023015,Desain Komunikasi Visual,Aktif
+20211,2021,2023016,Desain Komunikasi Visual,nonaktif
+20211,2021,2011006,Teknik Industri,Aktif
+20211,2021,2023017,Desain Komunikasi Visual,Aktif
+20211,2021,2011007,Teknik Industri,Aktif
+20211,2021,2012004,Manajemen Rekayasa,cuti
+20211,2021,2021015,Sistem Informasi,Aktif
+20211,2021,2021016,Sistem Informasi,Aktif
+20211,2021,2011008,Teknik Industri,Aktif
+20211,2021,2021017,Sistem Informasi,Aktif
+20211,2021,2021018,Sistem Informasi,Aktif
+20211,2021,2012005,Manajemen Rekayasa,Aktif
+20211,2021,2011009,Teknik Industri,nonaktif
+20211,2021,2011010,Teknik Industri,Aktif
+20211,2021,2021019,Sistem Informasi,Aktif
+20211,2021,2012006,Manajemen Rekayasa,Aktif
+20211,2021,2023018,Desain Komunikasi Visual,nonaktif
+20211,2021,2023019,Desain Komunikasi Visual,Aktif
+20211,2021,2021020,Sistem Informasi,Aktif
+20211,2021,2023020,Desain Komunikasi Visual,Aktif
+20211,2021,2021021,Sistem Informasi,nonaktif
+20211,2021,2021022,Sistem Informasi,Aktif
+20211,2021,2012007,Manajemen Rekayasa,cuti
+20211,2021,2021023,Sistem Informasi,Aktif
+20211,2021,2022005,Teknik Komputer,Aktif
+20211,2021,2021024,Sistem Informasi,Aktif
+20211,2021,2024018,Matematika,Aktif
+20211,2021,2021025,Sistem Informasi,Aktif
+20211,2021,2011011,Teknik Industri,Aktif
+20211,2021,2021026,Sistem Informasi,nonaktif
+20211,2021,2023022,Desain Komunikasi Visual,Aktif
+20211,2021,2023023,Desain Komunikasi Visual,Aktif
+20211,2021,2012008,Manajemen Rekayasa,Aktif
+20211,2021,2023025,Desain Komunikasi Visual,Aktif
+20211,2021,2023026,Desain Komunikasi Visual,Aktif
+20211,2021,2023027,Desain Komunikasi Visual,Aktif
+20211,2021,2024005,Matematika,Aktif
+20211,2021,2011012,Teknik Industri,Aktif
+20211,2021,2022006,Teknik Komputer,nonaktif
+20211,2021,2024006,Matematika,Aktif
+20211,2021,2022007,Teknik Komputer,Aktif
+20211,2021,2021027,Sistem Informasi,Aktif
+20211,2021,2022008,Teknik Komputer,Aktif
+20211,2021,2023028,Desain Komunikasi Visual,nonaktif
+20211,2021,2022009,Teknik Komputer,Aktif
+20211,2021,2023029,Desain Komunikasi Visual,nonaktif
+20211,2021,2011014,Teknik Industri,Aktif
+20211,2021,2021028,Sistem Informasi,Aktif
+20211,2021,2021029,Sistem Informasi,Aktif
+20211,2021,2023030,Desain Komunikasi Visual,nonaktif
+20211,2021,2023031,Desain Komunikasi Visual,Aktif
+20211,2021,2011015,Teknik Industri,nonaktif
+20211,2021,2011016,Teknik Industri,nonaktif
+20211,2021,2022010,Teknik Komputer,Aktif
+20211,2021,2012009,Manajemen Rekayasa,Aktif
+20211,2021,2011017,Teknik Industri,Aktif
+20211,2021,2021030,Sistem Informasi,Aktif
+20211,2021,2021031,Sistem Informasi,Aktif
+20211,2021,2021032,Sistem Informasi,nonaktif
+20211,2021,2021033,Sistem Informasi,Aktif
+20211,2021,2012010,Manajemen Rekayasa,Aktif
+20211,2021,2022011,Teknik Komputer,nonaktif
+20211,2021,2011018,Teknik Industri,Aktif
+20211,2021,2021034,Sistem Informasi,nonaktif
+20211,2021,2011019,Teknik Industri,Aktif
+20211,2021,2022012,Teknik Komputer,Aktif
+20211,2021,2011020,Teknik Industri,Aktif
+20211,2021,2011044,Teknik Industri,Aktif
+20211,2021,2021035,Sistem Informasi,Aktif
+20211,2021,2023032,Desain Komunikasi Visual,nonaktif
+20211,2021,2023033,Desain Komunikasi Visual,Aktif
+20211,2021,2011022,Teknik Industri,Aktif
+20211,2021,2022013,Teknik Komputer,Aktif
+20211,2021,2024008,Matematika,Aktif
+20211,2021,2012011,Manajemen Rekayasa,Aktif
+20211,2021,2011023,Teknik Industri,Aktif
+20211,2021,2022014,Teknik Komputer,Aktif
+20211,2021,2023034,Desain Komunikasi Visual,nonaktif
+20211,2021,2011024,Teknik Industri,Aktif
+20211,2021,2011025,Teknik Industri,Aktif
+20211,2021,2023035,Desain Komunikasi Visual,Aktif
+20211,2021,2011026,Teknik Industri,Aktif
+20211,2021,2012014,Manajemen Rekayasa,Aktif
+20211,2021,2012015,Manajemen Rekayasa,Aktif
+20211,2021,2022015,Teknik Komputer,Aktif
+20211,2021,2023036,Desain Komunikasi Visual,nonaktif
+20211,2021,2023038,Desain Komunikasi Visual,Aktif
+20211,2021,2023039,Desain Komunikasi Visual,nonaktif
+20211,2021,2011027,Teknik Industri,Aktif
+20211,2021,2023040,Desain Komunikasi Visual,Aktif
+20211,2021,2011028,Teknik Industri,Aktif
+20211,2021,2021038,Sistem Informasi,Aktif
+20211,2021,2011045,Teknik Industri,Aktif
+20211,2021,2012016,Manajemen Rekayasa,Aktif
+20211,2021,2011029,Teknik Industri,nonaktif
+20211,2021,2023072,Desain Komunikasi Visual,nonaktif
+20211,2021,2021040,Sistem Informasi,Aktif
+20211,2021,2021041,Sistem Informasi,Aktif
+20211,2021,2023052,Desain Komunikasi Visual,Aktif
+20211,2021,2024010,Matematika,Aktif
+20211,2021,2021042,Sistem Informasi,nonaktif
+20211,2021,2021044,Sistem Informasi,Aktif
+20211,2021,2024011,Matematika,Aktif
+20211,2021,2023041,Desain Komunikasi Visual,Aktif
+20211,2021,2023042,Desain Komunikasi Visual,nonaktif
+20211,2021,2012018,Manajemen Rekayasa,Aktif
+20211,2021,2021045,Sistem Informasi,Aktif
+20211,2021,2021046,Sistem Informasi,Aktif
+20211,2021,2012019,Manajemen Rekayasa,Aktif
+20211,2021,2021047,Sistem Informasi,Aktif
+20211,2021,2024012,Matematika,nonaktif
+20211,2021,2012030,Manajemen Rekayasa,Aktif
+20211,2021,2021049,Sistem Informasi,Aktif
+20211,2021,2023043,Desain Komunikasi Visual,cuti
+20211,2021,2012020,Manajemen Rekayasa,nonaktif
+20211,2021,2011030,Teknik Industri,nonaktif
+20211,2021,2021050,Sistem Informasi,Aktif
+20211,2021,2021051,Sistem Informasi,Aktif
+20211,2021,2011031,Teknik Industri,Aktif
+20211,2021,2023044,Desain Komunikasi Visual,nonaktif
+20211,2021,2024013,Matematika,Aktif
+20211,2021,2022017,Teknik Komputer,Aktif
+20211,2021,2023045,Desain Komunikasi Visual,Aktif
+20211,2021,2021052,Sistem Informasi,Aktif
+20211,2021,2011032,Teknik Industri,Aktif
+20211,2021,2012021,Manajemen Rekayasa,Aktif
+20211,2021,2023046,Desain Komunikasi Visual,Aktif
+20211,2021,2011033,Teknik Industri,nonaktif
+20211,2021,2021053,Sistem Informasi,nonaktif
+20211,2021,2024014,Matematika,Aktif
+20211,2021,2022018,Teknik Komputer,Aktif
+20211,2021,2024015,Matematika,Aktif
+20211,2021,2023054,Desain Komunikasi Visual,Aktif
+20211,2021,2023047,Desain Komunikasi Visual,nonaktif
+20211,2021,2021055,Sistem Informasi,Aktif
+20211,2021,2024016,Matematika,Aktif
+20211,2021,2023049,Desain Komunikasi Visual,Aktif
+20211,2021,2011034,Teknik Industri,Aktif
+20211,2021,2012023,Manajemen Rekayasa,Aktif
+20211,2021,2012024,Manajemen Rekayasa,nonaktif
+20211,2021,2012025,Manajemen Rekayasa,Aktif
+20211,2021,2011035,Teknik Industri,Aktif
+20211,2021,2022019,Teknik Komputer,nonaktif
+20211,2021,2024017,Matematika,Aktif
+20211,2021,2012026,Manajemen Rekayasa,Aktif
+20211,2021,2011036,Teknik Industri,Aktif
+20211,2021,2011037,Teknik Industri,Aktif
+20211,2021,2022020,Teknik Komputer,nonaktif
+20211,2021,2023050,Desain Komunikasi Visual,Aktif
+20211,2021,2024019,Matematika,Aktif
+20211,2021,2021056,Sistem Informasi,Aktif
+20211,2021,2021057,Sistem Informasi,Aktif
+20211,2021,2023051,Desain Komunikasi Visual,Aktif
+20211,2021,2012027,Manajemen Rekayasa,Aktif
+20211,2021,2012028,Manajemen Rekayasa,nonaktif
+20211,2021,2011038,Teknik Industri,Aktif
+20211,2021,2012029,Manajemen Rekayasa,nonaktif
+20211,2021,2022023,Teknik Komputer,Aktif
+20211,2021,2011039,Teknik Industri,Aktif
+20211,2021,2023053,Desain Komunikasi Visual,Aktif
+20211,2021,2021058,Sistem Informasi,Aktif
+20211,2021,2011040,Teknik Industri,Aktif
+20211,2021,2023055,Desain Komunikasi Visual,Aktif
+20211,2021,2023056,Desain Komunikasi Visual,nonaktif
+20211,2021,2021059,Sistem Informasi,Aktif
+20211,2021,2012031,Manajemen Rekayasa,Aktif
+20211,2021,2012032,Manajemen Rekayasa,Aktif
+20211,2021,2011041,Teknik Industri,Aktif
+20211,2021,2012044,Manajemen Rekayasa,Aktif
+20211,2021,2011042,Teknik Industri,Aktif
+20211,2021,2023057,Desain Komunikasi Visual,Aktif
+20211,2021,2023058,Desain Komunikasi Visual,nonaktif
+20211,2021,2021061,Sistem Informasi,nonaktif
+20211,2021,2021062,Sistem Informasi,Aktif
+20211,2021,2011043,Teknik Industri,Aktif
+20211,2021,2012034,Manajemen Rekayasa,Aktif
+20211,2021,2012035,Manajemen Rekayasa,Aktif
+20211,2021,2022024,Teknik Komputer,nonaktif
+20211,2021,2012036,Manajemen Rekayasa,Aktif
+20211,2021,2023060,Desain Komunikasi Visual,Aktif
+20211,2021,2023061,Desain Komunikasi Visual,Aktif
+20211,2021,2022025,Teknik Komputer,nonaktif
+20211,2021,2023062,Desain Komunikasi Visual,nonaktif
+20211,2021,2012037,Manajemen Rekayasa,Aktif
+20211,2021,2024020,Matematika,Aktif
+20211,2021,2024021,Matematika,Aktif
+20211,2021,2023063,Desain Komunikasi Visual,Aktif
+20211,2021,2012038,Manajemen Rekayasa,Aktif
+20211,2021,2024022,Matematika,Aktif
+20211,2021,2024023,Matematika,Aktif
+20211,2021,2024024,Matematika,Aktif
+20211,2021,2024025,Matematika,nonaktif
+20211,2021,2024026,Matematika,Aktif
+20211,2021,2012039,Manajemen Rekayasa,cuti
+20211,2021,2011048,Teknik Industri,Aktif
+20211,2021,2012040,Manajemen Rekayasa,Aktif
+20211,2021,2024027,Matematika,nonaktif
+20211,2021,2011050,Teknik Industri,Aktif
+20211,2021,2021063,Sistem Informasi,nonaktif
+20211,2021,2021064,Sistem Informasi,Aktif
+20211,2021,2011051,Teknik Industri,Aktif
+20211,2021,2023064,Desain Komunikasi Visual,Aktif
+20211,2021,2021065,Sistem Informasi,Aktif
+20211,2021,2021066,Sistem Informasi,Aktif
+20211,2021,2011053,Teknik Industri,Aktif
+20211,2021,2011054,Teknik Industri,Aktif
+20211,2021,2012041,Manajemen Rekayasa,nonaktif
+20211,2021,2011055,Teknik Industri,Aktif
+20211,2021,2023065,Desain Komunikasi Visual,Aktif
+20211,2021,2012042,Manajemen Rekayasa,Aktif
+20211,2021,2021067,Sistem Informasi,Aktif
+20211,2021,2011056,Teknik Industri,Aktif
+20211,2021,2011057,Teknik Industri,Aktif
+20211,2021,2024028,Matematika,Aktif
+20211,2021,2012043,Manajemen Rekayasa,Aktif
+20211,2021,2024035,Matematika,Aktif
+20211,2021,2023071,Desain Komunikasi Visual,nonaktif
+20211,2021,2022026,Teknik Komputer,Aktif
+20211,2021,2024031,Matematika,nonaktif
+20211,2021,2022027,Teknik Komputer,Aktif
+20211,2021,2021068,Sistem Informasi,Aktif
+20211,2021,2022028,Teknik Komputer,Aktif
+20211,2021,2023066,Desain Komunikasi Visual,nonaktif
+20211,2021,2021069,Sistem Informasi,Aktif
+20211,2021,2011058,Teknik Industri,Aktif
+20211,2021,2011059,Teknik Industri,Aktif
+20211,2021,2011060,Teknik Industri,Aktif
+20211,2021,2011061,Teknik Industri,Aktif
+20211,2021,2024032,Matematika,Aktif
+20211,2021,2021071,Sistem Informasi,Aktif
+20211,2021,2024033,Matematika,Aktif
+20211,2021,2024034,Matematika,Aktif
+20211,2021,2023067,Desain Komunikasi Visual,Aktif
+20211,2021,2023068,Desain Komunikasi Visual,Aktif
+20211,2021,2021072,Sistem Informasi,nonaktif
+20211,2021,2021073,Sistem Informasi,nonaktif
+20211,2021,2012045,Manajemen Rekayasa,nonaktif
+20211,2021,2011062,Teknik Industri,nonaktif
+20211,2021,2011063,Teknik Industri,Aktif
+20211,2021,2022029,Teknik Komputer,Aktif
+20211,2021,2022030,Teknik Komputer,Aktif
+20211,2021,2021074,Sistem Informasi,Aktif
+20211,2021,2022031,Teknik Komputer,Aktif
+20211,2021,2024036,Matematika,nonaktif
+20211,2021,2011064,Teknik Industri,nonaktif
+20211,2021,2023069,Desain Komunikasi Visual,nonaktif
+20211,2021,2023070,Desain Komunikasi Visual,nonaktif
+20211,2021,2024037,Matematika,Aktif
+20211,2021,2021075,Sistem Informasi,Aktif
+20211,2021,2021076,Sistem Informasi,Aktif
+20211,2021,2022032,Teknik Komputer,nonaktif
+20211,2021,2024038,Matematika,Aktif
+20211,2021,2011065,Teknik Industri,nonaktif
+20211,2021,2112001,Manajemen Rekayasa,Aktif
+20211,2021,2111001,Teknik Industri,Aktif
+20211,2021,2123001,Desain Komunikasi Visual,Aktif
+20211,2021,2121001,Sistem Informasi,Aktif
+20211,2021,2124001,Matematika,Aktif
+20211,2021,2123002,Desain Komunikasi Visual,Aktif
+20211,2021,2123003,Desain Komunikasi Visual,Aktif
+20211,2021,2121002,Sistem Informasi,Aktif
+20211,2021,2122001,Teknik Komputer,Aktif
+20211,2021,2121003,Sistem Informasi,Aktif
+20211,2021,2122002,Teknik Komputer,Aktif
+20211,2021,2123004,Desain Komunikasi Visual,Aktif
+20211,2021,2123005,Desain Komunikasi Visual,Aktif
+20211,2021,2121004,Sistem Informasi,Aktif
+20211,2021,2123006,Desain Komunikasi Visual,Aktif
+20211,2021,2123007,Desain Komunikasi Visual,Aktif
+20211,2021,2121005,Sistem Informasi,Aktif
+20211,2021,2111002,Teknik Industri,Aktif
+20211,2021,2111003,Teknik Industri,nonaktif
+20211,2021,2121006,Sistem Informasi,Aktif
+20211,2021,2123008,Desain Komunikasi Visual,Aktif
+20211,2021,2111005,Teknik Industri,Aktif
+20211,2021,2123009,Desain Komunikasi Visual,Aktif
+20211,2021,2112003,Manajemen Rekayasa,Aktif
+20211,2021,2122003,Teknik Komputer,Aktif
+20211,2021,2123010,Desain Komunikasi Visual,Aktif
+20211,2021,2123011,Desain Komunikasi Visual,Aktif
+20211,2021,2111006,Teknik Industri,Aktif
+20211,2021,2111007,Teknik Industri,Aktif
+20211,2021,2123012,Desain Komunikasi Visual,Aktif
+20211,2021,2111008,Teknik Industri,Aktif
+20211,2021,2111009,Teknik Industri,Aktif
+20211,2021,2123013,Desain Komunikasi Visual,Aktif
+20211,2021,2112004,Manajemen Rekayasa,Aktif
+20211,2021,2111010,Teknik Industri,Aktif
+20211,2021,2123014,Desain Komunikasi Visual,Aktif
+20211,2021,2122004,Teknik Komputer,Aktif
+20211,2021,2111011,Teknik Industri,Aktif
+20211,2021,2111012,Teknik Industri,Aktif
+20211,2021,2121007,Sistem Informasi,Aktif
+20211,2021,2123015,Desain Komunikasi Visual,Aktif
+20211,2021,2111013,Teknik Industri,nonaktif
+20211,2021,2121008,Sistem Informasi,Aktif
+20211,2021,2123016,Desain Komunikasi Visual,Aktif
+20211,2021,2111014,Teknik Industri,Aktif
+20211,2021,2123017,Desain Komunikasi Visual,Aktif
+20211,2021,2123018,Desain Komunikasi Visual,Aktif
+20211,2021,2121009,Sistem Informasi,Aktif
+20211,2021,2123019,Desain Komunikasi Visual,Aktif
+20211,2021,2124003,Matematika,Aktif
+20211,2021,2112006,Manajemen Rekayasa,Aktif
+20211,2021,2122005,Teknik Komputer,Aktif
+20211,2021,2123020,Desain Komunikasi Visual,Aktif
+20211,2021,2123021,Desain Komunikasi Visual,Aktif
+20211,2021,2112007,Manajemen Rekayasa,Aktif
+20211,2021,2121010,Sistem Informasi,Aktif
+20211,2021,2123022,Desain Komunikasi Visual,Aktif
+20211,2021,2111015,Teknik Industri,Aktif
+20211,2021,2112008,Manajemen Rekayasa,Aktif
+20211,2021,2121011,Sistem Informasi,Aktif
+20211,2021,2124004,Matematika,Aktif
+20211,2021,2123023,Desain Komunikasi Visual,Aktif
+20211,2021,2122006,Teknik Komputer,Aktif
+20211,2021,2112009,Manajemen Rekayasa,Aktif
+20211,2021,2111016,Teknik Industri,Aktif
+20211,2021,2121012,Sistem Informasi,Aktif
+20211,2021,2123024,Desain Komunikasi Visual,Aktif
+20211,2021,2111017,Teknik Industri,Aktif
+20211,2021,2124005,Matematika,Aktif
+20211,2021,2112011,Manajemen Rekayasa,Aktif
+20211,2021,2121013,Sistem Informasi,Aktif
+20211,2021,2111018,Teknik Industri,Aktif
+20211,2021,2124006,Matematika,Aktif
+20211,2021,2123025,Desain Komunikasi Visual,Aktif
+20211,2021,2111019,Teknik Industri,Aktif
+20211,2021,2122007,Teknik Komputer,Aktif
+20211,2021,2123026,Desain Komunikasi Visual,Aktif
+20211,2021,2121014,Sistem Informasi,Aktif
+20211,2021,2112012,Manajemen Rekayasa,Aktif
+20211,2021,2123027,Desain Komunikasi Visual,Aktif
+20211,2021,2124007,Matematika,Aktif
+20211,2021,2121015,Sistem Informasi,Aktif
+20211,2021,2121016,Sistem Informasi,Aktif
+20211,2021,2121017,Sistem Informasi,Aktif
+20211,2021,2121018,Sistem Informasi,Aktif
+20211,2021,2121019,Sistem Informasi,Aktif
+20211,2021,2112013,Manajemen Rekayasa,Aktif
+20211,2021,2123028,Desain Komunikasi Visual,Aktif
+20211,2021,2121020,Sistem Informasi,Aktif
+20211,2021,2111020,Teknik Industri,Aktif
+20211,2021,2122008,Teknik Komputer,Aktif
+20211,2021,2111021,Teknik Industri,Aktif
+20211,2021,2111022,Teknik Industri,Aktif
+20211,2021,2111023,Teknik Industri,Aktif
+20211,2021,2111024,Teknik Industri,Aktif
+20211,2021,2123029,Desain Komunikasi Visual,Aktif
+20211,2021,2123030,Desain Komunikasi Visual,Aktif
+20211,2021,2124008,Matematika,Aktif
+20211,2021,2111025,Teknik Industri,Aktif
+20211,2021,2121021,Sistem Informasi,Aktif
+20211,2021,2112014,Manajemen Rekayasa,Aktif
+20211,2021,2112015,Manajemen Rekayasa,Aktif
+20211,2021,2123031,Desain Komunikasi Visual,Aktif
+20211,2021,2111026,Teknik Industri,Aktif
+20211,2021,2111027,Teknik Industri,Aktif
+20211,2021,2123032,Desain Komunikasi Visual,Aktif
+20211,2021,2122009,Teknik Komputer,Aktif
+20211,2021,2123033,Desain Komunikasi Visual,Aktif
+20211,2021,2121022,Sistem Informasi,Aktif
+20211,2021,2112016,Manajemen Rekayasa,Aktif
+20211,2021,2111028,Teknik Industri,Aktif
+20211,2021,2121023,Sistem Informasi,Aktif
+20211,2021,2111029,Teknik Industri,Aktif
+20211,2021,2123034,Desain Komunikasi Visual,Aktif
+20211,2021,2123035,Desain Komunikasi Visual,Aktif
+20211,2021,2112017,Manajemen Rekayasa,Aktif
+20211,2021,2121024,Sistem Informasi,Aktif
+20211,2021,2111030,Teknik Industri,Aktif
+20211,2021,2112018,Manajemen Rekayasa,Aktif
+20211,2021,2122010,Teknik Komputer,nonaktif
+20211,2021,2121025,Sistem Informasi,Aktif
+20211,2021,2124009,Matematika,Aktif
+20211,2021,2124010,Matematika,Aktif
+20211,2021,2111031,Teknik Industri,Aktif
+20211,2021,2123036,Desain Komunikasi Visual,Aktif
+20211,2021,2123037,Desain Komunikasi Visual,Aktif
+20211,2021,2122011,Teknik Komputer,Aktif
+20211,2021,2111032,Teknik Industri,Aktif
+20211,2021,2123038,Desain Komunikasi Visual,Aktif
+20211,2021,2123039,Desain Komunikasi Visual,Aktif
+20211,2021,2111033,Teknik Industri,Aktif
+20211,2021,2123040,Desain Komunikasi Visual,Aktif
+20211,2021,2121026,Sistem Informasi,Aktif
+20211,2021,2111034,Teknik Industri,Aktif
+20211,2021,2123041,Desain Komunikasi Visual,Aktif
+20211,2021,2111035,Teknik Industri,Aktif
+20211,2021,2123042,Desain Komunikasi Visual,Aktif
+20211,2021,2112019,Manajemen Rekayasa,Aktif
+20211,2021,2111036,Teknik Industri,Aktif
+20211,2021,2122012,Teknik Komputer,Aktif
+20211,2021,2124011,Matematika,Aktif
+20211,2021,2122013,Teknik Komputer,Aktif
+20211,2021,2123043,Desain Komunikasi Visual,Aktif
+20211,2021,2122014,Teknik Komputer,Aktif
+20211,2021,2121027,Sistem Informasi,Aktif
+20211,2021,2111038,Teknik Industri,Aktif
+20211,2021,2122015,Teknik Komputer,Aktif
+20211,2021,2122016,Teknik Komputer,Aktif
+20211,2021,2121028,Sistem Informasi,Aktif
+20211,2021,2111039,Teknik Industri,Aktif
+20211,2021,2122017,Teknik Komputer,Aktif
+20211,2021,2122018,Teknik Komputer,Aktif
+20211,2021,2112020,Manajemen Rekayasa,Aktif
+20211,2021,2111040,Teknik Industri,Aktif
+20211,2021,2121029,Sistem Informasi,Aktif
+20211,2021,2123044,Desain Komunikasi Visual,Aktif
+20211,2021,2112021,Manajemen Rekayasa,Aktif
+20211,2021,2123045,Desain Komunikasi Visual,Aktif
+20211,2021,2123046,Desain Komunikasi Visual,Aktif
+20211,2021,2111041,Teknik Industri,Aktif
+20211,2021,2124012,Matematika,Aktif
+20211,2021,2111042,Teknik Industri,Aktif
+20211,2021,2121030,Sistem Informasi,Aktif
+20211,2021,2124013,Matematika,Aktif
+20211,2021,2122019,Teknik Komputer,Aktif
+20211,2021,2111044,Teknik Industri,Aktif
+20211,2021,2121031,Sistem Informasi,Aktif
+20211,2021,2123047,Desain Komunikasi Visual,Aktif
+20211,2021,2112022,Manajemen Rekayasa,Aktif
+20211,2021,2121033,Sistem Informasi,Aktif
+20211,2021,2124014,Matematika,Aktif
+20211,2021,2124015,Matematika,Aktif
+20211,2021,2111045,Teknik Industri,Aktif
+20211,2021,2121034,Sistem Informasi,Aktif
+20211,2021,2111046,Teknik Industri,Aktif
+20211,2021,2121035,Sistem Informasi,Aktif
+20211,2021,2124016,Matematika,Aktif
+20211,2021,2111047,Teknik Industri,Aktif
+20211,2021,2123048,Desain Komunikasi Visual,Aktif
+20211,2021,2121036,Sistem Informasi,Aktif
+20211,2021,2124017,Matematika,Aktif
+20211,2021,2123049,Desain Komunikasi Visual,Aktif
+20211,2021,2121037,Sistem Informasi,Aktif
+20211,2021,2123050,Desain Komunikasi Visual,Aktif
+20211,2021,2123051,Desain Komunikasi Visual,Aktif
+20211,2021,2112023,Manajemen Rekayasa,Aktif
+20211,2021,2121038,Sistem Informasi,Aktif
+20211,2021,2121039,Sistem Informasi,Aktif
+20211,2021,2112024,Manajemen Rekayasa,Aktif
+20211,2021,2112025,Manajemen Rekayasa,Aktif
+20211,2021,2122020,Teknik Komputer,Aktif
+20211,2021,2111049,Teknik Industri,Aktif
+20211,2021,2112026,Manajemen Rekayasa,Aktif
+20211,2021,2112027,Manajemen Rekayasa,Aktif
+20211,2021,2111050,Teknik Industri,Aktif
+20211,2021,2123052,Desain Komunikasi Visual,Aktif
+20211,2021,2121040,Sistem Informasi,Aktif
+20211,2021,2121041,Sistem Informasi,Aktif
+20211,2021,2111051,Teknik Industri,Aktif
+20211,2021,2123053,Desain Komunikasi Visual,Aktif
+20211,2021,2121042,Sistem Informasi,Aktif
+20211,2021,2124018,Matematika,Aktif
+20211,2021,2122021,Teknik Komputer,Aktif
+20211,2021,2123054,Desain Komunikasi Visual,Aktif
+20211,2021,2111053,Teknik Industri,Aktif
+20211,2021,2122022,Teknik Komputer,Aktif
+20211,2021,2123055,Desain Komunikasi Visual,Aktif
+20211,2021,2121043,Sistem Informasi,Aktif
+20211,2021,2111054,Teknik Industri,Aktif
+20211,2021,2111055,Teknik Industri,Aktif
+20211,2021,2121045,Sistem Informasi,Aktif
+20211,2021,2123056,Desain Komunikasi Visual,Aktif
+20211,2021,2123057,Desain Komunikasi Visual,Aktif
+20211,2021,2111056,Teknik Industri,Aktif
+20211,2021,2123058,Desain Komunikasi Visual,Aktif
+20211,2021,2121046,Sistem Informasi,Aktif
+20211,2021,2123059,Desain Komunikasi Visual,Aktif
+20211,2021,2123060,Desain Komunikasi Visual,Aktif
+20211,2021,2122023,Teknik Komputer,Aktif
+20211,2021,2122024,Teknik Komputer,Aktif
+20211,2021,2112028,Manajemen Rekayasa,Aktif
+20211,2021,2112029,Manajemen Rekayasa,Aktif
+20211,2021,2123062,Desain Komunikasi Visual,Aktif
+20211,2021,2123063,Desain Komunikasi Visual,Aktif
+20211,2021,2111057,Teknik Industri,Aktif
+20211,2021,2123064,Desain Komunikasi Visual,Aktif
+20211,2021,2123065,Desain Komunikasi Visual,Aktif
+20211,2021,2123066,Desain Komunikasi Visual,Aktif
+20211,2021,2122026,Teknik Komputer,Aktif
+20211,2021,2111058,Teknik Industri,Aktif
+20211,2021,2123067,Desain Komunikasi Visual,Aktif
+20211,2021,2111059,Teknik Industri,Aktif
+20211,2021,2112031,Manajemen Rekayasa,Aktif
+20211,2021,2111060,Teknik Industri,Aktif
+20211,2021,2124019,Matematika,Aktif
+20211,2021,2122027,Teknik Komputer,Aktif
+20211,2021,2123068,Desain Komunikasi Visual,Aktif
+20211,2021,2123069,Desain Komunikasi Visual,Aktif
+20211,2021,2121047,Sistem Informasi,Aktif
+20211,2021,2123070,Desain Komunikasi Visual,Aktif
+20211,2021,2121048,Sistem Informasi,Aktif
+20211,2021,2111061,Teknik Industri,Aktif
+20211,2021,2111062,Teknik Industri,Aktif
+20211,2021,2122028,Teknik Komputer,Aktif
+20211,2021,2121049,Sistem Informasi,Aktif
+20211,2021,2123071,Desain Komunikasi Visual,Aktif
+20211,2021,2112032,Manajemen Rekayasa,Aktif
+20211,2021,2111063,Teknik Industri,Aktif
+20211,2021,2121051,Sistem Informasi,Aktif
+20211,2021,2121052,Sistem Informasi,Aktif
+20211,2021,2121053,Sistem Informasi,Aktif
+20211,2021,2112033,Manajemen Rekayasa,Aktif
+20211,2021,2112034,Manajemen Rekayasa,Aktif
+20211,2021,2112035,Manajemen Rekayasa,Aktif
+20211,2021,2121054,Sistem Informasi,Aktif
+20211,2021,2124020,Matematika,Aktif
+20211,2021,2111064,Teknik Industri,Aktif
+20211,2021,2121055,Sistem Informasi,Aktif
+20211,2021,2122029,Teknik Komputer,Aktif
+20211,2021,2111065,Teknik Industri,Aktif
+20211,2021,2111066,Teknik Industri,Aktif
+20211,2021,2124021,Matematika,Aktif
+20211,2021,2124022,Matematika,Aktif
+20211,2021,2122030,Teknik Komputer,Aktif
+20211,2021,2123072,Desain Komunikasi Visual,Aktif
+20211,2021,2112036,Manajemen Rekayasa,Aktif
+20211,2021,2123073,Desain Komunikasi Visual,Aktif
+20211,2021,2112037,Manajemen Rekayasa,Aktif
+20211,2021,2111067,Teknik Industri,Aktif
+20211,2021,2121056,Sistem Informasi,Aktif
+20211,2021,2121057,Sistem Informasi,Aktif
+20211,2021,2121058,Sistem Informasi,Aktif
+20211,2021,2121059,Sistem Informasi,Aktif
+20211,2021,2122031,Teknik Komputer,Aktif
+20211,2021,2124023,Matematika,Aktif
+20211,2021,2111068,Teknik Industri,Aktif
+20211,2021,2122032,Teknik Komputer,Aktif
+20211,2021,2122033,Teknik Komputer,Aktif
+20211,2021,2121060,Sistem Informasi,Aktif
+20212,2021,1822006,Teknik Komputer,Aktif
+20212,2021,1823010,Desain Komunikasi Visual,nonaktif
+20212,2021,1823018,Desain Komunikasi Visual,Aktif
+20212,2021,1823024,Desain Komunikasi Visual,nonaktif
+20212,2021,1823021,Desain Komunikasi Visual,Aktif
+20212,2021,1823027,Desain Komunikasi Visual,Aktif
+20212,2021,1823003,Desain Komunikasi Visual,Aktif
+20212,2021,1811009,Teknik Industri,Aktif
+20212,2021,1823026,Desain Komunikasi Visual,nonaktif
+20212,2021,1811011,Teknik Industri,Aktif
+20212,2021,1823004,Desain Komunikasi Visual,Aktif
+20212,2021,1811012,Teknik Industri,Aktif
+20212,2021,1823020,Desain Komunikasi Visual,Aktif
+20212,2021,1823022,Desain Komunikasi Visual,nonaktif
+20212,2021,1823009,Desain Komunikasi Visual,nonaktif
+20212,2021,1823011,Desain Komunikasi Visual,Aktif
+20212,2021,1811003,Teknik Industri,Aktif
+20212,2021,1811006,Teknik Industri,Aktif
+20212,2021,1823019,Desain Komunikasi Visual,Aktif
+20212,2021,1823001,Desain Komunikasi Visual,Aktif
+20212,2021,1823016,Desain Komunikasi Visual,nonaktif
+20212,2021,1822013,Teknik Komputer,Aktif
+20212,2021,1823008,Desain Komunikasi Visual,Aktif
+20212,2021,1823005,Desain Komunikasi Visual,nonaktif
+20212,2021,1823025,Desain Komunikasi Visual,Aktif
+20212,2021,1823012,Desain Komunikasi Visual,Aktif
+20212,2021,1823014,Desain Komunikasi Visual,Aktif
+20212,2021,1823006,Desain Komunikasi Visual,Aktif
+20212,2021,1823017,Desain Komunikasi Visual,nonaktif
+20212,2021,1811016,Teknik Industri,Aktif
+20212,2021,1823015,Desain Komunikasi Visual,Aktif
+20212,2021,1811014,Teknik Industri,Aktif
+20212,2021,1821007,Sistem Informasi,Aktif
+20212,2021,1821012,Sistem Informasi,Aktif
+20212,2021,1824002,Matematika,Aktif
+20212,2021,1822001,Teknik Komputer,nonaktif
+20212,2021,1812004,Manajemen Rekayasa,nonaktif
+20212,2021,1821004,Sistem Informasi,Aktif
+20212,2021,1811001,Teknik Industri,Aktif
+20212,2021,1811015,Teknik Industri,Aktif
+20212,2021,1811013,Teknik Industri,Aktif
+20212,2021,1824001,Matematika,Aktif
+20212,2021,1812001,Manajemen Rekayasa,Aktif
+20212,2021,1822014,Teknik Komputer,Aktif
+20212,2021,1812002,Manajemen Rekayasa,nonaktif
+20212,2021,1812007,Manajemen Rekayasa,Aktif
+20212,2021,1822011,Teknik Komputer,nonaktif
+20212,2021,1811004,Teknik Industri,Aktif
+20212,2021,1822007,Teknik Komputer,Aktif
+20212,2021,1812005,Manajemen Rekayasa,cuti
+20212,2021,1821001,Sistem Informasi,Aktif
+20212,2021,1821003,Sistem Informasi,Aktif
+20212,2021,1811005,Teknik Industri,Aktif
+20212,2021,1822002,Teknik Komputer,Aktif
+20212,2021,1821005,Sistem Informasi,Aktif
+20212,2021,1822003,Teknik Komputer,Aktif
+20212,2021,1812008,Manajemen Rekayasa,Aktif
+20212,2021,1821002,Sistem Informasi,Aktif
+20212,2021,1821006,Sistem Informasi,Aktif
+20212,2021,1811008,Teknik Industri,Aktif
+20212,2021,1822004,Teknik Komputer,Aktif
+20212,2021,1811002,Teknik Industri,Aktif
+20212,2021,1811007,Teknik Industri,Aktif
+20212,2021,1822012,Teknik Komputer,Aktif
+20212,2021,1821010,Sistem Informasi,Aktif
+20212,2021,1821013,Sistem Informasi,Aktif
+20212,2021,1821009,Sistem Informasi,Aktif
+20212,2021,1821008,Sistem Informasi,Aktif
+20212,2021,1821014,Sistem Informasi,Aktif
+20212,2021,1821011,Sistem Informasi,Aktif
+20212,2021,1821015,Sistem Informasi,Aktif
+20212,2021,1921001,Sistem Informasi,nonaktif
+20212,2021,1912029,Manajemen Rekayasa,Aktif
+20212,2021,1924001,Matematika,Aktif
+20212,2021,1924002,Matematika,Aktif
+20212,2021,1922001,Teknik Komputer,Aktif
+20212,2021,1922002,Teknik Komputer,nonaktif
+20212,2021,1922003,Teknik Komputer,Aktif
+20212,2021,1922004,Teknik Komputer,Aktif
+20212,2021,1922005,Teknik Komputer,Aktif
+20212,2021,1911002,Teknik Industri,cuti
+20212,2021,1922006,Teknik Komputer,nonaktif
+20212,2021,1922007,Teknik Komputer,Aktif
+20212,2021,1911003,Teknik Industri,nonaktif
+20212,2021,1911004,Teknik Industri,Aktif
+20212,2021,1923001,Desain Komunikasi Visual,Aktif
+20212,2021,1923002,Desain Komunikasi Visual,Aktif
+20212,2021,1923003,Desain Komunikasi Visual,Aktif
+20212,2021,1923004,Desain Komunikasi Visual,Aktif
+20212,2021,1922008,Teknik Komputer,Aktif
+20212,2021,1923005,Desain Komunikasi Visual,cuti
+20212,2021,1923006,Desain Komunikasi Visual,Aktif
+20212,2021,1923007,Desain Komunikasi Visual,Aktif
+20212,2021,1923008,Desain Komunikasi Visual,Aktif
+20212,2021,1912001,Manajemen Rekayasa,Aktif
+20212,2021,1912002,Manajemen Rekayasa,Aktif
+20212,2021,1912003,Manajemen Rekayasa,Aktif
+20212,2021,1912004,Manajemen Rekayasa,Aktif
+20212,2021,1912005,Manajemen Rekayasa,Aktif
+20212,2021,1912006,Manajemen Rekayasa,Aktif
+20212,2021,1912007,Manajemen Rekayasa,Aktif
+20212,2021,1924003,Matematika,Aktif
+20212,2021,1924004,Matematika,nonaktif
+20212,2021,1924005,Matematika,Aktif
+20212,2021,1922009,Teknik Komputer,Aktif
+20212,2021,1921002,Sistem Informasi,nonaktif
+20212,2021,1921003,Sistem Informasi,Aktif
+20212,2021,1921004,Sistem Informasi,Aktif
+20212,2021,1921005,Sistem Informasi,Aktif
+20212,2021,1912008,Manajemen Rekayasa,nonaktif
+20212,2021,1922010,Teknik Komputer,Aktif
+20212,2021,1924006,Matematika,Aktif
+20212,2021,1924007,Matematika,Aktif
+20212,2021,1923009,Desain Komunikasi Visual,nonaktif
+20212,2021,1923010,Desain Komunikasi Visual,Aktif
+20212,2021,1923011,Desain Komunikasi Visual,Aktif
+20212,2021,1912009,Manajemen Rekayasa,nonaktif
+20212,2021,1912010,Manajemen Rekayasa,Aktif
+20212,2021,1923012,Desain Komunikasi Visual,cuti
+20212,2021,1923013,Desain Komunikasi Visual,Aktif
+20212,2021,1921006,Sistem Informasi,Aktif
+20212,2021,1911005,Teknik Industri,Aktif
+20212,2021,1911006,Teknik Industri,Aktif
+20212,2021,1911007,Teknik Industri,nonaktif
+20212,2021,1911008,Teknik Industri,nonaktif
+20212,2021,1911009,Teknik Industri,nonaktif
+20212,2021,1923014,Desain Komunikasi Visual,nonaktif
+20212,2021,1922011,Teknik Komputer,Aktif
+20212,2021,1922012,Teknik Komputer,nonaktif
+20212,2021,1911010,Teknik Industri,Aktif
+20212,2021,1912011,Manajemen Rekayasa,nonaktif
+20212,2021,1911011,Teknik Industri,Aktif
+20212,2021,1911012,Teknik Industri,Aktif
+20212,2021,1911013,Teknik Industri,nonaktif
+20212,2021,1911014,Teknik Industri,Aktif
+20212,2021,1912012,Manajemen Rekayasa,Aktif
+20212,2021,1923015,Desain Komunikasi Visual,Aktif
+20212,2021,1923016,Desain Komunikasi Visual,nonaktif
+20212,2021,1923017,Desain Komunikasi Visual,Aktif
+20212,2021,1911015,Teknik Industri,Aktif
+20212,2021,1912013,Manajemen Rekayasa,nonaktif
+20212,2021,1921007,Sistem Informasi,Aktif
+20212,2021,1921008,Sistem Informasi,nonaktif
+20212,2021,1923018,Desain Komunikasi Visual,Aktif
+20212,2021,1924008,Matematika,Aktif
+20212,2021,1924009,Matematika,Aktif
+20212,2021,1921009,Sistem Informasi,nonaktif
+20212,2021,1912014,Manajemen Rekayasa,Aktif
+20212,2021,1912015,Manajemen Rekayasa,nonaktif
+20212,2021,1912016,Manajemen Rekayasa,Aktif
+20212,2021,1923019,Desain Komunikasi Visual,Aktif
+20212,2021,1923020,Desain Komunikasi Visual,nonaktif
+20212,2021,1923021,Desain Komunikasi Visual,Aktif
+20212,2021,1922013,Teknik Komputer,Aktif
+20212,2021,1912017,Manajemen Rekayasa,nonaktif
+20212,2021,1922014,Teknik Komputer,Aktif
+20212,2021,1922015,Teknik Komputer,Aktif
+20212,2021,1911016,Teknik Industri,Aktif
+20212,2021,1922016,Teknik Komputer,cuti
+20212,2021,1922017,Teknik Komputer,Aktif
+20212,2021,1921010,Sistem Informasi,Aktif
+20212,2021,1911017,Teknik Industri,Aktif
+20212,2021,1911018,Teknik Industri,Aktif
+20212,2021,1911019,Teknik Industri,nonaktif
+20212,2021,1924010,Matematika,Aktif
+20212,2021,1912018,Manajemen Rekayasa,Aktif
+20212,2021,1923022,Desain Komunikasi Visual,nonaktif
+20212,2021,1923023,Desain Komunikasi Visual,Aktif
+20212,2021,1921011,Sistem Informasi,Aktif
+20212,2021,1923024,Desain Komunikasi Visual,Aktif
+20212,2021,1923025,Desain Komunikasi Visual,nonaktif
+20212,2021,1922018,Teknik Komputer,nonaktif
+20212,2021,1924011,Matematika,Aktif
+20212,2021,1922019,Teknik Komputer,nonaktif
+20212,2021,1922020,Teknik Komputer,nonaktif
+20212,2021,1922021,Teknik Komputer,Aktif
+20212,2021,1912019,Manajemen Rekayasa,nonaktif
+20212,2021,1922022,Teknik Komputer,Aktif
+20212,2021,1921012,Sistem Informasi,Aktif
+20212,2021,1911020,Teknik Industri,nonaktif
+20212,2021,1911021,Teknik Industri,Aktif
+20212,2021,1911022,Teknik Industri,Aktif
+20212,2021,1911023,Teknik Industri,nonaktif
+20212,2021,1911024,Teknik Industri,nonaktif
+20212,2021,1911025,Teknik Industri,Aktif
+20212,2021,1911026,Teknik Industri,Aktif
+20212,2021,1911027,Teknik Industri,Aktif
+20212,2021,1911028,Teknik Industri,Aktif
+20212,2021,1911029,Teknik Industri,nonaktif
+20212,2021,1911030,Teknik Industri,nonaktif
+20212,2021,1911031,Teknik Industri,nonaktif
+20212,2021,1911032,Teknik Industri,Aktif
+20212,2021,1911033,Teknik Industri,Aktif
+20212,2021,1923026,Desain Komunikasi Visual,nonaktif
+20212,2021,1922023,Teknik Komputer,Aktif
+20212,2021,1923027,Desain Komunikasi Visual,Aktif
+20212,2021,1923028,Desain Komunikasi Visual,Aktif
+20212,2021,1923029,Desain Komunikasi Visual,Aktif
+20212,2021,1923030,Desain Komunikasi Visual,Aktif
+20212,2021,1923031,Desain Komunikasi Visual,Aktif
+20212,2021,1912020,Manajemen Rekayasa,cuti
+20212,2021,1912021,Manajemen Rekayasa,Aktif
+20212,2021,1912022,Manajemen Rekayasa,nonaktif
+20212,2021,1912023,Manajemen Rekayasa,Aktif
+20212,2021,1912024,Manajemen Rekayasa,Aktif
+20212,2021,1921013,Sistem Informasi,Aktif
+20212,2021,1921014,Sistem Informasi,Aktif
+20212,2021,1921015,Sistem Informasi,Aktif
+20212,2021,1921016,Sistem Informasi,Aktif
+20212,2021,1921017,Sistem Informasi,Aktif
+20212,2021,1921018,Sistem Informasi,nonaktif
+20212,2021,1921019,Sistem Informasi,Aktif
+20212,2021,1921020,Sistem Informasi,Aktif
+20212,2021,1912025,Manajemen Rekayasa,Aktif
+20212,2021,1923032,Desain Komunikasi Visual,Aktif
+20212,2021,1921021,Sistem Informasi,Aktif
+20212,2021,1924012,Matematika,nonaktif
+20212,2021,1924013,Matematika,Aktif
+20212,2021,1924014,Matematika,Aktif
+20212,2021,1924015,Matematika,Aktif
+20212,2021,1911037,Teknik Industri,nonaktif
+20212,2021,1922025,Teknik Komputer,Aktif
+20212,2021,1922026,Teknik Komputer,nonaktif
+20212,2021,1922027,Teknik Komputer,Aktif
+20212,2021,1922028,Teknik Komputer,Aktif
+20212,2021,1923061,Desain Komunikasi Visual,nonaktif
+20212,2021,1922030,Teknik Komputer,nonaktif
+20212,2021,1911034,Teknik Industri,Aktif
+20212,2021,1911035,Teknik Industri,Aktif
+20212,2021,1923033,Desain Komunikasi Visual,nonaktif
+20212,2021,1923034,Desain Komunikasi Visual,Aktif
+20212,2021,1921022,Sistem Informasi,Aktif
+20212,2021,1923035,Desain Komunikasi Visual,Aktif
+20212,2021,1923036,Desain Komunikasi Visual,nonaktif
+20212,2021,1923037,Desain Komunikasi Visual,Aktif
+20212,2021,1923038,Desain Komunikasi Visual,Aktif
+20212,2021,1923039,Desain Komunikasi Visual,nonaktif
+20212,2021,1923040,Desain Komunikasi Visual,Aktif
+20212,2021,1923041,Desain Komunikasi Visual,Aktif
+20212,2021,1923042,Desain Komunikasi Visual,nonaktif
+20212,2021,1923044,Desain Komunikasi Visual,nonaktif
+20212,2021,1923045,Desain Komunikasi Visual,nonaktif
+20212,2021,1923046,Desain Komunikasi Visual,nonaktif
+20212,2021,1923047,Desain Komunikasi Visual,nonaktif
+20212,2021,1923048,Desain Komunikasi Visual,Aktif
+20212,2021,1923049,Desain Komunikasi Visual,Aktif
+20212,2021,1923050,Desain Komunikasi Visual,Aktif
+20212,2021,1923051,Desain Komunikasi Visual,Aktif
+20212,2021,1923052,Desain Komunikasi Visual,Aktif
+20212,2021,1923053,Desain Komunikasi Visual,Aktif
+20212,2021,1923054,Desain Komunikasi Visual,Aktif
+20212,2021,1923055,Desain Komunikasi Visual,nonaktif
+20212,2021,1923056,Desain Komunikasi Visual,nonaktif
+20212,2021,1923057,Desain Komunikasi Visual,Aktif
+20212,2021,1923058,Desain Komunikasi Visual,nonaktif
+20212,2021,1923059,Desain Komunikasi Visual,Aktif
+20212,2021,1912027,Manajemen Rekayasa,Aktif
+20212,2021,1912028,Manajemen Rekayasa,nonaktif
+20212,2021,1921023,Sistem Informasi,Aktif
+20212,2021,1911036,Teknik Industri,cuti
+20212,2021,1923060,Desain Komunikasi Visual,Aktif
+20212,2021,1922031,Teknik Komputer,nonaktif
+20212,2021,1922032,Teknik Komputer,Aktif
+20212,2021,1911038,Teknik Industri,Aktif
+20212,2021,1911039,Teknik Industri,nonaktif
+20212,2021,1922033,Teknik Komputer,nonaktif
+20212,2021,2011052,Teknik Industri,Aktif
+20212,2021,2022001,Teknik Komputer,Aktif
+20212,2021,2022002,Teknik Komputer,Aktif
+20212,2021,2021001,Sistem Informasi,Aktif
+20212,2021,2023002,Desain Komunikasi Visual,nonaktif
+20212,2021,2022003,Teknik Komputer,Aktif
+20212,2021,2023003,Desain Komunikasi Visual,Aktif
+20212,2021,2021002,Sistem Informasi,Aktif
+20212,2021,2021003,Sistem Informasi,Aktif
+20212,2021,2023004,Desain Komunikasi Visual,Aktif
+20212,2021,2011002,Teknik Industri,Aktif
+20212,2021,2023005,Desain Komunikasi Visual,Aktif
+20212,2021,2021005,Sistem Informasi,Aktif
+20212,2021,2021006,Sistem Informasi,Aktif
+20212,2021,2012001,Manajemen Rekayasa,Aktif
+20212,2021,2024001,Matematika,nonaktif
+20212,2021,2012002,Manajemen Rekayasa,Aktif
+20212,2021,2011003,Teknik Industri,Aktif
+20212,2021,2021007,Sistem Informasi,Aktif
+20212,2021,2023007,Desain Komunikasi Visual,Aktif
+20212,2021,2023009,Desain Komunikasi Visual,Aktif
+20212,2021,2021008,Sistem Informasi,Aktif
+20212,2021,2023010,Desain Komunikasi Visual,nonaktif
+20212,2021,2021009,Sistem Informasi,Aktif
+20212,2021,2022004,Teknik Komputer,nonaktif
+20212,2021,2012033,Manajemen Rekayasa,Aktif
+20212,2021,2023059,Desain Komunikasi Visual,Aktif
+20212,2021,2021012,Sistem Informasi,nonaktif
+20212,2021,2012003,Manajemen Rekayasa,nonaktif
+20212,2021,2021013,Sistem Informasi,Aktif
+20212,2021,2023011,Desain Komunikasi Visual,Aktif
+20212,2021,2021014,Sistem Informasi,Aktif
+20212,2021,2023012,Desain Komunikasi Visual,Aktif
+20212,2021,2023013,Desain Komunikasi Visual,nonaktif
+20212,2021,2024002,Matematika,Aktif
+20212,2021,2023014,Desain Komunikasi Visual,Aktif
+20212,2021,2011004,Teknik Industri,Aktif
+20212,2021,2011005,Teknik Industri,nonaktif
+20212,2021,2024003,Matematika,nonaktif
+20212,2021,2024004,Matematika,nonaktif
+20212,2021,2023015,Desain Komunikasi Visual,Aktif
+20212,2021,2023016,Desain Komunikasi Visual,nonaktif
+20212,2021,2011006,Teknik Industri,Aktif
+20212,2021,2023017,Desain Komunikasi Visual,Aktif
+20212,2021,2011007,Teknik Industri,Aktif
+20212,2021,2012004,Manajemen Rekayasa,cuti
+20212,2021,2021015,Sistem Informasi,Aktif
+20212,2021,2021016,Sistem Informasi,nonaktif
+20212,2021,2011008,Teknik Industri,Aktif
+20212,2021,2021017,Sistem Informasi,Aktif
+20212,2021,2021018,Sistem Informasi,Aktif
+20212,2021,2011009,Teknik Industri,nonaktif
+20212,2021,2011010,Teknik Industri,Aktif
+20212,2021,2021019,Sistem Informasi,Aktif
+20212,2021,2012006,Manajemen Rekayasa,Aktif
+20212,2021,2023018,Desain Komunikasi Visual,nonaktif
+20212,2021,2023019,Desain Komunikasi Visual,Aktif
+20212,2021,2021020,Sistem Informasi,Aktif
+20212,2021,2023020,Desain Komunikasi Visual,Aktif
+20212,2021,2021021,Sistem Informasi,nonaktif
+20212,2021,2021022,Sistem Informasi,Aktif
+20212,2021,2012007,Manajemen Rekayasa,Aktif
+20212,2021,2021023,Sistem Informasi,Aktif
+20212,2021,2022005,Teknik Komputer,nonaktif
+20212,2021,2021024,Sistem Informasi,Aktif
+20212,2021,2021025,Sistem Informasi,Aktif
+20212,2021,2011011,Teknik Industri,Aktif
+20212,2021,2021026,Sistem Informasi,nonaktif
+20212,2021,2023022,Desain Komunikasi Visual,Aktif
+20212,2021,2023023,Desain Komunikasi Visual,Aktif
+20212,2021,2012008,Manajemen Rekayasa,Aktif
+20212,2021,2023025,Desain Komunikasi Visual,Aktif
+20212,2021,2023026,Desain Komunikasi Visual,Aktif
+20212,2021,2023027,Desain Komunikasi Visual,Aktif
+20212,2021,2024005,Matematika,Aktif
+20212,2021,2011012,Teknik Industri,Aktif
+20212,2021,2022006,Teknik Komputer,nonaktif
+20212,2021,2024006,Matematika,Aktif
+20212,2021,2022007,Teknik Komputer,nonaktif
+20212,2021,2021027,Sistem Informasi,Aktif
+20212,2021,2022008,Teknik Komputer,Aktif
+20212,2021,2023028,Desain Komunikasi Visual,nonaktif
+20212,2021,2022009,Teknik Komputer,Aktif
+20212,2021,2023029,Desain Komunikasi Visual,nonaktif
+20212,2021,2011014,Teknik Industri,Aktif
+20212,2021,2021028,Sistem Informasi,Aktif
+20212,2021,2021029,Sistem Informasi,Aktif
+20212,2021,2023030,Desain Komunikasi Visual,nonaktif
+20212,2021,2023031,Desain Komunikasi Visual,Aktif
+20212,2021,2011015,Teknik Industri,nonaktif
+20212,2021,2011016,Teknik Industri,nonaktif
+20212,2021,2022010,Teknik Komputer,Aktif
+20212,2021,2012009,Manajemen Rekayasa,cuti
+20212,2021,2011017,Teknik Industri,Aktif
+20212,2021,2021030,Sistem Informasi,Aktif
+20212,2021,2021031,Sistem Informasi,Aktif
+20212,2021,2021032,Sistem Informasi,nonaktif
+20212,2021,2021033,Sistem Informasi,Aktif
+20212,2021,2012010,Manajemen Rekayasa,Aktif
+20212,2021,2022011,Teknik Komputer,nonaktif
+20212,2021,2011018,Teknik Industri,Aktif
+20212,2021,2021034,Sistem Informasi,nonaktif
+20212,2021,2011019,Teknik Industri,Aktif
+20212,2021,2022012,Teknik Komputer,Aktif
+20212,2021,2011020,Teknik Industri,Aktif
+20212,2021,2011044,Teknik Industri,Aktif
+20212,2021,2021035,Sistem Informasi,Aktif
+20212,2021,2023032,Desain Komunikasi Visual,nonaktif
+20212,2021,2023033,Desain Komunikasi Visual,Aktif
+20212,2021,2011022,Teknik Industri,Aktif
+20212,2021,2022013,Teknik Komputer,Aktif
+20212,2021,2024008,Matematika,Aktif
+20212,2021,2012011,Manajemen Rekayasa,Aktif
+20212,2021,2011023,Teknik Industri,Aktif
+20212,2021,2022014,Teknik Komputer,Aktif
+20212,2021,2023034,Desain Komunikasi Visual,nonaktif
+20212,2021,2011024,Teknik Industri,Aktif
+20212,2021,2011025,Teknik Industri,Aktif
+20212,2021,2023035,Desain Komunikasi Visual,Aktif
+20212,2021,2011026,Teknik Industri,nonaktif
+20212,2021,2012014,Manajemen Rekayasa,Aktif
+20212,2021,2012015,Manajemen Rekayasa,Aktif
+20212,2021,2022015,Teknik Komputer,Aktif
+20212,2021,2023036,Desain Komunikasi Visual,nonaktif
+20212,2021,2023038,Desain Komunikasi Visual,Aktif
+20212,2021,2023039,Desain Komunikasi Visual,nonaktif
+20212,2021,2011027,Teknik Industri,Aktif
+20212,2021,2023040,Desain Komunikasi Visual,Aktif
+20212,2021,2011028,Teknik Industri,Aktif
+20212,2021,2021038,Sistem Informasi,Aktif
+20212,2021,2011045,Teknik Industri,Aktif
+20212,2021,2012016,Manajemen Rekayasa,Aktif
+20212,2021,2011029,Teknik Industri,nonaktif
+20212,2021,2023072,Desain Komunikasi Visual,nonaktif
+20212,2021,2021040,Sistem Informasi,Aktif
+20212,2021,2021041,Sistem Informasi,Aktif
+20212,2021,2023052,Desain Komunikasi Visual,Aktif
+20212,2021,2024010,Matematika,Aktif
+20212,2021,2021042,Sistem Informasi,nonaktif
+20212,2021,2021044,Sistem Informasi,nonaktif
+20212,2021,2024011,Matematika,Aktif
+20212,2021,2023041,Desain Komunikasi Visual,Aktif
+20212,2021,2023042,Desain Komunikasi Visual,nonaktif
+20212,2021,2012018,Manajemen Rekayasa,cuti
+20212,2021,2021045,Sistem Informasi,nonaktif
+20212,2021,2021046,Sistem Informasi,Aktif
+20212,2021,2012019,Manajemen Rekayasa,Aktif
+20212,2021,2021047,Sistem Informasi,Aktif
+20212,2021,2024012,Matematika,nonaktif
+20212,2021,2012030,Manajemen Rekayasa,Aktif
+20212,2021,2021049,Sistem Informasi,Aktif
+20212,2021,2023043,Desain Komunikasi Visual,Aktif
+20212,2021,2012020,Manajemen Rekayasa,nonaktif
+20212,2021,2011030,Teknik Industri,nonaktif
+20212,2021,2021050,Sistem Informasi,Aktif
+20212,2021,2021051,Sistem Informasi,Aktif
+20212,2021,2011031,Teknik Industri,Aktif
+20212,2021,2023044,Desain Komunikasi Visual,nonaktif
+20212,2021,2024013,Matematika,Aktif
+20212,2021,2022017,Teknik Komputer,Aktif
+20212,2021,2023045,Desain Komunikasi Visual,Aktif
+20212,2021,2021052,Sistem Informasi,Aktif
+20212,2021,2011032,Teknik Industri,Aktif
+20212,2021,2012021,Manajemen Rekayasa,Aktif
+20212,2021,2023046,Desain Komunikasi Visual,Aktif
+20212,2021,2011033,Teknik Industri,nonaktif
+20212,2021,2021053,Sistem Informasi,nonaktif
+20212,2021,2024014,Matematika,Aktif
+20212,2021,2022018,Teknik Komputer,Aktif
+20212,2021,2024015,Matematika,Aktif
+20212,2021,2023054,Desain Komunikasi Visual,Aktif
+20212,2021,2023047,Desain Komunikasi Visual,nonaktif
+20212,2021,2021055,Sistem Informasi,Aktif
+20212,2021,2024016,Matematika,nonaktif
+20212,2021,2023049,Desain Komunikasi Visual,Aktif
+20212,2021,2011034,Teknik Industri,Aktif
+20212,2021,2012023,Manajemen Rekayasa,nonaktif
+20212,2021,2012024,Manajemen Rekayasa,nonaktif
+20212,2021,2012025,Manajemen Rekayasa,Aktif
+20212,2021,2011035,Teknik Industri,Aktif
+20212,2021,2022019,Teknik Komputer,nonaktif
+20212,2021,2024017,Matematika,Aktif
+20212,2021,2012026,Manajemen Rekayasa,Aktif
+20212,2021,2011036,Teknik Industri,Aktif
+20212,2021,2011037,Teknik Industri,Aktif
+20212,2021,2022020,Teknik Komputer,nonaktif
+20212,2021,2023050,Desain Komunikasi Visual,Aktif
+20212,2021,2024019,Matematika,Aktif
+20212,2021,2021056,Sistem Informasi,Aktif
+20212,2021,2021057,Sistem Informasi,Aktif
+20212,2021,2023051,Desain Komunikasi Visual,nonaktif
+20212,2021,2012027,Manajemen Rekayasa,Aktif
+20212,2021,2012028,Manajemen Rekayasa,nonaktif
+20212,2021,2011038,Teknik Industri,Aktif
+20212,2021,2012029,Manajemen Rekayasa,nonaktif
+20212,2021,2022023,Teknik Komputer,Aktif
+20212,2021,2011039,Teknik Industri,Aktif
+20212,2021,2023053,Desain Komunikasi Visual,Aktif
+20212,2021,2021058,Sistem Informasi,Aktif
+20212,2021,2011040,Teknik Industri,Aktif
+20212,2021,2023055,Desain Komunikasi Visual,Aktif
+20212,2021,2023056,Desain Komunikasi Visual,nonaktif
+20212,2021,2021059,Sistem Informasi,Aktif
+20212,2021,2012031,Manajemen Rekayasa,Aktif
+20212,2021,2012032,Manajemen Rekayasa,Aktif
+20212,2021,2011041,Teknik Industri,Aktif
+20212,2021,2012044,Manajemen Rekayasa,Aktif
+20212,2021,2011042,Teknik Industri,Aktif
+20212,2021,2023057,Desain Komunikasi Visual,Aktif
+20212,2021,2023058,Desain Komunikasi Visual,nonaktif
+20212,2021,2021061,Sistem Informasi,nonaktif
+20212,2021,2021062,Sistem Informasi,Aktif
+20212,2021,2011043,Teknik Industri,Aktif
+20212,2021,2012034,Manajemen Rekayasa,Aktif
+20212,2021,2012035,Manajemen Rekayasa,Aktif
+20212,2021,2022024,Teknik Komputer,nonaktif
+20212,2021,2012036,Manajemen Rekayasa,Aktif
+20212,2021,2023060,Desain Komunikasi Visual,Aktif
+20212,2021,2023061,Desain Komunikasi Visual,nonaktif
+20212,2021,2022025,Teknik Komputer,nonaktif
+20212,2021,2023062,Desain Komunikasi Visual,nonaktif
+20212,2021,2012037,Manajemen Rekayasa,Aktif
+20212,2021,2024020,Matematika,Aktif
+20212,2021,2024021,Matematika,Aktif
+20212,2021,2023063,Desain Komunikasi Visual,Aktif
+20212,2021,2012038,Manajemen Rekayasa,Aktif
+20212,2021,2024022,Matematika,Aktif
+20212,2021,2024023,Matematika,Aktif
+20212,2021,2024024,Matematika,Aktif
+20212,2021,2024025,Matematika,nonaktif
+20212,2021,2024026,Matematika,Aktif
+20212,2021,2012039,Manajemen Rekayasa,Aktif
+20212,2021,2011048,Teknik Industri,Aktif
+20212,2021,2012040,Manajemen Rekayasa,Aktif
+20212,2021,2024027,Matematika,nonaktif
+20212,2021,2011050,Teknik Industri,Aktif
+20212,2021,2021063,Sistem Informasi,nonaktif
+20212,2021,2021064,Sistem Informasi,nonaktif
+20212,2021,2011051,Teknik Industri,Aktif
+20212,2021,2023064,Desain Komunikasi Visual,Aktif
+20212,2021,2021065,Sistem Informasi,Aktif
+20212,2021,2021066,Sistem Informasi,Aktif
+20212,2021,2011053,Teknik Industri,Aktif
+20212,2021,2011054,Teknik Industri,Aktif
+20212,2021,2012041,Manajemen Rekayasa,nonaktif
+20212,2021,2011055,Teknik Industri,Aktif
+20212,2021,2023065,Desain Komunikasi Visual,Aktif
+20212,2021,2012042,Manajemen Rekayasa,Aktif
+20212,2021,2021067,Sistem Informasi,Aktif
+20212,2021,2011056,Teknik Industri,Aktif
+20212,2021,2011057,Teknik Industri,Aktif
+20212,2021,2024028,Matematika,Aktif
+20212,2021,2012043,Manajemen Rekayasa,Aktif
+20212,2021,2024035,Matematika,Aktif
+20212,2021,2023071,Desain Komunikasi Visual,nonaktif
+20212,2021,2022026,Teknik Komputer,Aktif
+20212,2021,2024031,Matematika,nonaktif
+20212,2021,2022027,Teknik Komputer,Aktif
+20212,2021,2021068,Sistem Informasi,Aktif
+20212,2021,2022028,Teknik Komputer,nonaktif
+20212,2021,2023066,Desain Komunikasi Visual,nonaktif
+20212,2021,2021069,Sistem Informasi,nonaktif
+20212,2021,2011058,Teknik Industri,Aktif
+20212,2021,2011059,Teknik Industri,Aktif
+20212,2021,2011060,Teknik Industri,Aktif
+20212,2021,2011061,Teknik Industri,Aktif
+20212,2021,2024032,Matematika,Aktif
+20212,2021,2021071,Sistem Informasi,Aktif
+20212,2021,2024033,Matematika,nonaktif
+20212,2021,2024034,Matematika,Aktif
+20212,2021,2023067,Desain Komunikasi Visual,Aktif
+20212,2021,2023068,Desain Komunikasi Visual,nonaktif
+20212,2021,2021072,Sistem Informasi,nonaktif
+20212,2021,2021073,Sistem Informasi,nonaktif
+20212,2021,2012045,Manajemen Rekayasa,nonaktif
+20212,2021,2011062,Teknik Industri,nonaktif
+20212,2021,2011063,Teknik Industri,Aktif
+20212,2021,2022029,Teknik Komputer,Aktif
+20212,2021,2022030,Teknik Komputer,Aktif
+20212,2021,2021074,Sistem Informasi,Aktif
+20212,2021,2022031,Teknik Komputer,nonaktif
+20212,2021,2024036,Matematika,nonaktif
+20212,2021,2011064,Teknik Industri,nonaktif
+20212,2021,2024037,Matematika,Aktif
+20212,2021,2021075,Sistem Informasi,Aktif
+20212,2021,2021076,Sistem Informasi,Aktif
+20212,2021,2022032,Teknik Komputer,nonaktif
+20212,2021,2024038,Matematika,Aktif
+20212,2021,2011065,Teknik Industri,nonaktif
+20212,2021,2112001,Manajemen Rekayasa,Aktif
+20212,2021,2111001,Teknik Industri,Aktif
+20212,2021,2123001,Desain Komunikasi Visual,Aktif
+20212,2021,2121001,Sistem Informasi,Aktif
+20212,2021,2124001,Matematika,Aktif
+20212,2021,2123002,Desain Komunikasi Visual,Aktif
+20212,2021,2123003,Desain Komunikasi Visual,Aktif
+20212,2021,2121002,Sistem Informasi,Aktif
+20212,2021,2122001,Teknik Komputer,Aktif
+20212,2021,2121003,Sistem Informasi,Aktif
+20212,2021,2122002,Teknik Komputer,Aktif
+20212,2021,2123004,Desain Komunikasi Visual,Aktif
+20212,2021,2123005,Desain Komunikasi Visual,Aktif
+20212,2021,2121004,Sistem Informasi,Aktif
+20212,2021,2123006,Desain Komunikasi Visual,Aktif
+20212,2021,2123007,Desain Komunikasi Visual,Aktif
+20212,2021,2121005,Sistem Informasi,Aktif
+20212,2021,2111002,Teknik Industri,Aktif
+20212,2021,2111003,Teknik Industri,nonaktif
+20212,2021,2121006,Sistem Informasi,Aktif
+20212,2021,2111005,Teknik Industri,nonaktif
+20212,2021,2123009,Desain Komunikasi Visual,Aktif
+20212,2021,2112003,Manajemen Rekayasa,Aktif
+20212,2021,2122003,Teknik Komputer,Aktif
+20212,2021,2123010,Desain Komunikasi Visual,Aktif
+20212,2021,2123011,Desain Komunikasi Visual,Aktif
+20212,2021,2111006,Teknik Industri,Aktif
+20212,2021,2111007,Teknik Industri,nonaktif
+20212,2021,2123012,Desain Komunikasi Visual,Aktif
+20212,2021,2111008,Teknik Industri,nonaktif
+20212,2021,2111009,Teknik Industri,Aktif
+20212,2021,2123013,Desain Komunikasi Visual,Aktif
+20212,2021,2112004,Manajemen Rekayasa,Aktif
+20212,2021,2111010,Teknik Industri,Aktif
+20212,2021,2123014,Desain Komunikasi Visual,Aktif
+20212,2021,2122004,Teknik Komputer,Aktif
+20212,2021,2111011,Teknik Industri,Aktif
+20212,2021,2111012,Teknik Industri,Aktif
+20212,2021,2121007,Sistem Informasi,Aktif
+20212,2021,2123015,Desain Komunikasi Visual,Aktif
+20212,2021,2111013,Teknik Industri,nonaktif
+20212,2021,2121008,Sistem Informasi,Aktif
+20212,2021,2123016,Desain Komunikasi Visual,Aktif
+20212,2021,2111014,Teknik Industri,Aktif
+20212,2021,2123017,Desain Komunikasi Visual,Aktif
+20212,2021,2123018,Desain Komunikasi Visual,Aktif
+20212,2021,2121009,Sistem Informasi,Aktif
+20212,2021,2123019,Desain Komunikasi Visual,nonaktif
+20212,2021,2124003,Matematika,Aktif
+20212,2021,2112006,Manajemen Rekayasa,Aktif
+20212,2021,2122005,Teknik Komputer,Aktif
+20212,2021,2123020,Desain Komunikasi Visual,Aktif
+20212,2021,2123021,Desain Komunikasi Visual,Aktif
+20212,2021,2112007,Manajemen Rekayasa,Aktif
+20212,2021,2121010,Sistem Informasi,Aktif
+20212,2021,2123022,Desain Komunikasi Visual,Aktif
+20212,2021,2111015,Teknik Industri,Aktif
+20212,2021,2112008,Manajemen Rekayasa,Aktif
+20212,2021,2121011,Sistem Informasi,Aktif
+20212,2021,2124004,Matematika,Aktif
+20212,2021,2123023,Desain Komunikasi Visual,Aktif
+20212,2021,2122006,Teknik Komputer,Aktif
+20212,2021,2111016,Teknik Industri,nonaktif
+20212,2021,2121012,Sistem Informasi,nonaktif
+20212,2021,2123024,Desain Komunikasi Visual,Aktif
+20212,2021,2111017,Teknik Industri,Aktif
+20212,2021,2124005,Matematika,Aktif
+20212,2021,2112011,Manajemen Rekayasa,Aktif
+20212,2021,2121013,Sistem Informasi,nonaktif
+20212,2021,2111018,Teknik Industri,nonaktif
+20212,2021,2124006,Matematika,Aktif
+20212,2021,2123025,Desain Komunikasi Visual,Aktif
+20212,2021,2111019,Teknik Industri,Aktif
+20212,2021,2122007,Teknik Komputer,Aktif
+20212,2021,2123026,Desain Komunikasi Visual,Aktif
+20212,2021,2121014,Sistem Informasi,Aktif
+20212,2021,2112012,Manajemen Rekayasa,Aktif
+20212,2021,2123027,Desain Komunikasi Visual,Aktif
+20212,2021,2124007,Matematika,Aktif
+20212,2021,2121015,Sistem Informasi,Aktif
+20212,2021,2121016,Sistem Informasi,Aktif
+20212,2021,2121017,Sistem Informasi,Aktif
+20212,2021,2121018,Sistem Informasi,Aktif
+20212,2021,2121019,Sistem Informasi,Aktif
+20212,2021,2112013,Manajemen Rekayasa,Aktif
+20212,2021,2123028,Desain Komunikasi Visual,Aktif
+20212,2021,2121020,Sistem Informasi,Aktif
+20212,2021,2111020,Teknik Industri,Aktif
+20212,2021,2122008,Teknik Komputer,Aktif
+20212,2021,2111021,Teknik Industri,Aktif
+20212,2021,2111022,Teknik Industri,nonaktif
+20212,2021,2111023,Teknik Industri,Aktif
+20212,2021,2111024,Teknik Industri,Aktif
+20212,2021,2123029,Desain Komunikasi Visual,Aktif
+20212,2021,2123030,Desain Komunikasi Visual,Aktif
+20212,2021,2124008,Matematika,Aktif
+20212,2021,2111025,Teknik Industri,Aktif
+20212,2021,2121021,Sistem Informasi,Aktif
+20212,2021,2112014,Manajemen Rekayasa,Aktif
+20212,2021,2112015,Manajemen Rekayasa,Aktif
+20212,2021,2123031,Desain Komunikasi Visual,nonaktif
+20212,2021,2111027,Teknik Industri,Aktif
+20212,2021,2123032,Desain Komunikasi Visual,Aktif
+20212,2021,2122009,Teknik Komputer,Aktif
+20212,2021,2123033,Desain Komunikasi Visual,Aktif
+20212,2021,2121022,Sistem Informasi,Aktif
+20212,2021,2112016,Manajemen Rekayasa,Aktif
+20212,2021,2111028,Teknik Industri,Aktif
+20212,2021,2121023,Sistem Informasi,Aktif
+20212,2021,2111029,Teknik Industri,Aktif
+20212,2021,2123034,Desain Komunikasi Visual,Aktif
+20212,2021,2123035,Desain Komunikasi Visual,nonaktif
+20212,2021,2112017,Manajemen Rekayasa,Aktif
+20212,2021,2121024,Sistem Informasi,Aktif
+20212,2021,2111030,Teknik Industri,Aktif
+20212,2021,2112018,Manajemen Rekayasa,Aktif
+20212,2021,2122010,Teknik Komputer,nonaktif
+20212,2021,2121025,Sistem Informasi,Aktif
+20212,2021,2124009,Matematika,Aktif
+20212,2021,2124010,Matematika,Aktif
+20212,2021,2111031,Teknik Industri,Aktif
+20212,2021,2123036,Desain Komunikasi Visual,Aktif
+20212,2021,2123037,Desain Komunikasi Visual,Aktif
+20212,2021,2122011,Teknik Komputer,Aktif
+20212,2021,2111032,Teknik Industri,Aktif
+20212,2021,2123039,Desain Komunikasi Visual,nonaktif
+20212,2021,2111033,Teknik Industri,Aktif
+20212,2021,2123040,Desain Komunikasi Visual,Aktif
+20212,2021,2121026,Sistem Informasi,nonaktif
+20212,2021,2111034,Teknik Industri,Aktif
+20212,2021,2123041,Desain Komunikasi Visual,Aktif
+20212,2021,2111035,Teknik Industri,Aktif
+20212,2021,2123042,Desain Komunikasi Visual,Aktif
+20212,2021,2112019,Manajemen Rekayasa,Aktif
+20212,2021,2111036,Teknik Industri,Aktif
+20212,2021,2122012,Teknik Komputer,Aktif
+20212,2021,2124011,Matematika,Aktif
+20212,2021,2122013,Teknik Komputer,Aktif
+20212,2021,2123043,Desain Komunikasi Visual,Aktif
+20212,2021,2122014,Teknik Komputer,Aktif
+20212,2021,2121027,Sistem Informasi,Aktif
+20212,2021,2111038,Teknik Industri,Aktif
+20212,2021,2122015,Teknik Komputer,Aktif
+20212,2021,2122016,Teknik Komputer,Aktif
+20212,2021,2121028,Sistem Informasi,Aktif
+20212,2021,2111039,Teknik Industri,Aktif
+20212,2021,2122017,Teknik Komputer,Aktif
+20212,2021,2122018,Teknik Komputer,Aktif
+20212,2021,2112020,Manajemen Rekayasa,Aktif
+20212,2021,2111040,Teknik Industri,Aktif
+20212,2021,2121029,Sistem Informasi,nonaktif
+20212,2021,2112021,Manajemen Rekayasa,Aktif
+20212,2021,2123045,Desain Komunikasi Visual,Aktif
+20212,2021,2123046,Desain Komunikasi Visual,Aktif
+20212,2021,2111041,Teknik Industri,Aktif
+20212,2021,2124012,Matematika,Aktif
+20212,2021,2111042,Teknik Industri,Aktif
+20212,2021,2121030,Sistem Informasi,Aktif
+20212,2021,2124013,Matematika,Aktif
+20212,2021,2122019,Teknik Komputer,Aktif
+20212,2021,2111044,Teknik Industri,Aktif
+20212,2021,2121031,Sistem Informasi,Aktif
+20212,2021,2123047,Desain Komunikasi Visual,Aktif
+20212,2021,2112022,Manajemen Rekayasa,Aktif
+20212,2021,2121033,Sistem Informasi,Aktif
+20212,2021,2124014,Matematika,Aktif
+20212,2021,2124015,Matematika,Aktif
+20212,2021,2111045,Teknik Industri,Aktif
+20212,2021,2121034,Sistem Informasi,Aktif
+20212,2021,2111046,Teknik Industri,Aktif
+20212,2021,2121035,Sistem Informasi,Aktif
+20212,2021,2124016,Matematika,Aktif
+20212,2021,2111047,Teknik Industri,Aktif
+20212,2021,2123048,Desain Komunikasi Visual,Aktif
+20212,2021,2121036,Sistem Informasi,nonaktif
+20212,2021,2124017,Matematika,Aktif
+20212,2021,2123049,Desain Komunikasi Visual,Aktif
+20212,2021,2121037,Sistem Informasi,Aktif
+20212,2021,2123050,Desain Komunikasi Visual,nonaktif
+20212,2021,2123051,Desain Komunikasi Visual,Aktif
+20212,2021,2112023,Manajemen Rekayasa,Aktif
+20212,2021,2121038,Sistem Informasi,Aktif
+20212,2021,2121039,Sistem Informasi,Aktif
+20212,2021,2112024,Manajemen Rekayasa,Aktif
+20212,2021,2112025,Manajemen Rekayasa,Aktif
+20212,2021,2122020,Teknik Komputer,Aktif
+20212,2021,2111049,Teknik Industri,Aktif
+20212,2021,2112026,Manajemen Rekayasa,Aktif
+20212,2021,2112027,Manajemen Rekayasa,Aktif
+20212,2021,2111050,Teknik Industri,nonaktif
+20212,2021,2123052,Desain Komunikasi Visual,Aktif
+20212,2021,2121040,Sistem Informasi,Aktif
+20212,2021,2121041,Sistem Informasi,Aktif
+20212,2021,2111051,Teknik Industri,Aktif
+20212,2021,2123053,Desain Komunikasi Visual,Aktif
+20212,2021,2121042,Sistem Informasi,Aktif
+20212,2021,2124018,Matematika,Aktif
+20212,2021,2122021,Teknik Komputer,Aktif
+20212,2021,2123054,Desain Komunikasi Visual,Aktif
+20212,2021,2111053,Teknik Industri,Aktif
+20212,2021,2122022,Teknik Komputer,Aktif
+20212,2021,2123055,Desain Komunikasi Visual,Aktif
+20212,2021,2121043,Sistem Informasi,Aktif
+20212,2021,2111054,Teknik Industri,Aktif
+20212,2021,2111055,Teknik Industri,Aktif
+20212,2021,2121045,Sistem Informasi,Aktif
+20212,2021,2123056,Desain Komunikasi Visual,nonaktif
+20212,2021,2123057,Desain Komunikasi Visual,Aktif
+20212,2021,2111056,Teknik Industri,Aktif
+20212,2021,2123058,Desain Komunikasi Visual,Aktif
+20212,2021,2121046,Sistem Informasi,Aktif
+20212,2021,2123059,Desain Komunikasi Visual,Aktif
+20212,2021,2123060,Desain Komunikasi Visual,Aktif
+20212,2021,2122023,Teknik Komputer,Aktif
+20212,2021,2122024,Teknik Komputer,Aktif
+20212,2021,2112028,Manajemen Rekayasa,Aktif
+20212,2021,2112029,Manajemen Rekayasa,Aktif
+20212,2021,2123062,Desain Komunikasi Visual,Aktif
+20212,2021,2123063,Desain Komunikasi Visual,Aktif
+20212,2021,2111057,Teknik Industri,Aktif
+20212,2021,2123064,Desain Komunikasi Visual,Aktif
+20212,2021,2123065,Desain Komunikasi Visual,Aktif
+20212,2021,2123066,Desain Komunikasi Visual,Aktif
+20212,2021,2122026,Teknik Komputer,Aktif
+20212,2021,2111058,Teknik Industri,Aktif
+20212,2021,2123067,Desain Komunikasi Visual,nonaktif
+20212,2021,2111059,Teknik Industri,Aktif
+20212,2021,2112031,Manajemen Rekayasa,Aktif
+20212,2021,2111060,Teknik Industri,Aktif
+20212,2021,2124019,Matematika,Aktif
+20212,2021,2122027,Teknik Komputer,Aktif
+20212,2021,2123068,Desain Komunikasi Visual,Aktif
+20212,2021,2123069,Desain Komunikasi Visual,Aktif
+20212,2021,2121047,Sistem Informasi,Aktif
+20212,2021,2123070,Desain Komunikasi Visual,Aktif
+20212,2021,2121048,Sistem Informasi,nonaktif
+20212,2021,2111061,Teknik Industri,Aktif
+20212,2021,2111062,Teknik Industri,Aktif
+20212,2021,2122028,Teknik Komputer,nonaktif
+20212,2021,2121049,Sistem Informasi,nonaktif
+20212,2021,2123071,Desain Komunikasi Visual,Aktif
+20212,2021,2112032,Manajemen Rekayasa,Aktif
+20212,2021,2111063,Teknik Industri,nonaktif
+20212,2021,2121051,Sistem Informasi,Aktif
+20212,2021,2121052,Sistem Informasi,Aktif
+20212,2021,2121053,Sistem Informasi,Aktif
+20212,2021,2112033,Manajemen Rekayasa,Aktif
+20212,2021,2112034,Manajemen Rekayasa,Aktif
+20212,2021,2112035,Manajemen Rekayasa,nonaktif
+20212,2021,2121054,Sistem Informasi,Aktif
+20212,2021,2124020,Matematika,Aktif
+20212,2021,2111064,Teknik Industri,Aktif
+20212,2021,2121055,Sistem Informasi,Aktif
+20212,2021,2122029,Teknik Komputer,Aktif
+20212,2021,2111065,Teknik Industri,Aktif
+20212,2021,2111066,Teknik Industri,Aktif
+20212,2021,2124021,Matematika,Aktif
+20212,2021,2124022,Matematika,Aktif
+20212,2021,2122030,Teknik Komputer,Aktif
+20212,2021,2123072,Desain Komunikasi Visual,Aktif
+20212,2021,2112036,Manajemen Rekayasa,nonaktif
+20212,2021,2123073,Desain Komunikasi Visual,Aktif
+20212,2021,2112037,Manajemen Rekayasa,Aktif
+20212,2021,2111067,Teknik Industri,Aktif
+20212,2021,2121056,Sistem Informasi,Aktif
+20212,2021,2121057,Sistem Informasi,Aktif
+20212,2021,2121058,Sistem Informasi,Aktif
+20212,2021,2121059,Sistem Informasi,Aktif
+20212,2021,2122031,Teknik Komputer,Aktif
+20212,2021,2124023,Matematika,Aktif
+20212,2021,2111068,Teknik Industri,Aktif
+20212,2021,2122032,Teknik Komputer,nonaktif
+20212,2021,2122033,Teknik Komputer,Aktif
+20212,2021,2121060,Sistem Informasi,Aktif
+20212,2021,2121061,Sistem Informasi,Aktif
 20221,2022,1822006,Teknik Komputer,Aktif
 20221,2022,1823024,Desain Komunikasi Visual,nonaktif
 20221,2022,1811009,Teknik Industri,Aktif
